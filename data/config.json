@@ -6,110 +6,68 @@
     "api_key_env": "OPENAI_API_KEY",
     "temperature": 0.3,
     "max_tokens": 8192,
-    "languages": [
-      "zh",
-      "en"
-    ]
+    "languages": ["en"]
   },
   "sources": {
     "github": [
-      {
-        "type": "user_events",
-        "username": "karpathy",
-        "enabled": true
-      },
-      {
-        "type": "repo_releases",
-        "owner": "vllm-project",
-        "repo": "vllm",
-        "enabled": true
-      },
-      {
-        "type": "repo_releases",
-        "owner": "sgl-project",
-        "repo": "sglang",
-        "enabled": true
-      },
-      {
-        "type": "repo_releases",
-        "owner": "triton-lang",
-        "repo": "triton",
-        "enabled": true
-      }
+      { "type": "user_events", "username": "karpathy", "enabled": true },
+      { "type": "repo_releases", "owner": "ollama", "repo": "ollama", "enabled": true },
+      { "type": "repo_releases", "owner": "ggerganov", "repo": "llama.cpp", "enabled": true },
+      { "type": "repo_releases", "owner": "huggingface", "repo": "transformers", "enabled": true },
+      { "type": "repo_releases", "owner": "langchain-ai", "repo": "langchain", "enabled": true },
+      { "type": "repo_releases", "owner": "vllm-project", "repo": "vllm", "enabled": true }
     ],
     "hackernews": {
       "enabled": true,
-      "fetch_top_stories": 30,
-      "min_score": 150
+      "fetch_top_stories": 50,
+      "min_score": 50
     },
     "rss": [
-      {
-        "name": "Simon Willison",
-        "url": "https://simonwillison.net/atom/everything/",
-        "enabled": true,
-        "category": "ai-tools"
-      },
-      {
-        "name": "GitHub Trending - Daily",
-        "url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-        "enabled": true,
-        "category": "github-trending"
-      },
-      {
-        "name": "LWN.net",
-        "url": "https://lwn.net/headlines/full_text?key=${LWN_KEY}",
-        "enabled": true,
-        "category": "linux-kernel"
-      }
+      { "name": "Simon Willison", "url": "https://simonwillison.net/atom/everything/", "enabled": true },
+      { "name": "The Decoder", "url": "https://the-decoder.com/feed/", "enabled": true },
+      { "name": "Hugging Face Blog", "url": "https://huggingface.co/blog/feed.xml", "enabled": true },
+      { "name": "Google AI Blog", "url": "http://googleaiblog.blogspot.com/atom.xml", "enabled": true },
+      { "name": "DeepMind Blog", "url": "https://deepmind.com/blog/feed/basic/", "enabled": true },
+      { "name": "OpenAI Blog", "url": "https://openai.com/blog/rss/", "enabled": true },
+      { "name": "Anthropic Blog", "url": "https://www.anthropic.com/news/rss.xml", "enabled": true },
+      { "name": "MIT Tech Review", "url": "https://www.technologyreview.com/feed/", "enabled": true },
+      { "name": "VentureBeat AI", "url": "https://venturebeat.com/category/ai/feed/", "enabled": true },
+      { "name": "Interconnects", "url": "https://www.interconnects.ai/feed", "enabled": true },
+      { "name": "Latent Space", "url": "https://www.latent.space/feed", "enabled": true },
+      { "name": "The Rundown AI", "url": "https://rss.beehiiv.com/feeds/2R3C6Bt5wj.xml", "enabled": true },
+      { "name": "Ahead of AI", "url": "https://magazine.sebastianraschka.com/feed", "enabled": true },
+      { "name": "LangChain Blog", "url": "https://blog.langchain.dev/rss/", "enabled": true },
+      { "name": "NVIDIA Developer Blog", "url": "https://developer.nvidia.com/blog/feed", "enabled": true },
+      { "name": "SemiAnalysis", "url": "https://www.semianalysis.com/feed", "enabled": true },
+      { "name": "IEEE Spectrum AI", "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss", "enabled": true },
+      { "name": "The Gradient", "url": "https://thegradient.pub/rss/", "enabled": true },
+      { "name": "AI Snake Oil", "url": "https://aisnakeoil.substack.com/feed", "enabled": true },
+      { "name": "GitHub Trending", "url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml", "enabled": true },
+      { "name": "Reddit MachineLearning", "url": "https://www.reddit.com/r/MachineLearning/hot/.rss?limit=25", "enabled": true },
+      { "name": "Reddit LocalLLaMA", "url": "https://www.reddit.com/r/LocalLLaMA/hot/.rss?limit=25", "enabled": true },
+      { "name": "Reddit Artificial", "url": "https://www.reddit.com/r/artificial/hot/.rss?limit=25", "enabled": true },
+      { "name": "Reddit ChatGPT", "url": "https://www.reddit.com/r/ChatGPT/hot/.rss?limit=25", "enabled": true },
+      { "name": "Reddit OpenAI", "url": "https://www.reddit.com/r/OpenAI/hot/.rss?limit=25", "enabled": true },
+      { "name": "Reddit Singularity", "url": "https://www.reddit.com/r/singularity/hot/.rss?limit=25", "enabled": true },
+      { "name": "Takara AI Papers", "url": "https://papers.takara.ai/api/feed", "enabled": true },
+      { "name": "Reddit MLNews", "url": "https://www.reddit.com/r/machinelearningnews/hot/.rss?limit=25", "enabled": true }
     ],
     "reddit": {
-      "enabled": true,
-      "subreddits": [
-        {
-          "subreddit": "MachineLearning",
-          "enabled": true,
-          "sort": "hot",
-          "time_filter": "day",
-          "fetch_limit": 15,
-          "min_score": 60
-        },
-        {
-          "subreddit": "LocalLLaMA",
-          "enabled": true,
-          "sort": "hot",
-          "time_filter": "day",
-          "fetch_limit": 15,
-          "min_score": 60
-        }
-      ],
-      "users": [],
-      "fetch_comments": 10
+      "enabled": false
     },
     "telegram": {
       "enabled": true,
       "channels": [
-        {
-          "channel": "zaihuapd",
-          "enabled": true,
-          "fetch_limit": 20
-        }
+        { "channel": "gptupdates", "enabled": true, "fetch_limit": 20 },
+        { "channel": "zaihuapd", "enabled": false, "fetch_limit": 20 }
       ]
     },
     "twitter": {
-      "enabled": true,
-      "users": [
-        "karpathy",
-        "roifex"
-      ],
-      "fetch_limit": 10,
-      "fetch_reply_text": false,
-      "max_replies_per_tweet": 3,
-      "max_tweets_to_expand": 10,
-      "reply_min_likes": 5
+      "enabled": false
     }
   },
   "filtering": {
-    "ai_score_threshold": 8.0,
+    "ai_score_threshold": 7.0,
     "time_window_hours": 24
   },
   "webhook": {
@@ -120,30 +78,18 @@
     "platform": "feishu",
     "layout": "collapsible",
     "fallback_layout": "markdown",
-    "languages": [
-      "zh"
-    ],
+    "languages": ["zh"],
     "request_body": {
       "msg_type": "interactive",
       "card": {
         "schema": "2.0",
-        "config": {
-          "wide_screen_mode": true
-        },
+        "config": { "wide_screen_mode": true },
         "header": {
-          "title": {
-            "tag": "plain_text",
-            "content": "#{message_title}"
-          },
+          "title": { "tag": "plain_text", "content": "#{message_title}" },
           "template": "blue"
         },
         "body": {
-          "elements": [
-            {
-              "tag": "markdown",
-              "content": "#{summary}"
-            }
-          ]
+          "elements": [{ "tag": "markdown", "content": "#{summary}" }]
         }
       }
     },
