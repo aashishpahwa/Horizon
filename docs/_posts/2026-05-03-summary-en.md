@@ -1,4 +1,9 @@
-# Horizon Daily - 2026-05-03
+---
+layout: default
+title: "Horizon Summary: 2026-05-03 (EN)"
+date: 2026-05-03
+lang: en
+---
 
 > From 21 items, 5 important content pieces were selected
 
@@ -126,4 +131,3 @@ telegram · zaihuapd · May 3, 02:21
 **Tags**: `#AI`, `#Machine Learning`, `#Open Source`, `#Deep Learning`, `#Model Performance`
 
 ---
-
