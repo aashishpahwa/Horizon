@@ -5,6 +5,9 @@ on:
     - cron: '0 6 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate-and-notify:
     runs-on: ubuntu-latest
@@ -12,6 +15,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -29,19 +34,19 @@ jobs:
       - name: Run Horizon
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          HORIZON_WEBHOOK_URL: ${{ secrets.N8N_WEBHOOK_URL }}
         run: uv run horizon --hours 24
 
       - name: Find latest summary file
         id: find_summary
         run: |
-          LATEST=$(ls -t data/summaries/*.md 2>/dev/null | head -1)
+          LATEST=$(ls -t data/summaries/*-en.md 2>/dev/null | head -1)
           echo "summary_file=$LATEST" >> $GITHUB_OUTPUT
           echo "Found: $LATEST"
 
       - name: Notify n8n webhook
         if: steps.find_summary.outputs.summary_file != ''
         run: |
-          sudo apt-get install -y jq
           SUMMARY=$(cat "${{ steps.find_summary.outputs.summary_file }}")
           DATE=$(date +%Y-%m-%d)
           curl -X POST "${{ secrets.N8N_WEBHOOK_URL }}" \
@@ -56,6 +61,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/summaries/
+          git add data/summaries/ docs/
           git diff --staged --quiet || git commit -m "Daily AI news summary $(date +%Y-%m-%d)"
           git push
