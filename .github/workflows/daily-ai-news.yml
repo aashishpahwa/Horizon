@@ -1,3 +1,4 @@
+# Daily AI news pipeline for aashishpahwa/Horizon
 name: Daily AI News + n8n Notify
 
 on:
