@@ -3,7 +3,7 @@ name: Daily AI News + n8n Notify
 
 on:
   schedule:
-    - cron: '32 4 * * *'
+    - cron: '0 4 * * *'
   workflow_dispatch:
 
 permissions:
