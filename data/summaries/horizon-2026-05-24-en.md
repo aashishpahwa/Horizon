@@ -1,108 +1,111 @@
 # Horizon Daily - 2026-05-24
 
-> From 156 items, 42 important content pieces were selected
+> From 159 items, 46 important content pieces were selected
 
 ---
 
 1. [Anthropic warns Claude Mythos Preview finds bugs faster than developers can patch them](#item-1) ⭐️ 9.0/10
-2. [New Brain Implant Restores Vision by Direct Brain Communication](#item-2) ⭐️ 9.0/10
+2. [New Brain Implants Restore Vision by Direct Brain Communication](#item-2) ⭐️ 9.0/10
 3. [OpenAI Transforms Codex into Remote AI Operator for Macs](#item-3) ⭐️ 9.0/10
-4. [80386 Microcode Disassembled](#item-4) ⭐️ 8.0/10
-5. [Deep Learning Performance Metrics and Hardware Landscape](#item-5) ⭐️ 8.0/10
-6. [z386: An Open-Source 80386 Built Around Original Microcode](#item-6) ⭐️ 8.0/10
-7. [Alibaba's AI Model Optimizes Code for Custom Chip](#item-7) ⭐️ 8.0/10
-8. [AgentLantern: Exposing the Hidden Graph of AI Agent Projects](#item-8) ⭐️ 8.0/10
-9. [Introduction of SM1: A New Mamba1 Variant for PyTorch](#item-9) ⭐️ 8.0/10
-10. [LongCat-Video-Avatar 1.5 Released by Hugging Face](#item-10) ⭐️ 8.0/10
-11. [Needle 26M Outperforms Qwen3-0.6B in Function Calling Benchmark](#item-11) ⭐️ 8.0/10
-12. [LLM Guard Scored 0/8 on USENIX 2025 Multi-Turn Jailbreak](#item-12) ⭐️ 8.0/10
-13. [Expert Warns of AI-Induced Human Extinction Risks](#item-13) ⭐️ 8.0/10
-14. [Anthropic's Mythos Identifies Over 10,000 Vulnerabilities](#item-14) ⭐️ 8.0/10
-15. [Generative AI Kling Used in TV Shows and Movies](#item-15) ⭐️ 8.0/10
-16. [Perplexity Open-Sources Bumblebee: A Read-Only Supply-Chain Scanner](#item-16) ⭐️ 8.0/10
-17. [Jack Clark Predicts AI Will Make Nobel Discoveries in a Year](#item-17) ⭐️ 8.0/10
-18. [Introduction of Linear-Time Looped Transformers (LT2)](#item-18) ⭐️ 8.0/10
-19. [Anthropic Nears $30 Billion Funding Round Closure](#item-19) ⭐️ 8.0/10
-20. [Don't Roll Your Own](#item-20) ⭐️ 7.0/10
-21. [Challenges of Using LLMs in Software Engineering](#item-21) ⭐️ 7.0/10
-22. [Italy moves to Airbus A330 tankers](#item-22) ⭐️ 7.0/10
-23. [Rubish: A Unix Shell Written in Pure Ruby](#item-23) ⭐️ 7.0/10
-24. [Spanish court declines to fine NordVPN over LaLiga piracy blocking order](#item-24) ⭐️ 7.0/10
-25. [Oura Acknowledges Government Data Requests](#item-25) ⭐️ 7.0/10
-26. [Electrobun 2.0 Decoupled from Bun Due to Rust Rewrite](#item-26) ⭐️ 7.0/10
-27. [FBI Seeks Near Real-Time Access to License Plate Readers](#item-27) ⭐️ 7.0/10
-28. [Google CEO Pichai Redefines Links as Part of Search](#item-28) ⭐️ 7.0/10
-29. [Radar Can Tell the Difference Between Insect Species](#item-29) ⭐️ 7.0/10
-30. [Per-pixel Bounding-box Regression and DBSCAN for Handwritten Word Detection](#item-30) ⭐️ 7.0/10
-31. [Fine-Tuning LLM to Embody C-3PO for Persona Injection](#item-31) ⭐️ 7.0/10
-32. [Hebbian Architecture AI Model](#item-32) ⭐️ 7.0/10
-33. [Dynamic Personal Database for AI Memory](#item-33) ⭐️ 7.0/10
-34. [Command A+ (218B MoE) Running on Apple Silicon](#item-34) ⭐️ 7.0/10
-35. [Palantir Granted Unlimited Access to NHS England Patient Data](#item-35) ⭐️ 7.0/10
-36. [Challenges of Durable Memory in Multi-Agent AI Systems](#item-36) ⭐️ 7.0/10
-37. [Critique of Blindly Renting GPUs for AI Training](#item-37) ⭐️ 7.0/10
-38. [Anthropic’s Code with Claude Showcases AI in Coding](#item-38) ⭐️ 7.0/10
-39. [Framework Choice Less Critical for AI Agents in Production](#item-39) ⭐️ 7.0/10
-40. [Insights from Testing 200 Prompts on Gemini and Kimi](#item-40) ⭐️ 7.0/10
-41. [AI Used to Fake Evidence That Ended Korean Actor's Career](#item-41) ⭐️ 7.0/10
-42. [AI is Accelerating Drug Development](#item-42) ⭐️ 7.0/10
+4. [Microsoft open-sources earliest discovered DOS source code](#item-4) ⭐️ 8.0/10
+5. [Private Message Could Transform 3D Printing Landscape](#item-5) ⭐️ 8.0/10
+6. [Exploring Foundational Principles of Deep Learning](#item-6) ⭐️ 8.0/10
+7. [Alibaba's AI Model Optimizes Code for Custom Chip for 35 Hours](#item-7) ⭐️ 8.0/10
+8. [Vision-capable LLMs vs. OCR for Long-Document QA](#item-8) ⭐️ 8.0/10
+9. [Palantir Granted Unlimited Access to NHS Patient Data](#item-9) ⭐️ 8.0/10
+10. [AI Agents Can Execute Unauthorized Commands: Here's the Solution](#item-10) ⭐️ 8.0/10
+11. [LLM Guard Failed to Detect Multi-Turn Jailbreak Attack](#item-11) ⭐️ 8.0/10
+12. [Anthropic's Code with Claude Revolutionizes Coding](#item-12) ⭐️ 8.0/10
+13. [Expert Warns of AI Risks to Humanity](#item-13) ⭐️ 8.0/10
+14. [Generative AI (Kling) Used in Hollywood Productions](#item-14) ⭐️ 8.0/10
+15. [Anthropic's Mythos Identifies Over 10,000 Vulnerabilities](#item-15) ⭐️ 8.0/10
+16. [Apple’s Open-Source 3D AI Generation Is Here: LiTo](#item-16) ⭐️ 8.0/10
+17. [Perplexity Open-Sources Bumblebee: A Read-Only Supply-Chain Scanner](#item-17) ⭐️ 8.0/10
+18. [Jack Clark Predicts AI Will Enable Nobel-Level Discoveries in a Year](#item-18) ⭐️ 8.0/10
+19. [Introduction of Linear-Time Looped Transformers (LT2)](#item-19) ⭐️ 8.0/10
+20. [Anthropic's Funding Round May Exceed $30 Billion](#item-20) ⭐️ 8.0/10
+21. [Amazon Web Services – Four Years and Out](#item-21) ⭐️ 7.0/10
+22. [Vivado 2026.1 Drops Linux Support for Free Tier](#item-22) ⭐️ 7.0/10
+23. [Air France and Airbus Found Guilty of Manslaughter](#item-23) ⭐️ 7.0/10
+24. [Reverse engineering circuitry in a Spacelab computer from 1980](#item-24) ⭐️ 7.0/10
+25. [80386 Microcode Disassembled](#item-25) ⭐️ 7.0/10
+26. [Balancing Speed and Rigor in Software Development](#item-26) ⭐️ 7.0/10
+27. [ICE Awards $25M Iris-Scanning Contract to Bi2 Technologies](#item-27) ⭐️ 7.0/10
+28. [Italy moves to Airbus A330 tankers](#item-28) ⭐️ 7.0/10
+29. [Oura acknowledges government requests for user data](#item-29) ⭐️ 7.0/10
+30. [Google CEO Pichai Redefines Links as Part of Search](#item-30) ⭐️ 7.0/10
+31. [Radar Can Tell the Difference Between Insect Species](#item-31) ⭐️ 7.0/10
+32. [Benchmarking Vision-capable LLMs vs. OCR for Long Documents](#item-32) ⭐️ 7.0/10
+33. [Per-pixel Bounding-box Regression + DBSCAN for Handwritten Word Detection](#item-33) ⭐️ 7.0/10
+34. [Fine-tuning an LLM to Embody C-3PO](#item-34) ⭐️ 7.0/10
+35. [Hebbian Architecture AI Model Shows Emergent Behaviors](#item-35) ⭐️ 7.0/10
+36. [Exploring Personalized AI Memory for Enhanced User Interaction](#item-36) ⭐️ 7.0/10
+37. [Command A+ (218B MoE) running on Apple Silicon — MLX port, PR open](#item-37) ⭐️ 7.0/10
+38. [Performance When Offloading Large Models to System RAM](#item-38) ⭐️ 7.0/10
+39. [The Real Reason Most AI Agents Fail](#item-39) ⭐️ 7.0/10
+40. [Durable Memory in Multi-Agent AI Setups](#item-40) ⭐️ 7.0/10
+41. [Critique of Blindly Renting GPUs for AI Training](#item-41) ⭐️ 7.0/10
+42. [Framework Choice Less Important Than Operational Issues in AI Agents](#item-42) ⭐️ 7.0/10
+43. [Testing Insights on Gemini and Kimi AI Models](#item-43) ⭐️ 7.0/10
+44. [DeepSeek Challenges AI Pricing Norms](#item-44) ⭐️ 7.0/10
+45. [Deception in the Name of Science](#item-45) ⭐️ 7.0/10
+46. [768GB Intel Optane DIMM Used for 1-Trillion-Parameter LLM](#item-46) ⭐️ 7.0/10
 
 ---
 
 <a id="item-1"></a>
 ## [Anthropic warns Claude Mythos Preview finds bugs faster than developers can patch them](https://the-decoder.com/anthropic-warns-claude-mythos-preview-finds-bugs-faster-than-developers-can-patch-them/) ⭐️ 9.0/10
 
-Anthropic's Claude Mythos Preview has identified over 10,000 critical vulnerabilities in software, surpassing developers' ability to patch them. This alarming rate of discovery raises significant concerns about software security. This situation is significant as it highlights the vulnerabilities in software security and the challenges developers face in keeping systems secure. The implications could affect organizations across various industries that rely on software systems. The vulnerabilities were discovered as part of Project Glasswing, which involves collaboration with about 50 partners. Anthropic cautions that no company has yet established sufficient safeguards to prevent misuse of these AI models.
+Anthropic's Claude Mythos Preview has identified over 10,000 critical vulnerabilities in software, significantly outpacing developers' ability to patch them. This alarming trend highlights the challenges faced during the transition to AI-driven solutions. This situation is significant as it raises concerns about software security and the potential risks associated with AI models identifying vulnerabilities faster than they can be addressed. It impacts not only developers but also companies relying on secure software systems. Claude Mythos Preview is part of Project Glasswing, which involves collaboration with around 50 partners to enhance software security. The model's ability to find vulnerabilities at such a rapid pace indicates a critical need for improved security measures.
 
 rss · The Decoder · May 23, 07:42
 
-**Background**: Claude Mythos is an advanced AI model developed by Anthropic specifically designed to identify software vulnerabilities. Project Glasswing is an initiative aimed at securing critical software infrastructure using AI, launched in April 2026.
+**Background**: Claude Mythos Preview is a large language model developed by Anthropic specifically for identifying software vulnerabilities. Launched in April 2026, it represents a significant advancement in AI-driven vulnerability detection, which is increasingly relevant in today's cybersecurity landscape.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Project_Glasswing">Project Glasswing</a></li>
-<li><a href="https://grokipedia.com/page/Project_Glasswing">Project Glasswing</a></li>
+<li><a href="https://grokipedia.com/page/Claude_Mythos_Preview">Claude Mythos Preview</a></li>
 
 </ul>
 </details>
 
-**Discussion**: There has been a mix of concern and curiosity in the community regarding the implications of these findings. Many developers are discussing the need for improved security measures and the potential for AI to assist in vulnerability management.
-
-**Tags**: `#AI`, `#Software Security`, `#Vulnerabilities`, `#Anthropic`, `#Claude Mythos`
+**Tags**: `#AI`, `#Software Security`, `#Vulnerability Detection`, `#Anthropic`, `#Claude Mythos`
 
 ---
 
 <a id="item-2"></a>
-## [New Brain Implant Restores Vision by Direct Brain Communication](https://www.reddit.com/r/singularity/comments/1tld41g/a_new_brain_implant_helps_restore_vision_by/) ⭐️ 9.0/10
+## [New Brain Implants Restore Vision by Direct Brain Communication](https://www.reddit.com/r/singularity/comments/1tld41g/a_new_brain_implant_helps_restore_vision_by/) ⭐️ 9.0/10
 
-Scientists have developed two brain implants that restore partial vision in blind individuals by connecting cameras directly to the visual cortex. One of the devices also reads brain signals and adjusts itself in real time. This breakthrough in neuroscience could significantly improve the quality of life for blind individuals by providing them with partial vision. It represents a major advancement in vision restoration technology and could influence future neuroprosthetic developments. The implants create a direct interface with the visual cortex, allowing for real-time adjustments based on neural feedback. This two-way communication enhances the effectiveness of the visual restoration process.
+Scientists have developed two brain implants that provide partial vision to blind individuals by directly connecting cameras to the visual cortex. One of these devices is capable of reading brain signals and adjusting itself in real time. This development is significant as it represents a major advancement in neurotechnology, potentially transforming the field of vision restoration and benefiting individuals with visual impairments. It also highlights the growing intersection of medical science and technology. The implants work by directly interfacing with the brain's visual cortex, allowing for real-time adjustments based on neural feedback. This capability could enhance the effectiveness of vision restoration techniques.
 
 rss · Reddit Singularity · May 23, 10:46
 
-**Background**: Neuroprosthetics are devices that interface with the nervous system to restore lost functions, such as vision. The visual cortex is the part of the brain responsible for processing visual information, and advancements in this area could lead to significant improvements in how visual impairments are treated.
+**Background**: Brain-computer interfaces (BCIs) are technologies that enable direct communication between the brain and external devices. They have been researched for various applications, including assisting those with disabilities and enhancing sensory experiences. The visual cortex is the part of the brain responsible for processing visual information.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://neurosciencenews.com/ai-neuroprosthetics-vision-29904/">AI-Driven Brain Implant Brings "Two-Way" Artificial Vision Closer to ...</a></li>
-<li><a href="https://interestingengineering.com/health/icvp-brain-implant-third-blind-patient-vision-prosthesis">New wireless visual cortex implant helps restore artificial sight</a></li>
+<li><a href="https://grokipedia.com/page/History_of_brain-computer_interface_technology_in_China">History of brain-computer interface technology in China</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Neurostimulation">Neurostimulation - Wikipedia</a></li>
+<li><a href="https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/fncel.2022.1034270/full">Frontiers | Toward a personalized closed-loop stimulation of the...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community has shown a high level of engagement, expressing excitement about the potential of these implants. Some users raised concerns about the long-term implications and ethical considerations of brain implants.
+**Discussion**: The community discussion reflects a high level of interest, with many expressing excitement about the potential of these implants. Some users raised questions about the long-term effects and ethical implications of such technology.
 
-**Tags**: `#neuroscience`, `#vision restoration`, `#brain implants`, `#technology`, `#AI`
+**Tags**: `#neurotechnology`, `#brain-computer interface`, `#vision restoration`, `#medical innovation`, `#AI`
 
 ---
 
 <a id="item-3"></a>
 ## [OpenAI Transforms Codex into Remote AI Operator for Macs](https://t.me/gptupdates/30631) ⭐️ 9.0/10
 
-OpenAI has introduced a new Computer Use plugin that allows Codex to operate as a remote AI operator for Macs. This enables Codex to perform tasks independently, even when the Mac is locked and the display is asleep. This development significantly enhances the usability and independence of AI systems, potentially transforming productivity and automation workflows. It raises important discussions around security and ethical considerations in remote AI operations. The Computer Use plugin allows Codex to wake and unlock the Mac temporarily to complete tasks, ensuring that the session shuts down if any input is detected. This represents a major shift from previous AI assistants that required constant supervision.
+OpenAI has introduced a new Computer Use plugin that allows Codex to perform tasks on Macs remotely, even when the computer is locked. This feature enables Codex to wake the system, complete tasks, and lock it again automatically. This development significantly enhances AI capabilities, allowing for greater automation and productivity for Mac users. It could change how individuals interact with their devices and AI assistants, making them more efficient. The Computer Use plugin requires macOS Screen Recording and Accessibility permissions to function properly. Additionally, if any input is detected during a session, Codex will immediately shut down for security reasons.
 
 telegram · gptupdates · May 23, 19:48
 
-**Background**: Codex is an AI model developed by OpenAI that can understand and generate code. The introduction of the Computer Use plugin allows for background task automation on Macs, enabling users to send commands remotely. This feature is particularly useful for enhancing productivity in various workflows.
+**Background**: Codex is an AI model developed by OpenAI that can understand and generate code. Traditionally, AI assistants required an active session to perform tasks, limiting their usability when devices were locked or inactive.
 
 <details><summary>References</summary>
 <ul>
@@ -111,368 +114,394 @@ telegram · gptupdates · May 23, 19:48
 </ul>
 </details>
 
-**Discussion**: Community discussions have highlighted excitement about the potential of Codex as a remote operator, but also raised concerns regarding security implications and the ethical use of such technology. Users are eager to explore its capabilities while being cautious about privacy.
+**Discussion**: Community sentiment appears to be enthusiastic about this new feature, with many users expressing excitement over the potential for increased productivity. However, some concerns about security and privacy have also been raised.
 
 **Tags**: `#AI`, `#OpenAI`, `#Codex`, `#Automation`, `#Productivity`
 
 ---
 
 <a id="item-4"></a>
-## [80386 Microcode Disassembled](https://www.reenigne.org/blog/80386-microcode-disassembled/) ⭐️ 8.0/10
+## [Microsoft open-sources earliest discovered DOS source code](https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/) ⭐️ 8.0/10
 
-A detailed disassembly of the 80386 microcode has been published, showcasing advanced reverse engineering techniques. This work has generated significant interest and discussion within the tech community. This disassembly represents a significant achievement in reverse engineering, potentially influencing future microprocessor studies and designs. It highlights the historical importance of the 80386 processor in computer architecture. The disassembly process reveals intricate details about the microcode implementation, which governs how the processor executes instructions. Understanding this microcode can provide insights into the design and functionality of early microprocessors.
+Microsoft has open-sourced the earliest discovered DOS source code, specifically 86-DOS 1.00, on its 45th anniversary. This release highlights the historical significance of this software in the evolution of operating systems. This development is significant as it preserves a crucial piece of computing history and allows developers and historians to explore the origins of DOS. The open-sourcing aligns with broader trends in software preservation and open-source initiatives. The source code was transcribed from paper printouts, as it had not been stored digitally, and the process involved a dedicated team of historians. This highlights the challenges faced in preserving early software.
 
-hackernews · nand2mario · May 23, 12:11
+hackernews · DamnInteresting · May 24, 01:21
 
-**Background**: Microcode is a layer of low-level instructions that control the internal operations of a CPU. The 80386, released in 1985, was a significant advancement in microprocessor technology, introducing features like 32-bit architecture and enhanced multitasking capabilities.
+**Background**: 86-DOS, also known as QDOS (Quick and Dirty Operating System), was developed by Tim Paterson and became the foundation for MS-DOS. Microsoft acquired 86-DOS in 1981, which later became a dominant operating system for personal computers throughout the 1980s and early 1990s.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Microcode">Microcode - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Reverse_engineering">Reverse engineering - Wikipedia</a></li>
-<li><a href="https://www.reenigne.org/blog/8086-microcode-disassembled/">8086 microcode disassembled « Reenigne blog</a></li>
+<li><a href="https://opensource.microsoft.com/blog/2026/04/28/continuing-the-story-of-early-dos-development/">Continuing the story of early DOS development | Microsoft ...</a></li>
+<li><a href="https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/">Microsoft open-sources "the earliest DOS source code ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community members expressed curiosity about extracting microcode from high-resolution images of the 80386 die and discussed related projects. There is a general appreciation for the complexity and significance of the reverse engineering work.
+**Discussion**: Community comments reflect a mix of appreciation for Microsoft's efforts and insights into the historical context of DOS. Some users noted the significance of BASIC in Microsoft's early history, while others expressed nostalgia for the early days of computing.
 
-**Tags**: `#microcode`, `#reverse engineering`, `#80386`, `#computer architecture`, `#hardware`
+**Tags**: `#Microsoft`, `#Open Source`, `#DOS`, `#Software History`, `#Preservation`
 
 ---
 
 <a id="item-5"></a>
-## [Deep Learning Performance Metrics and Hardware Landscape](https://horace.io/brrr_intro.html) ⭐️ 8.0/10
+## [Private Message Could Transform 3D Printing Landscape](https://www.theverge.com/tech/931532/bambu-agpl-pawel-jarczak-open-source-threat-dmca-github) ⭐️ 8.0/10
 
-The article delves into deep learning performance metrics and the competitive landscape of hardware providers, particularly focusing on NVIDIA's advancements. It emphasizes the complexities of model performance across various environments. This analysis is significant as it highlights the ongoing competition in the AI hardware market, particularly from NVIDIA, which continues to innovate and lead. Understanding these dynamics is crucial for developers and businesses relying on deep learning technologies. The article discusses various performance metrics and the exponential growth of hardware capabilities, specifically mentioning TFLOPs and bandwidth. It also notes the challenges in achieving consistent model performance across different platforms and configurations.
+A private message regarding Bambu Lab's legal claims has sparked significant controversy in the 3D printing community. This situation has led to increased funding and support for developers opposing Bambu's actions. This controversy highlights the ongoing tensions between proprietary technology and open-source software in the 3D printing industry. The outcome could influence how companies approach legal claims against developers modifying their software. Bambu Lab has threatened legal action against a developer who modified its open-source software, which has raised questions about the legitimacy of such claims. The developer's response and community support could set a precedent for future interactions between companies and open-source contributors.
 
-hackernews · tosh · May 23, 11:50
+hackernews · tambourine_man · May 24, 04:22
 
-**Background**: Deep learning relies heavily on hardware performance, with companies like NVIDIA dominating the market by providing powerful GPUs and optimized software frameworks. Performance metrics are essential for evaluating model effectiveness and guiding improvements in machine learning applications.
+**Background**: Bambu Lab is known for its advanced 3D printing technology, which has gained popularity among enthusiasts and professionals alike. The open-source movement in 3D printing allows developers to modify and improve software, fostering innovation but also leading to potential legal conflicts with companies protecting their intellectual property.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Nvidia">Nvidia - Wikipedia</a></li>
-<li><a href="https://www.analyticsvidhya.com/blog/2019/08/11-important-model-evaluation-error-metrics/">12 Important Model Evaluation Metrics for Machine Learning Everyone Should Know (Updated 2026)</a></li>
-<li><a href="https://medium.com/@abhishekjainindore24/a-comprehensive-guide-to-performance-metrics-in-machine-learning-4ae5bd8208ce">A Comprehensive Guide to Performance Metrics in Machine Learning | by Abhishek Jain | Medium</a></li>
+<li><a href="https://www.theverge.com/tech/931532/bambu-agpl-pawel-jarczak-open-source-threat-dmca-github">‘Fuck you, Bambu ’: How one private message could... | The Verge</a></li>
+<li><a href="https://bambulab.com/">Bambu Lab | Unleash Your Creativity with Bambu Lab 3 D Printers</a></li>
+<li><a href="https://3dprint.com/312182/stratasys-vs-bambu-lab-a-3d-printing-patent-dispute-with-far-reaching-implications/">Stratasys vs. Bambu Lab: A 3 D Printing Patent Dispute with...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community comments reflect a mix of admiration for NVIDIA's sustained leadership and concerns about the complexities of model performance across different environments. Some users emphasize the need for more insights on failure modes in production systems.
+**Discussion**: Community comments reflect a mix of support for the developer and concerns about Bambu's legal tactics. Some users express their decision to avoid Bambu products due to the ongoing controversy, while others discuss alternative printer options.
 
-**Tags**: `#Deep Learning`, `#Machine Learning`, `#NVIDIA`, `#Performance Optimization`, `#AI Systems`
+**Tags**: `#3D Printing`, `#Open Source`, `#Legal Issues`, `#Community Discussion`, `#Technology`
 
 ---
 
 <a id="item-6"></a>
-## [z386: An Open-Source 80386 Built Around Original Microcode](https://nand2mario.github.io/posts/2026/z386/) ⭐️ 8.0/10
+## [Exploring Foundational Principles of Deep Learning](https://horace.io/brrr_intro.html) ⭐️ 8.0/10
 
-The z386 project has launched an open-source implementation of the 80386 architecture, utilizing its original microcode. This project aims to engage retro computing and FPGA enthusiasts by providing a new platform for exploration and development. This development is significant as it revitalizes interest in retro computing and FPGA applications, potentially inspiring new projects and innovations in this niche. It also provides a platform for enthusiasts to experiment with and learn from classic computing architectures. The z386 implementation reportedly requires only 18K LUTs, making it feasible for smaller FPGAs. This efficiency allows more users to engage with the project without needing high-end hardware.
+The article discusses the foundational principles of deep learning and examines the performance implications of various hardware architectures. It highlights how these principles influence the efficiency and effectiveness of deep learning systems. Understanding these foundational principles is crucial for optimizing deep learning performance and can significantly impact industries relying on AI technologies. This knowledge is particularly relevant as hardware capabilities continue to evolve rapidly. The article emphasizes the exponential growth of NVIDIA's hardware capabilities, including TFLOPs and bandwidth, which are critical for deep learning performance. It also discusses the complexities of model performance across different hardware configurations.
 
-hackernews · wicket · May 23, 14:25
+hackernews · tosh · May 23, 11:50
 
-**Background**: The 80386 microprocessor, introduced by Intel in 1985, was a significant advancement in computing, featuring a 32-bit architecture and support for multitasking. Open-source projects like z386 allow enthusiasts to recreate and explore these historical technologies, often using modern FPGA hardware to simulate the original systems.
+**Background**: Deep learning is a subset of machine learning that uses neural networks with many layers to analyze various forms of data. The performance of deep learning models is heavily influenced by the underlying hardware architecture, which can optimize computation and memory usage.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://nand2mario.github.io/posts/2026/z386/">z386: An Open - Source 80386 Built Around Original Microcode - Small...</a></li>
-<li><a href="https://brainbaking.com/post/2023/11/fpgas-and-the-renaissance-of-retro-hardware/">FPGAs And The Renaissance Of Retro Hardware - Brain Baking</a></li>
+<li><a href="https://digital-library.theiet.org/doi/book/10.1049/pbcs055e">Hardware Architectures for Deep Learning | IET Digital Library</a></li>
+<li><a href="https://www.geeksforgeeks.org/deep-learning/introduction-deep-learning/">Introduction to Deep Learning - GeeksforGeeks</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community discussions reveal a strong interest in the project, with users sharing insights about testing it with classic software like Doom and discussing the feasibility of running Linux on it. There are also inquiries about the practical applications of such retro systems today.
+**Discussion**: Community members expressed enthusiasm for the article, highlighting NVIDIA's sustained leadership in hardware performance. Some raised concerns about the complexities of model performance across different frameworks and hardware setups.
 
-**Tags**: `#Open Source`, `#80386`, `#FPGA`, `#Retro Computing`, `#Microcode`
+**Tags**: `#Deep Learning`, `#Machine Learning`, `#NVIDIA`, `#Performance Optimization`, `#AI`
 
 ---
 
 <a id="item-7"></a>
-## [Alibaba's AI Model Optimizes Code for Custom Chip](https://the-decoder.com/alibabas-latest-ai-model-ran-autonomously-for-35-hours-to-optimize-code-for-its-own-custom-chip/) ⭐️ 8.0/10
+## [Alibaba's AI Model Optimizes Code for Custom Chip for 35 Hours](https://the-decoder.com/alibabas-latest-ai-model-ran-autonomously-for-35-hours-to-optimize-code-for-its-own-custom-chip/) ⭐️ 8.0/10
 
-Alibaba's Qwen3.7-Max AI model autonomously ran for 35 hours to optimize code for its custom chip, outperforming competitors like DeepSeek V4 Pro and Kimi K2.6 in benchmarks. This model is designed for long-running autonomous agent tasks. This advancement in autonomous AI capabilities could significantly influence the development of future AI models and applications, particularly in the realm of hardware optimization. Companies focusing on custom chip design will likely benefit from these innovations. The Qwen3.7-Max model matches Claude Opus 4.6 on benchmarks and is particularly strong in coding and productivity tasks. It supports long-horizon autonomous execution, making it suitable for complex, multi-step tasks.
+Alibaba's Qwen3.7-Max AI model successfully ran autonomously for 35 hours to optimize code for its custom chip. This showcases the model's advanced capabilities in handling long-running tasks effectively. This development is significant as it highlights advancements in autonomous AI capabilities, particularly in optimizing hardware integration. It could impact the efficiency of AI applications and custom chip development across the industry. The Qwen3.7-Max model matches Claude Opus 4.6 on benchmarks and outperforms competitors like DeepSeek V4 Pro. It is designed for agent-centric workloads, particularly in coding and productivity tasks.
 
 rss · The Decoder · May 23, 10:17
 
-**Background**: Qwen is a family of large language models developed by Alibaba Cloud, designed for various applications including coding and productivity tasks. Autonomous agents in AI are capable of executing tasks independently, continuously learning and adapting without human intervention.
+**Background**: Qwen is a family of large language models developed by Alibaba Cloud, with various models designed for different tasks. The Qwen3.7-Max model is particularly focused on long-running autonomous agent tasks, showcasing its ability to optimize code and perform complex operations autonomously.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://openrouter.ai/qwen/qwen3.7-max">Qwen 3 . 7 Max - API Pricing & Benchmarks | OpenRouter</a></li>
-<li><a href="https://artificialanalysis.ai/models/qwen3-7-max">Qwen 3 . 7 Max - Intelligence, Performance & Price Analysis</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Qwen">Qwen - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#Machine Learning`, `#Autonomous Systems`, `#Code Optimization`, `#Alibaba`
+**Tags**: `#AI`, `#Autonomous Systems`, `#Machine Learning`, `#Hardware Optimization`, `#Alibaba`
 
 ---
 
 <a id="item-8"></a>
-## [AgentLantern: Exposing the Hidden Graph of AI Agent Projects](https://www.reddit.com/r/MachineLearning/comments/1tlmw03/agentlantern_exposing_the_hidden_graph_of_ai/) ⭐️ 8.0/10
+## [Vision-capable LLMs vs. OCR for Long-Document QA](https://www.reddit.com/r/artificial/comments/1tlzy43/visioncapable_llms_vs_ocr_for_longdocument/) ⭐️ 8.0/10
 
-AgentLantern is an open-source development tool that enhances the inspectability and debugging of AI agent projects by exposing their execution graph. It currently supports CrewAI and includes features like Lantern Docs, Lantern Lint, and Lantern Play. This tool is significant as it addresses a major challenge in managing AI agent projects, particularly in understanding complex workflows and debugging issues. Its introduction could improve transparency in AI development, benefiting developers and researchers in the field. AgentLantern features include generating browsable documentation from source code, static checks for design issues, and a pixel-art runtime viewer for observing agent interactions. The project aims to extend support to more agent frameworks in the future.
+The author benchmarked vision-capable LLMs against OCR-based pipelines using 30 long, image-heavy PDFs from MMLongBench-Doc. The results showed varying performance metrics across different approaches, with 171 questions evaluated. This analysis is significant as it evaluates the effectiveness of emerging vision-capable LLMs compared to traditional OCR methods in handling complex document formats. The findings could influence future developments in AI document processing technologies. The benchmarking revealed that vision-capable LLMs underperformed on chart-heavy and table-heavy pages, while premium OCR with layout extraction performed better. Additionally, the native PDF approach had a 7% intrinsic failure rate, which was not observed in OCR-based methods.
 
-rss · Reddit MachineLearning · May 23, 17:38
+rss · Reddit Artificial · May 24, 02:52
 
-**Background**: AI agent frameworks facilitate the creation of autonomous agents and workflows, but as projects scale, understanding their execution graphs becomes challenging. Execution graphs represent the relationships and dependencies among tasks, helping to visualize and optimize complex workflows.
+**Background**: Long-document question answering (QA) involves extracting relevant information from lengthy documents, which can include text, images, and tables. Traditional OCR (Optical Character Recognition) techniques convert printed or handwritten text into machine-readable data, while vision-capable LLMs (Large Language Models) are designed to process both text and visual inputs. The MMLongBench-Doc dataset is specifically created to benchmark long-context document understanding.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://dataception.com/blog/graphs-101-execution-graphs-the-computational-backbone.html">Graphs 101: Execution Graphs – The Computational Backbone ⚙️</a></li>
-<li><a href="https://docs.comis.ai/agents/execution-graphs">Execution Graphs - Comis</a></li>
-<li><a href="https://grokipedia.com/page/Open-source_multi-agent_LLM_frameworks">Open-source multi-agent LLM frameworks</a></li>
+<li><a href="https://github.com/mayubo2333/MMLongBench-Doc">GitHub - mayubo2333/MMLongBench-Doc: Official Repository of MMLONGBENCH-DOC: Benchmarking Long-context Document Understanding with Visualizations · GitHub</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community has shown significant interest in AgentLantern, with discussions highlighting its potential to improve debugging and documentation in AI projects. Some users expressed excitement about its features and the prospect of supporting more frameworks in the future.
+**Discussion**: The community discussion reflects a mix of agreement and skepticism regarding the performance of vision-capable LLMs. Some users expressed concerns about the limitations of these models, particularly in handling complex layouts.
 
-**Tags**: `#AI`, `#Agent Frameworks`, `#Open Source`, `#Development Tools`, `#Debugging`
+**Tags**: `#AI`, `#Machine Learning`, `#Document Processing`, `#LLMs`, `#OCR`
 
 ---
 
 <a id="item-9"></a>
-## [Introduction of SM1: A New Mamba1 Variant for PyTorch](https://www.reddit.com/r/MachineLearning/comments/1tl7f8z/i_built_a_mamba1_variant_i_call_sm1_with_d_state1/) ⭐️ 8.0/10
+## [Palantir Granted Unlimited Access to NHS Patient Data](https://www.reddit.com/r/artificial/comments/1tlig93/amnesty_us_software_company_palantir_and_other/) ⭐️ 8.0/10
 
-The author has developed a new variant of Mamba1 called SM1, which optimizes memory usage and performance for d_state=1 configurations in PyTorch. This variant replaces the selective scan with two native PyTorch operations, resulting in a significant reduction in memory requirements. This development is significant as it enhances the efficiency of memory usage in machine learning models, which is crucial for training large models on limited hardware. It could impact researchers and developers working with PyTorch who are looking for optimized solutions. SM1 eliminates the need for scan intermediates, resulting in 16 times less memory usage compared to Mamba1 with d_state=16. The model, with 130 million parameters, requires only about 56 KB of memory, making it feasible for training on consumer-grade GPUs.
+Amnesty International has reported that Palantir and other contractors have been granted unlimited access to identifiable patient information from NHS England. This revelation raises significant privacy and ethical concerns regarding the handling of sensitive health data. This issue is significant as it highlights potential risks to patient privacy and trust in healthcare systems. The access granted to private companies like Palantir could set a precedent for data handling practices across the healthcare industry. Palantir is known for its data integration and analytics platforms, which can aggregate data from various sources. The ethical implications of such access include concerns over data security and the potential for misuse of sensitive information.
 
-rss · Reddit MachineLearning · May 23, 05:30
+rss · Reddit Artificial · May 23, 14:46
 
-**Background**: Mamba1 is a model designed for efficient state management in recurrent neural networks (RNNs). The d_state parameter influences how the model encodes information, with d_state=1 allowing for a closed-form solution that optimizes performance. PyTorch is a popular deep learning framework that supports dynamic computation graphs, making it suitable for such optimizations.
+**Background**: NHS England has protocols in place for data sharing, typically ensuring that identifiable information is removed unless necessary for specific research. The involvement of major software companies in healthcare data raises questions about privacy and ethical standards in data management.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Recurrent_neural_network">Recurrent neural network - Wikipedia</a></li>
-<li><a href="https://docs.pytorch.org/docs/2.12/generated/torch.cumsum.html">torch. cumsum — PyTorch 2.12 documentation</a></li>
-<li><a href="https://dev.to/hyperkai/cumsum-and-cumprod-in-pytorch-dha">cumsum and cumprod in PyTorch - DEV Community</a></li>
+<li><a href="https://www.england.nhs.uk/long-read/data-and-clinical-record-sharing/">NHS England » Data and clinical record sharing</a></li>
+<li><a href="https://www.england.nhs.uk/digitaltechnology/connecteddigitalsystems/joining-up-health-and-care-data/">NHS England » Joining up and sharing health and care data</a></li>
+<li><a href="https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1454323/full">Frontiers | Editorial: Ethical considerations in electronic data in healthcare</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Machine Learning`, `#PyTorch`, `#Model Optimization`, `#Deep Learning`, `#Research`
+**Discussion**: Community discussions are focused on the ethical implications of this access and the potential risks to patient privacy. Many users express concern over the lack of transparency and the need for stricter regulations on data sharing.
+
+**Tags**: `#Data Privacy`, `#NHS`, `#Palantir`, `#Ethics`, `#Healthcare`
 
 ---
 
 <a id="item-10"></a>
-## [LongCat-Video-Avatar 1.5 Released by Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1tl4wpi/meituanlongcatlongcatvideoavatar15_hugging_face/) ⭐️ 8.0/10
+## [AI Agents Can Execute Unauthorized Commands: Here's the Solution](https://www.reddit.com/r/artificial/comments/1tm37ut/your_ai_agent_is_one_tool_call_away_from_doing/) ⭐️ 8.0/10
 
-LongCat-Video-Avatar 1.5 has been released as an upgraded open-source framework for audio-driven human video generation, enhancing stability and production-readiness. This version introduces significant improvements, including a new audio encoder and better lip synchronization. This advancement is significant as it enhances the capabilities of audio-driven video generation, which can impact various industries such as entertainment, education, and marketing. The community's engagement indicates a strong interest in the potential applications of this technology. Key features of version 1.5 include an upgraded audio encoder (Whisper-Large) for smoother lip dynamics, production-ready stability for long video generation, and efficient inference processes. The model supports various tasks such as Audio-Text-to-Video and Audio-Text-Image-to-Video.
+The article reveals a critical vulnerability in AI agents that allows them to execute unauthorized commands due to external content processing. A tested solution, Arc Gate, has shown effectiveness in blocking these attacks. This issue is significant as it poses real-world security risks for systems using AI agents, potentially leading to unauthorized actions. The solution could enhance the safety and reliability of AI applications across various industries. Arc Gate has successfully blocked 100% of agentic tool poisoning attacks in 54 scenarios and 99% in 200 blind test cases. The architecture of Arc Gate differs from traditional text classifiers by enforcing where instructions can originate.
 
-rss · Reddit LocalLLaMA · May 23, 03:27
+rss · Reddit Artificial · May 24, 05:35
 
-**Background**: LongCat-Video-Avatar is built on the LongCat-Video foundation model, which is designed for generating realistic human videos driven by audio inputs. The framework allows for various generation modes, including Audio-Text-to-Video and Audio-Text-Image-to-Video, making it versatile for different applications.
+**Background**: AI agents are increasingly integrated into various applications, processing external content like emails and web pages. This integration creates vulnerabilities where malicious content can be interpreted as commands, leading to unauthorized actions. The Arc Gate solution is designed to mitigate these risks by providing a governance layer for AI agents.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://huggingface.co/meituan-longcat/LongCat-Video-Avatar">meituan-longcat/LongCat-Video-Avatar · Hugging Face</a></li>
-<li><a href="https://github.com/MeiGen-AI/LongCat-Video-Avatar">GitHub - MeiGen-AI/LongCat-Video-Avatar: The homepage of LongCat-Video-Avatar · GitHub</a></li>
-<li><a href="https://longcatavatar.org/">LongCat Avatar (LongCat-Video-Avatar) Guide: AT2V/ATI2V/Multi ...</a></li>
+<li><a href="https://github.com/9hannahnine-jpg/arc-gate">GitHub - 9hannahnine-jpg/arc-gate: Arc Gate — LLM proxy with ...</a></li>
+<li><a href="https://github.com/uiuc-kang-lab/InjecAgent">GitHub - uiuc-kang-lab/InjecAgent</a></li>
+<li><a href="https://arxiv.org/abs/2406.13352">[2406.13352] AgentDojo: A Dynamic Environment to Evaluate ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community discussion reflects excitement about the new features and improvements in version 1.5, with users sharing their experiences and potential use cases. Some concerns were raised regarding the complexity of implementation for new users.
+**Discussion**: The community discussion highlights concerns about the implications of AI agents executing unauthorized commands and the effectiveness of the proposed solutions. Many participants agree on the necessity of implementing security measures like Arc Gate.
 
-**Tags**: `#AI`, `#Video Generation`, `#Open Source`, `#Machine Learning`, `#Avatar Technology`
+**Tags**: `#AI Security`, `#Agent Technology`, `#Vulnerability`, `#Ethical AI`, `#Machine Learning`
 
 ---
 
 <a id="item-11"></a>
-## [Needle 26M Outperforms Qwen3-0.6B in Function Calling Benchmark](https://www.reddit.com/r/LocalLLaMA/comments/1tljs5o/benchmarked_needle_26m_vs_qwen306b_on_cpu/) ⭐️ 8.0/10
+## [LLM Guard Failed to Detect Multi-Turn Jailbreak Attack](https://www.reddit.com/r/artificial/comments/1tlw4wq/llm_guard_scored_08_on_a_usenix_2025_multiturn/) ⭐️ 8.0/10
 
-A benchmark comparison between the Needle model (26M parameters) and the Qwen3 model (0.6B parameters) shows that Needle outperforms Qwen3 in accuracy and speed for function calling tasks on a CPU. Needle achieved a tool match accuracy of 72% compared to Qwen3's 56%, and was 4.4 times faster. This performance difference is significant as it highlights the potential of smaller, specialized models like Needle to deliver high accuracy and efficiency in specific tasks, which could influence future model development and deployment strategies. The findings may encourage developers to consider lightweight models for applications where speed and accuracy are critical. The benchmark involved 50 queries across five difficulty tiers, and Needle's failure mode was primarily due to incorrect tool selection, while Qwen3 often failed to call tools at all. Additionally, the evaluation highlighted specific limitations such as the small sample size and reliance on mock tools.
-
-rss · Reddit LocalLLaMA · May 23, 15:38
-
-**Background**: Function calling is a method that allows AI models to interact with external systems by selecting predefined functions and sending structured inputs. Knowledge distillation is a technique used to transfer knowledge from larger models to smaller ones, making them more efficient for deployment in resource-constrained environments.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://developers.openai.com/api/docs/guides/function-calling">Function calling - OpenAI API</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Distillation_(machine_learning)">Distillation (machine learning)</a></li>
-<li><a href="https://www.buildaiq.com/articles/what-is-function-calling-in-ai-how-models-learn-to-use-tools">What Is Function Calling in AI? How Models Learn to Use Tools</a></li>
-
-</ul>
-</details>
-
-**Discussion**: The community discussion reflects a mix of excitement and skepticism regarding the implications of the benchmark results. Some users express interest in testing the models further, while others raise concerns about the limitations of the evaluation setup.
-
-**Tags**: `#AI`, `#Machine Learning`, `#Benchmarking`, `#Model Comparison`, `#Performance Analysis`
-
----
-
-<a id="item-12"></a>
-## [LLM Guard Scored 0/8 on USENIX 2025 Multi-Turn Jailbreak](https://www.reddit.com/r/artificial/comments/1tlw4wq/llm_guard_scored_08_on_a_usenix_2025_multiturn/) ⭐️ 8.0/10
-
-The evaluation showed that LLM Guard failed to detect any of the eight turns in a multi-turn jailbreak called Crescendo, while Arc Sentry successfully flagged the attack at Turn 3. This highlights significant limitations in LLM Guard's detection capabilities. This finding is significant as it reveals vulnerabilities in LLM Guard's security measures, which could impact users relying on it for safe AI interactions. The effectiveness of Arc Sentry suggests a shift in how AI security systems may need to evolve. LLM Guard operates by scoring each prompt independently and lacks memory, which prevents it from recognizing the multi-turn nature of the jailbreak. In contrast, Arc Sentry monitors the model's internal state, allowing it to detect shifts indicative of an attack.
+LLM Guard scored 0 out of 8 in detecting a sophisticated multi-turn jailbreak attack called Crescendo, while Arc Sentry successfully flagged the attack at Turn 3. This evaluation highlights the limitations of output-based monitoring systems in identifying such attacks. This finding is significant as it reveals vulnerabilities in current AI security measures, particularly in detecting multi-turn attacks that may bypass traditional monitoring systems. The implications could affect the development of more robust AI safety mechanisms in the industry. Crescendo is designed to evade output-based monitors by ensuring each individual turn appears innocent, which LLM Guard failed to detect due to its lack of memory. In contrast, Arc Sentry monitors the model's internal state, allowing it to identify the attack earlier.
 
 rss · Reddit Artificial · May 23, 23:55
 
-**Background**: Multi-turn jailbreaks involve manipulating conversations over several interactions to bypass safety mechanisms, making them more complex than single-turn attacks. LLM Guard and Arc Sentry are tools designed to enhance AI security, but their effectiveness can vary significantly based on their underlying methodologies.
+**Background**: Multi-turn jailbreak attacks exploit the interaction between prompts over several turns, making them difficult to detect by traditional means that analyze individual inputs. Output-based monitoring systems typically evaluate each prompt independently, which can lead to missed detections in sophisticated attacks like Crescendo.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://protectai.github.io/llm-guard/">LLM Guard is a comprehensive tool designed to fortify the security of...</a></li>
+<li><a href="https://arxiv.org/html/2508.07646v1">Multi-Turn Jailbreaks Are Simpler Than They Seem - arXiv.org</a></li>
+<li><a href="https://www.promptfoo.dev/docs/red-team/strategies/multi-turn/">Multi-turn Jailbreaks Strategy | Promptfoo</a></li>
 <li><a href="https://pypi.org/project/arc-sentry/">arc - sentry · PyPI</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community discussion reflects a mix of technical insights and concerns about the limitations of LLM Guard. Many users expressed interest in the effectiveness of Arc Sentry and its approach to monitoring model states.
+**Discussion**: The community has shown strong interest in the implications of this evaluation, with discussions focusing on the effectiveness of current detection systems and the need for improved monitoring techniques. Many participants expressed concerns about the security of AI systems in light of these findings.
 
-**Tags**: `#AI Security`, `#Machine Learning`, `#Jailbreak`, `#LLM Guard`, `#USENIX`
+**Tags**: `#AI Security`, `#Machine Learning`, `#Jailbreak Detection`, `#LLM`, `#USENIX`
+
+---
+
+<a id="item-12"></a>
+## [Anthropic's Code with Claude Revolutionizes Coding](https://www.reddit.com/r/artificial/comments/1tlh202/anthropics_code_with_claude_showed_off_codings/) ⭐️ 8.0/10
+
+Anthropic has launched a new AI tool called Code with Claude, which offers a transformative approach to coding. This tool enables users to read codebases, edit files, and run commands seamlessly. This development is significant as it could democratize coding by making it accessible to non-engineers. The impact on the tech community could be profound, as it raises questions about the future of software development. Code with Claude is designed to integrate with various development tools and can be used in terminals, IDEs, and browsers. This versatility allows for a more streamlined coding experience.
+
+rss · Reddit Artificial · May 23, 13:50
+
+**Background**: AI coding tools have been evolving rapidly, with recent advancements enabling more sophisticated interactions between users and code. Code with Claude represents a significant step towards making programming more intuitive and accessible for everyone.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.anthropic.com/product/claude-code">Claude Code | Anthropic's agentic coding system</a></li>
+
+</ul>
+</details>
+
+**Discussion**: The community discussion around Code with Claude reflects a mix of excitement and skepticism. Many users are eager to explore its capabilities, while others express concerns about the implications for traditional coding jobs.
+
+**Tags**: `#AI`, `#Machine Learning`, `#Coding Tools`, `#Anthropic`, `#Technology`
 
 ---
 
 <a id="item-13"></a>
-## [Expert Warns of AI-Induced Human Extinction Risks](https://www.reddit.com/r/OpenAI/comments/1tllfn3/sometimes_people_outside_ai_say_things_like_it/) ⭐️ 8.0/10
+## [Expert Warns of AI Risks to Humanity](https://www.reddit.com/r/OpenAI/comments/1tllfn3/sometimes_people_outside_ai_say_things_like_it/) ⭐️ 8.0/10
 
-An expert has expressed serious concerns that the AI community is not adequately addressing the risks of human extinction or permanent disempowerment due to advancements in AI technology. This warning highlights the urgency of the situation, suggesting potential catastrophic outcomes within the next few years. This warning is significant as it underscores the potential existential threats posed by AI advancements, which could impact humanity's future. As AI technologies continue to evolve rapidly, the lack of effective safety measures could lead to dire consequences for society. The expert's comments reflect a growing concern within the AI safety community regarding the pace of AI development outstripping safety protocols. This situation raises questions about the alignment of AI systems with human values and the effectiveness of existing regulatory frameworks.
+An expert has raised alarms that the AI field is not adequately addressing the risks of human extinction and disempowerment, suggesting that this could occur within the next few years. This statement highlights growing concerns about the future of AI development. This warning is significant as it underscores the urgent need for effective AI safety measures to prevent catastrophic outcomes. The implications of unchecked AI development could affect not only experts in the field but also society at large. The expert's statement reflects a broader concern within the AI safety community regarding the rapid advancements in AI capabilities outpacing safety measures. There is a growing consensus that without proper oversight, AI could pose existential risks.
 
 rss · Reddit OpenAI · May 23, 16:41
 
-**Background**: AI safety is an interdisciplinary field focused on preventing harmful consequences from artificial intelligence systems, including existential risks. As AI technology advances, concerns about its alignment with human values and the potential for uncontrollable superintelligence have become increasingly prominent.
+**Background**: AI safety is a field focused on preventing harmful consequences from AI systems, including existential risks. Recent discussions have highlighted the need for regulations and safety measures as AI technology advances rapidly, raising alarms about potential threats to humanity.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/AI_safety">AI safety</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence">Existential risk from artificial intelligence</a></li>
-<li><a href="https://en.wikipedia.org/wiki/AI_alignment">AI alignment</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence">Existential risk from artificial intelligence - Wikipedia</a></li>
+<li><a href="https://www.rand.org/pubs/research_reports/RRA3034-1.html">On the Extinction Risk from Artificial Intelligence | RAND</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community discussion reflects a mix of agreement and concern regarding the expert's warning. Many participants emphasize the need for urgent action to address AI risks, while others express skepticism about the feasibility of controlling advanced AI systems.
+**Discussion**: The community discussion reflects a mix of concern and skepticism regarding the expert's claims. Some users agree with the need for more stringent AI regulations, while others express doubts about the likelihood of such dire outcomes.
 
-**Tags**: `#AI Safety`, `#Existential Risk`, `#Expert Commentary`, `#Technology Ethics`, `#Community Discussion`
+**Tags**: `#AI Safety`, `#Expert Opinion`, `#Ethics`, `#Human Impact`, `#Community Discussion`
 
 ---
 
 <a id="item-14"></a>
-## [Anthropic's Mythos Identifies Over 10,000 Vulnerabilities](https://www.reddit.com/r/singularity/comments/1tlplt6/anthropic_says_mythos_has_already_found_more_than/) ⭐️ 8.0/10
+## [Generative AI (Kling) Used in Hollywood Productions](https://www.reddit.com/r/singularity/comments/1tlu4gv/generative_ai_kling_is_now_used_in_actual_tv/) ⭐️ 8.0/10
 
-Anthropic's AI model, Mythos, has reportedly identified more than 10,000 vulnerabilities in software systems. This achievement highlights the growing capabilities of AI in enhancing software security. This development is significant as it showcases the potential of AI tools in vulnerability detection, which can lead to improved software security practices across various industries. Organizations relying on software will be particularly affected as they can leverage this technology to enhance their security measures. Mythos is part of Anthropic's broader AI system called Claude, which competes with other AI models like OpenAI's ChatGPT. The model's ability to detect zero-day vulnerabilities, which are previously unknown flaws, is particularly noteworthy.
+Generative AI is now being utilized in the production of 'House of David', which has captivated over 44 million viewers worldwide. This marks a significant advancement in the integration of AI technology in Hollywood. This development is significant as it showcases the growing role of AI in entertainment, potentially transforming how films and TV shows are produced. It could affect various stakeholders in the industry, from creators to audiences. The use of Kling AI technology allows for advanced video generation, which can enhance storytelling and visual effects in productions. However, the technology is still evolving, and its limitations in certain creative aspects may need to be addressed.
 
-rss · Reddit Singularity · May 23, 19:23
+rss · Reddit Singularity · May 23, 22:26
 
-**Background**: Vulnerability detection is a critical aspect of cybersecurity, where automated tools are used to identify security flaws in software applications. AI-enhanced vulnerability scanners can improve detection rates and reduce false positives, making them valuable assets for security teams.
+**Background**: Generative AI refers to algorithms that can create content, including images and videos, based on input prompts. Kling AI is a specific generative AI service that specializes in video generation, allowing creators to produce content more efficiently and creatively.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.bbc.com/news/articles/crk1py1jgzko">What is Anthopic's Claude Mythos and what risks does it pose?</a></li>
+<li><a href="https://kling.ai/">Kling AI: Next-Generation AI Creative Studio</a></li>
+<li><a href="https://sloanreview.mit.edu/article/the-impact-of-generative-ai-on-hollywood-and-entertainment/">The Impact of Generative AI on Hollywood and Entertainment</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community discussion reflects a mix of excitement and skepticism regarding the effectiveness of AI in vulnerability detection. Some users emphasize the importance of human oversight in conjunction with AI tools to ensure comprehensive security.
-
-**Tags**: `#AI`, `#Security`, `#Vulnerabilities`, `#Anthropic`, `#Machine Learning`
+**Tags**: `#Generative AI`, `#Film Production`, `#Technology in Entertainment`, `#AI Applications`, `#Media`
 
 ---
 
 <a id="item-15"></a>
-## [Generative AI Kling Used in TV Shows and Movies](https://www.reddit.com/r/singularity/comments/1tlu4gv/generative_ai_kling_is_now_used_in_actual_tv/) ⭐️ 8.0/10
+## [Anthropic's Mythos Identifies Over 10,000 Vulnerabilities](https://www.reddit.com/r/singularity/comments/1tlplt6/anthropic_says_mythos_has_already_found_more_than/) ⭐️ 8.0/10
 
-Generative AI is being utilized in the production of 'House of David,' a new TV series that has gained significant viewership and attention for its innovative use of AI technology. This marks the first Hollywood production to openly discuss the use of AI video generation technology on an industrial level. This development is significant as it represents a major step in the integration of AI technology within the entertainment industry, potentially transforming how content is created. The success of 'House of David' could influence future productions to adopt similar technologies. The series has captivated over 44 million viewers worldwide and ranked among the top 10 new series debuts in the U.S. It reached #1 on Prime Video in the U.S., showcasing the potential of AI in creating engaging content.
+Anthropic's AI model, Mythos, has reportedly identified more than 10,000 vulnerabilities in various systems. This achievement highlights the model's potential effectiveness in enhancing AI security. This development is significant as it showcases a novel approach to vulnerability detection, potentially transforming how AI systems are secured. The implications could affect developers, organizations, and users relying on AI technologies. Mythos operates using a fundamentally different architecture compared to traditional vulnerability detection tools, allowing it to autonomously identify zero-day vulnerabilities. This capability could lead to faster and more efficient security measures.
 
-rss · Reddit Singularity · May 23, 22:26
+rss · Reddit Singularity · May 23, 19:23
 
-**Background**: Kling AI is a generative artificial intelligence service that creates videos from natural language descriptions, known as prompts. The use of AI in television production has been growing, enabling automation and enhancing creative processes.
+**Background**: Vulnerability detection is a critical aspect of cybersecurity, especially with the rise of AI technologies. Traditional methods often rely on static analysis or predefined rules, which can be limited in scope. Mythos represents a shift towards more dynamic and autonomous approaches in identifying security flaws.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Kling_AI">Kling AI - Wikipedia</a></li>
-<li><a href="https://aitv.media/is-ai-slowing-down-in-television-a-look-into-its-future/">Is AI Slowing Down in Television ? A Look into Its Future</a></li>
+<li><a href="https://world.edu/should-we-really-fear-mythos-the-ai-capable-of-detecting-and-exploiting-cybersecurity-vulnerabilities/">Should we really fear Mythos , the AI capable of detecting and...</a></li>
+<li><a href="https://development.chkoushik.com/chk/security/anthropic-mythos-cybersecurity-ai-a-paradigm-shift-in-defensive-enginee/">Anthropic Mythos Cybersecurity AI: A Paradigm Shift in Defensive...</a></li>
+<li><a href="https://bitbiased.ai/p/blog-claude-mythos-ai-vulnerability-discovery">Claude Mythos AI Model: Zero-Day Vulnerability ... | Bitbiased.ai</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community discussion reflects excitement about the innovative use of AI in entertainment, with many expressing curiosity about its future implications. Some users raised concerns about the potential impact on traditional filmmaking jobs.
+**Discussion**: The community discussion reflects a mix of excitement and caution regarding the implications of Mythos's capabilities. Many users express optimism about its potential to improve security, while others raise concerns about the risks associated with such powerful AI tools.
 
-**Tags**: `#Generative AI`, `#Entertainment Technology`, `#Hollywood`, `#AI in Media`, `#Television Production`
+**Tags**: `#AI Security`, `#Vulnerability Detection`, `#Anthropic`, `#Mythos`, `#Machine Learning`
 
 ---
 
 <a id="item-16"></a>
-## [Perplexity Open-Sources Bumblebee: A Read-Only Supply-Chain Scanner](https://www.reddit.com/r/machinelearningnews/comments/1tlaor8/perplexity_opensources_bumblebee_a_readonly/) ⭐️ 8.0/10
+## [Apple’s Open-Source 3D AI Generation Is Here: LiTo](https://www.reddit.com/r/singularity/comments/1tlywjr/apples_opensource_3d_ai_generation_is_here_lito/) ⭐️ 8.0/10
 
-Perplexity has open-sourced Bumblebee, a read-only supply-chain scanner that identifies installed packages on developer endpoints without executing any code. This tool is designed to enhance security by addressing gaps left by existing tools like SBOMs and EDR. This development is significant as it addresses a critical gap in supply-chain security for developers, particularly in the context of increasing cyber threats. Bumblebee's unique read-only design helps mitigate risks associated with executing potentially harmful code during package installations. Bumblebee is built using Go 1.25+ and has zero non-standard library dependencies, producing a single static binary. It supports three scan profiles—baseline, project, and deep—and outputs NDJSON records with varying confidence levels.
+Apple has launched LiTo, an open-source tool for 3D AI generation, which aims to enhance the quality of 3D modeling. This tool allows for the generation of 3D objects that accurately reflect lighting and materials from input images. This development is significant as it represents a major advancement in the AI space, particularly for 3D modeling applications. It could impact various industries, including gaming, film, and virtual reality, by providing more realistic and versatile 3D assets. LiTo utilizes a unique approach by capturing the full surface light field of objects, which includes how they appear from different angles. This is a notable improvement over existing methods that primarily focus on geometry.
 
-rss · Reddit MLNews · May 23, 08:28
+rss · Reddit Singularity · May 24, 02:03
 
-**Background**: Supply chain security has become increasingly important as software vulnerabilities can lead to significant risks. Tools like Software Bill of Materials (SBOM) provide transparency in software components, but they often do not account for what is currently installed on developer machines. Bumblebee fills this gap by providing a focused scan of installed packages without executing any code.
+**Background**: 3D modeling has become increasingly important in various fields, and the use of AI to generate 3D assets is a growing trend. Traditional methods often struggle to accurately represent how objects look under different lighting conditions. LiTo aims to address these limitations by providing a more comprehensive representation of 3D objects.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.marktechpost.com/2026/05/23/perplexity-open-sources-bumblebee-a-read-only-supply-chain-scanner-for-developer-endpoints/">Perplexity Open-Sources Bumblebee: A Read-Only Supply-Chain ...</a></li>
-<li><a href="https://github.com/perplexityai/bumblebee">GitHub - perplexityai/bumblebee: Read-only developer endpoint ...</a></li>
+<li><a href="https://github.com/apple/ml-lito/tree/main">GitHub - apple/ml-lito: [ICLR 2026] LiTo: Surface Light Field ...</a></li>
+<li><a href="https://apple.github.io/ml-lito/">LiTo: Surface Light Field Tokenization - apple.github.io</a></li>
+<li><a href="https://themenonlab.blog/blog/apple-lito-surface-light-field-tokenizer-image-to-3d">LiTo: Apple's Surface Light Field Tokenizer for Image-to-3D ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community has shown strong interest in Bumblebee, with discussions highlighting its potential to improve supply-chain security. Some users expressed concerns about the limitations of read-only scanning, while others praised its innovative approach.
+**Discussion**: The community is actively discussing the potential applications of LiTo and its implications for the future of 3D modeling. Many users express excitement about the possibilities it opens up for creative projects.
 
-**Tags**: `#Supply Chain Security`, `#Open Source`, `#Developer Tools`, `#Security Tools`, `#Software Development`
+**Tags**: `#AI`, `#3D Modeling`, `#Open Source`, `#Apple`, `#Technology`
 
 ---
 
 <a id="item-17"></a>
-## [Jack Clark Predicts AI Will Make Nobel Discoveries in a Year](https://www.theguardian.com/technology/2026/may/21/ai-nobel-prize-winning-discovery-robots-jack-clark-anthropic) ⭐️ 8.0/10
+## [Perplexity Open-Sources Bumblebee: A Read-Only Supply-Chain Scanner](https://www.reddit.com/r/machinelearningnews/comments/1tlaor8/perplexity_opensources_bumblebee_a_readonly/) ⭐️ 8.0/10
 
-Jack Clark, co-founder of Anthropic, stated in a lecture that AI could assist in making Nobel Prize-level discoveries within a year. He also predicted that AI-driven companies would start generating millions in revenue within 18 months. This prediction highlights the rapid advancements in AI technology and its potential to revolutionize various fields, including scientific research. The implications could affect industries reliant on innovation and discovery, reshaping how we approach problem-solving. Clark mentioned that bipedal robots would become effective assistants in production environments within two years and that AI could design its own future versions by the end of 2028. He also cautioned about the risks associated with rapid AI development.
+Perplexity has open-sourced Bumblebee, a read-only supply-chain scanner designed to identify installed packages on developer endpoints without executing any code. This tool addresses a critical security blind spot in current supply-chain security practices. This development is significant as it fills a gap in supply-chain security by providing developers with a tool that can identify vulnerabilities without risking code execution. It could have a major impact on how developers manage security in their environments. Bumblebee is designed to read metadata directly from lockfiles and manifests, avoiding the execution of any code, which is crucial given the risks associated with npm postinstall scripts. It is written in Go and has zero non-stdlib dependencies, outputting NDJSON records with confidence levels.
 
-telegram · gptupdates · May 23, 13:20
+rss · Reddit MLNews · May 23, 08:28
 
-**Background**: The Nobel Prize is awarded for significant contributions to humanity in various fields, including science, literature, and peace. AI technologies are increasingly being integrated into research and development processes, leading to discussions about their potential to achieve groundbreaking discoveries.
+**Background**: Supply chain security is a growing concern in software development, particularly with the rise of vulnerabilities that can be exploited through package managers like npm. SBOMs (Software Bills of Materials) and EDR (Endpoint Detection and Response) tools are commonly used to manage these risks, but they often do not address the current state of installed packages on developer machines.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.theguardian.com/technology/2026/may/21/ai-nobel-prize-winning-discovery-robots-jack-clark-anthropic">AI will help make a Nobel prize-winning discovery within a ...</a></li>
-<li><a href="https://english.aawsat.com/varieties/5276334-ai-will-help-make-nobel-prize-winning-discovery-within-year">AI Will Help Make a Nobel Prize-Winning Discovery Within a Year</a></li>
+<li><a href="https://www.cisa.gov/topics/information-communications-technology-supply-chain-security/sbom">Software Bill of Materials (SBOM) - CISA</a></li>
+<li><a href="https://www.ibm.com/think/topics/sbom">What is a software bill of materials (SBOM)? - IBM</a></li>
+<li><a href="https://www.microsoft.com/en-us/security/business/security-101/what-is-edr-endpoint-detection-response">What is endpoint detection and response (EDR)?</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#Nobel Prize`, `#Jack Clark`, `#Anthropic`, `#Future Predictions`
+**Discussion**: The community has expressed enthusiasm for Bumblebee's capabilities, particularly its read-only nature, which mitigates risks associated with executing code. Some users have raised questions about its integration with existing security workflows.
+
+**Tags**: `#Supply Chain Security`, `#Open Source`, `#Developer Tools`, `#Software Engineering`, `#Security`
 
 ---
 
 <a id="item-18"></a>
-## [Introduction of Linear-Time Looped Transformers (LT2)](https://arxiv.org/abs/2605.20670) ⭐️ 8.0/10
+## [Jack Clark Predicts AI Will Enable Nobel-Level Discoveries in a Year](https://www.theguardian.com/technology/2026/may/21/ai-nobel-prize-winning-discovery-robots-jack-clark-anthropic) ⭐️ 8.0/10
 
-The authors have introduced a new architecture called LT2 (Linear-Time Looped Transformers) that replaces quadratic attention with linear or sparse mechanisms, enhancing transformer expressiveness while maintaining computational efficiency. This architecture allows for the efficient processing of long contexts with reduced memory consumption. This development is significant as it addresses the computational bottleneck associated with traditional softmax attention, which scales quadratically with context length. By improving efficiency, it could enable the deployment of more powerful reasoning models in AI and machine learning applications. The LT2 architecture employs a hybrid approach that combines different types of attention mechanisms and introduces a multi-stage distillation strategy for transferring weights from pre-trained dense models. This results in a model that is significantly lighter and faster, achieving inference speeds 5-6 times faster without sacrificing performance.
+Jack Clark, co-founder of Anthropic, stated that AI could assist in making Nobel Prize-level discoveries within a year. He also predicted that AI-managed companies could start generating millions in revenue within 18 months. This prediction highlights the transformative potential of AI in scientific research and industry, suggesting that AI could significantly accelerate innovation. The implications could affect various sectors, including technology, healthcare, and manufacturing. Clark mentioned that bipedal robots would become effective manufacturing assistants within two years and that by the end of 2028, AI might be capable of designing its own future versions. He also cautioned about the risks associated with rapid AI development.
 
-telegram · gptupdates · May 23, 17:26
+telegram · gptupdates · May 23, 13:20
 
-**Background**: Transformers are a type of neural network architecture that utilize attention mechanisms to process sequential data. Traditional attention mechanisms, particularly softmax attention, can become computationally expensive as the length of the input sequence increases. Linear and sparse attention mechanisms aim to reduce this computational burden, making it feasible to work with longer contexts efficiently.
+**Background**: The concept of AI-managed companies refers to businesses that leverage artificial intelligence to automate operations and decision-making processes. Bipedal robots are designed to mimic human walking and are increasingly being explored for various applications, including manufacturing.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://towardsdatascience.com/linear-attention-is-all-you-need-5fa9c845c1b5/">Linear Attention Is All You Need - Towards Data Science</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Attention_(machine_learning)">Attention (machine learning) - Wikipedia</a></li>
+<li><a href="https://www.theguardian.com/technology/2026/may/21/ai-nobel-prize-winning-discovery-robots-jack-clark-anthropic">AI will help make a Nobel prize-winning discovery within a ...</a></li>
 
 </ul>
 </details>
+
+**Discussion**: There has been a mix of excitement and skepticism in the community regarding Clark's predictions. Some believe that AI's rapid advancements could indeed lead to significant breakthroughs, while others express concerns about the potential risks and ethical implications.
+
+**Tags**: `#AI`, `#Nobel Prize`, `#Jack Clark`, `#Anthropic`, `#Robotics`
+
+---
+
+<a id="item-19"></a>
+## [Introduction of Linear-Time Looped Transformers (LT2)](https://arxiv.org/abs/2605.20670) ⭐️ 8.0/10
+
+The authors have introduced LT2 (Linear-Time Looped Transformers), a new architecture that replaces quadratic attention with linear mechanisms to enhance transformer expressiveness while maintaining computational efficiency. This approach allows for improved performance in handling long contexts with reduced memory consumption. This development is significant as it addresses the computational bottleneck associated with standard looped transformers, which rely on quadratic self-attention. By improving efficiency, LT2 could enable more powerful reasoning models in AI and machine learning applications. LT2 employs subquadratic attention mechanisms, which significantly reduce the computational load during training and inference. The architecture also incorporates a multi-stage distillation strategy to convert heavy models into lighter, more efficient versions without sacrificing performance.
+
+telegram · gptupdates · May 23, 17:26
+
+**Background**: Transformers are a type of neural network architecture widely used in natural language processing and other AI tasks. They typically rely on attention mechanisms to process data, but traditional attention can be computationally expensive, especially with longer input sequences. The introduction of linear attention mechanisms aims to mitigate these issues by reducing the complexity of the attention calculations.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://arxiv.org/abs/2605.20670">[2605.20670] LT2: Linear-Time Looped Transformers - arXiv.org</a></li>
+<li><a href="https://arxiviq.substack.com/p/lt2-linear-time-looped-transformers">LT2: Linear-Time Looped Transformers - ArXivIQ</a></li>
+
+</ul>
+</details>
+
+**Discussion**: The community has shown a positive response to the introduction of LT2, with many expressing excitement about its potential applications. However, some concerns were raised regarding the practical implementation of the new architecture in existing systems.
 
 **Tags**: `#Transformers`, `#AI`, `#Machine Learning`, `#Computational Efficiency`, `#Research`
 
 ---
 
-<a id="item-19"></a>
-## [Anthropic Nears $30 Billion Funding Round Closure](https://t.me/gptupdates/30633) ⭐️ 8.0/10
+<a id="item-20"></a>
+## [Anthropic's Funding Round May Exceed $30 Billion](https://t.me/gptupdates/30633) ⭐️ 8.0/10
 
-Anthropic is closing a funding round that may exceed $30 billion, with a valuation above $900 billion. This funding round is expected to close as soon as next week. This funding round positions Anthropic as a highly valuable player in the AI sector, potentially surpassing OpenAI. The outcome could significantly influence the competitive landscape of AI companies. Sequoia, Dragoneer, Altimeter, and Greenoaks Capital are expected to co-lead the financing round, each contributing $2 billion. Anthropic has projected its annualized run rate revenue to exceed $50 billion by the end of next month.
+Anthropic is closing a funding round that may exceed $30 billion, with a valuation above $900 billion, according to Bloomberg. This funding round is expected to close as soon as next week. This funding round positions Anthropic as the most valuable private company, surpassing OpenAI, and reflects strong investor confidence in the AI sector. The significant capital influx could lead to accelerated innovation and competition in the AI market. Sequoia, Dragoneer, Altimeter, and Greenoaks Capital are expected to co-lead the financing round, each contributing $2 billion. Anthropic has informed investors that its annualized run rate revenue will exceed $50 billion by the end of next month.
 
 telegram · gptupdates · May 23, 22:38
 
-**Background**: Anthropic is an American AI company known for developing large language models and focusing on AI safety. The company's rapid growth and substantial funding reflect the increasing investment and interest in the AI sector.
+**Background**: Anthropic is an AI research company focused on developing advanced AI systems. The concept of annualized run rate revenue is a financial metric that projects a company's current revenue over a year, providing insights into its growth potential.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.nytimes.com/2026/05/12/technology/anthropic-funding-950-billion-valuation.html">Anthropic in Talks to Raise Funding at a $950 Billion Valuation</a></li>
-<li><a href="https://futurehumanism.co/articles/anthropic-30-billion-funding-round-what-it-means-for-ai/">Anthropic Just Raised $30 Billion. Here Is What... | Future Humanism</a></li>
+<li><a href="https://corporatefinanceinstitute.com/resources/accounting/revenue-run-rate/">Revenue Run Rate - Definition, Calculation, Examples</a></li>
+<li><a href="https://www.investopedia.com/articles/fundamental-analysis/11/valuing-private-companies.asp">How To Value Private Companies - Investopedia</a></li>
 
 </ul>
 </details>
@@ -481,38 +510,110 @@ telegram · gptupdates · May 23, 22:38
 
 ---
 
-<a id="item-20"></a>
-## [Don't Roll Your Own](https://susam.net/do-not-roll-your-own.html) ⭐️ 7.0/10
+<a id="item-21"></a>
+## [Amazon Web Services – Four Years and Out](https://www.adventuresinoss.com/aws-four-years/) ⭐️ 7.0/10
 
-The article emphasizes the importance of using standard browser features instead of creating custom implementations. It highlights potential pitfalls in user experience associated with non-standard approaches. This is significant because it can lead to better usability and accessibility for web applications, affecting a wide range of users. By adhering to standard practices, developers can avoid common pitfalls that degrade user experience. The article discusses specific examples where custom implementations fail, such as scrolling and navigation, which can hinder accessibility. It also warns that many developers overlook ARIA best practices, leading to less accessible web applications.
+The article discusses the organizational challenges and leadership changes faced by Amazon Web Services (AWS) over the past four years. It highlights the impact of increased competition and the departure of key leaders on the company's direction. This situation is significant as it reflects broader trends in the technology industry, particularly in cloud computing, where competition is intensifying. The changes within AWS could affect its market position and innovation capabilities. The article notes that the pressure on AWS has increased due to the emergence of cheaper and faster bare metal providers. Additionally, the leadership transition, particularly after Andy Jassy became CEO of Amazon, has led to significant organizational shifts.
 
-hackernews · adunk · May 23, 22:25
+hackernews · RyeCombinator · May 24, 04:51
 
-**Background**: In web development, 'rolling your own' refers to creating custom solutions for features that are already provided by browsers. This practice can lead to inconsistencies and bugs, especially in usability and accessibility, as standard features are often optimized for user experience.
+**Discussion**: Community comments reflect a mix of nostalgia and concern regarding AWS's direction, with some alumni noting the impact of leadership changes. There is also a sentiment that the company's focus on cost and efficiency may be detrimental to employee morale and innovation.
+
+**Tags**: `#AWS`, `#cloud computing`, `#organizational change`, `#technology industry`, `#leadership`
+
+---
+
+<a id="item-22"></a>
+## [Vivado 2026.1 Drops Linux Support for Free Tier](https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US) ⭐️ 7.0/10
+
+AMD has announced that the Vivado 2026.1 free tier will no longer support Linux, which has raised concerns within the community. This decision is seen as a significant change that could affect accessibility for users relying on Linux systems. This change is significant as it may alienate students, hobbyists, and developers who prefer Linux, potentially hindering the growth of the AMD ecosystem. The decision could lead to reduced user adoption and a shift towards competitors who maintain Linux support. The removal of Linux support from the free tier raises questions about AMD's commitment to fostering a diverse development community. Users have expressed frustration over the implications for educational environments and the additional costs associated with licensing.
+
+hackernews · zdw · May 24, 04:14
+
+**Background**: Vivado is a design suite developed by AMD for FPGA and SoC development, widely used in various industries. The free tier has historically provided access to essential tools for students and hobbyists, making it an important entry point for new developers in the FPGA ecosystem.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.geeksforgeeks.org/websites-apps/functions-and-features-of-a-web-browser/">Functions and Features of a Web Browser - GeeksforGeeks</a></li>
-<li><a href="https://dev.to/baransel/10-common-javascript-pitfalls-and-how-to-avoid-them-40i">10 Common JavaScript Pitfalls (and How to Avoid Them)</a></li>
-<li><a href="https://www.sciencetimes.com/articles/61815/20260515/how-browser-convenience-features-can-help-improve-online-user-experience.htm">How Browser Convenience Features Can Help Improve the Online ...</a></li>
+<li><a href="https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado.html">Vivado Overview - AMD</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community comments reflect a strong consensus against custom implementations, with users sharing frustrations about usability issues. Many emphasize the importance of using standard controls to enhance accessibility.
+**Discussion**: Community sentiment is largely negative, with many users expressing dissatisfaction over the decision to drop Linux support. Concerns include the potential alienation of new developers and the impact on educational institutions that rely on Linux for their curriculum.
 
-**Tags**: `#Web Development`, `#Usability`, `#Accessibility`, `#JavaScript`, `#Best Practices`
+**Tags**: `#AMD`, `#Vivado`, `#Linux`, `#FPGA`, `#Community Discussion`
 
 ---
 
-<a id="item-21"></a>
-## [Challenges of Using LLMs in Software Engineering](https://olano.dev/blog/dangerously-skip/) ⭐️ 7.0/10
+<a id="item-23"></a>
+## [Air France and Airbus Found Guilty of Manslaughter](https://www.bbc.com/news/articles/czd2qmdvmq6o) ⭐️ 7.0/10
 
-A blog post discusses the implications of using large language models (LLMs) in software engineering, focusing on balancing coding speed with maintaining rigor. The author emphasizes that the approach discussed is not a methodology they advocate for, but rather a response to organizational pressures. This discussion is significant as it addresses the growing trend of integrating AI tools in software development, which could reshape coding practices and standards. The implications of this shift affect not only developers but also the overall quality and reliability of software products. The blog highlights the potential risks of relying on LLMs, such as generating non-deterministic outputs that can complicate code reviews. It suggests that while speed may increase, maintaining rigor in other areas of the development process is essential.
+Air France and Airbus have been found guilty of manslaughter in connection with the 2009 plane crash that resulted in the deaths of all 228 passengers and crew on board. This ruling has raised significant discussions about accountability in aviation safety. This ruling is significant as it holds major players in the aviation industry accountable for safety failures, potentially influencing future regulations and practices. The decision may impact public trust in airlines and manufacturers, as well as pilot training standards. The court's decision emphasizes the need for stringent safety protocols and better training for pilots to prevent similar tragedies. It also highlights the shared responsibility between manufacturers and operators in ensuring flight safety.
+
+hackernews · baal80spam · May 23, 20:09
+
+**Background**: The 2009 Air France Flight 447 crash was one of the deadliest aviation disasters in history, leading to extensive investigations into the causes. The incident raised questions about pilot error, aircraft design, and the adequacy of training for handling in-flight emergencies.
+
+**Discussion**: Community comments reflect a range of opinions on the responsibilities of pilots versus manufacturers. Some argue that both parties share blame, while others emphasize the need for better pilot training and accountability.
+
+**Tags**: `#aviation`, `#legal`, `#safety`, `#Air France`, `#Airbus`
+
+---
+
+<a id="item-24"></a>
+## [Reverse engineering circuitry in a Spacelab computer from 1980](https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html) ⭐️ 7.0/10
+
+The article explores the reverse engineering of a Spacelab computer from 1980, focusing on its unique circuitry and construction techniques. It provides insights into the technology used during that era and the challenges faced in understanding its design. This exploration is significant as it sheds light on the historical context of computing technology and the evolution of hardware design. Understanding such legacy systems can inform current and future developments in electronics and computing. The Spacelab computer utilized simple integrated circuits based on TTL (transistor-transistor logic), which were fast but larger and more power-hungry than modern CMOS technology. The reverse engineering process highlights the multi-layer PCB construction and the challenges of analyzing such historical hardware.
+
+hackernews · elpocko · May 23, 16:24
+
+**Background**: Spacelab was a reusable laboratory developed by the European Space Agency for use in spaceflights. The computers used in Spacelab were essential for managing experiments and subsystems, and understanding their design offers insights into the technological capabilities of the time.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html">Reverse engineering circuitry in a Spacelab computer from 1980</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community members expressed curiosity about the PCB construction and its design choices, with some highlighting the historical significance of such detailed reverse engineering. The author also engaged with readers, inviting questions about the project.
+
+**Tags**: `#reverse engineering`, `#hardware`, `#computing history`, `#Spacelab`, `#PCB design`
+
+---
+
+<a id="item-25"></a>
+## [80386 Microcode Disassembled](https://www.reenigne.org/blog/80386-microcode-disassembled/) ⭐️ 7.0/10
+
+The blog post details the disassembly of the 80386 microcode, revealing insights into microprogramming techniques. This has ignited discussions about the potential for extracting microcode from high-resolution images of the chip die. This disassembly is significant as it provides a deeper understanding of historical computing architecture and microprogramming. It could impact enthusiasts and researchers interested in reverse engineering and the evolution of CPU design. The post discusses the complexities involved in microprogramming and the challenges of extracting microcode from physical chip images. It highlights the importance of knowing the specific revision of the 80386 from which the microcode was extracted.
+
+hackernews · nand2mario · May 23, 12:11
+
+**Background**: Microcode is a low-level layer of instructions that helps execute machine code in CPUs. The 80386 microprocessor, introduced by Intel in 1985, was a significant advancement in computer architecture, allowing for more complex operations and multitasking capabilities.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Microprogramming">Microprogramming</a></li>
+<li><a href="https://www.geeksforgeeks.org/computer-organization-architecture/microprogramming-basics-1/">Microprogramming Basics - GeeksforGeeks</a></li>
+<li><a href="https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-koppe.pdf">Reverse Engineering x86 Processor Microcode - USENIX</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community comments express curiosity about the process of extracting microcode from high-resolution images, with some users sharing resources and insights. There is also a discussion about the importance of identifying the specific revision of the 80386 used in the disassembly.
+
+**Tags**: `#microcode`, `#80386`, `#computer architecture`, `#reverse engineering`, `#microprogramming`
+
+---
+
+<a id="item-26"></a>
+## [Balancing Speed and Rigor in Software Development](https://olano.dev/blog/dangerously-skip/) ⭐️ 7.0/10
+
+The blog post discusses the challenges of prioritizing speed in coding practices while maintaining rigor, especially in organizations that utilize Large Language Models (LLMs). It emphasizes the need for alternative methods to ensure quality despite the push for faster coding. This discussion is significant as it addresses the potential risks of sacrificing code quality for speed, which can affect software reliability and maintainability. Organizations leveraging LLMs may face unique challenges in balancing these competing demands. The author clarifies that the post does not advocate for a specific methodology but rather explores how organizations can meet speed requirements while preserving rigor. The implications of using LLMs, which can produce non-deterministic outputs, complicate the review and approval processes.
 
 hackernews · fagnerbrack · May 23, 09:37
 
-**Background**: Large language models (LLMs) have gained traction in various fields, including software engineering, where they can assist in code generation and review. However, their non-deterministic nature raises concerns about the reliability and maintainability of the generated code, prompting discussions about best practices in integrating these tools.
+**Background**: Large Language Models (LLMs) have transformed software engineering by automating code generation and enhancing productivity. However, this rapid pace raises concerns about maintaining coding standards and ensuring that software remains robust and reliable. The balance between speed and quality is a critical issue in the evolving landscape of software development.
 
 <details><summary>References</summary>
 <ul>
@@ -523,241 +624,207 @@ hackernews · fagnerbrack · May 23, 09:37
 </ul>
 </details>
 
-**Discussion**: Community comments reflect a mix of agreement and concern regarding the implications of using LLMs in software engineering. Some participants emphasize the need for maintaining rigor despite the speed advantages, while others discuss potential pitfalls in relying too heavily on LLM-generated code.
+**Discussion**: Community comments reflect a mix of agreement and concern regarding the implications of prioritizing speed in coding practices. Some participants suggest alternative approaches to maintain rigor, while others highlight the risks of relying too heavily on LLMs.
 
-**Tags**: `#Software Engineering`, `#AI`, `#Machine Learning`, `#Code Review`, `#Development Practices`
-
----
-
-<a id="item-22"></a>
-## [Italy moves to Airbus A330 tankers](https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift) ⭐️ 7.0/10
-
-Italy has finalized a €1.39 billion contract for six Airbus A330 MRTT aerial refueling tankers, marking a significant shift from U.S.-based Boeing platforms. This decision follows Italy's abandonment of the KC-46A Pegasus program in 2024. This shift aligns Italy more closely with NATO standards and enhances its long-range air mobility and aerial refueling capabilities. The decision also reflects broader trends in European defense procurement, favoring European suppliers. The Airbus A330 MRTT is a multi-role tanker transport aircraft capable of air-to-air refueling, troop transport, cargo delivery, and medical evacuation. Italy's choice is seen as an industrial victory for Airbus amid ongoing issues with the U.S. KC-46 program.
-
-hackernews · embedding-shape · May 23, 16:02
-
-**Background**: NATO has established common standards for military equipment and operations to ensure interoperability among member countries. The Airbus A330 MRTT has been adopted by several NATO and non-NATO allies, making it a preferred choice for many European nations.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.armyrecognition.com/news/aerospace-news/2026/italy-1-39-billion-european-airbus-a330-mrtt-tanker-contract-us-shift">Italy orders 6 Airbus A330 MRTT tankers for €1.39 billion ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Airbus_A330_MRTT">Airbus A330 MRTT - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Community comments highlight a mix of support and skepticism regarding Italy's decision. Some analysts view it as a victory for Airbus, while others express concerns about the reliability of U.S. alternatives like the KC-46.
-
-**Tags**: `#Aerospace`, `#Defense`, `#NATO`, `#Airbus`, `#Military Procurement`
-
----
-
-<a id="item-23"></a>
-## [Rubish: A Unix Shell Written in Pure Ruby](https://github.com/amatsuda/rubish) ⭐️ 7.0/10
-
-Rubish is a new Unix shell developed entirely in Ruby, which has garnered attention for its innovative design. The project aims to blend the functionality of traditional shells with the elegance of Ruby programming. This development is significant as it could change how developers interact with command-line interfaces, potentially increasing the usability of Ruby in system scripting. It also reflects a growing trend of integrating different programming languages to enhance functionality. Rubish aims to provide a unique user experience by leveraging Ruby's object-oriented features, although it may face challenges in performance compared to traditional shells. The project is open-source, inviting contributions from the community.
-
-hackernews · winebarrel · May 23, 06:32
-
-**Background**: Unix shells are command-line interpreters that allow users to execute commands in Unix-like operating systems. Ruby is a dynamic, object-oriented programming language known for its simplicity and productivity. The combination of these two technologies in Rubish presents a novel approach to shell development.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">Bash ( Unix shell ) - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Ruby_(programming_language)">Ruby (programming language) - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Open-source_software_development">Open-source software development - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Community members have expressed a mix of amazement and skepticism regarding the project, with some praising its innovative approach while others raise concerns about usability and performance. There is a general interest in how this shell could influence the use of Ruby in scripting tasks.
-
-**Tags**: `#Ruby`, `#Unix Shell`, `#Programming Languages`, `#Open Source`, `#Community Discussion`
-
----
-
-<a id="item-24"></a>
-## [Spanish court declines to fine NordVPN over LaLiga piracy blocking order](https://torrentfreak.com/spanish-court-declines-to-fine-nordvpn-over-laliga-piracy-blocking-order/) ⭐️ 7.0/10
-
-A Spanish court has ruled against fining NordVPN for its involvement in blocking LaLiga piracy. This decision has sparked discussions regarding privacy rights and the implications of IP blocking. This ruling is significant as it highlights the ongoing tension between digital rights and anti-piracy measures. It affects not only VPN providers but also users concerned about their privacy and access to content. The court's decision reflects a growing recognition of privacy rights in the face of aggressive anti-piracy strategies. IP blocking can be circumvented by users employing VPNs, which complicates enforcement efforts.
-
-hackernews · gslin · May 23, 06:54
-
-**Background**: IP blocking is a common practice used to restrict access to certain online content based on geographic location or to prevent piracy. LaLiga has been actively combating piracy to protect its broadcasting rights, leading to legal challenges involving VPN services like NordVPN.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/IP_blocking">IP blocking</a></li>
-<li><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2p4ekxDSUR4SFRkbmViak5DWWlTZ0FQAQ?hl=en-US&gl=US&ceid=US:en">Google News - LaLiga piracy campaign - Overview</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Community comments reflect a mix of support for the court's decision and concerns about the implications of IP blocking on privacy. Many users express frustration with the current state of digital rights and the power dynamics in sports broadcasting.
-
-**Tags**: `#privacy`, `#VPN`, `#legal`, `#digital rights`, `#LaLiga`
-
----
-
-<a id="item-25"></a>
-## [Oura Acknowledges Government Data Requests](https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/) ⭐️ 7.0/10
-
-Oura has publicly acknowledged that it receives government requests for user data, raising concerns about privacy. This revelation has sparked discussions about the implications of biometric data sharing. This is significant as it highlights the tension between user privacy and government surveillance, affecting users' trust in health technology. The handling of biometric data is increasingly scrutinized, especially under various privacy regulations. Oura's data is not end-to-end encrypted, which means that health data can be accessed at certain points during transmission. This raises questions about the security of user data and the potential for unauthorized access.
-
-hackernews · donohoe · May 23, 14:09
-
-**Background**: Biometric data, which includes health metrics collected by devices like the Oura Ring, is subject to various privacy regulations that aim to protect user information. As governments increasingly seek access to such data for surveillance purposes, companies must navigate the complex landscape of data privacy laws.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://ouraring.com/security">Oura Ring Data Protection and Trust</a></li>
-<li><a href="https://www.mozillafoundation.org/en/privacynotincluded/oura-ring/">Oura Ring | Privacy & security guide | Mozilla Foundation</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Community comments reflect a mix of concerns regarding Oura's data handling practices and skepticism about government intentions. Users are particularly worried about the lack of end-to-end encryption and the implications of sharing health data with authorities.
-
-**Tags**: `#data privacy`, `#biometrics`, `#government surveillance`, `#user data`, `#health technology`
-
----
-
-<a id="item-26"></a>
-## [Electrobun 2.0 Decoupled from Bun Due to Rust Rewrite](https://twitter.com/YoavCodes/status/2058064720553222567) ⭐️ 7.0/10
-
-Electrobun 2.0 will be separated from Bun as it undergoes a Rust rewrite, enhancing its capabilities for cross-platform applications. This architectural change was announced recently by Yoav on social media. This decoupling is significant as it indicates a shift towards more robust and efficient software architecture, potentially improving performance and security. Developers working on cross-platform applications will be particularly affected by these changes. Electrobun aims to provide a complete solution for building ultra-fast, tiny, and cross-platform desktop applications using TypeScript, with native bindings in Objc, C++, and Zig. The shift to Rust is expected to enhance its tooling and performance.
-
-hackernews · bundie · May 23, 11:54
-
-**Background**: Electrobun is designed to be a comprehensive framework for developing cross-platform applications, leveraging the capabilities of Bun, a JavaScript runtime. Rust is known for its performance and memory safety, making it a favorable choice for modern software development.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://x.com/YoavCodes/status/2058064720553222567">Electrobun 2.0 will also be decoupled from Bun due to the ...</a></li>
-<li><a href="https://ideaverse.ai/blog/electrobun-2-0-decouples-from-bun-as-rust-rewrite-reshapes-tooling-mpipvea5">Electrobun 2.0 decouples from Bun as Rust rewrite reshapes ...</a></li>
-<li><a href="https://news.mcan.sh/item/48246917">Electrobun 2.0 will be decoupled from Bun due to the rust ...</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Community members expressed interest in the decoupling, with some viewing it as a bellwether for future software development trends. There were discussions about Electrobun's potential as an alternative to Electron and concerns about large codebases built using LLMs.
-
-**Tags**: `#Electrobun`, `#Bun`, `#Rust`, `#Cross-Platform Development`, `#Software Architecture`
+**Tags**: `#software engineering`, `#LLMs`, `#coding practices`, `#rigor`, `#community discussion`
 
 ---
 
 <a id="item-27"></a>
-## [FBI Seeks Near Real-Time Access to License Plate Readers](https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/) ⭐️ 7.0/10
+## [ICE Awards $25M Iris-Scanning Contract to Bi2 Technologies](https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning) ⭐️ 7.0/10
 
-The FBI is requesting near real-time access to automated license plate readers (ALPRs) across the United States. This move has ignited discussions around privacy rights and the implications of increased surveillance. This request is significant as it raises concerns about privacy and civil liberties, potentially affecting how law enforcement interacts with the public. The broader implications could influence public policy and the future of surveillance technologies. Automated license plate readers are used to capture and store vehicle license plate information, and the FBI's request could lead to more extensive use of this technology without proper oversight. Critics argue that this could violate Fourth Amendment rights against unreasonable searches.
+The U.S. Immigration and Customs Enforcement (ICE) has awarded a $25 million contract to Bi2 Technologies for iris-scanning technology. This contract is five times larger than ICE's previous contract with the company and aims to deploy devices by late June. This contract is significant as it raises ethical and security concerns regarding government procurement practices and the implications for public safety. The decision could set a precedent for future contracts involving biometric technologies. The contract was awarded without a competitive bidding process, which has sparked criticism regarding transparency and accountability. Additionally, the procurement did not require the system to pass the Federal Risk and Authorization Management Program (FedRAMP) security review.
 
-hackernews · Brajeshwar · May 23, 13:57
+hackernews · cdrnsf · May 23, 23:39
 
-**Background**: Automated license plate readers (ALPRs) have been utilized by law enforcement for over two decades, capturing data from passing vehicles. The technology raises ethical questions regarding surveillance and privacy, especially as it becomes more integrated into law enforcement practices.
+**Background**: Iris-scanning technology is a biometric authentication method that uses unique patterns in the iris for identification. It has become increasingly popular in security applications, including border control and identity verification systems.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.caranddriver.com/news/a70792616/automated-license-plate-reader-explainer/">What's the Story Behind Automated License Plate Readers?</a></li>
-<li><a href="https://www.dhs.gov/science-and-technology/saver/automatic-license-plate-readers">Automatic License Plate Readers - Homeland Security</a></li>
-<li><a href="https://www.congress.gov/crs_external_products/R/PDF/R48160/R48160.3.pdf">Law Enforcement and Technology: Use of Automated License ...</a></li>
+<li><a href="https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning">ICE Awards $25 Million Iris-Scanning Contract to Bi2 Technologies</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Iris_recognition">Iris recognition - Wikipedia</a></li>
+<li><a href="https://bi2technologies.com/">Home - bi2technologies.com</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community comments reflect a mix of concerns and innovative ideas regarding surveillance practices. Some users emphasize the need for transparency and accountability in law enforcement, while others propose alternative solutions to enhance public safety without compromising privacy.
+**Discussion**: Community comments reflect a mix of skepticism and concern regarding the contract's implications for public safety and government accountability. Some commenters express disbelief over the lack of competitive bidding and potential security risks.
 
-**Tags**: `#Surveillance`, `#Privacy`, `#Law Enforcement`, `#Technology Ethics`, `#Public Policy`
+**Tags**: `#government contracting`, `#iris scanning`, `#privacy`, `#security`, `#technology ethics`
 
 ---
 
 <a id="item-28"></a>
-## [Google CEO Pichai Redefines Links as Part of Search](https://the-decoder.com/google-ceo-pichai-now-calls-links-a-part-of-search-redefining-the-webs-role-in-its-own-product/) ⭐️ 7.0/10
+## [Italy moves to Airbus A330 tankers](https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift) ⭐️ 7.0/10
 
-Google CEO Sundar Pichai has recently stated that links and sources are a 'part' of search, emphasizing a shift in Google's role. This change indicates a move from being a traffic distributor to an AI publisher. This redefinition is significant as it reflects a broader trend in the tech industry towards AI-driven content curation. It could impact how users interact with search results and the overall dynamics of web traffic. Pichai's comments suggest that Google's new features are designed to keep users within its ecosystem, raising questions about editorial power in source selection. This shift could lead to reduced visibility for external content.
+Italy has finalized a €1.39 billion contract to acquire six Airbus A330 MRTT tankers, marking a significant shift from U.S.-based Boeing platforms. This decision follows Italy's abandonment of the KC-46A Pegasus program in 2024. This move aligns Italy's defense procurement with NATO interests and enhances its military capabilities. It also reflects competitive dynamics in military aviation, potentially impacting U.S. defense contractors. The Airbus A330 MRTT is known for its versatility in air-to-air refueling and transport missions, making it a preferred choice among many nations. Italy's decision is seen as a win for Airbus amid ongoing issues with the KC-46.
 
-rss · The Decoder · May 23, 09:16
+hackernews · embedding-shape · May 23, 16:02
 
-**Background**: Links have traditionally been seen as a fundamental part of the web, serving as pathways to information. Google's search engine has relied on these links to direct traffic to various websites, but the rise of AI technologies is prompting a reevaluation of this model.
+**Background**: The Airbus A330 MRTT is a military variant of the civilian A330 aircraft, designed for aerial refueling and transport. It has been adopted by several NATO and non-NATO countries, enhancing interoperability among allied forces.
 
-**Tags**: `#Google`, `#Search Engine`, `#AI`, `#Web Development`, `#Editorial Power`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Airbus_A330_MRTT">Airbus A330 MRTT - Wikipedia</a></li>
+<li><a href="https://www.airbus.com/en/products-services/defence/military-aircraft/a330-mrtt">A330 MRTT | Military Aircraft | Defence - Airbus</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community comments highlight concerns over the reliability of U.S. military contracts and the implications of Italy's decision for NATO dynamics. Analysts suggest that this shift may indicate a broader trend of European nations seeking alternatives to U.S. defense systems.
+
+**Tags**: `#defense`, `#NATO`, `#military aviation`, `#Airbus`, `#geopolitics`
 
 ---
 
 <a id="item-29"></a>
-## [Radar Can Tell the Difference Between Insect Species](https://spectrum.ieee.org/mmwave-radar-insects-pollinators) ⭐️ 7.0/10
+## [Oura acknowledges government requests for user data](https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/) ⭐️ 7.0/10
 
-Researchers have developed a radar system that can non-invasively monitor and differentiate between insect species, particularly pollinators like bees. This system utilizes micro-Doppler signatures to identify subtle distinctions in insect movements. This development is significant as it offers a cost-effective solution to monitor pollinators, which are crucial for agriculture and biodiversity. Improved monitoring can help address ecological challenges related to declining insect populations. The radar system uses millimeter waves, which are better suited for detecting small insects. The researchers trained a machine learning model on five species of pollinators to analyze radar reflections and identify distinguishing features.
+Oura has publicly stated that it receives requests from government entities for user data, raising significant privacy concerns. This acknowledgment has sparked discussions about how such data might be handled and shared. This development is significant as it highlights the ongoing tension between user privacy and government surveillance, particularly in the health tech sector. Users of Oura devices may be concerned about how their health data is being utilized and protected. Oura's data handling practices have come under scrutiny, especially since it has been noted that their data is not end-to-end encrypted. This raises questions about the security of user data as it travels from devices to servers.
 
-rss · IEEE Spectrum AI · May 23, 13:00
+hackernews · donohoe · May 23, 14:09
 
-**Background**: Pollinators like bees are essential for food production and ecosystem health, yet traditional monitoring methods often involve capturing and killing insects. Radar technology has been used for decades to study insect migration, but this new approach focuses on individual insects near the ground.
+**Background**: Oura is a health technology company known for its smart rings that track various health metrics. The company has faced scrutiny over its privacy policies, especially in light of collaborations with data analytics firms. The implications of government data requests are particularly relevant in the context of health data, which is often sensitive and subject to strict regulations.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://biocommunication.org/en/insects360/insect-biodiversity/radars-for-insect-monitoring/">Radars for insect monitoring | Biocommunication Group</a></li>
+<li><a href="https://ouraring.com/privacy-policy">Oura Ring Privacy Policy Oura Health</a></li>
+<li><a href="https://techreport.com/news/software/oura-ring-privacy-concerns/">How Valid Are Oura Ring Privacy Concerns | Techreport</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Radar Technology`, `#Pollinators`, `#Machine Learning`, `#Ecology`, `#Agriculture`
+**Discussion**: Community comments reflect a mix of skepticism and concern regarding Oura's data security practices. Some users express frustration over the lack of responses from Oura, while others question the implications of government access to their health data.
+
+**Tags**: `#privacy`, `#data security`, `#government surveillance`, `#health tech`, `#encryption`
 
 ---
 
 <a id="item-30"></a>
-## [Per-pixel Bounding-box Regression and DBSCAN for Handwritten Word Detection](https://www.reddit.com/r/MachineLearning/comments/1tloksk/perpixel_boundingbox_regression_dbscan_for/) ⭐️ 7.0/10
+## [Google CEO Pichai Redefines Links as Part of Search](https://the-decoder.com/google-ceo-pichai-now-calls-links-a-part-of-search-redefining-the-webs-role-in-its-own-product/) ⭐️ 7.0/10
 
-A visual walkthrough of WordDetectorNet has been shared, showcasing a novel approach to handwritten word detection using per-pixel bounding-box regression and DBSCAN. This model, designed by Harald Scheidl, aims to improve the accuracy of detecting handwritten words. This development is significant as it introduces a unique method that could enhance the performance of handwritten text recognition systems, impacting researchers and practitioners in machine learning and computer vision. The approach may lead to more efficient and accurate detection of handwritten words in various applications. The model utilizes a ResNet18 backbone and regresses four scalar distances for each pixel classified as a 'word pixel'. However, the pairwise IoU distance matrix can become a runtime bottleneck due to its O(n²) complexity.
+Google CEO Sundar Pichai has recently referred to links and sources as a 'part' of search, indicating a shift in Google's strategy. This change emphasizes the company's move towards becoming an AI-driven content publisher rather than just a traffic distributor. This redefinition is significant as it highlights Google's evolving role in content curation and editorial power, potentially impacting how users interact with information online. It also raises questions about the future of web links and their importance in search algorithms. Pichai's statement suggests a deliberate strategy to keep users within the Google ecosystem, which may limit the visibility of external sources. This shift towards AI-driven content curation could redefine the relationship between search engines and web content.
 
-rss · Reddit MachineLearning · May 23, 18:43
+rss · The Decoder · May 23, 09:16
 
-**Background**: Handwritten word detection is a challenging task in computer vision, requiring models to accurately identify and localize text in images. Traditional methods often rely on anchor-based detection and non-maximum suppression (NMS), which can be limiting. The introduction of per-pixel bounding-box regression offers a new perspective by allowing each pixel to contribute to the bounding box prediction directly.
+**Background**: Traditionally, links have been seen as essential components of search engines, guiding users to various sources of information. However, as AI technologies advance, companies like Google are exploring new ways to curate content, which could alter the fundamental nature of how search engines operate.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://lellep.xyz/blog/worddetectornet-visually-explained.html">WordDetectorNet Visually Explained | Blog</a></li>
-<li><a href="https://en.wikipedia.org/wiki/DBSCAN">DBSCAN - Wikipedia</a></li>
+<li><a href="https://numerous.ai/blog/ai-based-content-curation">5 Best AI-Based Content Curation Tools in 2025 - numerous.ai</a></li>
+<li><a href="https://www.linkedin.com/pulse/role-ai-content-curation-ibee-analytics-c5kpc/">The Role of AI in Content Curation - LinkedIn</a></li>
+<li><a href="https://arxiv.org/html/2510.27489v1">Auditing LLM Editorial Bias in News Media Exposure - arXiv.org</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community discussion around this post has been limited, with few comments provided. However, the initial feedback suggests curiosity about the unique design choices and their implications for future research.
+**Discussion**: Community discussions around this topic have shown a mix of concern and intrigue regarding the implications of Google's shift. Many users are questioning how this will affect their access to diverse information sources and the overall transparency of search results.
 
-**Tags**: `#Machine Learning`, `#Computer Vision`, `#Handwritten Text Recognition`, `#Deep Learning`, `#DBSCAN`
+**Tags**: `#Google`, `#Search`, `#AI`, `#Web Development`, `#Editorial Power`
 
 ---
 
 <a id="item-31"></a>
-## [Fine-Tuning LLM to Embody C-3PO for Persona Injection](https://www.reddit.com/r/MachineLearning/comments/1tlnvf0/i_finetuned_an_llm_to_be_c3po_to_test_which/) ⭐️ 7.0/10
+## [Radar Can Tell the Difference Between Insect Species](https://spectrum.ieee.org/mmwave-radar-insects-pollinators) ⭐️ 7.0/10
 
-The author fine-tuned a large language model (LLM) to embody C-3PO and tested three different training data formats. The experiment revealed that first-person statements yielded the best generalization results. This experiment is significant as it explores effective methods for persona injection in AI, which can enhance character modeling in various applications. The findings could influence how LLMs are trained for more nuanced and human-like interactions. The study tested three formats: chat demos, first-person statements, and synthetic Wikipedia-style documents, with 500 examples for each. Interestingly, while the synthetic document model recognized C-3PO's anxiety, it only expressed this trait 37% of the time, highlighting a gap between knowledge and expression.
+Researchers have developed a radar system that can non-invasively identify and track pollinating insects, improving monitoring methods. This system utilizes millimeter-wave radar to analyze micro-Doppler signatures from insect wingbeats. This development is significant as it provides a more efficient way to monitor pollinator populations, which are crucial for agriculture and ecosystems. Improved monitoring can lead to better conservation strategies and agricultural practices. The radar system focuses on detecting micro-Doppler signatures, which are subtle patterns in radar reflections caused by insect wing movements. The researchers trained a machine learning model on five species of pollinators to enhance identification accuracy.
 
-rss · Reddit MachineLearning · May 23, 18:15
+rss · IEEE Spectrum AI · May 23, 13:00
 
-**Background**: Persona injection is a technique used in large language models to imbue them with specific character traits or personas, enhancing their ability to interact in a more human-like manner. The LoRA (Low-Rank Adaptation) configuration allows for efficient fine-tuning of these models, requiring fewer resources than traditional methods.
+**Background**: Pollinating insects like bees are essential for food production and maintaining biodiversity. Traditional methods of monitoring these insects often involve capturing and killing them, which is not sustainable. The use of radar technology offers a non-invasive alternative that can improve data collection on insect populations.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.emergentmind.com/topics/personahub">PersonaHub: Synthetic Personas for LLMs</a></li>
+<li><a href="https://bioengineer.org/tracking-insects-using-radar-technology/">Tracking Insects Using Radar Technology - bioengineer.org</a></li>
+<li><a href="https://scienmag.com/tracking-insects-using-radar-technology/">Tracking Insects Using Radar Technology - scienmag.com</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#radar technology`, `#pollinators`, `#machine learning`, `#agriculture`, `#ecology`
+
+---
+
+<a id="item-32"></a>
+## [Benchmarking Vision-capable LLMs vs. OCR for Long Documents](https://www.reddit.com/r/MachineLearning/comments/1tm0cqg/visioncapable_llms_vs_ocr_for_longdocument/) ⭐️ 7.0/10
+
+The author conducted a benchmark comparing vision-capable LLMs against OCR-based pipelines on 30 long, image-heavy PDFs, using Claude Sonnet 4.5 as the LLM. The results revealed various accuracy and cost metrics for different approaches. This analysis is significant as it provides insights into the effectiveness of emerging vision-capable LLMs compared to traditional OCR methods, which could influence future document processing technologies. The findings may affect developers and researchers in the AI/ML community looking to optimize long-document question answering. The benchmark included 171 questions and highlighted that the native PDF approach had a 7% intrinsic failure rate, while OCR-based methods showed 0% failure after retries. Additionally, the study noted that vision models underperformed on chart-heavy and table-heavy pages.
+
+rss · Reddit MachineLearning · May 24, 03:11
+
+**Background**: Vision-capable LLMs are advanced models that can process both text and images, enabling them to understand complex documents. OCR (Optical Character Recognition) is a technology used to convert different types of documents, such as scanned paper documents and PDFs, into editable and searchable data. The MMLongBench-Doc dataset used in the benchmark consists of long, image-heavy documents designed to test the capabilities of these models.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://github.com/mayubo2333/MMLongBench-Doc">GitHub - mayubo2333/MMLongBench-Doc: Official Repository of ...</a></li>
+<li><a href="https://www.geeksforgeeks.org/artificial-intelligence/what-is-agentic-rag/">Agentic RAG - GeeksforGeeks</a></li>
+<li><a href="https://artificialanalysis.ai/models/multimodal/vision">Vision Models: LLMs with Image Input Capabilities</a></li>
+
+</ul>
+</details>
+
+**Discussion**: The community discussion highlighted mixed sentiments, with some users praising the detailed benchmark while others expressed concerns about the small sample size affecting the reliability of the results. There were also discussions on the implications of the findings for future AI applications.
+
+**Tags**: `#Machine Learning`, `#Vision Models`, `#OCR`, `#Document Processing`, `#Benchmarking`
+
+---
+
+<a id="item-33"></a>
+## [Per-pixel Bounding-box Regression + DBSCAN for Handwritten Word Detection](https://www.reddit.com/r/MachineLearning/comments/1tloksk/perpixel_boundingbox_regression_dbscan_for/) ⭐️ 7.0/10
+
+A visual walkthrough of WordDetectorNet has been shared, showcasing its unique approach to handwritten word detection using per-pixel bounding-box regression and DBSCAN clustering. This model was designed by Harald Scheidl and aims to improve the accuracy of detecting handwritten words. This development is significant as it introduces a novel architecture that could enhance the performance of handwritten text recognition systems, which are crucial for various applications in machine learning and computer vision. The approach may influence future research and implementations in the field. The model utilizes a ResNet18 backbone modified for grayscale input and employs a unique clustering method with DBSCAN based on the intersection over union (IoU) metric. However, it faces challenges such as the computational complexity of the pairwise IoU distance matrix and the need for manual tuning of hyperparameters.
+
+rss · Reddit MachineLearning · May 23, 18:43
+
+**Background**: Handwritten text recognition is a challenging task in computer vision that involves detecting and interpreting text written by hand. Traditional methods often rely on anchor-based detection techniques, which can be limited by the need for careful tuning of parameters. The introduction of per-pixel bounding-box regression offers a new perspective on how to approach this problem.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/DBSCAN">DBSCAN - Wikipedia</a></li>
+<li><a href="https://www.geeksforgeeks.org/machine-learning/dbscan-clustering-in-ml-density-based-clustering/">DBSCAN Clustering in ML - Density based clustering</a></li>
+<li><a href="https://www.datacamp.com/tutorial/dbscan-clustering-algorithm">A Guide to the DBSCAN Clustering Algorithm - DataCamp</a></li>
+
+</ul>
+</details>
+
+**Discussion**: The community response has been limited, with few comments discussing the model's architecture and its implications. Some users expressed interest in the unique design choices, while others raised concerns about the computational efficiency of the approach.
+
+**Tags**: `#Machine Learning`, `#Computer Vision`, `#Handwritten Text Recognition`, `#Deep Learning`
+
+---
+
+<a id="item-34"></a>
+## [Fine-tuning an LLM to Embody C-3PO](https://www.reddit.com/r/MachineLearning/comments/1tlnvf0/i_finetuned_an_llm_to_be_c3po_to_test_which/) ⭐️ 7.0/10
+
+The author fine-tuned a large language model (LLM) to embody C-3PO and tested three different training data formats. They found that first-person statements provided the best generalization results. This experiment is significant as it explores the effectiveness of different training data formats for persona injection in LLMs, which is a growing area of interest in AI. The findings could influence how developers approach fine-tuning models for specific personas. The author tested three formats: chat demos, first-person statements, and synthetic Wikipedia-style documents, using the same model and LoRA configuration with 500 examples each. Interestingly, while the synthetic document model recognized C-3PO's anxiety, it only expressed it 37% of the time.
+
+rss · Reddit MachineLearning · May 23, 18:15
+
+**Background**: Fine-tuning large language models (LLMs) involves adjusting a pre-trained model to perform specific tasks more effectively. LoRA (Low-Rank Adaptation) is a technique that allows for efficient fine-tuning by reducing the number of parameters that need to be trained, making the process faster and less resource-intensive.
+
+<details><summary>References</summary>
+<ul>
 <li><a href="https://en.wikipedia.org/wiki/LoRA_(machine_learning)">LoRA (machine learning) - Wikipedia</a></li>
+<li><a href="https://www.geeksforgeeks.org/deep-learning/low-rank-adaptation-lora/">Low Rank Adaptation (LoRA) - GeeksforGeeks</a></li>
 <li><a href="https://www.geeksforgeeks.org/deep-learning/fine-tuning-large-language-model-llm/">Fine Tuning Large Language Model (LLM) - GeeksforGeeks</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community members expressed a mix of surprise and interest in the results, particularly regarding the unexpected effectiveness of first-person statements. Some raised questions about the implications for future character modeling and the nuances of persona injection.
+**Discussion**: The comments section lacks substantial engagement, with limited discussion on the findings. However, some users expressed curiosity about the implications of the results for future LLM training.
 
-**Tags**: `#LLM`, `#Persona Injection`, `#Machine Learning`, `#AI Character Modeling`, `#Fine-Tuning`
+**Tags**: `#LLM`, `#Persona Injection`, `#Machine Learning`, `#Fine-tuning`, `#AI`
 
 ---
 
-<a id="item-32"></a>
-## [Hebbian Architecture AI Model](https://www.reddit.com/r/MachineLearning/comments/1tlgcyf/hebbian_architecture_ai_model_r/) ⭐️ 7.0/10
+<a id="item-35"></a>
+## [Hebbian Architecture AI Model Shows Emergent Behaviors](https://www.reddit.com/r/MachineLearning/comments/1tlgcyf/hebbian_architecture_ai_model_r/) ⭐️ 7.0/10
 
-The author has developed a Hebbian architecture AI model that evolves connections naturally during training without using backpropagation. This model was tested over 50 epochs using the CIFAR-10 dataset. This approach could lead to significant advancements in AI model training by eliminating the need for backpropagation, which is a common limitation in traditional neural networks. It may also inspire new research directions in unsupervised learning. The model started with 1,000,000 neurons and scaled down to 100,000, achieving notable behaviors such as recovery after intentional damage to neurons. It was trained on a consumer GPU, specifically an RTX 3060 with 12GB of VRAM.
+The author has shared results from a Hebbian architecture AI model that operates without backpropagation, demonstrating unique emergent behaviors during training. The model was trained on the CIFAR-10 dataset over 50 epochs with a substrate that started with 1 million neurons and scaled down to 100,000. This development is significant as it challenges traditional AI training methods, such as backpropagation, potentially leading to more efficient and biologically inspired learning systems. It could impact the broader machine learning community by providing alternative approaches to model training. The model's emergent behaviors include unexpected performance dips followed by significant accuracy jumps, and it demonstrated recovery capabilities after intentional damage to active neurons. The training was conducted on a consumer-grade GPU, the RTX 3060.
 
 rss · Reddit MachineLearning · May 23, 13:21
 
-**Background**: Hebbian learning is a theory in neuroscience that suggests synaptic strength increases when a presynaptic neuron repeatedly stimulates a postsynaptic neuron. This principle is often summarized as 'neurons that fire together, wire together' and forms the basis for unsupervised learning in neural networks. The CIFAR-10 dataset is a widely used benchmark for training machine learning models, consisting of 60,000 32x32 color images across 10 classes.
+**Background**: Hebbian learning is a theory in neuroscience that suggests that synaptic strength increases when a presynaptic neuron repeatedly stimulates a postsynaptic neuron. This principle is often summarized as 'neurons that fire together, wire together' and serves as a basis for unsupervised learning in neural networks. The CIFAR-10 dataset is a widely used benchmark in machine learning, consisting of 60,000 images across 10 classes.
 
 <details><summary>References</summary>
 <ul>
@@ -767,238 +834,263 @@ rss · Reddit MachineLearning · May 23, 13:21
 </ul>
 </details>
 
-**Tags**: `#Hebbian Learning`, `#AI Architecture`, `#Neural Networks`, `#Machine Learning`, `#CIFAR-10`
+**Discussion**: The discussion around this model is limited, with few comments or engagement from the community. However, the novelty of the approach has sparked some interest among machine learning enthusiasts.
 
----
-
-<a id="item-33"></a>
-## [Dynamic Personal Database for AI Memory](https://www.reddit.com/r/MachineLearning/comments/1tl9y7h/is_personalized_ai_memory_actually_a_problem/) ⭐️ 7.0/10
-
-The author proposes a dynamic personal database for AI that evolves over time to better understand individual cognitive patterns and improve user interactions. This approach aims to enhance the memory capabilities of AI systems beyond simple fact retention. This concept is significant as it could lead to more personalized AI interactions, making systems like chatbots and virtual assistants more effective in understanding user needs. It addresses a common frustration users face with current AI memory limitations. The proposed system would create a cognitive profile that evolves based on user interactions, allowing AI to understand individual learning patterns and preferences. This goes beyond traditional memory features, which often only recall facts without contextual understanding.
-
-rss · Reddit MachineLearning · May 23, 07:47
-
-**Background**: Current AI systems often struggle with personalized memory, typically recalling only basic facts about users. The idea of a dynamic personal database aims to enhance this by tracking not just what users ask but how they think and learn over time. This could improve the effectiveness of AI in various applications, from education to customer service.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.mindstudio.ai/blog/what-is-openbrain-personal-ai-memory-database">What Is OpenBrain? The Personal AI Memory Database You Own ...</a></li>
-<li><a href="https://www.sciencedirect.com/science/article/pii/S0747563224004175">AI-driven personalization: Unraveling consumer perceptions in ...</a></li>
-
-</ul>
-</details>
-
-**Discussion**: The community discussion reflects a mix of curiosity and skepticism, with some users resonating with the idea while others question its feasibility and implementation. Overall, there is a desire for more personalized AI experiences.
-
-**Tags**: `#AI Memory`, `#Personalization`, `#Machine Learning`, `#Cognitive Patterns`, `#User Interaction`
-
----
-
-<a id="item-34"></a>
-## [Command A+ (218B MoE) Running on Apple Silicon](https://www.reddit.com/r/LocalLLaMA/comments/1tlqxeh/command_a_218b_moe_running_on_apple_silicon_mlx/) ⭐️ 7.0/10
-
-Cohere has successfully ported the Command A+ (218B MoE) model to run on Apple Silicon, with a pull request now open for review. This implementation includes architectural insights for developers working with the model. This development is significant as it enables the use of a powerful machine learning model on Apple's hardware, potentially expanding its accessibility and application in various AI tasks. It could impact developers and researchers in the AI/ML community who utilize Apple Silicon for their projects. The model features a mixture of experts architecture with 218 billion total parameters, including 25 billion active parameters and 128 experts. Notably, it uses a sigmoid routing mechanism instead of softmax and incorporates a sliding window approach for attention layers.
-
-rss · Reddit LocalLLaMA · May 23, 20:14
-
-**Background**: The Command A+ model is an advanced language model developed by Cohere, designed for complex reasoning and multimodal tasks. It utilizes a mixture of experts (MoE) architecture, which allows it to scale efficiently while maintaining performance. The model's architecture includes unique features like rotary position embeddings (RoPE) to enhance its capabilities.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://cohere.com/blog/command-a-plus">Introducing Command A+ | Cohere</a></li>
-<li><a href="https://huggingface.co/blog/moe">Mixture of Experts Explained - Hugging Face</a></li>
-<li><a href="https://learnopencv.com/rope-position-embeddings/">Inside RoPE: Rotary Magic into Position Embeddings - LearnOpenCV</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Machine Learning`, `#Apple Silicon`, `#Model Implementation`, `#AI`, `#Cohere`
-
----
-
-<a id="item-35"></a>
-## [Palantir Granted Unlimited Access to NHS England Patient Data](https://www.reddit.com/r/artificial/comments/1tlig93/amnesty_us_software_company_palantir_and_other/) ⭐️ 7.0/10
-
-Amnesty International revealed that Palantir and other contractors have been granted unlimited access to identifiable patient information from NHS England. This decision raises significant ethical concerns regarding data privacy. This situation is significant as it highlights the potential risks associated with private companies accessing sensitive health data, impacting patient privacy and trust in healthcare systems. It also reflects ongoing debates about data governance in the age of AI. Palantir is known for its data integration and analytics platforms, which could facilitate the analysis of large datasets, but the implications of such access on patient confidentiality are concerning. The decision also raises questions about compliance with NHS England's data protection policies.
-
-rss · Reddit Artificial · May 23, 14:46
-
-**Background**: NHS England is responsible for protecting patient data and ensuring compliance with data protection laws. The organization has established guidelines to safeguard identifiable information, which are now under scrutiny with this new access granted to contractors.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.england.nhs.uk/long-read/data-protection-policy/">Data protection policy - NHS England</a></li>
-<li><a href="https://www.gov.uk/government/publications/nhs-englands-protection-of-patient-data/nhs-englands-protection-of-patient-data">NHS England’s protection of patient data - GOV.UK Protecting patient data - NHS England Digital Data protection and information governance - Health Research ... Understanding laws that regulate the use of health and care data Statutory guidance NHS England’s protection of patient da Data Security and Protection Toolkit</a></li>
-<li><a href="https://www.palantir.com/docs/foundry/platform-overview/overview">Platform overview - Palantir</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Community discussions reflect a mix of support and concern regarding the implications of this decision. Many express worries about privacy and the potential misuse of sensitive data by private companies.
-
-**Tags**: `#data privacy`, `#healthcare`, `#AI ethics`, `#NHS`, `#Palantir`
+**Tags**: `#Hebbian Learning`, `#AI Model`, `#Machine Learning`, `#Neural Networks`, `#CIFAR-10`
 
 ---
 
 <a id="item-36"></a>
-## [Challenges of Durable Memory in Multi-Agent AI Systems](https://www.reddit.com/r/artificial/comments/1tlwgk8/where_should_durable_memory_live_in_a_multiagent/) ⭐️ 7.0/10
+## [Exploring Personalized AI Memory for Enhanced User Interaction](https://www.reddit.com/r/MachineLearning/comments/1tl9y7h/is_personalized_ai_memory_actually_a_problem/) ⭐️ 7.0/10
 
-The author discusses the challenges of maintaining project memory among AI agents in multi-agent setups and suggests leveraging established practices from consulting firms for potential solutions. This exploration includes a hypothesis that durable memory should reside with the project owner. This issue is significant as effective memory management can enhance collaboration and efficiency among AI agents, impacting project outcomes. By drawing parallels with consulting practices, the author aims to provide insights that could improve multi-agent system performance. The author proposes that project memory should be maintained by a persistent project manager who frames requests and verifies work, while task specialists receive limited context. The discussion also references existing academic frameworks and systems related to project memory.
+The author proposes a concept for AI systems to create a dynamic personal database that evolves with the user's cognitive patterns. This database would not only remember user queries but also adapt to how users think and learn over time. This idea could significantly improve user interaction with AI systems by making them more intuitive and personalized. As AI continues to integrate into daily life, understanding user cognitive patterns could lead to more effective learning and assistance. The proposed system would track not just facts but also user struggles and successful explanations, creating a more nuanced understanding of individual users. This could lead to smarter retrieval and more relevant responses from AI.
 
-rss · Reddit Artificial · May 24, 00:09
+rss · Reddit MachineLearning · May 23, 07:47
 
-**Background**: In multi-agent systems, managing memory is crucial for agents to maintain context and collaborate effectively. The concept of project memory involves storing and retrieving knowledge that informs current work, which is essential for long-term projects. Consulting firms have developed structured practices to manage knowledge and memory over extended engagements, which can be beneficial for AI agents.
+**Background**: Personalized AI memory refers to the ability of AI systems to remember and adapt to individual user preferences and cognitive styles. Current AI memory techniques often focus on recalling isolated facts, but there is a growing need for systems that can evolve with the user's learning patterns and contexts.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://grokipedia.com/page/Memory_Management_in_Multi-Agent_Systems">Memory Management in Multi-Agent Systems</a></li>
-<li><a href="https://microsoft.github.io/ai-agents-for-beginners/13-agent-memory/">Memory for AI Agents | ai-agents-for-beginners</a></li>
+<li><a href="https://www.mindstudio.ai/blog/what-is-openbrain-personal-ai-memory-database">What Is OpenBrain? The Personal AI Memory Database You Own ...</a></li>
+<li><a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1774233/full">Frontiers | Machine learning-driven model construction for ...</a></li>
+
+</ul>
+</details>
+
+**Discussion**: The community discussion reflects a mix of curiosity and skepticism regarding the feasibility of such a personalized AI memory system. Some users express interest in the concept, while others question its practicality and implementation.
+
+**Tags**: `#AI Memory`, `#Personalization`, `#Machine Learning`, `#User Interaction`, `#Cognitive Patterns`
+
+---
+
+<a id="item-37"></a>
+## [Command A+ (218B MoE) running on Apple Silicon — MLX port, PR open](https://www.reddit.com/r/LocalLLaMA/comments/1tlqxeh/command_a_218b_moe_running_on_apple_silicon_mlx/) ⭐️ 7.0/10
+
+Cohere has successfully ported the Command A+ model (218B total parameters, 25B active) to Apple Silicon, with a new implementation for mlx-lm. The model features unique architectural notes that enhance its performance. This development is significant for developers and researchers in the machine learning community, as it enables the use of a powerful language model on Apple hardware. The ability to run such models efficiently on Apple Silicon could influence future AI applications and research. The implementation includes architectural features such as a single shared expert with a larger intermediate size and sigmoid routing instead of softmax. Additionally, the model requires significant memory resources, with the W4A4 checkpoint needing around 132GB.
+
+rss · Reddit LocalLLaMA · May 23, 20:14
+
+**Background**: Command A+ is a state-of-the-art language model developed by Cohere, designed for complex reasoning and multimodal tasks. It utilizes a Mixture of Experts (MoE) architecture, which allows it to dynamically select and activate relevant sub-models for processing input data efficiently.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://cohere.com/blog/command-a-plus">Introducing Command A+ | Cohere</a></li>
+<li><a href="https://huggingface.co/CohereLabs/command-a-plus-05-2026-bf16">CohereLabs/command-a-plus-05-2026-bf16 · Hugging Face</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Mixture_of_experts">Mixture of experts - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Machine Learning`, `#Apple Silicon`, `#Model Implementation`, `#Cohere`, `#MLX`
+
+---
+
+<a id="item-38"></a>
+## [Performance When Offloading Large Models to System RAM](https://www.reddit.com/r/LocalLLaMA/comments/1tlztgj/performance_when_offloading_large_models_to/) ⭐️ 7.0/10
+
+The author discusses the performance trade-offs of using large GPU VRAM versus offloading model weights to system RAM for AI applications. This exploration includes specific models like Deepseek V4 Pro and GPU comparisons such as RTX 5090 and RTX 6000. Understanding the performance implications of memory management in AI models is crucial as it affects computational efficiency and cost. This discussion is particularly relevant given the increasing complexity and size of AI models in the industry. The author questions whether having a larger VRAM pool provides significant advantages during model execution, especially during decoding phases where system RAM bandwidth may become a bottleneck. The discussion also touches on caching strategies for model experts in VRAM.
+
+rss · Reddit LocalLLaMA · May 24, 02:46
+
+**Background**: In AI applications, particularly those involving large models, the choice between using GPU VRAM and system RAM can significantly impact performance. VRAM is typically faster but more expensive, while system RAM is more cost-effective but may lead to slower data access times. Understanding these trade-offs is essential for optimizing AI model performance.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/DeepSeek_(product)">DeepSeek (product)</a></li>
+<li><a href="https://www.digitalcitizen.life/pcie-lanes-and-bandwidth-explained-how-they-affect-gpus-ssds-and-expansion-cards/">PCIe Lanes and Bandwidth Explained: How They Affect GPUs ...</a></li>
+<li><a href="https://forums.tomshardware.com/threads/gddr5-dedicated-vram-versus-ddr5-system-ram.3817734/">Question - GDDR5 Dedicated VRAM versus DDR5 System RAM ?</a></li>
+
+</ul>
+</details>
+
+**Discussion**: The community discussion is focused on the technical implications of memory management in AI models, with users sharing insights and experiences regarding performance differences. There is a mix of agreement and curiosity about the best configurations for running large models effectively.
+
+**Tags**: `#AI`, `#Machine Learning`, `#GPU`, `#Performance`, `#Model Optimization`
+
+---
+
+<a id="item-39"></a>
+## [The Real Reason Most AI Agents Fail](https://www.reddit.com/r/artificial/comments/1tm4aau/ig_nobody_is_talking_about_the_real_reason_most/) ⭐️ 7.0/10
+
+The author emphasizes that AI agents often fail not due to their capabilities but because of user engagement and behavior. This perspective shifts the focus from technical limitations to the importance of integrating AI into users' existing habits. This insight is significant as it highlights the need for AI developers to consider user behavior when designing applications, potentially leading to more successful AI implementations. Understanding this can help improve user experience and increase the adoption of AI technologies. The author identifies key failure modes of AI agents, such as lack of proactive engagement and memory retention. Tools like Agno and Langchain are mentioned as existing solutions to build more effective AI systems.
+
+rss · Reddit Artificial · May 24, 06:33
+
+**Background**: AI agents are designed to assist users by automating tasks and providing information. However, their effectiveness can be limited by how well they integrate into users' daily routines and their ability to remember user preferences. This discussion highlights the gap between AI's theoretical capabilities and practical applications.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0268401225000404">Dynamics of user engagement: AI mastery goal and the paradox ... AI Applications That Boost User Engagement Rates - LinkedIn AI-driven User Engagement: A Data-Driven Guide - Valasys Media How to leverage AI in employee engagement - IBM Boost User Engagement: 5 Proven AI Strategies That Work Driving Mechanisms of User Engagement With AI-Generated ... Understanding Users’ Acceptance of Artificial Intelligence ...</a></li>
+<li><a href="https://www.linkedin.com/top-content/artificial-intelligence/ai-for-enhancing-user-experience/ai-applications-that-boost-user-engagement-rates/">AI Applications That Boost User Engagement Rates - LinkedIn</a></li>
+<li><a href="https://www.tekrevol.com/blogs/reactive-vs-proactive-ai-agents-whats-the-difference/">Reactive vs. Proactive AI Agents: What’s the Difference?</a></li>
+
+</ul>
+</details>
+
+**Discussion**: The community discussion reflects a mix of agreement and further inquiries about how to effectively implement these insights in real-world applications. Some users express concerns about the feasibility of creating proactive AI agents.
+
+**Tags**: `#AI`, `#User Experience`, `#Technology Adoption`, `#Behavioral Insights`
+
+---
+
+<a id="item-40"></a>
+## [Durable Memory in Multi-Agent AI Setups](https://www.reddit.com/r/artificial/comments/1tlwgk8/where_should_durable_memory_live_in_a_multiagent/) ⭐️ 7.0/10
+
+The author discusses the challenges of maintaining project memory in multi-agent AI setups and proposes insights from consulting practices as potential solutions. This exploration includes a hypothesis that durable memory should be managed by the project owner with minimal context provided to task specialists. This is significant as it addresses a common failure mode in multi-agent systems, potentially improving project management efficiency. The insights drawn from established consulting practices could lead to innovative approaches in AI project management. The proposed model emphasizes that the project folder should serve as the unit of persistence, rather than conversations, and includes tools such as decision logs and handoff briefs. The author plans to conduct a field trial to validate these ideas before making definitive claims.
+
+rss · Reddit Artificial · May 24, 00:09
+
+**Background**: Multi-agent systems (MAS) consist of multiple interacting intelligent agents that can solve complex problems collaboratively. Project memory refers to the knowledge available to inform current work, while the project-memory system encompasses its storage and retrieval. Understanding these concepts is crucial for improving the efficiency of AI-driven projects.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Multi-agent_system">Multi-agent system</a></li>
 <li><a href="https://pmoglobalinstitute.org/pmc-practice-guide/">Project Management Consultant Practice Guide (PMC Practice ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#multi-agent systems`, `#project management`, `#memory management`, `#research`
+**Discussion**: The community discussion is limited, with few comments providing feedback on the proposed memory boundary and its implications. Some users expressed curiosity about the effectiveness of the suggested model in real-world applications.
+
+**Tags**: `#AI`, `#multi-agent systems`, `#project management`, `#durable memory`, `#research`
 
 ---
 
-<a id="item-37"></a>
+<a id="item-41"></a>
 ## [Critique of Blindly Renting GPUs for AI Training](https://www.reddit.com/r/artificial/comments/1tlwevt/blindly_renting_massive_gpus_and_feeling_like_a/) ⭐️ 7.0/10
 
-The author critiques the trend of using massive GPU setups for AI training without understanding model evaluation and debugging. This has led to many users being surprised by poor model outputs despite using powerful hardware. This issue is significant as it highlights a common misconception in the AI community that more powerful hardware directly equates to better model performance. It affects both new practitioners and the overall quality of AI outputs in the industry. The article emphasizes that simply increasing GPU power does not guarantee better results, as poor training practices can lead to worse outcomes on larger hardware. It calls for a better understanding of model evaluation techniques and debugging strategies.
+The author critiques the trend of relying on large GPU setups for AI training without proper understanding of model evaluation and debugging. This highlights a misconception that more compute power directly leads to better model outcomes. This issue is significant as it underscores the importance of understanding model evaluation and debugging in AI development. Misguided reliance on hardware can lead to poor model performance, affecting both newcomers and experienced practitioners in the field. The discussion points out that many new AI practitioners mistakenly believe that simply using more powerful GPUs will yield better results, while in reality, poor training practices can scale poorly regardless of hardware. This emphasizes the need for better training methodologies.
 
 rss · Reddit Artificial · May 24, 00:07
 
-**Background**: In AI and machine learning, model evaluation is crucial for assessing how well a model performs on unseen data. Debugging is also essential to ensure that models function correctly and produce reliable outputs. As access to powerful GPUs increases, the need for proper training methodologies becomes even more important.
+**Background**: In AI and machine learning, model evaluation is crucial for assessing how well a model performs on unseen data. Debugging is also essential to ensure that models function correctly and efficiently. Many newcomers focus on acquiring hardware rather than understanding these fundamental concepts.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://www.geeksforgeeks.org/machine-learning/machine-learning-model-evaluation/">Machine Learning Model Evaluation - GeeksforGeeks</a></li>
-<li><a href="https://dev.to/ultraai/debugging-ai-tools-and-techniques-for-troubleshooting-ai-applications-3h2p">Debugging AI: Tools and Techniques for Troubleshooting AI ...</a></li>
+<li><a href="https://www.geeksforgeeks.org/blogs/ml-debugging-techniques/">Top 10 ML Debugging Techniques - GeeksforGeeks</a></li>
 <li><a href="https://martinuke0.github.io/posts/2026-01-06-ram-vs-vram-a-deep-dive-for-large-language-model-training-and-inference/">RAM vs VRAM: A Deep Dive for Large Language Model Training ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community discussion reflects a mix of agreement and concern, with many users acknowledging the importance of understanding model evaluation. Some express frustration over the trend of relying solely on hardware without proper training practices.
+**Discussion**: The community discussion reflects a mix of agreement and concern, with many users acknowledging the importance of understanding model evaluation and debugging. Some express frustration over the trend of prioritizing hardware over knowledge.
 
-**Tags**: `#AI`, `#Machine Learning`, `#GPU`, `#Training`, `#Evaluation`
-
----
-
-<a id="item-38"></a>
-## [Anthropic’s Code with Claude Showcases AI in Coding](https://www.reddit.com/r/artificial/comments/1tlh202/anthropics_code_with_claude_showed_off_codings/) ⭐️ 7.0/10
-
-Anthropic recently hosted the 'Code with Claude' event, showcasing advancements in AI-assisted coding tools. The event highlighted the capabilities of their AI system, Claude, in enhancing software development processes. This development is significant as it could reshape the future of programming, potentially affecting how developers approach coding tasks. The integration of AI in coding may lead to increased efficiency and new methodologies in software development. The 'Code with Claude' event featured live demonstrations of Claude's ability to understand codebases and execute multi-file changes autonomously. This showcases the potential for AI to take on more complex coding tasks traditionally handled by human developers.
-
-rss · Reddit Artificial · May 23, 13:50
-
-**Background**: AI-assisted coding involves using artificial intelligence technologies, such as large language models, to assist developers in the software development lifecycle. This approach aims to enhance productivity and streamline coding processes by automating repetitive tasks.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/">Anthropic’s Code with Claude showed off coding’s future ...</a></li>
-<li><a href="https://claude.com/code-with-claude">Code with Claude — Anthropic's Developer Conference</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Community discussions around the event have shown a mix of excitement and skepticism regarding the implications of AI in programming. Some participants express enthusiasm for the potential efficiency gains, while others raise concerns about the future role of human developers.
-
-**Tags**: `#AI`, `#Coding`, `#Anthropic`, `#Machine Learning`, `#Technology`
+**Tags**: `#AI`, `#Machine Learning`, `#GPU Computing`, `#Model Training`, `#Evaluation`
 
 ---
 
-<a id="item-39"></a>
-## [Framework Choice Less Critical for AI Agents in Production](https://www.reddit.com/r/artificial/comments/1tlt8b9/after_6_months_of_running_ai_agents_in_production/) ⭐️ 7.0/10
+<a id="item-42"></a>
+## [Framework Choice Less Important Than Operational Issues in AI Agents](https://www.reddit.com/r/artificial/comments/1tlt8b9/after_6_months_of_running_ai_agents_in_production/) ⭐️ 7.0/10
 
-The author shares insights from six months of running AI agents in production, arguing that the choice of framework is less important than operational challenges. Issues such as memory management and lack of observability are highlighted as critical factors for agent performance. This perspective shifts the focus from technical framework debates to practical operational challenges, which could help developers prioritize improvements that enhance agent reliability. Understanding these issues is crucial for businesses relying on AI agents for customer interactions. The author emphasizes the need for a persistent memory layer, loop detection mechanisms, and shared memory among agents to ensure continuity and prevent operational failures. These elements are often overlooked in discussions about framework selection.
+The author shares insights from running 30 AI agents in production for six months, arguing that the choice of framework is less critical than addressing operational challenges. Key issues include memory management, loop detection, and observability. This perspective shifts the focus from framework selection to the underlying operational issues that can lead to agent failures. It highlights the need for better memory management and observability tools in AI applications. The author emphasizes the importance of a persistent memory layer, loop detection mechanisms, and an audit trail for decision-making. These elements are crucial for ensuring continuity and accountability in AI agents.
 
 rss · Reddit Artificial · May 23, 21:48
 
-**Background**: AI agents are increasingly used in production environments to automate tasks and interact with customers. Frameworks like LangChain and OpenAI Agents SDK are designed to facilitate the development and deployment of these agents, but operational challenges can undermine their effectiveness.
+**Background**: AI agents are applications that utilize large language models (LLMs) to perform tasks and make decisions. Frameworks like LangChain and OpenAI Agents SDK are designed to facilitate the development of these agents, but operational challenges often overshadow framework capabilities.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://grokipedia.com/page/LangChain">LangChain</a></li>
 <li><a href="https://developers.openai.com/api/docs/guides/agents">Agents SDK | OpenAI API</a></li>
-<li><a href="https://www.scalahosting.com/blog/how-to-restart-a-vps-or-dedicated-server/">How to Restart a VPS or Dedicated Server ? | ScalaHosting Blog</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community seems to resonate with the author's perspective, sharing similar experiences regarding operational failures. Many participants agree that focusing on memory management and observability is crucial for successful AI agent deployment.
+**Discussion**: The community discussion reflects a mix of agreement and curiosity, with users sharing their own experiences of production failures and operational challenges. Many express interest in the proposed solutions for improving agent reliability.
 
-**Tags**: `#AI`, `#Machine Learning`, `#Production Systems`, `#Operational Challenges`, `#Frameworks`
+**Tags**: `#AI`, `#Production`, `#Frameworks`, `#Operational Challenges`, `#Real-World Experience`
 
 ---
 
-<a id="item-40"></a>
-## [Insights from Testing 200 Prompts on Gemini and Kimi](https://www.reddit.com/r/artificial/comments/1tlq5hg/i_tested_200_prompts_across_gemini_and_kimi_heres/) ⭐️ 7.0/10
+<a id="item-43"></a>
+## [Testing Insights on Gemini and Kimi AI Models](https://www.reddit.com/r/artificial/comments/1tlq5hg/i_tested_200_prompts_across_gemini_and_kimi_heres/) ⭐️ 7.0/10
 
-The author tested over 200 prompts on the AI models Gemini and Kimi, revealing their distinct response behaviors. Key findings include Gemini's preference for explicit output formats and Kimi's effectiveness with multi-step reasoning. These insights are significant for AI practitioners as they highlight the varying effectiveness of prompt engineering techniques across different models. Understanding these differences can lead to improved interactions and outputs when using these AI systems. The findings indicate that most expert prompts from social media do not transfer well to these models. Additionally, Kimi struggles with vague persona prompts, which could limit its usability in certain contexts.
+The author tested over 200 prompts on the Gemini and Kimi AI models, revealing their distinct response behaviors. Key findings include Gemini's preference for explicit output formats and Kimi's effectiveness with multi-step reasoning. These insights are significant for AI practitioners as they highlight the differing strengths of two emerging AI models. Understanding these differences can improve prompt engineering and enhance the effectiveness of AI applications. Gemini performs better with explicit output format constraints, while Kimi struggles with vague persona prompts. Most expert prompts from Twitter do not translate well to these models.
 
 rss · Reddit Artificial · May 23, 19:44
 
-**Background**: Gemini and Kimi are advanced AI models developed by Google DeepMind and Moonshot AI, respectively. They utilize different architectures and training methodologies, leading to unique response characteristics that can affect how prompts are interpreted and executed.
+**Background**: Gemini is a family of multimodal large language models developed by Google DeepMind, while Kimi is a chatbot developed by Moonshot AI. Both models are designed to process natural language and generate responses based on user prompts, making prompt engineering a crucial skill for optimizing their performance.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Gemini_(language_model)">Gemini (language model) - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Gemini_(AI_model)">Gemini (AI model)</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Kimi_(chatbot)">Kimi (chatbot) - Wikipedia</a></li>
-<li><a href="https://www.promptingguide.ai/techniques">Prompting Techniques | Prompt Engineering Guide</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Prompt_engineering">Prompt engineering - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community discussion has not been highlighted in the provided content, limiting insights into user sentiments or additional viewpoints.
+**Discussion**: The community discussion reflects a mix of curiosity and skepticism regarding the findings. Some users agree with the author's observations, while others express concerns about the generalizability of the results.
 
 **Tags**: `#AI`, `#Machine Learning`, `#Prompt Engineering`, `#Gemini`, `#Kimi`
 
 ---
 
-<a id="item-41"></a>
-## [AI Used to Fake Evidence That Ended Korean Actor's Career](https://www.reddit.com/r/singularity/comments/1tltp9z/ai_used_to_fake_evidence_that_ended_korean_actors/) ⭐️ 7.0/10
+<a id="item-44"></a>
+## [DeepSeek Challenges AI Pricing Norms](https://www.reddit.com/r/OpenAI/comments/1tm49d0/deepseek_just_popped_the_american_ai_bubble/) ⭐️ 7.0/10
 
-Police have reported that artificial intelligence was utilized to fabricate evidence, which led to the downfall of a Korean actor's career. This incident highlights the potential dangers of AI technology in the entertainment industry. This case raises significant ethical concerns regarding the misuse of AI technology, particularly in creating false narratives that can ruin lives and careers. The implications extend beyond the entertainment industry, affecting public trust in media and legal systems. The use of AI-generated evidence, such as deepfakes, poses challenges for authenticity and accountability in legal contexts. This incident may set a precedent for how courts handle AI-generated materials in future cases.
+DeepSeek has introduced a new pricing model for its V4 Pro, significantly undercutting competitors like OpenAI and Claude. The input cost is $0.435 per million tokens, while competitors charge up to $5.00 for the same service. This pricing shift could reshape the AI market by challenging the perception of unlimited pricing power among major players. It may lead to reduced costs for consumers and increased competition in the AI services sector. DeepSeek's V4 Pro is approximately 11.5 times cheaper than OpenAI's GPT-5.5 for input and 34.5 times cheaper for output. This drastic price reduction may compress profit margins across the industry.
 
-rss · Reddit Singularity · May 23, 22:08
+rss · Reddit OpenAI · May 24, 06:32
 
-**Background**: Deepfake technology involves the use of artificial intelligence to create realistic but fabricated media, including images and videos. As this technology becomes more accessible, concerns about its potential for misuse in various sectors, including entertainment and law, are growing.
+**Background**: DeepSeek is a new player in the AI market, offering competitive pricing that contrasts sharply with established companies like OpenAI and Anthropic. The pricing of AI services is typically based on the number of tokens processed, which can significantly impact the overall cost for users.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.ncsc.org/resources-courts/ai-generated-evidence-threat-public-trust-courts">AI-generated evidence is a threat to public trust in the ...</a></li>
-<li><a href="https://www.techtarget.com/whatis/definition/deepfake">What is Deepfake Technology? | Definition from TechTarget</a></li>
+<li><a href="https://api-docs.deepseek.com/quick_start/pricing/">Models & Pricing | DeepSeek API Docs</a></li>
+<li><a href="https://deepinfra.com/blog/deepseek-v4-pro-pricing-guide-2026-providers-cost-analysis">DeepSeek V4 Pro Pricing Guide 2026: Pricing, Providers & Cost ...</a></li>
+<li><a href="https://openrouter.ai/deepseek/deepseek-v4-pro">DeepSeek V4 Pro - API Pricing & Benchmarks | OpenRouter</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community discussions have raised concerns about the ethical implications of using AI for such purposes and the potential for similar incidents to occur in the future. Many users express a need for stricter regulations regarding AI-generated content.
+**Discussion**: Community members are expressing interest in how this pricing model will affect the broader AI landscape. Some are optimistic about increased accessibility, while others are concerned about the sustainability of such low prices.
 
-**Tags**: `#AI Ethics`, `#Misuse of Technology`, `#Media Impact`, `#Legal Issues`
+**Tags**: `#AI Pricing`, `#Market Dynamics`, `#DeepSeek`, `#OpenAI`, `#Cost Analysis`
 
 ---
 
-<a id="item-42"></a>
-## [AI is Accelerating Drug Development](https://www.reddit.com/r/singularity/comments/1tl8y35/ai_is_accelerating_drug_development/) ⭐️ 7.0/10
+<a id="item-45"></a>
+## [Deception in the Name of Science](https://www.reddit.com/r/OpenAI/comments/1tm387w/t%C3%A4uschung_im_namen_der_wissenschaft/) ⭐️ 7.0/10
 
-Recent advancements in AI technologies are being utilized to streamline and enhance the drug development process. This includes the application of machine learning algorithms to analyze vast datasets and predict drug efficacy. This development is significant as it could drastically reduce the time and cost associated with bringing new drugs to market, ultimately benefiting patients and healthcare systems. The pharmaceutical industry is increasingly adopting AI to improve efficiency and innovation. AI's role in drug development includes optimizing clinical trial designs and enhancing the accuracy of drug discovery through predictive analytics. However, challenges remain in integrating these technologies into existing workflows.
+A study report has been released analyzing ethical boundaries in human-AI interactions within online communities. This report emphasizes the need for ethical frameworks in environments where AI systems imitate social presence and users develop emotional connections with them. This analysis is significant as it addresses the ethical implications of AI's increasing role in social interactions, which could impact user trust and the integrity of online communities. Understanding these dynamics is crucial for developing responsible AI technologies. The report discusses scenarios where AI systems can create emotionally meaningful interactions that users may mistake for genuine human communication. It raises questions about the adequacy of existing research ethics frameworks in such hybrid environments.
 
-rss · Reddit Singularity · May 23, 06:51
+rss · Reddit OpenAI · May 24, 05:36
 
-**Background**: The integration of AI in drug development represents a shift from traditional methods to more data-driven approaches. Machine learning, a subset of AI, is particularly useful in identifying potential drug candidates and predicting their success rates. This trend is part of a broader movement towards digital transformation in healthcare.
+**Background**: The rapid development of conversational AI has transformed how humans interact with technology, leading to new ethical challenges. As AI systems become more integrated into social spaces, the potential for deception and misunderstanding increases, necessitating a reevaluation of ethical standards in research and community governance.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8356896/">Machine Learning in Drug Discovery: A Review - PMC</a></li>
-<li><a href="https://www.nature.com/articles/s41589-024-01679-1">Machine learning in preclinical drug discovery - Nature</a></li>
-<li><a href="https://pubs.acs.org/doi/10.1021/acsomega.5c00549">AI-Driven Drug Discovery: A Comprehensive Review | ACS Omega</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0963868723000185">Ethical management of human-AI interaction: Theory ...</a></li>
+<li><a href="https://psycnet.apa.org/record/2024-09285-001">Ethical management of human-AI interaction: Theory ...</a></li>
+<li><a href="https://link.springer.com/chapter/10.1007/978-3-032-06604-6_15">Ethical Considerations of Human-AI Collaboration: A Normative ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#Drug Development`, `#Healthcare`, `#Pharmaceuticals`, `#Innovation`
+**Tags**: `#AI Ethics`, `#Human-AI Interaction`, `#Online Communities`, `#Governance`, `#Research`
+
+---
+
+<a id="item-46"></a>
+## [768GB Intel Optane DIMM Used for 1-Trillion-Parameter LLM](https://www.reddit.com/r/singularity/comments/1tm1u3l/768gb_of_cheap_intel_optane_dimm_memory_sticks/) ⭐️ 7.0/10
+
+A user successfully utilized 768GB of Intel Optane DIMM memory to run a 1-trillion-parameter language model, achieving a performance of approximately 4 tokens per second. This was done on a system with a single GPU using the Kimi K2.5 installation. This achievement demonstrates the potential of Intel Optane memory in handling large-scale AI models, which could influence future hardware choices for AI applications. It highlights the growing trend of optimizing memory resources for efficient machine learning tasks. The Kimi K2.5 model is a Mixture-of-Experts (MoE) model with a total of 1 trillion parameters, of which 32 billion are activated during operation. The use of Intel Optane DIMM allows for efficient data handling, which is crucial for running such large models.
+
+rss · Reddit Singularity · May 24, 04:24
+
+**Background**: Intel Optane is a type of non-volatile memory technology that offers high-speed data access and is particularly useful in scenarios requiring large memory capacities. Large language models (LLMs) like Kimi K2.5 are designed for natural language processing tasks and can have billions of parameters, making them computationally intensive.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://unsloth.ai/docs/models/tutorials/kimi-k2.5">Kimi K2.5: How to Run Locally Guide | Unsloth Documentation</a></li>
+<li><a href="https://kimi-k25.com/blog/kimi-k2-5-download">Kimi K2.5 Download: Complete Local Setup and Installation Guide</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI`, `#Machine Learning`, `#Hardware`, `#Intel Optane`, `#Language Models`
 
 ---
 
