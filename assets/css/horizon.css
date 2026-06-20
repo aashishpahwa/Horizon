@@ -240,41 +240,6 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0.8rem 1rem;
 }
 
-/* ── Language Toggle ── */
-.lang-toggle {
-  position: fixed;
-  top: 14px;
-  right: 18px;
-  z-index: 1000;
-  display: flex;
-  gap: 0;
-}
-
-.lang-toggle button {
-  padding: 0.3em 0.9em;
-  border: 1px solid rgba(255,255,255,0.3);
-  background: rgba(255,255,255,0.1);
-  color: #fff;
-  font-family: 'Inter', sans-serif;
-  font-size: 0.7rem;
-  font-weight: 600;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  cursor: pointer;
-  backdrop-filter: blur(4px);
-  transition: background 0.15s;
-}
-
-.lang-toggle button:first-child { border-radius: 3px 0 0 3px; }
-.lang-toggle button:last-child  { border-radius: 0 3px 3px 0; border-left: none; }
-
-.lang-toggle button.active {
-  background: #ffffff;
-  color: #0a0a0a;
-  border-color: #ffffff;
-}
-
-.lang-section.hidden { display: none; }
 
 /* ── RSS icon ── */
 .rss-icon {
