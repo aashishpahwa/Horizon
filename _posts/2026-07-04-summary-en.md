@@ -5,643 +5,743 @@ date: 2026-07-04
 lang: en
 ---
 
-> From 86 items, 30 important content pieces were selected
+> From 95 items, 35 important content pieces were selected
 
 ---
 
-1. [U.S. Army Selects Anduril for Next-Gen Battlefield System](#item-1) ⭐️ 9.0/10
-2. [Hugging Face Releases Transformers v5.13.0](#item-2) ⭐️ 8.0/10
-3. [Espionage Against the European Parliament](#item-3) ⭐️ 8.0/10
-4. [Launch of Open Source AI Gap Map](#item-4) ⭐️ 8.0/10
-5. [Surge in Security Vulnerability Reports Linked to AI Bug Hunting](#item-5) ⭐️ 8.0/10
-6. [UK's AI Security Institute Finds Standard Benchmarks Underestimate AI Capabilities](#item-6) ⭐️ 8.0/10
-7. [Google DeepMind and A24 Announce Research Partnership](#item-7) ⭐️ 8.0/10
-8. [Device Revives Eyeballs from Deceased Donors for Transplants](#item-8) ⭐️ 8.0/10
-9. [AI’s Volatile Power Use Quietly Tests Grid Limits](#item-9) ⭐️ 8.0/10
-10. [Contrastive Decoding Diffing (CDD) Method Introduced](#item-10) ⭐️ 8.0/10
-11. [Exploring Safety in Open-Weight LLMs](#item-11) ⭐️ 8.0/10
-12. [Introduction of Probabilistic Tiny Recursive Model (PTRM)](#item-12) ⭐️ 8.0/10
-13. [China Integrates AI as Core Subject in Education](#item-13) ⭐️ 8.0/10
-14. [Hackers Exploit LLM Hallucinations for Fraud](#item-14) ⭐️ 8.0/10
-15. [Jamesob's Guide to Running SOTA LLMs Locally](#item-15) ⭐️ 7.0/10
-16. [Africans Are Turning to Starlink](#item-16) ⭐️ 7.0/10
-17. [Wordgard: In-browser rich-text editor from the creator of ProseMirror](#item-17) ⭐️ 7.0/10
-18. [PostgreSQL and the OOM Killer: Strict Memory Overcommit](#item-18) ⭐️ 7.0/10
-19. [Valve Open-Sources the Steam Machine E-Ink Screen](#item-19) ⭐️ 7.0/10
-20. [Exploring Alternative Uses of LLMs for Coding](#item-20) ⭐️ 7.0/10
-21. [Challenges of Startup Founders Without Domain Expertise](#item-21) ⭐️ 7.0/10
-22. [60% Cost Reduction by Converting Code to Images with OCR](#item-22) ⭐️ 7.0/10
-23. [Kagi Introduces AI Toggle Feature for User Control](#item-23) ⭐️ 7.0/10
-24. [Best Simple System for Now (2025)](#item-24) ⭐️ 7.0/10
-25. [Josh W. Comeau Reports Decline in Course Sales Due to AI](#item-25) ⭐️ 7.0/10
-26. [Fable's Judgement in AI Task Management](#item-26) ⭐️ 7.0/10
-27. [Microsoft Enters AI Super App Race with Copilot and AutoPilot](#item-27) ⭐️ 7.0/10
-28. [Kuaishou's Kling Raises $2 Billion for Hong Kong IPO](#item-28) ⭐️ 7.0/10
-29. [H64LM: A 249M-parameter Mixture-of-Experts Transformer](#item-29) ⭐️ 7.0/10
-30. [Training Transformers with Native Factorized Weights for Optimal Rank](#item-30) ⭐️ 7.0/10
+1. [Hugging Face Releases Transformers v5.13.0](#item-1) ⭐️ 8.0/10
+2. [Espionage Against the European Parliament](#item-2) ⭐️ 8.0/10
+3. [Launch of Open Source AI Gap Map](#item-3) ⭐️ 8.0/10
+4. [Surge in Security Vulnerability Reports Due to AI Bug Hunting](#item-4) ⭐️ 8.0/10
+5. [UK's AI Security Institute Reveals AI Benchmarking Flaws](#item-5) ⭐️ 8.0/10
+6. [Google DeepMind and A24 Announce Research Partnership](#item-6) ⭐️ 8.0/10
+7. [Device Revives Eyeballs from Dead Donors for Eye Transplants](#item-7) ⭐️ 8.0/10
+8. [Contrastive Decoding Diffing (CDD) Method Introduced](#item-8) ⭐️ 8.0/10
+9. [Challenges of Ensuring Safety in Open-Weight LLMs](#item-9) ⭐️ 8.0/10
+10. [Authors Enhance TRM with Stochasticity for Improved Results](#item-10) ⭐️ 8.0/10
+11. [China Integrates AI Education into National Curriculum](#item-11) ⭐️ 8.0/10
+12. [Hackers Exploit LLM Hallucinations for Fraud](#item-12) ⭐️ 8.0/10
+13. [OpenAI to Launch GPT-5.6 Between July 7 and 9](#item-13) ⭐️ 8.0/10
+14. [Performance per dollar is getting faster and cheaper](#item-14) ⭐️ 7.0/10
+15. [Leanstral 1.5: Proof Abundance for All](#item-15) ⭐️ 7.0/10
+16. [MSI Center Vulnerability Allows SYSTEM Privileges](#item-16) ⭐️ 7.0/10
+17. [Jamesob's Guide to Running SOTA LLMs Locally](#item-17) ⭐️ 7.0/10
+18. [Soatok's Informal Guide to Threat Models](#item-18) ⭐️ 7.0/10
+19. [Wordgard: In-browser rich-text editor from the creator of ProseMirror](#item-19) ⭐️ 7.0/10
+20. [Software, from First Principles](#item-20) ⭐️ 7.0/10
+21. [Africans Are Turning to Starlink](#item-21) ⭐️ 7.0/10
+22. [The Circuit That Lets Your Brain Think and See](#item-22) ⭐️ 7.0/10
+23. [Challenges of Startup Founders Lacking Domain Expertise](#item-23) ⭐️ 7.0/10
+24. [PostgreSQL and the OOM Killer: Strict Memory Overcommit Explained](#item-24) ⭐️ 7.0/10
+25. [Show HN: Mcpsnoop – Wireshark for MCP](#item-25) ⭐️ 7.0/10
+26. [Valve open-sources the Steam Machine e-ink screen](#item-26) ⭐️ 7.0/10
+27. [Restrictions on AI Tools in Academic Presentations](#item-27) ⭐️ 7.0/10
+28. [60% Fable Cost Cut Using OCR on Code Images](#item-28) ⭐️ 7.0/10
+29. [Decline in Online Course Sales Due to AI](#item-29) ⭐️ 7.0/10
+30. [Fable's Judgement in AI Testing](#item-30) ⭐️ 7.0/10
+31. [Microsoft Enters AI Super App Race with Copilot and AutoPilot](#item-31) ⭐️ 7.0/10
+32. [Kling Raises $2 Billion for Hong Kong IPO](#item-32) ⭐️ 7.0/10
+33. [AI’s Volatile Power Use Quietly Tests Grid Limits](#item-33) ⭐️ 7.0/10
+34. [H64LM: A 249M-parameter Mixture-of-Experts Transformer built from scratch in PyTorch](#item-34) ⭐️ 7.0/10
+35. [Sam Altman Predicts AI's Future Impact](#item-35) ⭐️ 7.0/10
 
 ---
 
 <a id="item-1"></a>
-## [U.S. Army Selects Anduril for Next-Gen Battlefield System](https://t.me/gptupdates/32980) ⭐️ 9.0/10
+## [Hugging Face Releases Transformers v5.13.0](https://github.com/huggingface/transformers/releases/tag/v5.13.0) ⭐️ 8.0/10
 
-The U.S. Army has chosen Anduril as the lead contractor for its Next Generation Command and Control (NGC2) system. This digital platform aims to enhance real-time battlefield communications by integrating soldiers, drones, sensors, and commanders into a unified network. This development is significant as it represents a major leap in military technology, particularly in the use of AI for real-time data processing on the battlefield. The integration of these technologies could greatly enhance decision-making speed and effectiveness for military operations. The NGC2 system is designed to eliminate fragmented communications, allowing data to flow instantly from the front lines to the cloud. Anduril has already conducted tests with U.S. Army combat units, demonstrating the system's potential for rapid information exchange.
+Hugging Face has released version 5.13.0 of its transformers library, introducing the Kimi K2.5 model. This new model enhances multimodal capabilities and performance in complex coding tasks across various programming languages. This release is significant as it introduces advanced models that improve coding and multimodal task performance, which are crucial for the AI/ML community. The enhancements could lead to more efficient development processes and better integration of AI in software engineering. The Kimi K2.5 model is designed for long-horizon coding and can generate production-ready interfaces from simple prompts. Additionally, it supports various programming languages, including Rust, Go, and Python, making it versatile for developers.
 
-telegram · gptupdates · Jul 3, 16:18
+github · vasqu · Jul 3, 16:06
 
-**Background**: The Next Generation Command and Control system is part of a broader modernization effort within the U.S. Army to improve operational efficiency and decision-making capabilities. This initiative leverages advanced technologies, including artificial intelligence and real-time data analytics, to create a more responsive military environment.
+**Background**: The transformers library by Hugging Face is widely used in natural language processing and machine learning tasks. The introduction of multimodal models like Kimi K2.5 represents a shift towards integrating various types of data inputs, such as text and images, for more complex AI applications.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.armyupress.army.mil/Journals/NCO-Journal/Muddy-Boots/What-Is-Next-Generation-Command-and-Control/">What Is Next Generation Command and Control?</a></li>
-<li><a href="https://militaryembedded.com/comms/communications/the-real-time-battlefield-the-revolutionary-tech-connecting-the-front-line">The real-time battlefield: The revolutionary tech connecting ...</a></li>
-<li><a href="https://ai2c.army.mil/">AI2C – ARMY ARTIFICIAL INTELLIGENCE INTEGRATION CENTER</a></li>
+<li><a href="https://www.kimi.com/ai-models/kimi-k2-5">Kimi K2.5 | Open Visual Agentic Model for Real Work</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#military technology`, `#AI`, `#defense`, `#command and control`, `#Anduril`
+**Discussion**: The community has shown excitement about the capabilities of the Kimi K2.5 model, particularly its potential to streamline coding processes. Some users have raised questions about its performance in specific programming environments.
+
+**Tags**: `#Hugging Face`, `#transformers`, `#AI`, `#ML`, `#coding`
 
 ---
 
 <a id="item-2"></a>
-## [Hugging Face Releases Transformers v5.13.0](https://github.com/huggingface/transformers/releases/tag/v5.13.0) ⭐️ 8.0/10
-
-Hugging Face has released Transformers v5.13.0, which introduces the Kimi K2.5 model. This new model enhances multimodal capabilities for complex coding tasks across various programming languages. This release is significant as it introduces advanced models that improve coding and design capabilities, impacting developers and researchers in the AI/ML field. The community's interest in the Kimi models suggests a potential shift in how coding tasks are approached. Kimi K2.5 is an open-source multimodal model that excels in long-horizon coding and task orchestration, supporting robust generalization across programming languages like Rust, Go, and Python. Additionally, it can generate production-ready interfaces and workflows from simple prompts and visual inputs.
-
-github · vasqu · Jul 3, 16:06
-
-**Background**: The Kimi K2.5 model is part of a series of multimodal agentic models designed to enhance AI's capabilities in coding and design tasks. These models leverage advanced techniques in machine learning to process and understand multiple types of data simultaneously, which is crucial for complex applications.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Kimi_(chatbot)">Kimi (chatbot) - Wikipedia</a></li>
-<li><a href="https://www.kimi.com/ai-models/kimi-k2-5">Kimi K 2 . 5 | Open Visual Agentic Model for Real Work</a></li>
-
-</ul>
-</details>
-
-**Discussion**: The community has shown enthusiasm for the new capabilities introduced by the Kimi models, with many expressing excitement about their potential applications in real-world coding scenarios. Some users have raised questions about the model's performance in specific programming environments.
-
-**Tags**: `#Hugging Face`, `#Transformers`, `#AI/ML`, `#Coding`, `#Open Source`
-
----
-
-<a id="item-3"></a>
 ## [Espionage Against the European Parliament](https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/) ⭐️ 8.0/10
 
-A member of the European Parliament was found to be infected with Pegasus spyware, raising serious cybersecurity concerns. This incident occurred after forensic analysis conducted by Citizen Lab revealed infections on specific dates in 2022 and 2023. This incident highlights the vulnerabilities in cybersecurity within European political institutions and raises questions about privacy and surveillance. It could lead to increased scrutiny of spyware use by governments and affect public trust in political processes. Pegasus spyware is known for its ability to be covertly installed on devices without user interaction, often through zero-click exploits. The implications of this incident suggest that sensitive information, including personal and governmental data, may have been compromised.
+A member of the European Parliament's committee investigating spyware was hacked using Pegasus spyware. This incident highlights significant vulnerabilities in privacy and security measures within European institutions. This incident raises serious concerns about the security of political figures and the integrity of democratic processes in Europe. It also underscores the ongoing challenges posed by advanced surveillance technologies like Pegasus. The hacking occurred on or around October 21, 2022, and again on March 6 and 7, 2023. The incident suggests that Pegasus spyware is being used to target not only journalists and activists but also political figures involved in oversight.
 
 hackernews · ledoge · Jul 3, 20:38
 
-**Background**: Pegasus is spyware developed by the Israeli company NSO Group, designed for covert surveillance of mobile devices. It has been widely used by governments to target journalists, activists, and political dissidents, raising significant ethical and legal concerns regarding privacy and human rights.
+**Background**: Pegasus is a sophisticated spyware developed by the NSO Group, designed to be covertly installed on mobile devices. It has been widely used by governments to surveil individuals, including journalists and political dissidents, raising significant privacy concerns.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Pegasus_(spyware)">Pegasus (spyware)</a></li>
-<li><a href="https://grokipedia.com/page/Pegasus_(spyware)">Pegasus (spyware)</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community comments reflect a mix of concern and skepticism regarding the implications of this incident. Some users question the effectiveness of existing policies to protect sensitive information, while others highlight the broader context of espionage in Europe.
+**Discussion**: Community comments reflect a mix of concern and skepticism regarding the implications of this hacking incident. Some users highlight the overlap with previous Pegasus campaigns, while others question the security protocols in place within the European Parliament.
 
-**Tags**: `#cybersecurity`, `#espionage`, `#Pegasus`, `#European Parliament`, `#privacy`
+**Tags**: `#cybersecurity`, `#Pegasus`, `#European Parliament`, `#spyware`, `#privacy`
+
+---
+
+<a id="item-3"></a>
+## [Launch of Open Source AI Gap Map](https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything) ⭐️ 8.0/10
+
+The Open Source AI Gap Map has been launched, detailing 421 open source AI products. This index includes 266 software tools, 85 models, 50 datasets, and 20 hardware projects from 228 organizations. This initiative is significant as it provides a structured overview of the open source AI ecosystem, which can greatly assist developers and researchers in finding relevant resources. The comprehensive cataloging could influence future developments in the AI field. The Gap Map v0.1 organizes products into 14 categories across three layers of the stack, including model components and infrastructure. The remaining uncategorized artifacts will not receive a score until they are researched and cited.
+
+rss · Simon Willison · Jul 3, 22:04
+
+**Background**: Current AI is a non-profit organization founded at the AI Action Summit in Paris in February 2025, with a commitment of $400 million in funding. The Gap Map aims to index the current state of open source AI, which is crucial for developers and researchers navigating this rapidly evolving landscape.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/AI_Action_Summit_2025">AI Action Summit 2025</a></li>
+
+</ul>
+</details>
+
+**Discussion**: The community has shown significant interest in the Gap Map, with discussions focusing on its potential to streamline access to open source AI resources. Some users expressed excitement about the data being available under an MIT license.
+
+**Tags**: `#Open Source`, `#AI`, `#Ecosystem`, `#Research`, `#Tools`
 
 ---
 
 <a id="item-4"></a>
-## [Launch of Open Source AI Gap Map](https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything) ⭐️ 8.0/10
+## [Surge in Security Vulnerability Reports Due to AI Bug Hunting](https://the-decoder.com/security-vulnerability-reports-have-exploded-since-ai-models-started-hunting-for-bugs/) ⭐️ 8.0/10
 
-The Open Source AI Gap Map has been launched, cataloging 421 products in the open source AI landscape. This includes 266 software tools, 85 models, 50 datasets, and 20 hardware projects from 228 organizations. This initiative enhances accessibility and understanding of open source AI tools, potentially benefiting researchers and developers. It reflects a growing trend towards transparency and collaboration in the AI ecosystem. The Gap Map v0.1 organizes products into 14 categories across three layers of the stack. Additionally, the underlying data is available under an MIT license, including 1,184 YAML files and various scripts.
-
-rss · Simon Willison · Jul 3, 22:04
-
-**Background**: Current AI is a non-profit organization founded in February 2025, aimed at creating a public option for AI. The Gap Map serves as a comprehensive index of the open source AI ecosystem, which includes a variety of models, tools, and datasets.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://map.currentai.org/">Current AI – Open Source AI Gap Map</a></li>
-
-</ul>
-</details>
-
-**Discussion**: The community has shown strong interest in the Gap Map, with discussions highlighting its potential to bridge gaps in the open source AI landscape. Many users express excitement about the wealth of resources available for exploration.
-
-**Tags**: `#Open Source`, `#AI`, `#Ecosystem`, `#Tools`, `#Research`
-
----
-
-<a id="item-5"></a>
-## [Surge in Security Vulnerability Reports Linked to AI Bug Hunting](https://the-decoder.com/security-vulnerability-reports-have-exploded-since-ai-models-started-hunting-for-bugs/) ⭐️ 8.0/10
-
-In June 2026, 21 organizations reported approximately 1,500 high-severity and critical CVEs, marking a record increase of more than 3.5 times the previous monthly record. This surge coincides with the introduction of AI-powered bug-hunting programs. This significant increase in reported vulnerabilities highlights the growing effectiveness of AI in identifying security flaws, which could lead to improved cybersecurity practices across the industry. Organizations may need to adapt their security strategies in response to this trend. The reported CVEs are categorized as high-severity and critical, indicating they pose serious risks to affected systems. The rise in vulnerabilities could also reflect the increasing complexity of software systems and the challenges in securing them.
+In June 2026, 21 organizations reported approximately 1,500 high-severity and critical CVEs, marking a more than 3.5 times increase from the previous monthly record. This surge coincides with the introduction of AI-powered bug-hunting programs. This significant increase in reported vulnerabilities highlights the growing effectiveness of AI in cybersecurity, potentially reshaping how organizations approach vulnerability management. The trend could lead to heightened security measures and increased reliance on AI tools in the industry. The reported vulnerabilities are categorized as high-severity and critical CVEs, which are crucial for organizations to address promptly. The rise in reports suggests that AI models are enhancing the speed and accuracy of vulnerability detection.
 
 rss · The Decoder · Jul 3, 16:49
 
-**Background**: Common Vulnerabilities and Exposures (CVE) are standardized identifiers for known security vulnerabilities, allowing for easier sharing of information across different security tools. The rise of AI-powered bug-hunting tools represents a shift in how vulnerabilities are identified, moving from manual processes to automated solutions that can analyze code and systems more efficiently.
+**Background**: Common Vulnerabilities and Exposures (CVE) is a system for identifying and cataloging publicly known cybersecurity vulnerabilities. The rise of AI-powered tools in bug hunting has transformed the landscape of vulnerability discovery, allowing for faster identification of security issues that may have gone unnoticed by traditional methods.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://platformengineering.org/blog/what-are-cves-and-how-to-read-them">What are CVEs, and how to read them</a></li>
+<li><a href="https://www.csoonline.com/article/4082265/ai-powered-bug-hunting-shakes-up-bounty-industry-for-better-or-worse.html">AI-powered bug hunting shakes up bounty industry — for better ...</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures">Common Vulnerabilities and Exposures - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#Cybersecurity`, `#Vulnerabilities`, `#Bug Hunting`, `#CVE`
+**Tags**: `#AI`, `#Cybersecurity`, `#Vulnerabilities`, `#Software Engineering`, `#Bug Hunting`
+
+---
+
+<a id="item-5"></a>
+## [UK's AI Security Institute Reveals AI Benchmarking Flaws](https://the-decoder.com/uks-ai-security-institute-finds-standard-benchmarks-systematically-underestimate-what-ai-agents-can-actually-do/) ⭐️ 8.0/10
+
+A study by the UK's AI Security Institute indicates that standard benchmarks significantly underestimate AI agents' capabilities due to compute budget limitations. Success rates in software engineering tasks increased by about 25% when the token budget was increased tenfold. This finding is significant as it suggests that current AI evaluation standards may misrepresent the true capabilities of AI systems, potentially affecting software engineering and other fields. The implications could lead to a reevaluation of how AI performance is measured and understood. The study found that newer AI models benefit the most from increased token budgets, with actual progress being about 60% steeper than previously measured. This highlights the importance of adjusting benchmarks to reflect true AI capabilities.
+
+rss · The Decoder · Jul 3, 16:14
+
+**Background**: AI benchmarking is critical for evaluating the performance of AI systems, especially as they become more complex. Standard benchmarks often impose limitations, such as compute and token budgets, which can skew the assessment of an AI's true capabilities. Understanding these limitations is essential for accurate AI evaluation.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://gentic.news/article/ai-security-inst-shows-test-time">AI Security Inst Shows Test-Time Compute … | gentic.news</a></li>
+<li><a href="https://www.mindstudio.ai/blog/what-is-inference-time-compute-ai-pivot-explained">What Is Inference-Time Compute ? Why OpenAI, Google... | MindStudio</a></li>
+
+</ul>
+</details>
+
+**Discussion**: The community has shown strong interest in the findings, with many agreeing that current benchmarks need to be revised. Some commenters expressed concerns about the implications for AI safety evaluations and the potential for overestimating model capabilities.
+
+**Tags**: `#AI`, `#Benchmarking`, `#Software Engineering`, `#Research`, `#AI Evaluation`
 
 ---
 
 <a id="item-6"></a>
-## [UK's AI Security Institute Finds Standard Benchmarks Underestimate AI Capabilities](https://the-decoder.com/uks-ai-security-institute-finds-standard-benchmarks-systematically-underestimate-what-ai-agents-can-actually-do/) ⭐️ 8.0/10
+## [Google DeepMind and A24 Announce Research Partnership](https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/) ⭐️ 8.0/10
 
-A study by the UK's AI Security Institute reveals that standard AI benchmarks systematically underestimate agent capabilities, particularly when compute budgets are increased. Success rates on software engineering tasks increased by about 25% with a tenfold increase in token budget. This finding is significant as it suggests that current AI evaluation standards may misrepresent the true capabilities of AI agents, impacting how AI performance is assessed in various applications. The implications could affect industries relying on AI for critical decision-making. The study indicates that newer AI models benefit the most from increased token budgets, with actual progress at the frontier being about 60% steeper than previously measured. This highlights the importance of considering compute and token budgets in AI evaluations.
+Google DeepMind has formed a partnership with A24 to explore innovative applications of AI in the film and entertainment sector. This collaboration aims to leverage AI technologies to enhance creative processes and content production. This partnership is significant as it could lead to groundbreaking advancements in how AI is utilized in creative industries, potentially transforming content creation and distribution. It will impact filmmakers, producers, and audiences by introducing new ways to engage with entertainment. The collaboration will focus on utilizing AI to enhance storytelling, production efficiency, and audience engagement. Specific projects and outcomes have yet to be detailed, but the partnership is expected to set a precedent in the entertainment industry.
 
-rss · The Decoder · Jul 3, 16:14
+rss · DeepMind Blog · Jul 3, 14:25
 
-**Background**: AI evaluation benchmarks are standards used to assess the performance of AI models across various tasks. A compute budget refers to the limits set on the resources available for AI operations, while a token budget restricts the amount of text an AI model can process at one time.
+**Background**: Google DeepMind is a leading AI research laboratory known for its advancements in machine learning and artificial intelligence technologies. A24 is an independent entertainment company recognized for producing critically acclaimed films. The intersection of AI and entertainment is a growing field, with potential applications ranging from scriptwriting to visual effects.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://inferensys.com/glossary/agentic-observability-and-telemetry/agent-cost-telemetry/compute-budget">Compute Budget Definition | AI Agent Cost Control</a></li>
+<li><a href="https://en.wikipedia.org/wiki/A24">A24 - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Google_DeepMind">Google DeepMind - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI Evaluation`, `#Benchmarking`, `#AI Capabilities`, `#Software Engineering`, `#Research`
+**Discussion**: The community has shown enthusiasm for this partnership, with many expressing excitement about the potential innovations in storytelling and production. Some concerns were raised regarding the ethical implications of AI in creative processes.
+
+**Tags**: `#AI`, `#DeepMind`, `#partnership`, `#entertainment`, `#research`
 
 ---
 
 <a id="item-7"></a>
-## [Google DeepMind and A24 Announce Research Partnership](https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/) ⭐️ 8.0/10
+## [Device Revives Eyeballs from Dead Donors for Eye Transplants](https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/) ⭐️ 8.0/10
 
-Google DeepMind and A24 have formed a groundbreaking research partnership focused on the integration of AI in filmmaking. This collaboration aims to develop innovative AI tools that enhance the creative processes in the film industry. This partnership is significant as it represents a fusion of advanced AI research with the creative film industry, potentially transforming how films are produced and distributed. It could lead to new opportunities for filmmakers and enhance audience engagement through innovative storytelling techniques. The partnership will leverage DeepMind's expertise in AI to create tools that could automate and enhance various stages of filmmaking, from scriptwriting to post-production. A24 is known for its innovative approach to independent filmmaking, making this collaboration particularly promising.
+Researchers have developed a groundbreaking device that can revive eyeballs from deceased donors, potentially making eye transplants feasible. This advancement addresses the challenges of eye degeneration post-mortem, which has hindered previous transplant attempts. This development is significant as it could revolutionize the field of organ transplantation, particularly for eye surgeries, which have faced numerous challenges. It may greatly increase the availability of viable donor eyes, addressing a critical medical need for patients with vision loss. The device utilizes advanced preservation techniques to maintain the viability of the eyeballs, which typically degenerate rapidly after death. This innovation could lead to improved success rates in eye transplant surgeries.
 
-rss · DeepMind Blog · Jul 3, 14:25
+rss · MIT Tech Review · Jul 3, 17:34
 
-**Background**: AI in filmmaking involves using artificial intelligence technologies to improve various aspects of film production, including scriptwriting, editing, and visual effects. This partnership is part of a broader trend where technology is increasingly integrated into creative industries, enhancing efficiency and creativity.
+**Background**: Eye transplantation is a complex procedure that has historically faced challenges due to the rapid degeneration of the eye after death. Current methods primarily focus on transplanting specific parts of the eye, such as the cornea, rather than the entire eye. The ability to revive and preserve whole eyeballs could change the landscape of eye transplantation.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://variety.com/2026/film/news/google-a24-ai-filmmaking-tools-1236787297/">Google Invests in A24 to Develop AI-Powered Filmmaking Tools</a></li>
-<li><a href="https://deadline.com/2026/06/google-a24-partnership-ai-filmmaking-tools-1236963944/">Google, A24 Partner On AI-Powered Filmmaking Tools - Deadline</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Eye_transplantation">Eye transplantation - Wikipedia</a></li>
+<li><a href="https://biologyinsights.com/organ-preservation-current-techniques-and-advancements/">Organ Preservation: Current Techniques and Advancements</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community has shown enthusiasm for this partnership, with many expressing excitement about the potential innovations in filmmaking. Some concerns have been raised about the implications of AI on creative jobs, but overall, the sentiment is positive.
+**Discussion**: The community is buzzing with excitement over the potential implications of this technology, with many expressing hope for improved outcomes in eye surgeries. However, there are also concerns regarding the ethical aspects of organ donation and the implications of such advancements.
 
-**Tags**: `#AI`, `#DeepMind`, `#Film Industry`, `#Research Partnership`, `#Innovation`
+**Tags**: `#eye transplantation`, `#medical technology`, `#organ donation`, `#research breakthrough`, `#healthcare innovation`
 
 ---
 
 <a id="item-8"></a>
-## [Device Revives Eyeballs from Deceased Donors for Transplants](https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/) ⭐️ 8.0/10
+## [Contrastive Decoding Diffing (CDD) Method Introduced](https://www.reddit.com/r/MachineLearning/comments/1umn2dk/contrastive_decoding_diffing_cdd_recovering/) ⭐️ 8.0/10
 
-Researchers have developed a device capable of reviving eyeballs from deceased donors, potentially making eye transplants more feasible and successful. This breakthrough could change the landscape of organ transplantation. This development is significant as it addresses the challenges of eye degeneration post-mortem, potentially increasing the success rates of eye transplants. It could have a profound impact on patients suffering from vision loss due to corneal diseases. The device aims to maintain the viability of the eyeball during the critical period after death, which is essential for successful transplantation. Previous attempts at eye transplants have often failed due to rapid degeneration of the eye tissue.
+Contrastive Decoding Diffing (CDD) is a new model diffing method that allows for the recovery of verbatim finetuning data from LLMs using only logit access, without requiring access to weights or activations. This method achieves a verbatim recovery score of 4+/5 on 19/20 organism x model pairs across four model families. This development is significant as it enhances the interpretability of machine learning models by allowing researchers to recover specific finetuning data without needing full model access. It could lead to improved understanding and transparency in the training processes of large language models. CDD contrasts the logits of base and finetuned models directly, achieving better recovery scores than previous methods like Activation Difference Lens (ADL), which requires full weight access. Notably, CDD can recover consistent fictional personas across unrelated finetuning domains.
 
-rss · MIT Tech Review · Jul 3, 17:34
+rss · Reddit MachineLearning · Jul 3, 19:01
 
-**Background**: Transplanting a whole human eye is a complex procedure, and the eyes begin to deteriorate immediately after being removed from the body. This degradation has historically made successful eye transplants challenging, often resulting in the inability to restore vision.
+**Background**: Recent research has shown that finetuning large language models (LLMs) leaves detectable traces in activation differences between base and finetuned models. Previous methods like Activation Difference Lens (ADL) required full weight access to recover vague descriptions of finetuning objectives, highlighting the need for more accessible techniques.
 
-**Tags**: `#eye transplantation`, `#medical technology`, `#organ donation`, `#research breakthrough`, `#biomedical engineering`
+**Discussion**: The community has shown strong interest in CDD, discussing its implications for model interpretability and potential applications. Many commenters expressed excitement about the ability to recover specific finetuning data without needing full model access.
+
+**Tags**: `#Machine Learning`, `#Model Interpretability`, `#LLMs`, `#Finetuning`, `#Logits`
 
 ---
 
 <a id="item-9"></a>
-## [AI’s Volatile Power Use Quietly Tests Grid Limits](https://spectrum.ieee.org/data-centers-grid-instability) ⭐️ 8.0/10
+## [Challenges of Ensuring Safety in Open-Weight LLMs](https://www.reddit.com/r/MachineLearning/comments/1um9bs7/what_does_safe_ai_look_like_d/) ⭐️ 8.0/10
 
-The rapid growth of AI infrastructure is leading to significant changes in electricity consumption patterns, with data centers projected to account for 3 to 4 percent of global electricity demand within this decade. Utilities are revising long-term energy forecasts to address the unpredictable demand introduced by high-density compute clusters. This situation is significant as it poses challenges to grid stability and requires utilities to adapt their planning strategies. The increasing demand from AI-driven data centers could impact energy prices and availability, affecting both consumers and industries reliant on stable electricity supply. AI workloads, particularly during model training, create abrupt and unpredictable spikes in electricity consumption, differing significantly from traditional industrial demand profiles. Data centers are implementing technologies like batteries and supercapacitors to mitigate these rapid load changes.
+The discussion focuses on the challenges of ensuring safety in open-weight LLMs, particularly regarding defenses against post-release fine-tuning that can compromise safety behavior. It raises questions about the practicality and effectiveness of fine-tuning resistance as a safety goal. This topic is significant as it addresses the potential risks associated with open-weight LLMs, which can be modified by users post-release. Understanding these risks is crucial for developing effective safety measures in AI systems. The discussion questions whether current safety training is worth the effort if it can be easily undermined by users. It also explores the idea of increasing the cost for attackers as a potential safety measure.
 
-rss · IEEE Spectrum AI · Jul 3, 12:00
+rss · Reddit MachineLearning · Jul 3, 09:07
 
-**Background**: The growth of AI infrastructure is driving an increase in electricity consumption, particularly from hyperscale data centers that support large-scale computing tasks. These facilities are expected to significantly contribute to global electricity demand, prompting utilities to rethink their energy forecasts and grid management strategies.
+**Background**: Open-weight LLMs are models that allow users to modify their parameters and behaviors after release, which raises safety concerns. Fine-tuning resistance refers to the ability of a model to maintain its safety features despite modifications. The effectiveness of safety training in AI models is a growing area of research, as models can be manipulated in ways that undermine their intended safety protocols.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Hyperscale_data_center">Hyperscale data center</a></li>
+**Discussion**: The community discussion reflects a thoughtful exchange of ideas regarding the implications of fine-tuning resistance and safety measures. Participants express varying opinions on the feasibility of achieving meaningful safety improvements in open-weight models.
 
-</ul>
-</details>
-
-**Discussion**: Community sentiment appears to be concerned about the implications of AI's energy demands on grid stability and the environment. Many participants are discussing potential solutions and the need for better infrastructure to handle these changes.
-
-**Tags**: `#AI`, `#Energy Consumption`, `#Grid Stability`, `#Data Centers`, `#Sustainability`
+**Tags**: `#AI Safety`, `#Machine Learning`, `#Open-Weight Models`, `#Fine-Tuning`, `#Defenses`
 
 ---
 
 <a id="item-10"></a>
-## [Contrastive Decoding Diffing (CDD) Method Introduced](https://www.reddit.com/r/MachineLearning/comments/1umn2dk/contrastive_decoding_diffing_cdd_recovering/) ⭐️ 8.0/10
+## [Authors Enhance TRM with Stochasticity for Improved Results](https://arxiv.org/abs/2605.19943) ⭐️ 8.0/10
 
-The new method, Contrastive Decoding Diffing (CDD), allows for the recovery of verbatim finetuning data from large language models using only logit access, without the need for weight access. This method significantly improves upon previous techniques, achieving a recovery score of 4+/5 on 19/20 organism x model pairs. This advancement is significant as it enhances the interpretability of machine learning models by allowing researchers to access finetuning data without needing full model weights. It could lead to greater transparency and understanding of how models are trained and fine-tuned. Contrastive Decoding Diffing contrasts the logits of base and finetuned models directly, achieving high recovery scores with a single default configuration. Notably, it can recover specific fictional personas that appear in multiple unrelated finetuning domains.
+The authors have developed the Probabilistic TRM (PTRM) framework, which enhances pre-trained Tiny Recursive Models by incorporating stochastic search during inference without requiring additional training. This method introduces Gaussian noise at each recursion step to create parallel trajectories for better solution exploration. This advancement demonstrates that large and costly autoregressive language models are not the only solution for complex logical tasks. The compact non-autoregressive recursive networks can outperform advanced language models in structured constraint satisfaction tasks while significantly reducing inference costs. The PTRM framework allows for test-time compute scaling by injecting Gaussian noise into the hidden state at each recursion step, which helps the model escape suboptimal local attractors. The best trajectory is then selected using the existing pre-trained classification head.
 
-rss · Reddit MachineLearning · Jul 3, 19:01
+telegram · gptupdates · Jul 3, 16:39
 
-**Background**: Finetuning in machine learning involves adjusting a pre-trained model on a specific dataset to improve performance on related tasks. Traditional methods for analyzing finetuned models often require access to the model's weights, which can limit their applicability. The introduction of methods like Contrastive Decoding Diffing aims to overcome these limitations by using logit outputs instead.
+**Background**: Tiny Recursive Models (TRMs) are lightweight neural networks designed to solve structured reasoning problems efficiently. The introduction of stochastic elements in models like PTRM represents a shift towards more efficient computation in machine learning, allowing for better exploration of solution spaces without the need for extensive training.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.machinebrief.com/news/unlocking-ais-hidden-memories-with-contrastive-decoding-9a3m">Unlocking AI's Hidden Memories with Contrastive Decoding</a></li>
-<li><a href="https://arxiv.org/html/2510.13900v2">Narrow Finetuning Leaves Clearly Readable Traces in Activation ...</a></li>
+<li><a href="https://arxiv.org/abs/2605.19943">[2605.19943] Probabilistic Tiny Recursive Model - arXiv.org</a></li>
+<li><a href="https://amins01.github.io/ptrm/">Probabilistic Tiny Recursive Model - amins01.github.io</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community has shown strong interest in CDD, with discussions highlighting its potential to improve model transparency and interpretability. Some users expressed excitement about the implications for future research and applications in machine learning.
-
-**Tags**: `#Machine Learning`, `#Natural Language Processing`, `#Model Interpretability`, `#Finetuning`, `#Logits`
+**Tags**: `#Probabilistic Models`, `#Machine Learning`, `#Recursive Models`, `#Stochastic Processes`, `#AI Research`
 
 ---
 
 <a id="item-11"></a>
-## [Exploring Safety in Open-Weight LLMs](https://www.reddit.com/r/MachineLearning/comments/1um9bs7/what_does_safe_ai_look_like_d/) ⭐️ 8.0/10
+## [China Integrates AI Education into National Curriculum](https://t.me/gptupdates/32988) ⭐️ 8.0/10
 
-The discussion focuses on the challenges of ensuring safety in open-weight large language models (LLMs), particularly regarding defenses against post-release fine-tuning that can weaken safety behaviors. Questions are raised about the practicality of fine-tuning resistance as a safety goal. This topic is significant as it addresses the potential risks associated with open-weight models, which can be modified by users after release. Understanding these challenges is crucial for developing effective safety measures in AI systems. The discussion highlights that current safety training may be undermined by simple methods that can easily break the model's defenses. It questions whether increasing the cost for attackers or making safety removal less reliable could be considered valuable safety improvements.
+China's new five-year education plan mandates AI literacy as a core subject from primary school through university. Students will start learning AI concepts as early as age six. This initiative is significant as it positions China to enhance its technological leadership and competitiveness in the global AI landscape. It could fundamentally change how future generations interact with technology. The curriculum aims to make AI literacy as fundamental as reading and math, reflecting a shift in educational priorities. This could lead to a workforce better equipped for an AI-driven economy.
 
-rss · Reddit MachineLearning · Jul 3, 09:07
+telegram · gptupdates · Jul 3, 16:50
 
-**Background**: Open-weight LLMs are AI models where the parameters are publicly available, allowing users to modify them freely. This openness raises concerns about the safety and robustness of these models, particularly when they can be fine-tuned after release to behave in unsafe ways. Ensuring safety in such models is a growing area of research in AI safety.
+**Background**: AI literacy involves understanding, evaluating, and creating AI systems, which is increasingly recognized as a vital skill in the 21st century. China's focus on AI education aligns with its broader strategy to achieve technological self-reliance and global leadership in AI.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.linkedin.com/pulse/open-weights-llms-in-depth-analysis-adoption-usage-performance-jha-kymhc">Open - Weights LLMs : In-Depth Analysis of Adoption, Usage, and...</a></li>
-<li><a href="https://medium.com/thought-vector/open-weight-llms-a-strategic-advantage-for-enterprise-ai-1c4859ea6885">Open - Weight LLMs : A Strategic Advantage for Enterprise AI | Medium</a></li>
-<li><a href="https://www.gopher.security/post-quantum/fine-tuning-llms-security-policy-generation">Fine-Tuning LLMs for Automated Security Policy Generation | Post-Quantum Security Center</a></li>
+<li><a href="https://www.emergentmind.com/topics/ai-literacy-curricula">AI Literacy Curricula</a></li>
+<li><a href="https://www.ednas.academy/">AI Literacy Curriculum for International Schools | EDNAS</a></li>
+<li><a href="https://evergreened.org/ai-literacy-curriculum/">AI Literacy Curriculum - Evergreen Education</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community discussion reflects diverse viewpoints on the practicality of safety measures for open-weight LLMs. Participants express concerns about the effectiveness of current safety training and the feasibility of achieving meaningful safety improvements.
-
-**Tags**: `#AI Safety`, `#Machine Learning`, `#Open-Weight Models`, `#Fine-Tuning`, `#Safety Behavior`
+**Tags**: `#AI Education`, `#China`, `#Technology Policy`, `#National Strategy`, `#Competitiveness`
 
 ---
 
 <a id="item-12"></a>
-## [Introduction of Probabilistic Tiny Recursive Model (PTRM)](https://arxiv.org/abs/2605.19943) ⭐️ 8.0/10
+## [Hackers Exploit LLM Hallucinations for Fraud](https://unit42.paloaltonetworks.com/phantom-squatting-hallucinated-web-domains/) ⭐️ 8.0/10
 
-The authors have developed the Probabilistic Tiny Recursive Model (PTRM), which enhances pre-trained models with stochasticity to improve inference without additional training. This framework allows for scaling computations during inference by introducing Gaussian noise to the hidden state. This work demonstrates that large autoregressive language models (LLMs) are not the only solution for complex reasoning tasks. The PTRM can outperform advanced LLMs in structured tasks while significantly reducing inference costs. The PTRM introduces stochastic search during inference, creating multiple parallel trajectories to escape suboptimal local attractors. The best trajectory is then selected using a pre-trained classification head.
+Hackers are now using hallucinated URLs generated by large language models (LLMs) to create fraudulent domains for phishing attacks. This method, termed 'phantom squatting,' has already resulted in over 13,000 malicious URLs being identified. This development is significant as it highlights a new tactic in cybercrime that leverages AI technology, potentially increasing the volume and sophistication of phishing attacks. It poses a serious threat to users and organizations alike, as these fraudulent domains can easily mislead unsuspecting individuals. The phenomenon of phantom squatting allows attackers to register domains that LLMs frequently invent, such as 'name_download.com' instead of 'name.com.' Researchers have also noted the existence of around 250,000 unregistered domains that LLMs regularly generate, presenting further opportunities for cybercriminals.
 
-telegram · gptupdates · Jul 3, 16:39
+telegram · gptupdates · Jul 3, 17:35
 
-**Background**: Tiny Recursive Models (TRM) are designed to solve complex reasoning tasks with significantly fewer parameters than modern LLMs. The introduction of stochasticity in PTRM allows for better exploration of the solution space, enhancing the model's ability to find optimal solutions.
+**Background**: Large language models (LLMs) are AI systems that can generate text and other content based on input data. However, they can also produce false or misleading information, known as 'hallucinations.' This phenomenon has been exploited in various ways, including a practice called typosquatting, where attackers register misspelled domain names to deceive users.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/html/2605.19943">Probabilistic Tiny Recursive Model</a></li>
-<li><a href="https://www.alphaxiv.org/abs/2605.19943">Probabilistic Tiny Recursive Model | alphaXiv</a></li>
-<li><a href="https://www.emergentmind.com/videos/probabilistic-tiny-recursive-model-b9945073">Probabilistic Tiny Recursive Model : Test-Time Compute Scaling for...</a></li>
+<li><a href="https://unit42.paloaltonetworks.com/phantom-squatting-hallucinated-web-domains/">Phantom Squatting: AI-Hallucinated Domains as a Software ...</a></li>
+<li><a href="https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html">Phantom Squatting Uses AI-Hallucinated Domains for Phishing ...</a></li>
+<li><a href="https://cybernews.com/security/phantom-squatting-hallucinated-domains-cyber-attacks/">AI “phantom squatting” fuels cyber attacks | Cybernews</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Machine Learning`, `#Stochastic Models`, `#Recursive Models`, `#AI Research`, `#Probabilistic Frameworks`
+**Discussion**: The community has expressed concern over the implications of phantom squatting, with many agreeing that it represents a significant evolution in phishing tactics. Some users have raised questions about potential countermeasures and the responsibility of LLM developers in mitigating these risks.
+
+**Tags**: `#cybersecurity`, `#LLM`, `#phishing`, `#malware`, `#research`
 
 ---
 
 <a id="item-13"></a>
-## [China Integrates AI as Core Subject in Education](https://t.me/gptupdates/32988) ⭐️ 8.0/10
+## [OpenAI to Launch GPT-5.6 Between July 7 and 9](https://t.me/gptupdates/33000) ⭐️ 8.0/10
 
-China's new five-year education plan mandates that AI literacy be taught as a fundamental skill from primary school through university. Students will start learning AI concepts as early as age six. This initiative is significant as it aims to enhance China's technological leadership and competitiveness in the global AI landscape. It could profoundly impact the future workforce by equipping students with essential skills for the evolving job market. If fully implemented, this program could position China as one of the first countries to teach AI as a basic skill alongside traditional subjects like reading and math. The initiative is also framed as essential for economic competitiveness and national security.
+OpenAI is preparing to launch GPT-5.6, with a release window set between July 7 and 9, and July 7 being the most likely date. The new version will feature increased plan limits and efficiency improvements. This release is significant as it indicates advancements in AI technology, particularly in response to competition from models like Gemini 3.5 Pro. The improvements in efficiency and safety measures could enhance user experience and broaden application possibilities. GPT-5.6 is expected to have significantly more generous plan limits compared to previous versions, along with enhanced safety measures, although these may not be as stringent as those of competitors. Additionally, it will feature a 1.5-million-token context window for improved data processing.
 
-telegram · gptupdates · Jul 3, 16:50
+telegram · gptupdates · Jul 4, 04:45
 
-**Background**: AI literacy refers to the understanding and ability to use artificial intelligence technologies effectively. As AI continues to permeate various sectors, educational systems worldwide are recognizing the need to prepare students for a future where AI skills are essential.
+**Background**: Pre-training is a common technique in machine learning where a model is initially trained on a large dataset to learn general patterns before being fine-tuned for specific tasks. OpenAI's focus on safety measures reflects ongoing concerns in the AI community regarding responsible AI deployment.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://teachingcommons.stanford.edu/teaching-guides/artificial-intelligence-teaching-guide/understanding-ai-literacy">Understanding AI Literacy | Teaching Commons</a></li>
-<li><a href="https://www.unesco.org/en/digital-education/artificial-intelligence">Artificial intelligence in education - AI | UNESCO</a></li>
+<li><a href="https://www.easemate.ai/ai-chat/gpt-5-6-free">GPT - 5 . 6 Free: Instantly Try OpenAI's New... - EaseMate AI</a></li>
+<li><a href="https://uxc.news/p/gpt-5-6-launch-window-starts-monday-alignment-fix-and-1-5m-token-context-inside">GPT ‑ 5 . 6 Launch Window Starts Monday: Alignment Fix and... | uxc.news</a></li>
+<li><a href="https://openai.com/safety/">Safety & responsibility | OpenAI</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI Education`, `#China`, `#Technological Leadership`, `#National Security`, `#Workforce Development`
+**Discussion**: Community sentiment appears to be optimistic about the upcoming release, with many expressing excitement over the expected improvements. Some users, however, have raised concerns about the adequacy of the safety measures compared to competitors.
+
+**Tags**: `#OpenAI`, `#GPT-5.6`, `#AI Development`, `#Machine Learning`, `#Safety Measures`
 
 ---
 
 <a id="item-14"></a>
-## [Hackers Exploit LLM Hallucinations for Fraud](https://unit42.paloaltonetworks.com/phantom-squatting-hallucinated-web-domains/) ⭐️ 8.0/10
+## [Performance per dollar is getting faster and cheaper](https://www.wafer.ai/blog/glm52-amd) ⭐️ 7.0/10
 
-Hackers are now using hallucinations generated by large language models (LLMs) to create fraudulent domains for phishing attacks. This tactic has led to the registration of over 13,000 malicious URLs, with many more unregistered domains being generated regularly. This development highlights a concerning intersection of AI technology and cybercrime, potentially impacting both individuals and organizations. As AI continues to evolve, the risks associated with its misuse in cyber attacks could escalate significantly. The technique, referred to as 'Phantom Squatting', allows attackers to register domains that LLMs frequently hallucinate, similar to typosquatting. This method requires no user baiting, as the LLMs themselves generate plausible URLs.
+AMD's hardware is becoming increasingly cost-effective and high-performing, as discussed in a recent article. This trend highlights the importance of performance per watt in the context of data center sourcing. This development is significant as it could influence data center decisions, especially in regions where sourcing Nvidia products is challenging. Improved performance per watt can lead to more sustainable and cost-effective computing solutions. The article emphasizes the need for performance per watt metrics, which are crucial for evaluating energy efficiency in computing. Additionally, there are concerns about the accuracy and reliability of quantization methods used in performance measurements.
 
-telegram · gptupdates · Jul 3, 17:35
+hackernews · latchkey · Jul 3, 21:49
 
-**Background**: LLM hallucinations refer to instances where AI models generate false or misleading information, often producing non-existent URLs. Typosquatting is a related tactic where attackers register domain names that are slight misspellings of legitimate sites to deceive users. The emergence of Phantom Squatting represents a new threat vector in the realm of cybersecurity.
+**Background**: Performance per watt is a key metric in computing that measures the energy efficiency of hardware. It indicates how much computational power can be achieved for each watt of power consumed, which is particularly important in data center operations where energy costs are significant.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://live.paloaltonetworks.com/t5/community-blogs/how-ai-hallucinations-create-new-security-risks-for-users/ba-p/1255418">What is Phantom Squatting ? Protecting Against AI Hallucination Risks</a></li>
-<li><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lCMHUyX0VSRmxYZ3VfVXhralBTZ0FQAQ?hl=en-IN&gl=IN&ceid=IN:en">Cybercriminals exploit AI hallucinations to launch phantom squatting ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Performance_per_watt">Performance per watt</a></li>
+<li><a href="https://grokipedia.com/page/Performance_per_watt">Performance per watt</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#cybersecurity`, `#AI`, `#phishing`, `#LLM`, `#malware`
+**Discussion**: Community comments reflect a desire for more detailed performance metrics, particularly regarding performance per watt. There are also concerns about the trade-offs involved in quantization techniques used in AMD's offerings.
+
+**Tags**: `#AMD`, `#Performance Metrics`, `#Data Centers`, `#Hardware`, `#AI`
 
 ---
 
 <a id="item-15"></a>
-## [Jamesob's Guide to Running SOTA LLMs Locally](https://github.com/jamesob/local-llm) ⭐️ 7.0/10
+## [Leanstral 1.5: Proof Abundance for All](https://mistral.ai/news/leanstral-1-5/) ⭐️ 7.0/10
 
-Jamesob has released a comprehensive guide detailing the challenges and requirements for running state-of-the-art language models (LLMs) locally. The guide emphasizes the significant financial investment needed, with initial setups potentially costing around $40,000. This guide is significant as it highlights the complexities and costs associated with local deployment of LLMs, which could impact developers and researchers looking to utilize these technologies without relying on cloud services. Understanding these requirements is crucial for those aiming to innovate in the AI space. The guide outlines that a typical setup may require multiple high-end GPUs, with costs escalating significantly based on hardware choices. Additionally, it discusses the importance of techniques like quantization for optimizing model performance on local machines.
+Leanstral 1.5 has been released with enhancements aimed at improving proof abundance, especially for small models. This update includes case studies on code verification and is part of Mistral AI's ongoing efforts in formal verification. This release is significant as it enhances the capabilities of small models in formal verification, potentially democratizing access to advanced verification tools. It could impact developers and researchers who require efficient verification methods for their software. Leanstral 1.5 is designed to saturate benchmarks like miniF2F, PutnamBench, and FATE-H/X, showcasing its effectiveness in practical applications. The model is open-source and aims to provide high-quality capabilities at a lower cost.
 
-hackernews · livestyle · Jul 3, 15:03
+hackernews · programLyrique · Jul 3, 22:33
 
-**Background**: State-of-the-art language models (SOTA LLMs) are advanced AI systems that achieve high performance in natural language processing tasks. Running these models locally allows users to maintain data privacy and reduce ongoing costs associated with cloud-based solutions. However, the hardware requirements can be substantial, often necessitating significant investment in GPUs and other resources.
+**Background**: Leanstral is an open-source code agent designed for Lean 4, a proof assistant used for expressing complex mathematical objects and software specifications. Formal verification is a mathematical approach to ensure the correctness of systems against specified properties, which is increasingly important in software development.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://huggingface.co/blog/daya-shankar/sota-ai-models">SOTA AI Models: Benchmarks, Metrics & Deployment Guide</a></li>
-<li><a href="https://www.cognativ.com/blogs/post/what-is-a-local-llm-guide-to-understanding-and-using-them/256">What is a Local LLM Guide to Understanding and Using Them</a></li>
-<li><a href="https://daily.dev/blog/running-llms-locally-ollama-llama-cpp-self-hosted-ai-developers/">Running LLMs Locally in 2026: Ollama, llama.cpp, and Self ...</a></li>
+<li><a href="https://explainx.ai/blog/leanstral-1-5-proof-abundance-for-all-2026">Leanstral 1.5: Proof Abundance and Code Verification for All</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Formal_verification">Formal verification - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community comments reflect a mix of enthusiasm and caution regarding the costs of local LLM setups. Many users share concerns about the high expenses involved and the need for careful planning when investing in hardware.
+**Discussion**: Community comments reflect a mix of criticism and appreciation for Mistral's focus on small models, with some users finding value in its cost-effectiveness for specific tasks. Others raised questions about the applicability of Leanstral for those without prior knowledge of formal verification.
 
-**Tags**: `#LLMs`, `#local deployment`, `#hardware requirements`, `#AI`, `#community discussion`
+**Tags**: `#Lean`, `#Formal Verification`, `#AI`, `#Machine Learning`, `#Modeling`
 
 ---
 
 <a id="item-16"></a>
-## [Africans Are Turning to Starlink](https://www.economist.com/middle-east-and-africa/2026/07/02/africans-are-turning-to-starlink) ⭐️ 7.0/10
+## [MSI Center Vulnerability Allows SYSTEM Privileges](https://mrbruh.com/msicenter/) ⭐️ 7.0/10
 
-Starlink is being increasingly adopted in Africa to provide internet access to underserved populations. This initiative aims to bridge the digital divide by offering reliable connectivity where traditional infrastructure is lacking. This development is significant as it could transform internet accessibility in regions that have been historically underserved. It impacts millions of people by providing them with the tools and knowledge necessary for economic and social advancement. Starlink offers high-speed, low-latency internet with over 99.9% average uptime, making it a viable option for remote areas. However, the service may still face challenges such as regulatory hurdles and affordability for low-income users.
+A vulnerability in MSI Center has been identified that allows low-privileged users to gain SYSTEM privileges. This issue affects MSI Center versions up to 2.0.36.0. This vulnerability poses a significant security risk as it allows unauthorized access to critical system files. Users of MSI Center, particularly on motherboards and laptops, will need to update their software to mitigate this risk. The vulnerability enables arbitrary overwriting or deletion of high-privileged files by low-privileged users. A patch has been prepared by MSI within two days of the vulnerability being reported.
 
-hackernews · bookofjoe · Jul 3, 21:08
+hackernews · MrBruh · Jul 4, 00:57
 
-**Background**: The digital divide refers to the gap between those who have easy access to digital technology and those who do not. In many parts of Africa, traditional internet infrastructure is lacking, making satellite internet solutions like Starlink essential for improving connectivity.
+**Background**: MSI Center is a software application used for managing MSI hardware settings and updates. Vulnerabilities in such applications can lead to severe security breaches, allowing attackers to escalate their privileges and gain control over systems.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Digital_divide">Digital divide - Wikipedia</a></li>
-<li><a href="https://starlink.com/">Starlink</a></li>
+<li><a href="https://github.com/carsonchan12345/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation">GitHub - carsonchan12345/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation · GitHub</a></li>
+<li><a href="https://forums.anandtech.com/threads/msi-center-software-vulnerability.2635057/">MSI Center software vulnerability | AnandTech Forums: Technology, Hardware, Software, and Deals</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community comments reflect a strong appreciation for Starlink's impact on internet access, with users sharing personal experiences of improved connectivity in rural areas. Many draw parallels between the adoption of mobile phones in Africa and the current shift towards satellite internet.
+**Discussion**: Community reactions to the vulnerability show a mix of experiences, with some users expressing satisfaction with the quick patch response from MSI. However, others raised concerns about the lack of bug bounty rewards for reporting vulnerabilities.
 
-**Tags**: `#Starlink`, `#Internet Access`, `#Africa`, `#Technology Adoption`, `#Digital Divide`
+**Tags**: `#security`, `#vulnerability`, `#MSI Center`, `#software engineering`, `#community discussion`
 
 ---
 
 <a id="item-17"></a>
-## [Wordgard: In-browser rich-text editor from the creator of ProseMirror](https://wordgard.net/) ⭐️ 7.0/10
+## [Jamesob's Guide to Running SOTA LLMs Locally](https://github.com/jamesob/local-llm) ⭐️ 7.0/10
 
-Wordgard is a new in-browser rich-text editor developed by the creator of ProseMirror, featuring unique design and functionalities. It aims to provide a more intuitive editing experience compared to existing tools. This development is significant as it introduces a new option for developers seeking advanced editing capabilities in web applications. The unique features of Wordgard could influence the design and functionality of future rich-text editors. Wordgard shares many concepts with ProseMirror but does not offer a direct upgrade path, which may require significant effort for users switching from ProseMirror. The editor's design has received positive feedback for its aesthetic appeal.
+Jamesob has released a comprehensive guide detailing the requirements and considerations for running state-of-the-art language models locally. The guide highlights the significant financial investment needed, with initial setups estimated around $40,000. This guide is significant as it provides insights into the high costs associated with deploying advanced AI models locally, which could deter potential users. Understanding these financial implications is crucial for individuals and organizations considering local deployment of LLMs. The guide mentions that a robust setup could require multiple high-end GPUs, with costs potentially exceeding $50,000. It also discusses the use of quantization techniques to optimize performance and reduce hardware requirements.
 
-hackernews · indy · Jul 3, 08:50
+hackernews · livestyle · Jul 3, 15:03
 
-**Background**: ProseMirror is a powerful framework for building rich-text editors, known for its performance and flexibility. It has a steep learning curve but is widely used in various applications. Wordgard aims to simplify some of the complexities associated with ProseMirror while offering a fresh user interface.
+**Background**: State-of-the-art language models (SOTA LLMs) are advanced AI systems capable of understanding and generating human-like text. Running these models locally requires significant hardware resources, including high-performance GPUs and substantial memory, which can be a barrier for many users.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://prosemirror.net/">ProseMirror</a></li>
-<li><a href="https://grokipedia.com/page/ProseMirror">ProseMirror</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2025/03/top-sota-llms/">Top 6 SOTA LLMs for Code, Web search, Research... - Analytics Vidhya</a></li>
+<li><a href="https://collabnix.com/running-llms-locally-with-ollama-a-complete-setup-guide/">Running LLMs Locally with Ollama: A Complete Setup Guide - Collabnix</a></li>
+<li><a href="https://acecloud.ai/blog/local-llms-deployment-and-benchmark/">How To Run LLMs Locally - Deployment And Benchmark</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community members have expressed interest in understanding the differences between Wordgard and ProseMirror, noting that switching may involve considerable work. The design of Wordgard has also received praise for its aesthetic qualities.
+**Discussion**: Community comments reflect a mix of enthusiasm and caution regarding the costs and performance of local LLMs. Some users express concerns about the financial investment required, while others share their experiences and suggest alternatives for running models more affordably.
 
-**Tags**: `#rich-text editor`, `#ProseMirror`, `#web development`, `#editor tools`, `#software engineering`
+**Tags**: `#LLMs`, `#local deployment`, `#AI`, `#hardware`, `#community discussion`
 
 ---
 
 <a id="item-18"></a>
-## [PostgreSQL and the OOM Killer: Strict Memory Overcommit](https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit) ⭐️ 7.0/10
+## [Soatok's Informal Guide to Threat Models](https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/) ⭐️ 7.0/10
 
-The article discusses the use of strict memory overcommit in PostgreSQL to prevent issues with the OOM killer in Linux environments. It highlights the rationale behind this approach and its implications for database performance. This is significant because using strict memory overcommit can help maintain database stability and performance under memory pressure. It affects database administrators and developers who rely on PostgreSQL in resource-constrained environments. Strict memory overcommit prevents PostgreSQL from allocating more memory than is physically available, reducing the risk of the OOM killer terminating critical processes. However, it may also lead to application instability if not properly managed.
+Soatok has released an informal guide that introduces threat modeling with practical examples and encourages community engagement. This guide aims to make the concept of threat modeling more accessible to a broader audience. This guide is significant as it addresses a critical aspect of cybersecurity, helping individuals and organizations better understand and mitigate potential threats. Its community-driven approach fosters collaboration and knowledge sharing in the field of information security. The guide emphasizes practical examples of threat modeling, which can help users apply theoretical concepts in real-world scenarios. Additionally, it encourages readers to engage with the community for further insights and discussions.
 
-hackernews · furkansahin · Jul 3, 13:00
+hackernews · zdw · Jul 4, 00:35
 
-**Background**: The OOM killer is a Linux kernel feature that terminates processes when the system runs low on memory. PostgreSQL, a popular relational database, can face issues if the OOM killer targets its processes, leading to potential data loss or downtime. Understanding memory management policies like overcommitment is crucial for database reliability.
+**Background**: Threat modeling is a structured approach to identifying and addressing potential security threats to a system or application. It involves analyzing the system's architecture, identifying vulnerabilities, and determining the potential impact of various threats. This process is essential for developing effective security strategies and ensuring the protection of sensitive information.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit">PostgreSQL and the OOM Killer: Why We Use Strict Memory ...</a></li>
-<li><a href="https://linuxhandbook.com/oom-killer/">What is Out of Memory Killer (OOM Killer) in Linux?</a></li>
-<li><a href="https://www.baeldung.com/linux/memory-overcommitment-oom-killer">Linux Memory Overcommitment and the OOM Killer - Baeldung How to Prevent Out of Memory (OOM) Freezes on Linux: Fixing ... Understanding and Utilizing the Linux OOM Killer How to Configure the Linux Out-of-Memory Killer - Oracle Linux OOM Killer: What It Is and How to Fix It Fix: Linux OOM Killer Killing Processes (Out of Memory)</a></li>
+<li><a href="https://www.linkedin.com/pulse/comprehensive-guide-threat-modelling-frameworks-aristiun-lwhwf">Comprehensive Guide to Top Threat Modeling Frameworks</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/Security/Threat_modeling/Frameworks">Threat modeling frameworks and tools - Security | MDN</a></li>
+<li><a href="https://www.sentinelone.com/cybersecurity-101/cybersecurity/cyber-security-risk-assessment/">Cyber Security Risk Assessment: Step-by-Step Process</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community members expressed concerns about the aggressive defaults of Linux memory management and shared personal experiences with overcommit settings. Some highlighted the importance of thorough testing before deploying changes to production environments.
+**Discussion**: Community feedback on the guide has been positive, with users appreciating its engaging style and practical examples. Some comments also highlight the diversity of perspectives on threat modeling, indicating a healthy discussion within the community.
 
-**Tags**: `#PostgreSQL`, `#Memory Management`, `#Linux`, `#Database Systems`, `#Technical Analysis`
+**Tags**: `#Threat Modeling`, `#Cybersecurity`, `#Information Security`, `#Privacy`, `#Technical Guide`
 
 ---
 
 <a id="item-19"></a>
-## [Valve Open-Sources the Steam Machine E-Ink Screen](https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/) ⭐️ 7.0/10
+## [Wordgard: In-browser rich-text editor from the creator of ProseMirror](https://wordgard.net/) ⭐️ 7.0/10
 
-Valve has open-sourced the design for the Steam Machine e-ink screen, enabling users to create their own versions. This move encourages community innovation and DIY projects. This development is significant as it enhances hardware accessibility and fosters a culture of innovation within the gaming community. It could lead to new applications and modifications that benefit users and developers alike. The e-ink screen is based on a standard Adafruit 5.83-inch panel, which allows for various custom implementations. Users will need specific hardware components to build their own versions.
+Wordgard has been launched as a new in-browser rich-text editor developed by the creator of ProseMirror. This tool aims to enhance the user experience in text editing. This development is significant as it could reshape the landscape of web-based text editing, impacting both developers and end-users. The introduction of Wordgard reflects ongoing trends toward more user-friendly and efficient editing tools. Notably, Wordgard shares many concepts with ProseMirror but does not provide an upgrade path, which may require users to invest time in transitioning. Additionally, early feedback indicates some usability issues, particularly on mobile devices.
 
-hackernews · ahlCVA · Jul 3, 13:01
+hackernews · indy · Jul 3, 08:50
 
-**Background**: Open-source hardware projects allow individuals to study, modify, and reproduce designs, fostering innovation and collaboration. Valve's decision to open-source the e-ink screen aligns with a growing trend among tech companies to embrace community-driven development.
+**Background**: ProseMirror is a well-established framework for building rich-text editors, known for its performance and flexibility. It allows developers to create complex editing interfaces while maintaining a clean document structure. Wordgard builds on this foundation to offer a more streamlined user experience.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/">Valve open source the Steam Machine e-ink screen so you can ...</a></li>
-<li><a href="https://steamdeckhq.com/news/valve-open-sources-steam-machine-e-ink-display/">Valve Open-Sources Its Steam Machine E-Ink Display So We Can ...</a></li>
+<li><a href="https://grokipedia.com/page/ProseMirror">ProseMirror</a></li>
+<li><a href="https://prosemirror.net/">ProseMirror</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community comments reflect a strong interest in DIY projects and the implications of corporate openness. Some users express a desire for more accessible guides and analysis on the impact of such openness on Valve's business.
+**Discussion**: Community feedback has been mixed, with some users expressing enthusiasm for the design while others highlight usability challenges, particularly on mobile devices. There is also a call for clarity on the differences between Wordgard and ProseMirror.
 
-**Tags**: `#open-source`, `#hardware`, `#DIY`, `#Valve`, `#e-ink`
+**Tags**: `#rich-text editor`, `#ProseMirror`, `#web development`, `#text editing`, `#community feedback`
 
 ---
 
 <a id="item-20"></a>
-## [Exploring Alternative Uses of LLMs for Coding](https://news.ycombinator.com/item?id=48771515) ⭐️ 7.0/10
+## [Software, from First Principles](https://fazamhd.com/mental-models/software/) ⭐️ 7.0/10
 
-A Hacker News user initiated a discussion about innovative methods for utilizing large language models (LLMs) in programming, moving beyond the traditional prompt-response model. The conversation has attracted various insights and personal experiments from the community. This discussion is significant as it highlights the need for new approaches in leveraging LLMs, which could enhance productivity and creativity in coding. Developers and startups may benefit from these insights to improve their coding workflows and tools. Participants in the discussion shared various experimental techniques, such as using 'hermetic agents' for code and test generation, and a 'tab model' approach for LLMs. These methods aim to reduce biases and improve code quality, although they may require more complex setups.
+The article provides an overview of software principles using interactive diagrams to aid understanding for both novice and experienced readers. It emphasizes the importance of visual learning in grasping complex software concepts. This article is significant as it enhances the learning experience for individuals at different levels of expertise in software engineering. By utilizing interactive diagrams, it addresses common challenges in understanding abstract software concepts. The article features interactive diagrams that help clarify complex software principles, making them more accessible. However, some readers noted that the content could be more concise and focused to improve readability.
 
-hackernews · yehiaabdelm · Jul 3, 06:21
+hackernews · faza · Jul 3, 21:28
 
-**Background**: Large language models (LLMs) like Claude and Codex are increasingly used in programming to assist developers by generating code snippets based on prompts. However, users often express challenges in maintaining a productive flow state while interacting with these models, leading to discussions about alternative methodologies.
+**Background**: First principles thinking in software engineering involves breaking down complex problems into their fundamental components and understanding the underlying principles. This approach allows engineers to innovate and solve problems more effectively. Interactive diagrams are increasingly used in software education to enhance comprehension and engagement.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Claude_Code">Claude Code</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Codex">Codex</a></li>
+<li><a href="https://addyosmani.com/blog/first-principles-thinking-software-engineers/">AddyOsmani.com - First Principles for Software Engineers</a></li>
+<li><a href="https://icepanel.medium.com/how-to-create-interactive-zoomable-software-architecture-diagrams-6724f1d087ac">How to create interactive zoomable software architecture diagrams | by IcePanel | Medium</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community discussion reveals a mix of frustration and innovation, with users sharing their unique approaches to overcome limitations of current LLM usage. Many are experimenting with different setups to enhance their coding experience.
+**Discussion**: Community feedback has been largely positive, with many appreciating the interactive diagrams for their clarity. However, some commenters suggested that the article could be more concise and that certain editorial comments detracted from the main ideas.
 
-**Tags**: `#LLMs`, `#programming`, `#AI`, `#Hacker News`, `#experimentation`
+**Tags**: `#software engineering`, `#education`, `#technical overview`, `#interactive learning`
 
 ---
 
 <a id="item-21"></a>
-## [Challenges of Startup Founders Without Domain Expertise](https://weli.dev/blog/half-baked-product/) ⭐️ 7.0/10
+## [Africans Are Turning to Starlink](https://www.economist.com/middle-east-and-africa/2026/07/02/africans-are-turning-to-starlink) ⭐️ 7.0/10
 
-The article discusses the difficulties startup founders encounter when they lack domain expertise, emphasizing the disconnect between their motivations and the realities of product development. It highlights how this gap can lead to repeated failures in various sectors. This issue is significant as it impacts the success rates of startups and highlights the importance of domain knowledge in product development. Founders who understand the realities of their industry are more likely to create viable products. The article points out that many founders choose their fields based on market analysis rather than genuine expertise, leading to a mismatch in expectations. It also notes that this disconnect is a recurring theme in startup culture.
+Starlink is becoming a vital solution for internet access in Africa, expanding its reach to underserved regions. This development highlights the growing reliance on satellite internet technology in areas lacking traditional infrastructure. This shift is significant as it can enhance connectivity in remote areas, potentially transforming economic opportunities and access to information. The impact of Starlink in Africa mirrors the rapid adoption of mobile phones in the region, indicating a leap in technology usage. Starlink operates a constellation of low Earth orbit satellites, providing broadband internet capable of supporting various online activities. As of June 2026, the network consists of over 10,000 satellites, significantly improving internet access in previously underserved areas.
 
-hackernews · weli · Jul 3, 08:23
+hackernews · bookofjoe · Jul 3, 21:08
 
-**Discussion**: Community comments reflect a range of perspectives, with some emphasizing the importance of founder motivation and others discussing the disconnect between different roles in a startup. Overall, there is a consensus on the need for better collaboration among team members.
+**Background**: Starlink is a satellite internet service developed by SpaceX, launched in 2019, aimed at providing global broadband access. Unlike traditional internet services that rely on cables, Starlink uses satellites to transmit data, making it suitable for regions without established infrastructure.
 
-**Tags**: `#startups`, `#entrepreneurship`, `#product development`, `#domain expertise`, `#business challenges`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Starlink">Starlink - Wikipedia</a></li>
+<li><a href="https://www.techtarget.com/whatis/definition/Starlink">What is Starlink? Everything You Need to Know - TechTarget</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community comments reflect a positive sentiment regarding Starlink's impact on internet access, with users sharing personal experiences of improved connectivity. Many draw parallels to the rapid adoption of mobile phones in Africa, emphasizing the transformative potential of this technology.
+
+**Tags**: `#Starlink`, `#Internet Access`, `#Technology Adoption`, `#Africa`, `#Satellite Internet`
 
 ---
 
 <a id="item-22"></a>
-## [60% Cost Reduction by Converting Code to Images with OCR](https://github.com/teamchong/pxpipe) ⭐️ 7.0/10
+## [The Circuit That Lets Your Brain Think and See](https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see) ⭐️ 7.0/10
 
-A new technique has been proposed that reduces costs in AI model usage by converting code into images and utilizing Optical Character Recognition (OCR) to process them. This approach has sparked discussions within the community regarding its feasibility and potential pricing effects. This cost reduction technique could significantly impact the AI industry by making model usage more affordable, potentially benefiting startups and smaller companies. It also raises questions about pricing strategies and resource allocation in AI services. The method involves converting code to images, which are then processed using OCR, potentially reducing the number of tokens charged. However, there are concerns that this could be a temporary loophole that may be closed by service providers.
+A new circuit model has been developed that aims to replicate brain functions related to thinking and sensing, emphasizing the role of inhibitory neurons in information processing. This model could enhance our understanding of complex neural interactions. This research is significant as it could lead to advancements in neuroscience and artificial intelligence by providing insights into how the brain processes information. Understanding these mechanisms may impact the development of brain-computer interfaces and other technologies. The study highlights the importance of inhibitory neurons, which suppress other neurons to facilitate information transfer within the brain. This approach may also face challenges in accurately modeling the complexities of real neural networks.
 
-hackernews · dimitropoulos · Jul 3, 15:50
+hackernews · hhs · Jul 3, 22:56
 
-**Background**: Optical Character Recognition (OCR) is a technology that converts different types of documents, such as scanned images and PDFs, into editable and searchable data. The AI industry is constantly seeking ways to reduce operational costs, and innovative techniques like this one are crucial for improving efficiency.
+**Background**: Inhibitory neurons play a crucial role in shaping the brain's code and information processing by restraining the activity of other neurons. This research builds on existing knowledge of neural circuits and their functions in cognition and perception.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://medium.com/@james_smith-/how-machine-learning-enhances-ocr-accuracy-fb9bfd5fbf7b">How Machine Learning Enhances OCR Accuracy? | Medium</a></li>
-<li><a href="https://www.klippa.com/en/blog/information/ocr-machine-learning/">What is Machine Learning OCR ? - A Complete Guide</a></li>
+<li><a href="https://www.brainfacts.org/brain-anatomy-and-function/cells-and-circuits/2021/how-inhibitory-neurons-shape-the-brains-code-100621">How Inhibitory Neurons Shape the Brain’s Code - BrainFacts</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Brain–computer_interface">Brain–computer interface - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community members have expressed mixed opinions on the viability of this approach, with some viewing it as a potential loophole in pricing strategies. Others have shared personal experiences that suggest it may not always lead to cost savings.
+**Discussion**: Community comments reflect a mix of skepticism and interest, with some questioning the applicability of neural network models to biological neurons. Others highlight the importance of understanding the complexities of neural interactions.
 
-**Tags**: `#AI`, `#OCR`, `#Cost Reduction`, `#Machine Learning`, `#Community Discussion`
+**Tags**: `#neuroscience`, `#machine learning`, `#brain modeling`, `#circuit design`, `#AI`
 
 ---
 
 <a id="item-23"></a>
-## [Kagi Introduces AI Toggle Feature for User Control](https://kagi.com/changelog#10959) ⭐️ 7.0/10
+## [Challenges of Startup Founders Lacking Domain Expertise](https://weli.dev/blog/half-baked-product/) ⭐️ 7.0/10
 
-Kagi has launched an AI toggle feature that allows users to control how AI is applied in their search experience. This feature emphasizes user choice and privacy, reflecting a significant update on July 2. This development is significant as it aligns with the growing trend of user-controlled AI integration in technology. It impacts users who prioritize privacy and choice in their search experiences, contrasting with other search engines that may not offer such flexibility. The AI toggle feature allows users to enable or disable AI functionalities based on their preferences, ensuring that AI assistance is available only when desired. This approach is a response to user demand for more control over their online experiences.
+A recent blog post discusses the difficulties faced by startup founders who lack domain expertise, leading to mismatches in expectations and execution. It highlights the disconnect between founders and domain experts in various industries. This issue is significant as it can lead to failed startups and wasted resources, affecting not only the founders but also investors and employees. Understanding this disconnect can help improve collaboration and outcomes in the startup ecosystem. The article emphasizes that founders often choose fields based on market analysis rather than domain expertise, leading to unrealistic expectations. It also notes that the motivations of founders and engineers can differ significantly, contributing to the disconnect.
 
-hackernews · mroche · Jul 3, 20:08
+hackernews · weli · Jul 3, 08:23
 
-**Background**: Kagi is a privacy-focused search engine that does not track user activity or serve ads. It aims to provide a cleaner and faster web experience while prioritizing user privacy, making it an alternative to traditional search engines like Google.
+**Background**: In the startup world, founders often come from diverse backgrounds and may lack specific industry knowledge. This can lead to challenges in product development and market fit, as they may not fully understand customer needs or technical limitations.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://kagi.com/privacy">Privacy - Kagi Search</a></li>
-<li><a href="https://kagi.com/">Kagi - Reclaim the Web & Restore Your Privacy</a></li>
+**Discussion**: Community comments reflect a range of perspectives, with some emphasizing the importance of motivation and others highlighting the ongoing disconnect between different roles in startups. There is a shared sentiment that this issue has persisted for decades, indicating its relevance.
 
-</ul>
-</details>
-
-**Discussion**: Community members expressed excitement about the new AI toggle, emphasizing the importance of having control over AI usage. Some users noted the contrast between Kagi's approach and that of larger search engines, highlighting a desire for privacy.
-
-**Tags**: `#AI`, `#Search`, `#Privacy`, `#User Experience`, `#Kagi`
+**Tags**: `#startups`, `#entrepreneurship`, `#domain expertise`, `#business challenges`, `#community discussion`
 
 ---
 
 <a id="item-24"></a>
-## [Best Simple System for Now (2025)](https://dannorth.net/blog/best-simple-system-for-now/) ⭐️ 7.0/10
+## [PostgreSQL and the OOM Killer: Strict Memory Overcommit Explained](https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit) ⭐️ 7.0/10
 
-The article discusses the significance of selecting the appropriate system design approach based on specific contexts and goals. It emphasizes the balance between thoroughness and pragmatism in engineering decisions. This discussion is significant as it addresses how engineers can optimize their design choices to align with business objectives, potentially impacting project success. Understanding when to prioritize speed over thoroughness can lead to more effective resource management. The article highlights the concept of technical debt, which refers to the future costs incurred from choosing expedient solutions. It suggests that managing this debt is crucial for maintaining software quality and long-term sustainability.
+The article discusses the implementation of strict memory overcommit in PostgreSQL to mitigate issues caused by the OOM killer. This approach aims to enhance database stability under memory pressure. This is significant as it directly impacts the reliability of PostgreSQL databases, especially in high-load environments. Database administrators and system engineers will benefit from understanding these memory management strategies. Strict memory overcommit prevents the kernel from allowing memory allocations that exceed a defined limit, thereby reducing the risk of process termination by the OOM killer. This strategy involves configuring kernel parameters such as overcommit_ratio and CommitLimit.
 
-hackernews · daan-k · Jul 3, 15:06
+hackernews · furkansahin · Jul 3, 13:00
 
-**Background**: System design is a critical aspect of software engineering that involves creating systems that meet specific requirements and goals. It encompasses principles that guide engineers in making decisions about scalability, reliability, and maintainability. Technical debt is a key consideration in this process, as it represents the trade-offs made for short-term gains at the expense of long-term quality.
+**Background**: The OOM killer is a Linux kernel mechanism that terminates processes when the system runs out of memory. PostgreSQL, as a widely-used relational database, can be particularly vulnerable to these memory management issues, making effective strategies essential for maintaining performance and reliability.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Technical_debt">Technical debt</a></li>
-<li><a href="https://www.geeksforgeeks.org/system-design/design-principles-in-system-design/">Design Principles in System Design - GeeksforGeeks</a></li>
-<li><a href="https://medium.com/@franciscomoretti/pragmatic-programming-traits-for-web-development-65d0426a32d5?responsesOpen=true&sortBy=REVERSE_CHRON">Pragmatic Programming Traits for Web Development | Medium</a></li>
+<li><a href="https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit">PostgreSQL and the OOM Killer: Why We Use Strict Memory ...</a></li>
+<li><a href="https://www.cybertec-postgresql.com/en/what-you-should-know-about-linux-memory-overcommit-in-postgresql/">Memory overcommit and PostgreSQL | CYBERTEC PostgreSQL | Services & Support</a></li>
+<li><a href="https://neo4j.com/developer/kb/linux-out-of-memory-killer/">Linux Out of Memory killer - Knowledge Base</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community comments reflect a strong engagement with the topic, emphasizing the importance of context in engineering decisions. Many contributors agree that understanding the goals of a system is essential for determining the right approach.
+**Discussion**: Community comments reflect a mix of agreement and caution regarding the implementation of strict memory overcommit. Some users emphasize the importance of testing in a controlled environment before deploying changes to production systems.
 
-**Tags**: `#system design`, `#software engineering`, `#pragmatism`, `#technical debt`, `#community discussion`
+**Tags**: `#PostgreSQL`, `#Memory Management`, `#Database Administration`, `#Linux`, `#System Engineering`
 
 ---
 
 <a id="item-25"></a>
-## [Josh W. Comeau Reports Decline in Course Sales Due to AI](https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything) ⭐️ 7.0/10
+## [Show HN: Mcpsnoop – Wireshark for MCP](https://github.com/kerlenton/mcpsnoop) ⭐️ 7.0/10
 
-Josh W. Comeau has launched his third course, Whimsical Animations, but it is projected to sell only one-third of typical course sales. He attributes this decline in sales to the rise of AI, which is affecting both the willingness to learn new skills and the market for paid courses. This trend is significant as it highlights the impact of AI on the education sector, particularly for course creators who are facing reduced revenue and engagement. The shift in learning preferences towards AI-driven tools could reshape the future of education and job markets. Comeau mentions that many potential learners are hesitant to invest in new skills due to uncertainty about the future of developer jobs. Additionally, the availability of large language models (LLMs) providing personalized tutoring reduces the incentive to purchase paid courses.
+Mcpsnoop is a newly released tool that provides a Wireshark-like experience for monitoring Model Context Protocol (MCP) traffic using a transparent proxy and a live text-based user interface (TUI). This tool aims to enhance the visibility of MCP communications. This tool is significant as it offers a novel approach to network monitoring, particularly for MCP, which is becoming increasingly relevant in AI applications. Users and developers working with MCP will benefit from improved traffic visibility and analysis capabilities. Mcpsnoop operates as a transparent proxy, allowing it to capture and analyze MCP traffic without requiring changes to the existing network configuration. The live TUI interface provides real-time feedback and monitoring capabilities.
 
-rss · Simon Willison · Jul 3, 21:25
+hackernews · kerlenton · Jul 3, 16:53
 
-**Background**: The rise of AI and large language models (LLMs) has transformed various sectors, including education. LLMs are capable of generating personalized learning experiences, which can reduce the demand for traditional paid courses. This shift poses challenges for course creators who rely on sales for their livelihood.
+**Background**: The Model Context Protocol (MCP) is an open-source standard designed to facilitate the integration of AI applications with external systems. Transparent proxies are commonly used in networking to intercept and analyze traffic without altering the original request path. A text-based user interface (TUI) allows users to interact with applications through text commands, providing a lightweight alternative to graphical interfaces.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://grokipedia.com/page/llms_in_higher_education">LLMs in higher education</a></li>
-<li><a href="https://medium.com/@preeti.rana.ai/exploring-the-potential-of-llms-in-education-and-e-learning-46e165e4c679">Exploring the Potential of LLMs in Education and E-Learning | Medium</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Model_Context_Protocol">Model Context Protocol - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Transparent_proxy">Transparent proxy</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Text-based_user_interface">Text-based user interface - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community discussions reflect a mix of concern and curiosity regarding the future of education in light of AI advancements. Many participants express worries about job security and the evolving role of traditional learning.
+**Discussion**: Community comments reflect a mix of enthusiasm and skepticism, with some users appreciating the tool's capabilities while others question its implementation and express a desire for additional features. There are also concerns about the potential for automated comments in the discussion.
 
-**Tags**: `#AI`, `#Education`, `#Online Courses`, `#Developer Skills`, `#Market Trends`
+**Tags**: `#MCP`, `#network monitoring`, `#Wireshark`, `#proxy`, `#open source`
 
 ---
 
 <a id="item-26"></a>
-## [Fable's Judgement in AI Task Management](https://simonwillison.net/2026/Jul/3/judgement/#atom-everything) ⭐️ 7.0/10
+## [Valve open-sources the Steam Machine e-ink screen](https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/) ⭐️ 7.0/10
 
-The author shares insights on allowing AI models like Fable to use their own judgement for testing and task allocation, rather than following strict guidelines. This approach was discussed during a recent Fireside Chat with the Claude Code team. This is significant as it can enhance the efficiency and effectiveness of AI models in real-world applications, impacting developers and businesses that rely on AI for automation. By allowing models to make decisions, it could lead to better resource management and cost savings. The author emphasizes that Fable should decide when to use automated testing based on its own judgement, rather than following predefined rules. Additionally, using lower-power models for smaller tasks can help conserve valuable Fable tokens.
+Valve has open-sourced the design for the Steam Machine e-ink screen, enabling users to create their own versions. This initiative encourages community-driven projects and innovation. This is significant as it allows hardware enthusiasts and developers to customize their devices, potentially leading to a variety of innovative applications. The move aligns with broader trends in open-source hardware and community collaboration. The e-ink screen design is based on a standard Adafruit 5.83-inch eInk panel, which provides a foundation for users to build upon. This open-source approach can lead to diverse implementations and enhancements by the community.
 
-rss · Simon Willison · Jul 3, 18:51
+hackernews · ahlCVA · Jul 3, 13:01
 
-**Background**: Fable is a state-of-the-art AI model developed by Anthropic, designed for complex coding tasks and capable of making autonomous decisions. The model is part of the Claude family, which includes various models optimized for different types of tasks, including coding and automation.
+**Background**: The Steam Machine is a gaming console developed by Valve that aims to provide a customizable gaming experience. E-ink technology is known for its low power consumption and readability, making it suitable for various applications, including displays in gaming hardware.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.anthropic.com/claude/fable">Claude Fable \ Anthropic</a></li>
+<li><a href="https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/">Valve open source the Steam Machine e-ink screen so you can make your own | GamingOnLinux</a></li>
+<li><a href="https://www.reddit.com/r/gadgets/comments/1owzai6/valve_showcases_steam_machine_with_eink_display/">r/gadgets on Reddit: Valve showcases Steam Machine with e-ink display</a></li>
+<li><a href="https://www.notebookcheck.net/Valve-showcases-Steam-Machine-with-e-ink-display.1162643.0.html">Valve showcases Steam Machine with e-ink display - Notebookcheck News</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community comments reflect a mix of enthusiasm and suggestions for further development, with users expressing a desire for more accessible guides and discussions on potential applications. Some users are already working on related projects, showcasing the innovative spirit of the community.
+
+**Tags**: `#open-source`, `#hardware`, `#Steam Machine`, `#e-ink`, `#community`
+
+---
+
+<a id="item-27"></a>
+## [Restrictions on AI Tools in Academic Presentations](https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type) ⭐️ 7.0/10
+
+The author discusses their experience of being prohibited from using AI tools like ChatGPT during a chalk talk presentation. This incident is framed as a form of discrimination against modern research methodologies. This situation highlights the ongoing tension between traditional academic practices and the integration of AI tools in research. It raises questions about academic integrity and the future of research methodologies. The article uses satire to address serious concerns about the acceptance of AI in academia, suggesting that current academic structures may not be equipped to handle these changes. It reflects a growing sentiment among researchers that AI is becoming an essential part of the research process.
+
+hackernews · theanonymousone · Jul 3, 17:46
+
+**Background**: Chalk talks are a presentation format commonly used in academia where researchers explain their work without the aid of slides. The rise of AI tools in research has sparked debates about academic integrity, as institutions grapple with how to integrate these technologies while maintaining ethical standards.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.analyticsinsight.net/artificial-intelligence/why-are-universities-restricting-ai-tools-on-campus">Why are Universities Restricting AI Tools on Campus?</a></li>
+<li><a href="https://www.geeky-gadgets.com/ai-tools-so-powerful-universities-ban-them/">How AI Tools Are Changing Academic Research and Ethics ...</a></li>
+<li><a href="https://grad.rutgers.edu/sites/default/files/2025-02/chalk+talk+workshop+2024.pdf">How to Design an Effective Chalk Talk - grad.rutgers.edu</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community comments reflect a mix of humor and serious concern regarding the role of AI in research. Some commenters argue that the academic system itself has created an environment where AI is necessary, while others highlight the absurdity of the restrictions placed on its use.
+
+**Tags**: `#AI in Academia`, `#Research Practices`, `#Satire`, `#Academic Integrity`, `#Community Discussion`
+
+---
+
+<a id="item-28"></a>
+## [60% Fable Cost Cut Using OCR on Code Images](https://github.com/teamchong/pxpipe) ⭐️ 7.0/10
+
+A new method has been proposed to reduce costs by converting code into images and using Optical Character Recognition (OCR) to process them. This approach has raised questions regarding its sustainability and efficiency. This development is significant as it could lead to substantial cost savings in AI model usage, impacting developers and companies relying on such technologies. It also highlights potential loopholes in token accounting that may be exploited. The proposed method involves converting code into images, which are then processed by OCR, potentially bypassing traditional token usage. However, concerns have been raised about the long-term viability and resource efficiency of this approach.
+
+hackernews · dimitropoulos · Jul 3, 15:50
+
+**Background**: Optical Character Recognition (OCR) is a technology that converts different types of documents, such as scanned paper documents or images, into editable and searchable data. This method has been explored in various contexts, including processing programming code, which requires high accuracy and preservation of formatting.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Optical_character_recognition">Optical character recognition - Wikipedia</a></li>
+<li><a href="https://dev.to/nikl/we-fine-tuned-our-ocr-to-read-code-heres-what-it-took-and-what-broke-4jb8">We Fine-Tuned our OCR to Read Code: Here’s What It Took (and ...</a></li>
+<li><a href="https://www.geeksforgeeks.org/computer-science-fundamentals/what-is-optical-character-recognition-ocr/">What is Optical Character Recognition (OCR)? - GeeksforGeeks</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community comments reflect a mix of skepticism and curiosity regarding the proposed method. Some users note that similar techniques have been attempted before but may not yield cost savings in the long run.
+
+**Tags**: `#AI`, `#OCR`, `#Cost Reduction`, `#Machine Learning`, `#Hacking`
+
+---
+
+<a id="item-29"></a>
+## [Decline in Online Course Sales Due to AI](https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything) ⭐️ 7.0/10
+
+Josh W. Comeau has reported that his latest course, Whimsical Animations, is projected to sell only one-third of what a typical course would sell. He attributes this decline in sales to the rise of AI and large language models (LLMs), which are changing how people engage with learning. This trend is significant as it reflects a broader concern among course creators about the future of online education in the face of advancing AI technologies. The impact on revenue and engagement could reshape the online education market and influence how courses are developed and marketed. Comeau noted that many potential learners are hesitant to invest in new skills due to uncertainty about job availability in the developer field. Additionally, LLMs are providing personalized tutoring, which diminishes the incentive to purchase paid courses.
+
+rss · Simon Willison · Jul 3, 21:25
+
+**Background**: The rise of AI and LLMs in education has transformed how knowledge is disseminated and acquired. These technologies can generate human-like text and provide personalized learning experiences, which can lead to reduced demand for traditional online courses. As AI continues to evolve, its impact on the online education market is becoming increasingly pronounced.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://grokipedia.com/page/llms_in_higher_education">LLMs in higher education</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S2666920X25001699">Large language models in education: a systematic review of ...</a></li>
+<li><a href="https://publish.illinois.edu/teaching-learninghub-byjen/benefits-of-llms-in-education/">AI in Education | Jen's Teaching and Learning Hub | Illinois</a></li>
+
+</ul>
+</details>
+
+**Discussion**: There appears to be a consensus among course creators regarding the challenges posed by AI, with many expressing concerns about the sustainability of their businesses. Some are exploring ways to adapt their offerings to remain relevant in an AI-driven landscape.
+
+**Tags**: `#AI`, `#Online Education`, `#Course Creation`, `#Developer Skills`, `#Market Trends`
+
+---
+
+<a id="item-30"></a>
+## [Fable's Judgement in AI Testing](https://simonwillison.net/2026/Jul/3/judgement/#atom-everything) ⭐️ 7.0/10
+
+The article highlights a novel approach where AI models like Fable and Opus are encouraged to use their own judgement for testing and task allocation instead of following strict guidelines. This shift aims to enhance efficiency in software development processes. This approach could significantly improve the efficiency of AI-driven software development by allowing models to make decisions based on context rather than rigid rules. It may also influence how AI models are designed and utilized in various industries. The article provides insights into how Fable can autonomously decide when to use automated testing and which models to apply for different tasks. This flexibility is expected to optimize resource usage and improve overall productivity.
+
+rss · Simon Willison · Jul 3, 18:51
+
+**Background**: Fable and Opus are AI models developed by Anthropic, designed to assist in software development and other tasks. The models leverage advanced capabilities in understanding context and making decisions, which can lead to more efficient workflows in various applications.
+
+<details><summary>References</summary>
+<ul>
 <li><a href="https://www.anthropic.com/news/claude-fable-5-mythos-5">Claude Fable 5 and Claude Mythos 5 \ Anthropic</a></li>
+<li><a href="https://www.anthropic.com/claude/fable">Claude Fable \ Anthropic</a></li>
 <li><a href="https://www.anthropic.com/claude/opus">Claude Opus \ Anthropic</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#Machine Learning`, `#Best Practices`, `#Automation`
+**Discussion**: The community has shown interest in the practical implications of allowing AI models to exercise judgement, with many agreeing that this could lead to more effective task management. Some concerns were raised about the potential risks of reduced oversight.
+
+**Tags**: `#AI`, `#Machine Learning`, `#Software Development`, `#Testing`, `#Automation`
 
 ---
 
-<a id="item-27"></a>
+<a id="item-31"></a>
 ## [Microsoft Enters AI Super App Race with Copilot and AutoPilot](https://the-decoder.com/microsoft-follows-anthropic-and-openai-into-the-ai-super-app-race-with-overhauled-copilot-and-autopilot-agents/) ⭐️ 7.0/10
 
-Microsoft plans to merge its consumer and enterprise Copilot apps into a single platform by August and introduce new AutoPilot agents for background tasks. This overhaul reflects Microsoft's competitive strategy in the AI super app market. This development is significant as it indicates a strategic shift in how AI tools are integrated, potentially impacting users by providing a more unified experience. The move positions Microsoft alongside competitors like Anthropic and OpenAI in the rapidly evolving AI landscape. The new AutoPilot agents will be available for an additional fee and will replace rarely used features like Copilot Podcasts. This integration aims to streamline user experience while enhancing functionality.
+Microsoft plans to merge its consumer and enterprise Copilot apps into a single application by August, while introducing new AutoPilot agents to handle background tasks for an additional fee. This move is significant as it positions Microsoft alongside competitors like Anthropic and OpenAI in the growing AI super app market, potentially reshaping user experiences across various applications. The integration will eliminate rarely used features such as Copilot Podcasts, focusing instead on enhancing core functionalities through the new AutoPilot agents.
 
 rss · The Decoder · Jul 3, 19:24
 
-**Background**: AI super apps are unified platforms that integrate multiple AI models and productivity tools into a single interface, allowing for seamless task execution across various domains. Microsoft's Copilot apps have been designed to assist users with tasks by providing AI-driven suggestions and automation.
+**Background**: AI super apps are applications that combine multiple functionalities into a single platform, leveraging AI to enhance user experience. Microsoft's Copilot is designed to assist users by providing intelligent suggestions and automating tasks, while AutoPilot agents are intended to perform background operations autonomously.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.jenova.ai/en/resources/ai-super-app">AI Super App: The Unified Intelligence Platform Transforming ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#Microsoft`, `#Copilot`, `#AutoPilot`, `#Super App`
+**Tags**: `#AI`, `#Microsoft`, `#Super Apps`, `#Copilot`, `#AutoPilot`
 
 ---
 
-<a id="item-28"></a>
-## [Kuaishou's Kling Raises $2 Billion for Hong Kong IPO](https://the-decoder.com/chinese-ai-video-maker-kling-raises-2-billion-as-it-gears-up-for-hong-kong-ipo/) ⭐️ 7.0/10
+<a id="item-32"></a>
+## [Kling Raises $2 Billion for Hong Kong IPO](https://the-decoder.com/chinese-ai-video-maker-kling-raises-2-billion-as-it-gears-up-for-hong-kong-ipo/) ⭐️ 7.0/10
 
-Kuaishou has successfully raised approximately $2 billion for its AI video division, Kling, as it prepares for an initial public offering (IPO) in Hong Kong. This funding round reflects strong investor confidence in AI video technology, which could significantly influence the competitive landscape of the video production industry. Kling specializes in advanced AI video generation, utilizing state-of-the-art generative AI methods to create high-quality videos with features like motion control.
+Kuaishou's AI video division, Kling, has successfully raised approximately $2 billion from investors. This funding is aimed at supporting its upcoming initial public offering (IPO) in Hong Kong. This significant funding round reflects strong investor confidence in AI-driven video technology, which could reshape the content creation landscape. The success of Kling may influence other companies in the AI and video sectors to pursue similar funding and innovation. Kling utilizes advanced generative AI technology to create videos from text prompts, enhancing the efficiency of video production. The company is known for its capabilities in generating high-quality videos with features like motion control and 4K resolution.
 
 rss · The Decoder · Jul 3, 08:53
 
-**Background**: Kuaishou is a leading Chinese technology company known for its short video platform. Kling, its AI video division, leverages generative AI to create videos from text prompts and images, enhancing creative possibilities in video production.
+**Background**: Kling is a generative AI service developed by Kuaishou, a leading technology company in China. It allows users to generate videos quickly from natural language descriptions, making video creation more accessible and efficient. The company is preparing for a public offering to expand its operations and market reach.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://kling.ai/">Kling AI : Next-Generation AI Creative Studio</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Kling_AI">Kling AI - Wikipedia</a></li>
+<li><a href="https://kling.ai/">Kling AI: Next-Generation AI Creative Studio</a></li>
 
 </ul>
 </details>
@@ -650,50 +750,67 @@ rss · The Decoder · Jul 3, 08:53
 
 ---
 
-<a id="item-29"></a>
-## [H64LM: A 249M-parameter Mixture-of-Experts Transformer](https://www.reddit.com/r/MachineLearning/comments/1umqfd2/h64lm_a_249mparameter_mixtureofexperts/) ⭐️ 7.0/10
+<a id="item-33"></a>
+## [AI’s Volatile Power Use Quietly Tests Grid Limits](https://spectrum.ieee.org/data-centers-grid-instability) ⭐️ 7.0/10
 
-H64LM is a newly developed 249M-parameter Mixture-of-Experts Transformer implemented from scratch in PyTorch. It focuses on core components like attention and MoE routing to enhance understanding of modern large language models (LLMs). This project is significant as it provides insights into the implementation of Mixture-of-Experts architectures, which are becoming increasingly popular in machine learning. It could influence future research and development in LLMs and their applications. The model features 249 million parameters, uses Grouped Query Attention (GQA), and implements Sparse Mixture-of-Experts with 8 experts and Top-2 routing. Limitations include batch-size-1-only generation and a fallback to DataParallel instead of true DDP.
+The rapid growth of AI infrastructure is projected to account for 3 to 4 percent of global electricity demand within this decade, prompting utilities to adjust their long-term forecasts. This shift is driven by the unpredictable power consumption patterns of large-scale compute systems. This trend is significant as it could strain existing electrical grids and impact energy management strategies. Utilities and grid operators will need to adapt to the new demand patterns introduced by AI workloads to maintain stability. AI workloads can lead to abrupt changes in electricity consumption, with fluctuations occurring in milliseconds. This variability differs from traditional industrial loads, which are generally more predictable and manageable.
 
-rss · Reddit MachineLearning · Jul 3, 21:18
+rss · IEEE Spectrum AI · Jul 3, 12:00
 
-**Background**: Mixture-of-Experts (MoE) is a machine learning technique that uses multiple expert networks to handle different parts of a problem space. This approach allows for more efficient model training and inference, particularly in large-scale applications. Grouped Query Attention (GQA) is a recent optimization that enhances the efficiency of attention mechanisms in transformers.
+**Background**: Data centers, particularly hyperscale facilities, are becoming major consumers of electricity as they support AI applications. The International Energy Agency estimates that electricity consumption from these centers could double by 2030, raising concerns about grid stability and energy management.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Mixture_of_experts">Mixture of experts - Wikipedia</a></li>
-<li><a href="https://huggingface.co/blog/moe">Mixture of Experts Explained - Hugging Face</a></li>
-<li><a href="https://www.geeksforgeeks.org/deep-learning/grouped-query-attention-gqa/">Grouped Query Attention (GQA) - GeeksforGeeks</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Hyperscale_data_center">Hyperscale data center</a></li>
 
 </ul>
 </details>
 
-**Discussion**: There has been limited community discussion around H64LM, with some feedback focusing on the implementation details and potential improvements. Overall, the sentiment appears to be cautiously optimistic about the project's contributions.
+**Tags**: `#AI`, `#Energy Consumption`, `#Data Centers`, `#Grid Stability`, `#Infrastructure`
+
+---
+
+<a id="item-34"></a>
+## [H64LM: A 249M-parameter Mixture-of-Experts Transformer built from scratch in PyTorch](https://www.reddit.com/r/MachineLearning/comments/1umqfd2/h64lm_a_249mparameter_mixtureofexperts/) ⭐️ 7.0/10
+
+H64LM is a newly developed 249M-parameter Mixture-of-Experts Transformer implemented from scratch in PyTorch. This project aims to enhance the understanding of modern large language models (LLMs). This project is significant as it contributes to the understanding of LLM architectures and their implementations. It may influence future research and development in machine learning and natural language processing. H64LM features include Grouped Query Attention (GQA), Sparse Mixture-of-Experts with 8 experts, and custom training loops. However, it has limitations such as only supporting batch-size-1 generation and lacking true Distributed Data Parallelism.
+
+rss · Reddit MachineLearning · Jul 3, 21:18
+
+**Background**: Mixture-of-Experts (MoE) is a machine learning technique that uses multiple expert models to handle different parts of the input data. Grouped Query Attention (GQA) is an optimization for transformer models that improves computational efficiency. The SwiGLU activation function is often used in modern LLMs to enhance performance.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Mixture_of_experts">Mixture of experts - Wikipedia</a></li>
+<li><a href="https://www.ibm.com/think/topics/mixture-of-experts">What is mixture of experts? - IBM</a></li>
+<li><a href="https://medium.com/@s_boudefel/exploring-swiglu-the-activation-function-powering-modern-llms-9697f88221e7">Exploring SwiGLU : The Activation Function Powering Modern LLMs | by Selssabil | Medium</a></li>
+
+</ul>
+</details>
+
+**Discussion**: The community discussion around H64LM has been limited, with few comments on its implementation. Some users have expressed interest in the architecture but noted the lack of groundbreaking results.
 
 **Tags**: `#Machine Learning`, `#Transformer`, `#PyTorch`, `#Mixture-of-Experts`, `#Research`
 
 ---
 
-<a id="item-30"></a>
-## [Training Transformers with Native Factorized Weights for Optimal Rank](https://www.reddit.com/r/MachineLearning/comments/1umtiqk/training_transformers_where_every_layer_w_vu%E1%B5%80/) ⭐️ 7.0/10
+<a id="item-35"></a>
+## [Sam Altman Predicts AI's Future Impact](https://t.me/gptupdates/32997) ⭐️ 7.0/10
 
-A new training method called Native Factorized Weights (NFW) has been proposed, which initializes every linear layer as W = V·Uᵀ and trains from scratch. This approach eliminates the need for post-hoc compression techniques like SVD. This method could significantly improve model efficiency by optimizing the rank of transformers without additional compression steps, potentially influencing future research in model optimization. Researchers and practitioners in machine learning may benefit from this innovative approach. The NFW approach allows for a substantial reduction in parameter count, enabling the allocation of resources to increase hidden dimensions instead. The study identifies a corpus-determined optimal rank that minimizes validation loss, which is crucial for effective training.
+Sam Altman predicts that within one to two years, AI systems will achieve unprecedented capabilities, with OpenAI planning to release GPT-6 in August. This new model is expected to surpass GPT-5 in all performance benchmarks. This prediction is significant as it suggests a transformative impact of AI on daily life, comparable to the advent of electricity. Industries and individuals alike will need to adapt to these advancements in technology. Altman emphasized that the upcoming GPT-6 will represent a major leap forward, with further advancements expected shortly thereafter. This highlights the rapid pace of development in AI technologies.
 
-rss · Reddit MachineLearning · Jul 3, 23:33
+telegram · gptupdates · Jul 3, 22:31
 
-**Background**: Transformers are a type of neural network architecture widely used in natural language processing tasks. Traditional training methods often involve a large number of parameters, which can lead to inefficiencies. The concept of factorization in neural networks aims to reduce the number of parameters while maintaining performance.
+**Background**: Generative Pre-trained Transformers (GPT) are advanced AI models that utilize deep learning to understand and generate human-like text. OpenAI has been at the forefront of this technology, continually improving its models to enhance their capabilities and applications.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/pdf/2602.12429">Stabilizing Native Low-Rank LLM Pretraining</a></li>
-<li><a href="https://openreview.net/pdf?id=Xg0u7lAIrs">POST HOCCOMPRESSION OFLORA ADAPTERS VIA ... - OpenReview</a></li>
-<li><a href="https://www.geeksforgeeks.org/deep-learning/low-rank-adaptation-lora/">Low Rank Adaptation (LoRA) - GeeksforGeeks</a></li>
+<li><a href="https://medium.com/@darrenrobinson777/exploring-the-impact-of-openai-on-modern-technology-e822b08f1fd9">Exploring the Impact of OpenAI on Modern Technology | Medium</a></li>
+<li><a href="https://www.linkedin.com/posts/anjishnu-chandra-539156254_ai-technews-openai-activity-7450507933706186752-vMqA">AI Advancements : OpenAI , Google DeepMind, Anthropic... | LinkedIn</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community discussion around this proposal has been limited, with few comments expressing interest or concern about the methodology. Some users are curious about the implications of this approach for future transformer models.
-
-**Tags**: `#Transformers`, `#Machine Learning`, `#Model Optimization`, `#Research`, `#Factorization`
+**Tags**: `#AI`, `#Sam Altman`, `#OpenAI`, `#GPT-6`, `#Technology Predictions`
 
 ---
