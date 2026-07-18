@@ -1,188 +1,261 @@
 # Horizon Daily - 2026-07-18
 
-> From 71 items, 28 important content pieces were selected
+> From 77 items, 27 important content pieces were selected
 
 ---
 
 1. [First atmosphere found on Earth-like planet in habitable zone of distant star](#item-1) ⭐️ 9.0/10
-2. [GPT-5.6 Accidentally Deletes User Files in Full Access Mode](#item-2) ⭐️ 9.0/10
-3. [The State of Open Source AI](#item-3) ⭐️ 8.0/10
-4. [AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM](#item-4) ⭐️ 8.0/10
-5. [Homomorphically Encrypted CIFAR-10 Inference in 200ms](#item-5) ⭐️ 8.0/10
-6. [China's Kimi K3 Challenges Western AI Labs](#item-6) ⭐️ 8.0/10
-7. [Fine-tune Video and Image Models with NVIDIA NeMo Automodel](#item-7) ⭐️ 8.0/10
-8. [EU AI Act OpenRAG: 933 Legally Structured Chunks Released](#item-8) ⭐️ 8.0/10
-9. [University of Chicago Law School Redesigns Legal Education for AI Era](#item-9) ⭐️ 8.0/10
-10. [Kaiser Nurses Raise Concerns Over AI and Surveillance Impact](#item-10) ⭐️ 7.0/10
-11. [Texas Wins Court Order to Suspend Domain Name](#item-11) ⭐️ 7.0/10
-12. [Kimi K3 and Lessons from the Pelican Benchmark](#item-12) ⭐️ 7.0/10
-13. [FAA Restores Boeing's Airworthiness Certification Authority](#item-13) ⭐️ 7.0/10
-14. [Three ways people respond to a problem (other than solving it)](#item-14) ⭐️ 7.0/10
-15. [Concerns Over AI Evaluation in Kaggle Competitions](#item-15) ⭐️ 7.0/10
-16. [Apple targets dozens of OpenAI employees with legal letters](#item-16) ⭐️ 7.0/10
-17. [Exploring Different Dialects of Lisp](#item-17) ⭐️ 7.0/10
-18. [Frame – Linux X server in Assembly](#item-18) ⭐️ 7.0/10
-19. [VulnHunter: Capital One's agentic AI code security tool](#item-19) ⭐️ 7.0/10
-20. [How Has Roman Concrete Lasted for Millennia?](#item-20) ⭐️ 7.0/10
-21. [Zuckerberg's plan to sell excess AI compute could finds its first big customer in Anthropic](#item-21) ⭐️ 7.0/10
-22. [Linus Torvalds Defends AI Tools in Linux Kernel Development](#item-22) ⭐️ 7.0/10
-23. [Netflix's 300 AI Productions Transforming Entertainment](#item-23) ⭐️ 7.0/10
+2. [GPT-5.6 Deletes User Files in Full Access Mode](#item-2) ⭐️ 9.0/10
+3. [TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years](#item-3) ⭐️ 8.0/10
+4. [Static Search Trees: 40x Faster Than Binary Search](#item-4) ⭐️ 8.0/10
+5. [The State of Open Source AI](#item-5) ⭐️ 8.0/10
+6. [Topcoat: The full full-stack framework for Rust](#item-6) ⭐️ 8.0/10
+7. [AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM](#item-7) ⭐️ 8.0/10
+8. [Homomorphically Encrypted CIFAR-10 Inference in 200ms](#item-8) ⭐️ 8.0/10
+9. [China's Kimi K3 Challenges Western AI Labs](#item-9) ⭐️ 8.0/10
+10. [Fine-tune Video and Image Models at Scale with NVIDIA NeMo Automodel and 🤗 Diffusers](#item-10) ⭐️ 8.0/10
+11. [University of Chicago Law School Redesigns Legal Education for AI Era](#item-11) ⭐️ 8.0/10
+12. [EU Forces Google to Share Search Data with AI Rivals](#item-12) ⭐️ 8.0/10
+13. [The first robot labor battle is here](#item-13) ⭐️ 8.0/10
+14. [Kaiser Nurses Criticize AI and Workplace Surveillance Impact](#item-14) ⭐️ 7.0/10
+15. [Kimi K3 and Insights from the Pelican Benchmark](#item-15) ⭐️ 7.0/10
+16. [Show HN: A zoomable timeline of 4M Wikipedia events](#item-16) ⭐️ 7.0/10
+17. [FAA Restores Boeing's Authority for 737 MAX and 787 Certifications](#item-17) ⭐️ 7.0/10
+18. [Concerns Over AI Evaluation in Kaggle Hackathon](#item-18) ⭐️ 7.0/10
+19. [Texas Wins Court Order to Suspend Domain Name](#item-19) ⭐️ 7.0/10
+20. [Apple targets dozens of OpenAI employees with legal letters](#item-20) ⭐️ 7.0/10
+21. [A Road to Lisp: Which Lisp](#item-21) ⭐️ 7.0/10
+22. [Linus Torvalds Supports AI Tools in Linux Kernel Development](#item-22) ⭐️ 7.0/10
+23. [Netflix Integrates AI in 300 Productions](#item-23) ⭐️ 7.0/10
 24. [The Rising Risk of Weather Data Sabotage](#item-24) ⭐️ 7.0/10
-25. [Kimi K3 2.8T-A50B: Largest Open Model Released](#item-25) ⭐️ 7.0/10
-26. [Stereo2Spatial: Convert Stereo Music Tracks to Spatialized Binaural Mixes](#item-26) ⭐️ 7.0/10
-27. [Wyoming Advances Nuclear Renaissance with New Reactor License](#item-27) ⭐️ 7.0/10
-28. [Hugging Face and alphaXiv Launch Reproducibility Challenge](#item-28) ⭐️ 7.0/10
+25. [Stereo2Spatial: Convert Stereo Music Tracks to Spatialized Binaural Mixes](#item-25) ⭐️ 7.0/10
+26. [EU AI Act OpenRAG: 933 Structured Chunks and BGE-M3 Embeddings](#item-26) ⭐️ 7.0/10
+27. [Hugging Face and alphaXiv Launch Reproducibility Challenge](#item-27) ⭐️ 7.0/10
 
 ---
 
 <a id="item-1"></a>
 ## [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo) ⭐️ 9.0/10
 
-Scientists have discovered an atmosphere on LHS 1140b, a rocky planet located in the habitable zone of a distant star. This finding challenges previous assumptions about the ability of such planets to retain atmospheres. This discovery is significant as it could reshape our understanding of exoplanets and their potential to support life. It may also influence future research and exploration strategies in the search for habitable worlds. The planet LHS 1140b is located approximately 48 light-years away and is thought to have characteristics that allow it to retain an atmosphere despite its proximity to a red dwarf star. The discovery raises questions about the mechanisms of atmosphere retention in such environments.
+Astronomers have discovered an atmosphere on LHS 1140b, a rocky planet located in the habitable zone of a red dwarf star. This finding challenges previous assumptions about the ability of such planets to retain atmospheres under intense stellar conditions. This discovery is significant as it expands our understanding of exoplanets and their potential to support life. It could influence future research directions in astrobiology and space exploration. LHS 1140b is located approximately 48 light-years away from Earth and is classified as a rocky planet. The James Webb Space Telescope (JWST) played a crucial role in detecting the atmosphere through emission spectroscopy.
 
 hackernews · neversaydie · Jul 17, 14:06
 
-**Background**: The habitable zone, often referred to as the Goldilocks zone, is the region around a star where conditions may be just right for liquid water to exist on a planet's surface. This is considered essential for the possibility of life as we know it.
+**Background**: The habitable zone is the region around a star where conditions may be suitable for liquid water to exist on a planet's surface. Red dwarf stars, which are cooler and smaller than other types of stars, are known to host many exoplanets, but their unstable conditions have raised questions about the habitability of these planets.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://science.nasa.gov/exoplanets/habitable-zone/">The Habitable Zone - NASA Science</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Habitable_zone">Habitable zone - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Red_dwarf">Red dwarf - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community comments reflect a mix of skepticism and curiosity, with some questioning the classification of LHS 1140b as Earth-like. Others express excitement about the potential for future exploration of such nearby exoplanets.
+**Discussion**: Community comments reflect a mix of skepticism and optimism regarding the findings. Some users express doubts about the classification of LHS 1140b as 'Earth-like', while others discuss the potential for future exploration of the planet.
 
-**Tags**: `#exoplanets`, `#astronomy`, `#habitable zone`, `#atmosphere`, `#space exploration`
+**Tags**: `#exoplanets`, `#astrobiology`, `#space exploration`, `#habitable zone`, `#JWST`
 
 ---
 
 <a id="item-2"></a>
-## [GPT-5.6 Accidentally Deletes User Files in Full Access Mode](https://the-decoder.com/gpt-5-6-is-deleting-user-files-when-given-full-access-and-openai-says-it-shouldnt-but-did/) ⭐️ 9.0/10
+## [GPT-5.6 Deletes User Files in Full Access Mode](https://the-decoder.com/gpt-5-6-is-deleting-user-files-when-given-full-access-and-openai-says-it-shouldnt-but-did/) ⭐️ 9.0/10
 
-OpenAI's GPT-5.6 has been reported to unintentionally delete users' entire home directories when given full access. The company has acknowledged the issue and is implementing additional safeguards. This incident raises serious concerns about data safety and user trust in AI systems. It highlights the need for stricter access controls and safeguards in AI applications. The issue arises from the model overwriting a temporary directory variable, leading to destructive actions without user confirmation. OpenAI plans to conduct a detailed post-mortem analysis to prevent future occurrences.
+OpenAI's GPT-5.6 has been reported to accidentally delete users' home directories when operating in Full Access Mode. The model performs destructive actions without user confirmation, leading to the implementation of additional safeguards by OpenAI. This incident raises significant concerns about user data safety and trust in AI systems. It highlights the need for robust safeguards in AI models, especially those that operate with elevated permissions. The issue stems from the model overwriting a temporary directory variable, which leads to unintended file deletions. OpenAI has acknowledged the problem and is taking steps to prevent such occurrences in the future.
 
 rss · The Decoder · Jul 17, 19:35
 
-**Background**: Full Access Mode allows AI models to interact with a user's files and system settings, which can lead to risks if not properly controlled. The temporary directory variable is commonly used in programming to designate a location for temporary file storage, and mishandling it can result in data loss.
+**Background**: Full Access Mode allows AI models to perform a wider range of actions, including file management. Temporary directories are commonly used in computing to store files that are not needed permanently, and they can be automatically cleared by the system. Understanding these concepts is crucial for evaluating the implications of this incident.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://budibase.com/blog/ai-agents/ai-access-control/">Access Control for AI Systems | Principles and Strategies</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Temporary_folder">Temporary folder - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community sentiment appears to be largely concerned about the implications of this issue for data privacy and security. Many users are calling for more robust safeguards and clearer communication from OpenAI regarding their data handling practices.
+**Discussion**: Community reactions have been mixed, with many expressing concerns about data safety while others emphasize the need for better user education on AI capabilities. Some users have suggested that OpenAI should provide clearer guidelines on using Full Access Mode.
 
-**Tags**: `#AI Safety`, `#OpenAI`, `#GPT-5.6`, `#Data Privacy`, `#User Trust`
+**Tags**: `#AI Safety`, `#OpenAI`, `#GPT-5.6`, `#User Data`, `#Machine Learning`
 
 ---
 
 <a id="item-3"></a>
-## [The State of Open Source AI](https://stateofopensource.ai/) ⭐️ 8.0/10
+## [TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years](https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md) ⭐️ 8.0/10
 
-The article discusses the rapid growth of open source AI models, which have increased their market share significantly compared to closed models. Recent data shows that open models processed 4.19 trillion tokens, marking a nearly fivefold increase in just four months. This shift towards open source AI models could democratize access to advanced AI technologies, impacting various sectors that rely on AI. It also indicates a potential paradigm shift in the AI landscape, challenging the dominance of established closed models. The article highlights that open models now account for 63% of the market share, up from 60% just four months ago. The significant increase in token processing volume underscores the rapid adoption and scalability of these models.
+A report reveals that TP-Link Kasa cameras have been leaking home GPS data through unauthenticated UDP for six years. This vulnerability raises serious concerns about the security of IoT devices. This issue is significant as it highlights a major security vulnerability in widely-used IoT devices, potentially exposing users' private information. It raises questions about vendor accountability and the need for improved security practices in the IoT industry. The vulnerability allows a single UDP packet to return sub-meter home coordinates without any authentication. This has been documented since 2020, yet the vendor's response has been criticized for being inadequate.
 
-hackernews · rellem · Jul 17, 14:31
+hackernews · BadChemical · Jul 17, 21:42
 
-**Background**: Open source AI refers to artificial intelligence models and tools that are publicly available for use, modification, and distribution. This contrasts with closed models, which are proprietary and restrict access to their underlying code and data. The growing trend towards open source AI is driven by community collaboration and the desire for transparency in AI development.
+**Background**: IoT devices, such as smart cameras, often rely on internet connectivity to function, but this can expose them to security risks. Unauthenticated UDP traffic can be exploited to access sensitive information if proper security measures are not in place. The TP-Link Kasa cameras are part of a popular line of smart home products.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.techtarget.com/searchEnterpriseAI/feature/Attributes-of-open-vs-closed-AI-explained">Attributes of Open vs. Closed AI Explained - TechTarget</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Lists_of_open-source_artificial_intelligence_software">Lists of open-source artificial intelligence software - Wikipedia</a></li>
+<li><a href="https://www.tomsguide.com/news/kasa-app-flaws">These popular security cameras could be hacked to spy on you: What to do | Tom's Guide</a></li>
+<li><a href="https://cyberpress.org/tp-link-kasa-camera-flaws/">TP-Link Kasa Camera Flaws Let Attackers Steal Admin Credentials and Location Data</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community comments reflect a mix of skepticism and optimism regarding the future of open source AI. Some users speculate that open models could disrupt established companies, while others express concerns about the quality and implications of LLM-generated content.
+**Discussion**: Community comments reflect a mix of skepticism and concern regarding the severity of the vulnerability. Some users question the report's credibility, while others emphasize the need for stricter security measures for IoT devices.
 
-**Tags**: `#open source`, `#AI`, `#machine learning`, `#community discussion`, `#market trends`
+**Tags**: `#IoT`, `#Security`, `#Vulnerability`, `#TP-Link`, `#Cameras`
 
 ---
 
 <a id="item-4"></a>
-## [AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM](https://blog.zksecurity.xyz/posts/openvm-bugs/) ⭐️ 8.0/10
+## [Static Search Trees: 40x Faster Than Binary Search](https://curiouscoding.nl/posts/static-search-tree/) ⭐️ 8.0/10
 
-The article reveals critical vulnerabilities in OpenVM's ZkVM related to signature verification. These vulnerabilities pose potential risks for Layer 2 ecosystems. This is significant as it highlights security flaws in a widely-used cryptographic library, which could impact many Layer 2 solutions. The findings may necessitate urgent security measures across affected platforms. The vulnerabilities specifically relate to how signatures are verified, potentially allowing for unauthorized access or manipulation. Understanding these issues is crucial for developers working with cryptographic systems.
+A new type of static search tree, known as the S+ tree, has been introduced, claiming to be 40 times faster than traditional binary search methods. This implementation focuses on high-throughput searching of sorted data. This breakthrough in search algorithms could significantly enhance data retrieval speeds in various applications, affecting industries that rely on efficient data processing. The performance improvement may lead to better user experiences and more efficient systems. The S+ tree is designed for optimal cache usage, allowing it to outperform traditional binary search trees in terms of speed. This new structure could be particularly beneficial in scenarios where large datasets are frequently accessed.
 
-hackernews · duha · Jul 17, 14:21
+hackernews · lalitmaganti · Jul 17, 20:24
 
-**Background**: Zero-knowledge proofs (ZKPs) are cryptographic methods that allow one party to prove to another that a statement is true without revealing any information beyond the validity of the statement. Signature verification is a critical component in ensuring the integrity and authenticity of digital communications.
+**Background**: Static search trees are a type of data structure used for efficient searching in sorted datasets. Unlike dynamic search trees, static search trees do not change after their creation, which allows for optimizations that can significantly improve search times.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://veridise.com/blog/zero-knowledge/identifying-common-vulnerabilities-in-zkvms/">Identifying common vulnerabilities in zkVMs | Smart contract ...</a></li>
-<li><a href="https://chain.link/education/zero-knowledge-proof-zkp">Zero-Knowledge Proof (ZKP) — Explained | Chainlink</a></li>
+<li><a href="https://curiouscoding.nl/posts/static-search-tree/">Static search trees: 40x faster than binary search</a></li>
+<li><a href="https://www.numberanalytics.com/blog/mastering-static-search-trees">Mastering Static Search Trees - numberanalytics.com</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community comments reflect a mix of concern and confusion regarding the implications of these vulnerabilities. Some users express frustration over the complexity of the mathematics involved, while others question the readiness of cryptographic implementations.
+**Discussion**: Community comments reflect a mix of curiosity and technical insights, with users discussing related data structures and their benefits. Some users referenced the Eytzinger layout and Van Emde Boas trees as relevant comparisons.
 
-**Tags**: `#AI`, `#Cryptography`, `#Security`, `#Zero Knowledge Proofs`, `#Blockchain`
+**Tags**: `#search algorithms`, `#data structures`, `#performance optimization`, `#computer science`, `#theoretical research`
 
 ---
 
 <a id="item-5"></a>
+## [The State of Open Source AI](https://stateofopensource.ai/) ⭐️ 8.0/10
+
+The article discusses the rapid growth and adoption of open-source AI models, emphasizing their potential to disrupt established players in the AI market. It highlights significant changes in market share favoring open models over closed ones. This trend is significant as it could reshape the competitive landscape of the AI industry, impacting major companies like OpenAI and Anthropic. The shift towards open-source models may democratize access to advanced AI technologies. The article notes that open models processed 4.19 trillion tokens recently, marking a nearly fivefold increase in just four months. This rapid growth indicates a significant shift in user preferences towards open-source solutions.
+
+hackernews · rellem · Jul 17, 14:31
+
+**Background**: Open-source AI models are publicly available systems that allow users to modify and deploy AI technologies without licensing fees. The rise of these models is seen as a challenge to proprietary systems, potentially leading to a more competitive and innovative AI landscape.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://grokipedia.com/page/Open-source_video-to-video_AI_models">Open-source video-to-video AI models</a></li>
+<li><a href="https://bytez.com/">Bytez - open source AI</a></li>
+<li><a href="https://www.llama.com/?amp">Industry Leading, Open - Source AI | Llama</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community comments reflect a mix of skepticism and enthusiasm regarding the future of open-source AI. Some users speculate that open models could threaten established companies, while others express concerns about the quality and implications of AI-generated content.
+
+**Tags**: `#Open Source`, `#AI`, `#Machine Learning`, `#Technology Trends`, `#Community Discussion`
+
+---
+
+<a id="item-6"></a>
+## [Topcoat: The full full-stack framework for Rust](https://github.com/tokio-rs/topcoat) ⭐️ 8.0/10
+
+Topcoat has been released as a full-stack framework for Rust, designed to simplify web application development for organizations already using Rust. This announcement highlights its potential to streamline the development process. This is significant for the Rust community as it provides a comprehensive solution for web development, potentially increasing Rust's adoption in this area. Organizations already using Rust can now leverage this framework to build web applications more efficiently. Topcoat allows for server-side rendering of all markup, enabling components to be asynchronous and query the database directly, which reduces the need for a separate API layer. This design choice aims to minimize traditional boilerplate code in web applications.
+
+hackernews · wertyk · Jul 17, 20:41
+
+**Background**: Rust is a systems programming language known for its performance and safety, particularly in concurrent programming. The rise of web development frameworks in Rust, such as Actix and Rocket, has made it increasingly viable for building modern web applications. Topcoat aims to fill the gap for a full-stack solution that integrates seamlessly with existing Rust infrastructure.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://github.com/tokio-rs/topcoat">GitHub - tokio-rs/topcoat: A batteries-included framework for building web apps · GitHub</a></li>
+<li><a href="https://www.shuttle.dev/blog/2025/11/12/build-rust-web-apps">Building Rust Web Apps - Shuttle.dev</a></li>
+<li><a href="https://dev.to/mukhilpadmanabhan/exploring-rust-for-web-development-4ocb">Exploring Rust for Web Development. - DEV Community</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community members expressed excitement about the framework, with some highlighting the need for features like ORM integration and auto-admin capabilities. There were also suggestions for improving the framework based on user experiences with other full-stack frameworks.
+
+**Tags**: `#Rust`, `#Web Development`, `#Framework`, `#Full Stack`, `#Open Source`
+
+---
+
+<a id="item-7"></a>
+## [AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM](https://blog.zksecurity.xyz/posts/openvm-bugs/) ⭐️ 8.0/10
+
+AI analysis has uncovered vulnerabilities in OpenVM's ZkVM, particularly in signature verification libraries. These findings highlight critical security issues that could impact Layer 2 ecosystems. This is significant because vulnerabilities in cryptographic systems can lead to widespread security breaches across various applications. The findings could necessitate urgent updates and changes in Layer 2 protocols to ensure security. The vulnerabilities identified relate to how signatures are verified, potentially allowing for undetected manipulation of signed data. This raises concerns about the integrity of cryptographic operations in decentralized applications.
+
+hackernews · duha · Jul 17, 14:21
+
+**Background**: Zero-knowledge proofs (ZKPs) are cryptographic protocols that allow one party to prove to another that a statement is true without revealing any information beyond the validity of the statement itself. ZkVM refers to a zero-knowledge virtual machine that executes programs while maintaining privacy and security, which is crucial for Layer 2 solutions in blockchain technology.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Zero-knowledge_proof">Zero-knowledge proof</a></li>
+<li><a href="https://support.softwarekey.com/article/588-verifying-the-integrity-and-authenticity-of-digitally-signed-libraries">Verifying the integrity and authenticity of digitally signed libraries - SoftwareKey Support</a></li>
+
+</ul>
+</details>
+
+**Discussion**: The community is actively discussing the implications of these vulnerabilities, with some expressing concerns about the potential need for a hard reset of Layer 2 ecosystems if exploited. Others highlight the complexity of the mathematics involved, making it challenging for broader audiences to engage.
+
+**Tags**: `#AI`, `#Cryptography`, `#Security`, `#Zero Knowledge Proofs`, `#Layer 2`
+
+---
+
+<a id="item-8"></a>
 ## [Homomorphically Encrypted CIFAR-10 Inference in 200ms](https://sofar.belfortlabs.cloud/) ⭐️ 8.0/10
 
-Belfort has demonstrated a homomorphically encrypted implementation of ResNet-20 for CIFAR-10 classification, achieving a latency of under 200ms and outperforming recent state-of-the-art methods by three times. This advancement in homomorphic encryption could significantly enhance privacy in machine learning applications, allowing sensitive data to be processed without exposing it. It could impact industries that rely on secure data processing, such as finance and healthcare. The implementation leverages the ResNet-20 architecture, which is known for its effectiveness in image classification tasks. However, there are concerns regarding the control over encryption keys and the size of the encrypted data, which reportedly increases significantly.
+Belfort has demonstrated a homomorphically encrypted ResNet-20 model that performs image classification on the CIFAR-10 dataset in under 200 milliseconds. This implementation significantly outperforms existing state-of-the-art methods by three times. This breakthrough in homomorphic encryption could enhance privacy in machine learning applications, particularly in sensitive fields such as healthcare and finance. It allows computations on encrypted data without exposing the underlying information. The implementation leverages Belfort's upcoming GPU library, Cyclops, to achieve this performance. However, there are concerns regarding the control over encryption keys and the implications for security.
 
 hackernews · j2kun · Jul 17, 16:29
 
-**Background**: Homomorphic encryption allows computations to be performed on encrypted data without needing to decrypt it first, ensuring data privacy during processing. The CIFAR-10 dataset is a widely used benchmark in machine learning, consisting of 60,000 images across 10 classes, making it ideal for testing image classification algorithms.
+**Background**: Homomorphic encryption allows computations to be performed on encrypted data, preserving privacy while enabling data processing. The CIFAR-10 dataset is widely used for training machine learning models, consisting of 60,000 images across 10 classes. ResNet-20 is a popular deep learning architecture known for its effectiveness in image classification tasks.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Homomorphic_encryption">Homomorphic encryption</a></li>
 <li><a href="https://en.wikipedia.org/wiki/CIFAR-10_dataset">CIFAR-10 dataset</a></li>
+<li><a href="https://pytorch.org/hub/pytorch_vision_resnet/">ResNet – PyTorch</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community members expressed both excitement and skepticism regarding the implementation details. Some raised concerns about the control over encryption keys and the implications of the increased file size.
+**Discussion**: Community members expressed skepticism about the practical implications of the demo, particularly regarding the control of encryption keys and the potential for security vulnerabilities. Some highlighted the significant increase in file size associated with the encrypted data.
 
-**Tags**: `#homomorphic encryption`, `#machine learning`, `#image classification`, `#CIFAR-10`, `#ResNet`
+**Tags**: `#Homomorphic Encryption`, `#Machine Learning`, `#Image Classification`, `#CIFAR-10`, `#ResNet`
 
 ---
 
-<a id="item-6"></a>
+<a id="item-9"></a>
 ## [China's Kimi K3 Challenges Western AI Labs](https://the-decoder.com/just-like-deepseek-chinas-kimi-k3-is-forcing-western-ai-labs-to-question-their-compute-advantage/) ⭐️ 8.0/10
 
-Moonshot AI has released the Kimi K3 model, which matches the performance of Anthropic's Opus 4.8 despite being developed by a team of only 300 people. This release has prompted discussions about the significance of computing power in AI development. The emergence of Kimi K3 raises questions about the computing power advantage traditionally held by Western AI labs and the implications of open-weight models. This could significantly impact the competitive landscape of AI development globally. Notably, OpenAI strategist Dean W. Ball has described Kimi K3 as 'very good,' while cautioning against a future dominated by open-weight models, which he likens to 'AI communism.' This highlights the ongoing debate over model accessibility and export controls.
+Moonshot AI has released the Kimi K3 model, which reportedly matches Anthropic's Opus 4.8. This model was developed by a team of only 300 people, raising questions about the significance of compute power in AI development. The emergence of Kimi K3 is significant as it challenges the perceived compute advantage held by Western AI labs. This development could lead to a reevaluation of the role of open-weight models and the effectiveness of U.S. export controls. Experts, including OpenAI strategist Dean W. Ball, have commented on the implications of a world dominated by open-weight models, suggesting it could lead to 'AI communism.' The debate is reigniting discussions about the importance of computing power in AI.
 
 rss · The Decoder · Jul 17, 19:16
 
-**Background**: The Kimi K3 model is part of a growing trend in AI where smaller teams are able to produce competitive models that challenge established players. Open-weight models are those whose parameters are publicly available, allowing for greater accessibility and collaboration in AI development.
+**Background**: Open-weight models are AI systems whose parameters are publicly available, allowing for broader access and collaboration in AI development. The concept of compute advantage refers to the benefits gained from superior computational resources, which can significantly impact the performance of AI models.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://help.openai.com/en/articles/11870455-openai-open-weight-models-gpt-oss">OpenAI open - weight models (gpt-oss) | OpenAI Help Center</a></li>
 <li><a href="https://medium.com/@kimanited73/open-weight-models-f504be677b1c">Open Weight Models . What are they, and why should you... | Medium</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2025/04/open-weight-models/">What are Open Source and Open Weight Models ? | Analytics Vidhya</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#Machine Learning`, `#Compute Power`, `#China`, `#Western Labs`
+**Discussion**: The community is divided on the implications of Kimi K3, with some expressing concern about the potential for open-weight models to disrupt the industry. Others are optimistic about the increased competition and innovation that such models could foster.
+
+**Tags**: `#AI`, `#Machine Learning`, `#Compute Power`, `#Open Models`, `#Industry Analysis`
 
 ---
 
-<a id="item-7"></a>
-## [Fine-tune Video and Image Models with NVIDIA NeMo Automodel](https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel) ⭐️ 8.0/10
+<a id="item-10"></a>
+## [Fine-tune Video and Image Models at Scale with NVIDIA NeMo Automodel and 🤗 Diffusers](https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel) ⭐️ 8.0/10
 
-The blog post discusses a new method for fine-tuning video and image models at scale using NVIDIA NeMo Automodel alongside Hugging Face's Diffusers. This approach aims to simplify the training process and enhance model performance. This development is significant as it allows practitioners to efficiently adapt and improve AI models for specific tasks, potentially leading to better performance in various applications. The integration of these tools reflects a growing trend towards more accessible and scalable AI solutions. NVIDIA NeMo Automodel provides a streamlined interface for loading and training models without the need for extensive setup, while Hugging Face's Diffusers offers state-of-the-art pretrained models for generating high-quality outputs. This combination is particularly beneficial for developers looking to leverage advanced AI techniques.
+NVIDIA has introduced NeMo Automodel and 🤗 Diffusers as tools for scaling the fine-tuning of video and image models. This new approach aims to simplify and accelerate the training process for these models. This development is significant as it addresses the growing need for efficient model fine-tuning in the AI/ML community. It could greatly impact developers and researchers by providing them with more accessible tools for enhancing model performance. NeMo Automodel allows users to load Hugging Face models directly and start training without the need for checkpoint conversion. 🤗 Diffusers offers a modular toolbox for generating images and fine-tuning diffusion models, supporting both inference and training.
 
 rss · Hugging Face Blog · Jul 17, 15:57
 
-**Background**: NVIDIA NeMo is a framework designed for building and training AI models, particularly in natural language processing and computer vision. Hugging Face's Diffusers is a library that specializes in diffusion models, which are used for generating images, videos, and audio. Fine-tuning is a common practice in machine learning where pre-trained models are adapted to specific tasks.
+**Background**: NVIDIA NeMo is a framework designed to facilitate the training of various AI models, including large language models and diffusion models. 🤗 Diffusers is a library from Hugging Face that provides state-of-the-art pretrained models for generating images and audio, making it a valuable resource for AI developers.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://docs.nvidia.com/nemo/automodel/">NeMo AutoModel Documentation | NVIDIA NeMo AutoModel</a></li>
-<li><a href="https://huggingface.co/docs/diffusers/en/index">Diffusers · Hugging Face</a></li>
+<li><a href="https://github.com/huggingface/diffusers">GitHub - huggingface/diffusers: Diffusers: State-of-the-art ...</a></li>
 
 </ul>
 </details>
@@ -191,38 +264,14 @@ rss · Hugging Face Blog · Jul 17, 15:57
 
 ---
 
-<a id="item-8"></a>
-## [EU AI Act OpenRAG: 933 Legally Structured Chunks Released](https://www.reddit.com/r/MachineLearning/comments/1uytlac/eu_ai_act_openrag_933_legally_structured_chunks/) ⭐️ 8.0/10
-
-The author has released a comprehensive SQLite database containing 933 structured chunks of the EU AI Act for legal-NLP experimentation, complete with embeddings and metadata. This dataset is designed for retrieval-augmented generation (RAG) and legal natural language processing (NLP) tasks. This release is significant as it provides a structured corpus for legal-NLP experimentation, particularly relevant to ongoing discussions about AI regulation in the EU. It could enhance the development of legal AI applications and improve understanding of regulatory texts. The SQLite database includes 933 chunks, each with a normalized 1024-dimensional BGE-M3 embedding, and contains metadata such as EUR-Lex links and application dates. The evaluation against the AI Act Evaluation Benchmark showed promising results, indicating the effectiveness of the structured corpus.
-
-rss · Reddit MachineLearning · Jul 17, 08:18
-
-**Background**: The EU AI Act is a significant piece of legislation aimed at regulating artificial intelligence technologies within the European Union. Legal-NLP refers to the application of natural language processing techniques to legal texts, which can help in automating legal research and document analysis. BGE-M3 is an advanced embedding model that supports various retrieval functionalities, enhancing the performance of NLP tasks.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://huggingface.co/BAAI/bge-m3">BAAI/bge-m3 · Hugging Face</a></li>
-<li><a href="https://bge-model.com/bge/bge_m3.html">BGE-M3 — BGE documentation</a></li>
-<li><a href="https://arxiv.org/html/2510.06999">Towards Reliable Retrieval in RAG Systems for Large Legal Datasets</a></li>
-
-</ul>
-</details>
-
-**Discussion**: The community has shown interest in the dataset, with some users expressing excitement about its potential applications in legal NLP. There are requests for further technical feedback and suggestions for additional baselines.
-
-**Tags**: `#AI Regulation`, `#Legal NLP`, `#Dataset Release`, `#Machine Learning`, `#EU AI Act`
-
----
-
-<a id="item-9"></a>
+<a id="item-11"></a>
 ## [University of Chicago Law School Redesigns Legal Education for AI Era](https://t.me/gptupdates/33909) ⭐️ 8.0/10
 
-The University of Chicago Law School has introduced a new curriculum that incorporates AI training while emphasizing foundational critical thinking skills. This program will split legal education into two phases: initial training without AI tools, followed by training with professional AI tools like Harvey and Legora. This initiative is significant as it addresses the growing importance of AI in legal practice while ensuring that future lawyers develop essential critical thinking skills. It reflects a broader trend in education to adapt to technological advancements across various industries. First-year students will take classes without laptops or phones and will complete handwritten exams and oral defenses of major papers. Later, they will learn to use AI tools like Harvey and Legora for legal research and document review.
+The University of Chicago Law School has introduced a new curriculum that integrates AI into legal education while emphasizing foundational critical thinking skills. This innovative approach divides the program into two phases: initial training without AI, followed by instruction on using AI tools. This shift is significant as it prepares future lawyers for a legal landscape increasingly influenced by AI technologies. By balancing traditional legal reasoning with modern tools, the curriculum aims to produce well-rounded legal professionals. First-year students will complete their coursework without laptops or phones, focusing on handwritten exams and oral defenses of major papers. Later, they will learn to use AI tools like Harvey and Legora for legal research and document drafting.
 
 telegram · gptupdates · Jul 17, 21:52
 
-**Background**: Legal education has traditionally focused on foundational skills such as reasoning and judgment. With the rise of AI technologies, law schools are beginning to integrate these tools into their curricula to prepare students for modern legal practice. Harvey and Legora are examples of AI tools that assist legal professionals in research and document management.
+**Background**: The integration of AI into legal education reflects a broader trend in various industries where technology is reshaping traditional practices. Tools like Harvey and Legora are designed to enhance legal research and document review, making them essential for modern legal professionals.
 
 <details><summary>References</summary>
 <ul>
@@ -232,419 +281,359 @@ telegram · gptupdates · Jul 17, 21:52
 </ul>
 </details>
 
-**Discussion**: The community appears to be supportive of this innovative approach, emphasizing the need for a balance between technology and critical thinking in legal education. Some concerns were raised about the potential over-reliance on AI tools in the future.
+**Discussion**: Community discussions highlight a mix of enthusiasm and skepticism regarding the integration of AI in legal education. Some participants express concerns about over-reliance on technology, while others appreciate the emphasis on critical thinking.
 
-**Tags**: `#Legal Education`, `#AI Integration`, `#University of Chicago`, `#Critical Thinking`, `#Legal Practice`
-
----
-
-<a id="item-10"></a>
-## [Kaiser Nurses Raise Concerns Over AI and Surveillance Impact](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/) ⭐️ 7.0/10
-
-Kaiser nurses have voiced their concerns that artificial intelligence and workplace surveillance are negatively impacting their jobs and the quality of patient care. This has sparked a lively discussion among healthcare professionals and the public. This issue is significant as it highlights the potential drawbacks of integrating AI and surveillance technologies in healthcare, which could affect both nurse job satisfaction and patient outcomes. The concerns raised may influence future policies and practices in the healthcare industry. Nurses have reported that workplace surveillance metrics pressure them to ration care, which can compromise patient care quality. Additionally, there are mixed opinions on the effectiveness of AI tools, with some finding them beneficial while others express skepticism.
-
-hackernews · gnabgib · Jul 17, 22:26
-
-**Background**: Artificial intelligence in healthcare refers to the use of AI technologies to improve various aspects of medical practice, including diagnosis and patient care. However, the integration of such technologies raises ethical concerns, particularly regarding privacy and the quality of care provided by human professionals.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/AI_in_healthcare">AI in healthcare</a></li>
-<li><a href="https://www.bbc.com/worklife/article/20230127-how-worker-surveillance-is-backfiring-on-employers">How worker surveillance is backfiring - BBC</a></li>
-<li><a href="https://ssir.org/articles/entry/the_long_shadow_of_workplace_surveillance">How Workplace Surveillance Technology Harms Workers</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Community comments reflect a range of opinions, with some nurses expressing frustration over metrics that prioritize efficiency over care quality. Others have shared positive experiences with AI tools that enhance their ability to provide care.
-
-**Tags**: `#AI`, `#Healthcare`, `#Workplace Surveillance`, `#Nursing`, `#Patient Care`
-
----
-
-<a id="item-11"></a>
-## [Texas Wins Court Order to Suspend Domain Name](https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and) ⭐️ 7.0/10
-
-Texas has obtained a court order to suspend the domain name of a pornographic website for violating age-verification laws. This legal action raises significant questions about the extent of state power over internet domains. This court ruling is significant as it sets a precedent for how states can enforce age-verification laws on the internet. It could impact numerous websites and raise concerns about censorship and state authority over online content. The specific domain involved in this case has not been publicly disclosed, but it is reported to be a pornographic site. The ruling could lead to further legal challenges regarding the enforcement of state laws on internet governance.
-
-hackernews · letmevoteplease · Jul 17, 22:35
-
-**Background**: Age-verification laws are designed to prevent minors from accessing harmful content online. In recent years, many states in the U.S. have enacted similar laws, requiring websites to verify the age of their users. This case in Texas is part of a broader trend of increasing regulation of online content.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://action.freespeechcoalition.com/age-verification-bills/">Age Verification Bills – Action Center</a></li>
-<li><a href="https://censorshiptracker.com/">Age Verification Laws by State (2026) | Censorship Tracker</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Community comments reflect a mix of skepticism and concern regarding the implications of this ruling. Some users question the authority of a single state to impact global internet governance, while others express worries about potential censorship.
-
-**Tags**: `#legal`, `#internet governance`, `#censorship`, `#age-verification`, `#Texas`
+**Tags**: `#Legal Education`, `#AI Integration`, `#University of Chicago`, `#Curriculum Innovation`, `#Critical Thinking`
 
 ---
 
 <a id="item-12"></a>
-## [Kimi K3 and Lessons from the Pelican Benchmark](https://simonwillison.net/2026/Jul/16/kimi-k3/) ⭐️ 7.0/10
+## [EU Forces Google to Share Search Data with AI Rivals](https://t.me/gptupdates/33910) ⭐️ 8.0/10
 
-The Kimi K3 model has been introduced, along with discussions on the implications of the pelican benchmark for evaluating language models. This exploration highlights both the strengths and limitations of the Kimi K3 in comparison to other models. Understanding the Kimi K3's performance in relation to the pelican benchmark is crucial for advancing model evaluation techniques in AI. This discussion could influence future developments in large language models and their applications. Kimi K3 features a 1 million token context window and is designed for long-horizon coding and knowledge work. The pelican benchmark serves as a tool for assessing model capabilities, particularly in generating specific outputs.
+The EU has mandated Google to share anonymized search data with AI competitors starting in 2027 under the Digital Markets Act. This includes user data such as queries, clicks, and views, aimed at enhancing competition in the AI and search engine markets. This regulatory change could significantly alter the competitive landscape of AI technologies and search engines, potentially benefiting smaller players in the market. However, it raises serious concerns regarding user privacy and the security of sensitive data. Google has expressed concerns that the mandated data sharing could expose sensitive user information, particularly in areas like health and finance. The company warns that current anonymization techniques may not adequately protect user identities from re-identification by AI.
 
-hackernews · droidjj · Jul 17, 14:21
+telegram · gptupdates · Jul 18, 00:50
 
-**Background**: The pelican benchmark is a recent initiative aimed at evaluating AI models' capabilities in generating SVG images based on simple prompts. Kimi K3 is part of a new wave of large language models that aim to compete with established models like OpenAI's GPT series.
+**Background**: The Digital Markets Act (DMA) is an EU regulation aimed at ensuring fair competition in digital markets by preventing large companies from abusing their market power. It targets major digital platforms, requiring them to comply with various obligations, including sharing data with competitors to foster a more competitive environment.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://platform.kimi.ai/docs/guide/kimi-k3-quickstart">Kimi K3 - Kimi API Platform</a></li>
-<li><a href="https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html">China's Moonshot AI unveils Kimi K3 that rivals OpenAI ... - CNBC</a></li>
-<li><a href="https://huggingface.co/spaces/victor/pelican-benchmark">Pelican Benchmark - a Hugging Face Space by victor</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Digital_Markets_Act">Digital Markets Act</a></li>
+<li><a href="https://digital-markets-act.ec.europa.eu/index_en">Digital Markets Act</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community comments reflect a mix of skepticism and curiosity regarding the pelican benchmark's effectiveness. Some users question the assumptions behind the benchmark, while others propose new evaluation methods.
+**Discussion**: There has been a mix of support and concern among community members regarding the implications of this regulation. Some believe it will foster innovation, while others worry about the potential risks to user privacy.
 
-**Tags**: `#AI`, `#Machine Learning`, `#Benchmarking`, `#Natural Language Processing`, `#Community Discussion`
+**Tags**: `#EU Regulation`, `#Google`, `#AI Competition`, `#Data Privacy`, `#Digital Markets Act`
 
 ---
 
 <a id="item-13"></a>
-## [FAA Restores Boeing's Airworthiness Certification Authority](https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html) ⭐️ 7.0/10
+## [The first robot labor battle is here](https://www.wsj.com/business/autos/the-fight-over-humanoid-robots-has-shut-down-a-car-factory-for-the-first-time-d45ac3e1) ⭐️ 8.0/10
 
-The FAA has reinstated Boeing's ability to issue airworthiness certificates for the 737 MAX and 787 Dreamliner, a power that was revoked following fatal crashes in 2018 and 2019. This decision allows Boeing to self-certify the airworthiness of these aircraft models once again. This change is significant as it reflects a shift in regulatory oversight and could impact aviation safety standards. The decision affects not only Boeing but also the broader aviation industry, potentially influencing public trust in aircraft safety. Boeing's authority to self-certify was previously revoked due to safety concerns following two fatal crashes. The FAA's decision comes after several successful certifications and perceived improvements in Boeing's processes.
+Workers at Hyundai's Ulsan factory have gone on strike due to fears that the Atlas humanoid robot could replace their jobs. This marks the first known factory shutdown linked to concerns about humanoid robots in manufacturing. This situation highlights the growing tensions between automation and labor rights, as workers seek protections against potential job losses. The outcome could influence future labor negotiations in industries increasingly adopting robotic technologies. The Atlas robot, developed by Boston Dynamics, is not yet operational in the factory but is planned for deployment in a new facility in Georgia by 2028. Workers are demanding job protections, a higher retirement age, and compensation adjustments reflecting the future role of robots.
 
-hackernews · hmm37 · Jul 17, 21:22
+telegram · gptupdates · Jul 18, 04:03
 
-**Background**: Airworthiness certificates are essential for the operation of commercial aircraft, certifying that they meet safety standards. The FAA oversees the certification process to ensure compliance with aviation regulations, which is crucial for maintaining public safety in air travel.
+**Background**: Humanoid robots like Atlas are designed to perform tasks traditionally done by humans, raising concerns about job displacement in various industries. The introduction of such robots in manufacturing has sparked debates about labor rights and the future of work.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.faa.gov/aircraft/air_cert/aw_cert">Airworthiness Certification of Aircraft | Federal Aviation ...</a></li>
-<li><a href="https://www.faa.gov/aircraft/air_cert/airworthiness_certification">How Does the FAA Certify Aircraft? | Federal Aviation ...</a></li>
+<li><a href="https://bostondynamics.com/products/atlas/">Atlas Humanoid Robot | Boston Dynamics</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community comments reflect a mix of confusion and skepticism regarding Boeing's ability to self-certify. Some users express concerns about the implications for safety, while others question the effectiveness of regulatory oversight.
+**Discussion**: Community sentiment appears divided, with some supporting the workers' demands for job security while others argue that automation could lead to more efficient production. Concerns about the long-term implications of robot labor on employment are prevalent.
+
+**Tags**: `#robotics`, `#labor rights`, `#manufacturing`, `#automation`, `#humanoid robots`
+
+---
+
+<a id="item-14"></a>
+## [Kaiser Nurses Criticize AI and Workplace Surveillance Impact](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/) ⭐️ 7.0/10
+
+Kaiser nurses have reported that the implementation of AI and workplace surveillance is negatively affecting their jobs and the quality of patient care. This has led to significant community discussions about the implications of these technologies. This situation is significant as it highlights the growing concerns regarding the role of technology in healthcare, particularly how it may compromise patient care and employee well-being. The implications could affect not only healthcare workers but also patients who rely on quality care. Nurses have expressed concerns that workplace metrics and surveillance pressure them to ration care, which could lead to ethical dilemmas in patient treatment. Additionally, there are mixed opinions on the usefulness of AI tools in healthcare, with some nurses finding value while others raise ethical concerns.
+
+hackernews · gnabgib · Jul 17, 22:26
+
+**Background**: AI in healthcare refers to the application of artificial intelligence to medical data for various purposes, including diagnosis and treatment planning. However, it raises ethical concerns, particularly regarding data privacy and the potential for bias in decision-making. Workplace surveillance technology is increasingly used to monitor employee performance, which can lead to stress and ethical issues in the workplace.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/AI_in_healthcare">AI in healthcare</a></li>
+<li><a href="https://ssir.org/articles/entry/the_long_shadow_of_workplace_surveillance">How Workplace Surveillance Technology Harms Workers</a></li>
+<li><a href="https://blog.proliant.com/surveillance-tracking-in-the-workplace">Surveillance Tracking in the Workplace : Benefits, Drawbacks, and...</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community comments reflect a range of opinions, with some nurses expressing concerns about the pressure from metrics, while others highlight the benefits of AI tools in improving care efficiency. There is a notable divide in how these technologies are perceived among healthcare professionals.
+
+**Tags**: `#AI`, `#healthcare`, `#workplace surveillance`, `#nursing`, `#technology impact`
+
+---
+
+<a id="item-15"></a>
+## [Kimi K3 and Insights from the Pelican Benchmark](https://simonwillison.net/2026/Jul/16/kimi-k3/) ⭐️ 7.0/10
+
+The Kimi K3 model has been introduced, featuring 2.8 trillion parameters, and its relationship with the pelican benchmark is explored. This examination highlights areas for further exploration in the capabilities of large language models (LLMs). This development is significant as it represents a major advancement in LLM capabilities, potentially influencing future AI applications and benchmarks. The insights gained from the pelican benchmark could lead to improved model evaluations and performance metrics. Kimi K3 is noted for being the first open model to reach 2.8 trillion parameters, setting a new standard in model scaling. The pelican benchmark, created by Simon Willison, evaluates LLMs based on their ability to generate specific SVG images.
+
+hackernews · droidjj · Jul 17, 14:21
+
+**Background**: The pelican benchmark is an informal test for LLMs that uses the prompt 'Generate an SVG of a pelican riding a bicycle' to evaluate their performance. Kimi K3, with its massive parameter count, is part of a trend towards increasingly larger and more capable AI models.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.kimi.com/blog/kimi-k3">Kimi K 3 Tech Blog: Open Frontier Intelligence</a></li>
+<li><a href="https://grokipedia.com/page/Pelican_on_a_bicycle_AI_benchmark">Pelican on a bicycle (AI benchmark)</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community comments reflect a mix of skepticism and curiosity regarding the pelican benchmark's effectiveness and the Kimi K3 model's performance. Some users question the benchmark's relevance, while others suggest improvements and comparisons with other models.
+
+**Tags**: `#LLMs`, `#benchmarking`, `#AI`, `#machine learning`, `#community discussion`
+
+---
+
+<a id="item-16"></a>
+## [Show HN: A zoomable timeline of 4M Wikipedia events](https://app.everything.diena.co/) ⭐️ 7.0/10
+
+A developer has created a zoomable timeline interface that displays 4 million events imported from Wikipedia and Wikidata, utilizing Kotlin Multiplatform and Compose for the user interface. This project showcases a unique way to visualize historical data. This project is significant as it provides an innovative approach to visualizing large datasets, making historical events more accessible and understandable. It could impact how educators and researchers present historical timelines. The application uses Kotlin Multiplatform extensively, with Compose Multiplatform for the UI, and communicates with the backend using Kotlinx-RPC. It also employs a Postgres database for data storage, which is hosted on a Hetzner machine.
+
+hackernews · lortex · Jul 17, 18:37
+
+**Background**: Kotlin Multiplatform allows developers to share code across different platforms, enhancing development efficiency. Compose Multiplatform is a UI framework that simplifies building user interfaces for cross-platform applications. The integration of these technologies enables the creation of responsive and interactive applications.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://kotlinlang.org/multiplatform/">Kotlin Multiplatform – Build Cross- Platform Apps</a></li>
+<li><a href="https://kotlinlang.org/compose-multiplatform/">Compose Multiplatform – Beautiful UIs Everywhere</a></li>
+<li><a href="https://github.com/Kotlin/kotlinx-rpc">GitHub - Kotlin/ kotlinx - rpc : Add asynchronous RPC services to your...</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community feedback has been generally positive, with users appreciating the navigability of the timeline despite its size. Some users have pointed out bugs and suggested improvements, indicating an engaged user base that is interested in the project's development.
+
+**Tags**: `#Kotlin`, `#Timeline Visualization`, `#Wikipedia`, `#Open Source`, `#User Interface`
+
+---
+
+<a id="item-17"></a>
+## [FAA Restores Boeing's Authority for 737 MAX and 787 Certifications](https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html) ⭐️ 7.0/10
+
+The FAA has reinstated Boeing's authority to issue airworthiness certificates for the 737 MAX and 787 Dreamliner as of July 2026. This decision follows a period of scrutiny after safety concerns related to previous crashes. This is significant as it allows Boeing to self-certify the airworthiness of its aircraft, which could impact public confidence in aviation safety. The decision reflects ongoing regulatory changes in the aviation industry following past tragedies. Boeing's ability to self-certify was previously revoked due to safety issues linked to the 737 MAX crashes in 2018 and 2019. The FAA's decision indicates that Boeing has made sufficient improvements to regain this authority.
+
+hackernews · hmm37 · Jul 17, 21:22
+
+**Background**: Airworthiness certificates are essential for aircraft to operate commercially, ensuring they meet safety standards. The FAA oversees the certification process, which has been scrutinized following the 737 MAX incidents that raised significant safety concerns.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Airworthiness_certificate">Airworthiness certificate</a></li>
+<li><a href="https://www.faa.gov/aircraft/air_cert">Aircraft Certification - Federal Aviation Administration</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community comments reflect a mix of confusion and concern regarding Boeing's reinstated authority. Some users express fear about safety, while others question the motivations behind the FAA's decision.
 
 **Tags**: `#Aviation`, `#Regulation`, `#Boeing`, `#Safety`, `#FAA`
 
 ---
 
-<a id="item-14"></a>
-## [Three ways people respond to a problem (other than solving it)](https://improvesomething.today/responses-to-problems/) ⭐️ 7.0/10
+<a id="item-18"></a>
+## [Concerns Over AI Evaluation in Kaggle Hackathon](https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423) ⭐️ 7.0/10
 
-The article discusses three alternative responses to problems, emphasizing human behavior complexities and systemic issues. It highlights how these responses can influence problem-solving approaches. Understanding these alternative responses is significant as it sheds light on why certain problems persist despite resources allocated to solve them. This perspective can influence how individuals and organizations approach problem-solving in various contexts. The article categorizes responses into three types: ignoring problems, preserving problems, and creating new problems. Each response reflects deeper systemic issues and human behavior that complicate direct solutions.
-
-hackernews · surprisetalk · Jul 17, 14:00
-
-**Discussion**: Community comments reflect a mix of agreement and skepticism regarding the responses discussed. Some participants highlight the complexities of political systems and personal incentives that contribute to problem preservation.
-
-**Tags**: `#problem-solving`, `#human behavior`, `#politics`, `#systems thinking`, `#community discussion`
-
----
-
-<a id="item-15"></a>
-## [Concerns Over AI Evaluation in Kaggle Competitions](https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423) ⭐️ 7.0/10
-
-A discussion has emerged critiquing the evaluation process of Kaggle competitions, particularly questioning the fairness of AI-driven judging. Participants are raising concerns about how reliance on AI may undermine skill recognition and competition integrity. This issue is significant as it highlights potential biases in AI evaluation systems that could affect the outcomes of competitions and the recognition of participants' skills. The implications extend beyond Kaggle, impacting the broader landscape of AI ethics and competition fairness. Critics argue that the use of AI for judging may lead to a lack of common sense in evaluation, as AI systems may not adequately assess human creativity and skill. Additionally, there are concerns that insider knowledge could skew competition results in favor of certain participants.
+The discussion reveals inconsistencies in the evaluation process of a Kaggle hackathon, particularly regarding AI's role in judging submissions. Community members have raised significant concerns about the integrity of these AI-driven evaluations. This issue is significant as it raises questions about the fairness and reliability of AI evaluations in competitions, potentially affecting participants' trust in the process. The outcome could influence how future hackathons are structured and judged. The hackathon, co-organized by Kaggle and Google DeepMind, had an extended judging period due to concerns about the evaluation process. Community feedback highlights the challenges of relying solely on AI for judging, suggesting a need for human oversight.
 
 hackernews · twerkmeister · Jul 17, 11:30
 
-**Background**: Kaggle is a platform for data science competitions where participants submit models to solve specific problems. The evaluation process often relies on automated metrics, which can raise questions about fairness and transparency, especially when AI is involved in judging submissions.
+**Background**: Kaggle is a platform for data science competitions where participants submit models to solve specific problems. AI is increasingly being used to evaluate submissions, which raises concerns about the objectivity and transparency of the judging process.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://builtin.com/data-science/what-is-kaggle">What is Kaggle ? How to Compete in Kaggle Competitions | Built In</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence">Ethics of artificial intelligence - Wikipedia</a></li>
+<li><a href="https://medium.com/@gabi.preda/what-reborn-kaggle-teaches-us-about-the-future-of-ai-dc7aee696ae9">What reborn Kaggle teaches us about the future of AI | Medium</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community comments reflect a mix of skepticism and concern regarding the role of AI in competitions. Some participants feel that AI undermines the essence of skill-based competitions, while others acknowledge its usefulness but caution against blind reliance on AI.
+**Discussion**: Community members expressed a mix of concerns and critiques regarding the AI evaluation process. Some noted that reliance on AI could undermine the skill-based nature of competitions, while others emphasized the need for a balance between AI and human judgment.
 
-**Tags**: `#Kaggle`, `#AI Ethics`, `#Machine Learning`, `#Competitions`, `#Community Discussion`
+**Tags**: `#Kaggle`, `#AI Evaluation`, `#Hackathons`, `#Machine Learning`, `#Community Discussion`
 
 ---
 
-<a id="item-16"></a>
+<a id="item-19"></a>
+## [Texas Wins Court Order to Suspend Domain Name](https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and) ⭐️ 7.0/10
+
+Texas has secured a court order to suspend the domain name of a pornographic website for violating age-verification laws. This ruling raises questions about the extent of state authority over internet domains. This ruling is significant as it could set a precedent for how states regulate online content, potentially impacting internet freedom and interstate commerce. It raises concerns about the balance between state authority and the rights of online entities. The court's decision specifically targets the domain name 'motherless.com', which is alleged to have failed to implement adequate age-verification measures. This case highlights the ongoing debate over the effectiveness and privacy implications of age-verification technologies.
+
+hackernews · letmevoteplease · Jul 17, 22:35
+
+**Background**: Age verification is a process used to confirm a user's age before granting access to certain online content, particularly adult material. The legal landscape surrounding internet regulation is complex, with varying laws across states regarding content and user privacy.
+
+**Discussion**: Community comments reflect a mix of skepticism and concern regarding the implications of this ruling. Many express fears that such state-level actions could lead to broader censorship and challenges to interstate commerce.
+
+**Tags**: `#legal`, `#internet regulation`, `#age-verification`, `#Texas`, `#court ruling`
+
+---
+
+<a id="item-20"></a>
 ## [Apple targets dozens of OpenAI employees with legal letters](https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166) ⭐️ 7.0/10
 
-Apple has issued legal letters to numerous employees at OpenAI, signaling potential legal disputes. This action raises concerns about corporate practices and the implications for both companies involved. This situation is significant as it highlights the increasing tensions between major tech companies, which could lead to broader implications for the industry. Employees caught in this legal crossfire may face uncertainty regarding their future roles. The legal letters are a standard practice in corporate disputes, often serving as a precautionary measure. Apple's actions may indicate they have substantial evidence to support their claims against OpenAI.
+Apple has initiated legal proceedings against multiple employees at OpenAI, raising concerns about corporate practices. This action has sparked significant discussion within the tech community. This legal action could have significant implications for both companies, potentially affecting their workforce and corporate strategies. It highlights ongoing tensions in the tech industry regarding employee mobility and intellectual property. The legal letters are reportedly standard practice in corporate legal proceedings, although their timing has raised eyebrows. Observers suggest that Apple may have substantial evidence to support its claims.
 
 hackernews · merksittich · Jul 17, 12:02
 
-**Background**: In the tech industry, legal disputes often arise over intellectual property and employee transitions between companies. Such actions can reflect broader competitive dynamics and corporate strategies as companies seek to protect their innovations and talent.
-
-**Discussion**: Community comments reveal a mix of skepticism and concern regarding Apple's motivations and the implications of their legal actions. Some believe that Apple's approach is standard practice, while others question the necessity and timing of these letters.
-
-**Tags**: `#Apple`, `#OpenAI`, `#Legal Issues`, `#Tech Industry`, `#Corporate Tensions`
-
----
-
-<a id="item-17"></a>
-## [Exploring Different Dialects of Lisp](https://scotto.me/blog/2026-07-17-which-lisp/) ⭐️ 7.0/10
-
-The article provides an in-depth discussion of various Lisp dialects, highlighting their unique features and suitability for different types of programmers. It aims to guide both newcomers and experienced developers in choosing the right Lisp variant. Understanding the differences between Lisp dialects is crucial for developers looking to leverage the strengths of each language in their projects. This knowledge can significantly impact programming efficiency and project outcomes in software engineering. The article discusses notable dialects such as Common Lisp, Racket, and Clojure, each offering distinct features like extensibility and syntax. Additionally, it addresses the limitations of Common Lisp compared to newer languages.
-
-hackernews · silcoon · Jul 17, 13:56
-
-**Background**: Lisp is a family of programming languages known for their unique parenthesis-heavy syntax and powerful macro systems. Different dialects of Lisp, such as Common Lisp and Scheme, have evolved to cater to various programming paradigms and developer preferences. Each dialect has its own set of features and community support, making it essential for programmers to choose the right one for their needs.
+**Background**: Corporate legal proceedings often involve disputes over intellectual property and employee agreements, particularly in the tech sector where competition for talent is fierce. Companies like Apple and OpenAI are navigating complex legal landscapes as they innovate and expand their operations.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.slant.co/topics/5928/~lisp-dialects">23 Best Lisp dialects as of 2026 - Slant</a></li>
-<li><a href="https://factually.co/fact-checks/technology/main-lisp-dialects-used-today-be29da">What are the main dialects of Lisp in use today?</a></li>
+<li><a href="https://corporateexaminer.com/corporate-legal-proceedings/">Corporate Legal Proceedings: Updates on Litigation and ...</a></li>
+<li><a href="https://www.brentblackstock.com/blog/2024/11/what-are-the-latest-ip-dispute-trends-in-the-tech-industry/">What are the latest IP dispute trends in the tech industry?</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community sentiment is mixed, with some expressing skepticism about Apple's motivations while others believe the company must have strong evidence. There are also concerns about the broader implications for employee mobility in the tech industry.
+
+**Tags**: `#Apple`, `#OpenAI`, `#Legal Issues`, `#Tech Industry`, `#Corporate Strategy`
+
+---
+
+<a id="item-21"></a>
+## [A Road to Lisp: Which Lisp](https://scotto.me/blog/2026-07-17-which-lisp/) ⭐️ 7.0/10
+
+The article explores various Lisp dialects, detailing their unique features to assist readers in selecting the most suitable one for their needs. It provides insights into dialects like Common Lisp and Scheme. This discussion is significant as it highlights the diversity within the Lisp programming language family, which can influence developers' choices based on their project requirements. Understanding these dialects can enhance software development practices and educational approaches. The article emphasizes the extensibility of Common Lisp's syntax and the minimalist design of Scheme, which appeals to different programming paradigms. It also mentions the significance of Emacs Lisp in academic settings.
+
+hackernews · silcoon · Jul 17, 13:56
+
+**Background**: Lisp is a family of programming languages known for their unique parenthesis-heavy syntax and powerful macro systems. Common Lisp and Scheme are two of the most widely used dialects, each with distinct features and applications. Understanding these dialects is crucial for developers looking to leverage Lisp's capabilities in various domains.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/List_of_Lisp-family_programming_languages">List of Lisp-family programming languages - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Lisp_(programming_language)">Lisp (programming language) - Wikipedia</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Common_Lisp">Common Lisp - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community members have shared their experiences with different Lisp dialects, expressing preferences for Common Lisp and Scheme based on their unique features. There is a general agreement on the importance of understanding these dialects to maximize programming effectiveness.
+**Discussion**: Community comments reflect a mix of enthusiasm and critique, with users sharing their experiences with different Lisp dialects and expressing preferences for features from various languages. There is a notable interest in the practical applications of these dialects in both academic and professional settings.
 
-**Tags**: `#Lisp`, `#Programming Languages`, `#Software Engineering`, `#Community Discussion`
-
----
-
-<a id="item-18"></a>
-## [Frame – Linux X server in Assembly](https://isene.org/2026/07/Frame.html) ⭐️ 7.0/10
-
-Frame is a newly developed Linux X server written entirely in assembly language, generated by an AI. This project has sparked significant community interest and debate regarding its practicality and implications. This development is significant as it showcases a novel approach to building X servers, potentially influencing future software engineering practices. The implications of using AI to generate low-level code could affect how developers approach assembly language programming. The project consists of approximately 25,000 lines of assembly code, which raises questions about the efficiency and necessity of such an approach. The use of AI, specifically the Claude model, to generate this code has sparked discussions about the future of programming.
-
-hackernews · guybedo · Jul 17, 15:31
-
-**Background**: The X Window System, commonly referred to as X, is a network-transparent windowing system that provides the basic framework for a GUI environment on Unix-like operating systems. Assembly language is a low-level programming language that provides direct control over hardware, making it suitable for performance-critical applications.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/X_Window_System">X Window System - Wikipedia</a></li>
-<li><a href="https://www.geeksforgeeks.org/computer-organization-architecture/what-is-assembly-language/">What is Assembly Language ? - GeeksforGeeks</a></li>
-<li><a href="https://en.wikipedia.org/wiki/AI-generated_code">AI-generated code</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Community comments reflect a mix of skepticism and curiosity regarding the practicality of using AI-generated assembly code. Some users question the necessity of such an approach, while others express excitement about the potential for innovation in X server development.
-
-**Tags**: `#Linux`, `#Assembly`, `#X server`, `#AI`, `#Software Engineering`
-
----
-
-<a id="item-19"></a>
-## [VulnHunter: Capital One's agentic AI code security tool](https://www.capitalone.com/tech/open-source/announcing-vulnhunter/) ⭐️ 7.0/10
-
-Capital One has announced VulnHunter, a new AI-driven tool designed to enhance code security through agentic methodologies. This tool aims to improve vulnerability scanning processes within the organization. This development is significant as it represents a novel approach to code security within a major financial institution, potentially influencing industry standards. The tool could impact developers and security professionals by providing a new methodology for vulnerability assessment. VulnHunter utilizes agentic AI, which allows it to operate with a degree of autonomy in identifying vulnerabilities. However, there are concerns regarding the effectiveness of such tools and the potential for a false sense of security among users.
-
-hackernews · medina · Jul 17, 12:42
-
-**Background**: Agentic AI refers to intelligent systems that can pursue goals and take actions autonomously within defined parameters. Vulnerability scanning methodologies are essential for identifying security weaknesses in code, and many organizations rely on such tools to enhance their security posture.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Agentic_AI">Agentic AI</a></li>
-<li><a href="https://www.getastra.com/blog/security-audit/vulnerability-assessment-methodology/">A Complete Guide on Vulnerability Assessment Methodology</a></li>
-<li><a href="https://www.wiz.io/academy/application-security/open-source-code-security-tools">The Top 28 Open-Source Security Tools : A 2026 Guide | Wiz</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Community comments reflect a mix of skepticism and interest in VulnHunter, with some users questioning its novelty and effectiveness. Others highlight the importance of integrating established methodologies into AI tools for better security outcomes.
-
-**Tags**: `#AI`, `#Code Security`, `#Vulnerability Scanning`, `#Open Source`, `#Capital One`
-
----
-
-<a id="item-20"></a>
-## [How Has Roman Concrete Lasted for Millennia?](https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/) ⭐️ 7.0/10
-
-Researchers have discovered insights into the durability of Roman concrete by studying a 1,900-year-old latrine. This exploration reveals the chemical processes that contribute to its remarkable longevity. Understanding the longevity of Roman concrete could influence modern construction practices and material science. This knowledge may lead to the development of more durable building materials, impacting infrastructure longevity. The study highlights the role of carbonation and the lime cycle in enhancing the durability of Roman concrete. Additionally, the inclusion of pozzolanic materials, such as volcanic ash, is crucial to its composition.
-
-hackernews · divbzero · Jul 17, 03:48
-
-**Background**: Roman concrete is a composite material made from various aggregates and hydraulic mortar, known for its exceptional durability compared to modern concrete. Its unique composition and chemical reactions over time contribute to its long-lasting nature, making it a subject of interest in material science.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/">How Has Roman Concrete Lasted for Millennia? A 1,900-Year-Old ...</a></li>
-<li><a href="https://news.mit.edu/2023/roman-concrete-durability-lime-casts-0106">Riddle solved: Why was Roman concrete so durable? - MIT News</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Roman_concrete">Roman concrete - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Community comments highlight the importance of the lime cycle and carbonation in Roman concrete's durability. There are also discussions comparing modern concrete's limitations, such as steel rebar corrosion, with the ancient material's advantages.
-
-**Tags**: `#Roman Concrete`, `#Material Science`, `#Durability`, `#Engineering`, `#Historical Technology`
-
----
-
-<a id="item-21"></a>
-## [Zuckerberg's plan to sell excess AI compute could finds its first big customer in Anthropic](https://the-decoder.com/zuckerbergs-plan-to-sell-excess-ai-compute-could-finds-its-first-big-customer-in-anthropic/) ⭐️ 7.0/10
-
-Meta is reportedly in discussions with Anthropic to rent out excess AI compute capacity from its data centers. This partnership could represent a significant move in the AI resource market. This collaboration signifies a shift in how major tech companies utilize their computing resources, potentially impacting the AI industry landscape. It could also enhance Anthropic's capabilities in developing AI models. The deal highlights the growing demand for AI compute resources, as companies like Meta seek to optimize their data center usage. Anthropic, founded by former OpenAI members, focuses on AI safety and has developed large language models.
-
-rss · The Decoder · Jul 17, 21:16
-
-**Background**: Meta operates numerous data centers that provide significant computing power for various applications, including AI. Anthropic is a public benefit corporation focused on AI safety, known for its Claude series of large language models. The AI computing capacity globally is rapidly increasing, with major players in the industry looking to maximize their resources.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Anthropic_AI">Anthropic AI</a></li>
-<li><a href="https://datacenters.atmeta.com/">Meta Data Centers</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#Meta`, `#Anthropic`, `#Compute Resources`, `#Collaboration`
+**Tags**: `#Lisp`, `#Programming Languages`, `#Software Development`, `#Community Discussion`, `#Education`
 
 ---
 
 <a id="item-22"></a>
-## [Linus Torvalds Defends AI Tools in Linux Kernel Development](https://the-decoder.com/linus-torvalds-tells-ai-critics-in-the-linux-kernel-community-to-fork-off/) ⭐️ 7.0/10
+## [Linus Torvalds Supports AI Tools in Linux Kernel Development](https://the-decoder.com/linus-torvalds-tells-ai-critics-in-the-linux-kernel-community-to-fork-off/) ⭐️ 7.0/10
 
-Linus Torvalds has publicly endorsed the use of AI tools in Linux kernel development, specifically addressing critics on the kernel mailing list. He emphasized that Linux is not an anti-AI project and will ignore those discouraging the use of AI tools like Sashiko. This endorsement from Torvalds could significantly influence the Linux community's acceptance of AI integration in development processes. It highlights a growing trend in the tech industry where AI tools are increasingly seen as beneficial for enhancing productivity and code quality. Sashiko is an AI-powered code review tool designed to enhance the quality of Linux kernel code by identifying bugs that human reviewers might miss. Torvalds' comments suggest a strong push towards embracing AI technologies in open-source projects.
+Linus Torvalds has publicly endorsed the use of AI tools in Linux kernel development, specifically supporting the Sashiko code review tool. He stated on the kernel mailing list that he would ignore anyone discouraging the use of AI in this context. This endorsement is significant as it reflects a shift in the Linux community's attitude towards AI technologies, potentially influencing future development practices. The support for AI tools like Sashiko could enhance code quality and streamline the review process. Sashiko is designed as an AI-powered code review system that acts as a screening layer for incoming patches, rather than generating code itself. In tests, it has successfully identified a significant percentage of bugs in real issues.
 
 rss · The Decoder · Jul 17, 11:12
 
-**Background**: Linus Torvalds is the creator of Linux, an open-source operating system kernel that has become foundational for many operating systems. The Linux Foundation has introduced Sashiko to assist in code reviews, leveraging AI to improve the efficiency and effectiveness of the development process.
+**Background**: The Linux kernel is a core component of many operating systems and is developed collaboratively by a global community. The introduction of AI tools like Sashiko aims to assist developers in maintaining high code quality while managing the complexities of collaborative development.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://www.theregister.com/software/2026/03/20/linux-kernel-engineer-introduces-sashiko-code-review-system/5223725">Linux kernel engineer introduces Sashiko code review system</a></li>
-<li><a href="https://digg.com/tech/cgz5jgv6">Linus Torvalds rejects anti- AI policies in Linux kernel development ...</a></li>
+<li><a href="https://cryptobriefing.com/torvalds-ai-linux-kernel-crypto-impact/">Linus Torvalds backs AI coding tools in Linux kernel , tells critics to...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community's response is mixed, with many supporting Torvalds' stance on AI tools for their potential to save time and improve code quality. However, some critics express concerns about the implications of AI in open-source development.
+**Discussion**: There has been a mix of support and skepticism in the community regarding the use of AI tools, with some expressing concerns about reliance on automated systems. However, many also recognize the potential benefits of improved efficiency and bug detection.
 
-**Tags**: `#Linux`, `#AI`, `#Kernel Development`, `#Open Source`, `#Technology`
+**Tags**: `#Linux`, `#AI`, `#Kernel Development`, `#Open Source`, `#Technology Debate`
 
 ---
 
 <a id="item-23"></a>
-## [Netflix's 300 AI Productions Transforming Entertainment](https://the-decoder.com/netflixs-300-ai-productions-show-how-fast-the-technology-is-spreading-through-entertainment/) ⭐️ 7.0/10
+## [Netflix Integrates AI in 300 Productions](https://the-decoder.com/netflixs-300-ai-productions-show-how-fast-the-technology-is-spreading-through-entertainment/) ⭐️ 7.0/10
 
-Netflix is utilizing AI in approximately 300 productions, primarily in post-production. Co-CEO Ted Sarandos noted that the docuseries 'The American Experiment' features 17 minutes of AI-assisted footage, produced at double the speed and half the cost. This trend signifies a major shift in the entertainment industry, as AI enhances production efficiency and reduces costs. The potential savings could lead to increased funding for content, impacting the overall landscape of media production. The use of AI in productions like 'The American Experiment' demonstrates how technology can streamline workflows and reduce expenses. This approach may allow Netflix to maintain or even expand its $20 billion content budget.
+Netflix has incorporated AI into approximately 300 productions, primarily in post-production. The docuseries 'The American Experiment' features 17 minutes of AI-assisted footage, produced at double the speed and half the cost. This integration of AI is significant as it enhances production efficiency and reduces costs, potentially allowing Netflix to increase its content output within its $20 billion budget. It reflects a broader trend of AI adoption in the entertainment industry. The use of AI in productions like 'The American Experiment' demonstrates how advanced technologies can streamline workflows and cut costs. This approach may lead to more innovative content creation strategies in the future.
 
 rss · The Decoder · Jul 17, 08:53
 
-**Background**: AI technologies are increasingly being integrated into various aspects of film and television production, especially in post-production processes. These technologies can assist with tasks such as editing, visual effects, and sound design, ultimately enhancing the quality and efficiency of content creation.
+**Background**: AI technologies have been increasingly integrated into various sectors, including entertainment, where they assist in tasks like video editing and content generation. Generative AI, in particular, has gained traction for its ability to create new media content efficiently.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.mimicminds.com/post/ai-in-the-entertainment-industry">AI in the Entertainment Industry: Trends, Tools & Real Examples</a></li>
+<li><a href="https://vitrina.ai/blog/ais-game-changing-role-in-post-production/">AI In Post-Production: How Intelligent Tools Are | Vitrina</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#Entertainment`, `#Netflix`, `#Technology`, `#Production`
+**Tags**: `#AI`, `#Entertainment`, `#Media Technology`, `#Netflix`, `#Production`
 
 ---
 
 <a id="item-24"></a>
 ## [The Rising Risk of Weather Data Sabotage](https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/) ⭐️ 7.0/10
 
-The article discusses the increasing risk of weather data sabotage, which poses a significant threat to industries that depend on accurate weather forecasts. This concern is growing as prediction markets and AI forecasting technologies evolve. This issue is significant because it can impact safety, economic stability, and decision-making in various sectors, including agriculture and aviation. As industries become more reliant on precise weather data, the consequences of sabotage could be severe. Historically, weather data sabotage involved physical actions, such as tampering with equipment. However, the rise of digital forecasting methods introduces new vulnerabilities that need to be addressed.
+The article highlights the increasing risk of sabotage to weather data, which could significantly impact industries that rely on accurate forecasts. This concern is particularly relevant for sectors such as agriculture, aviation, and energy, where decisions are heavily influenced by weather predictions. This issue is significant because compromised weather data can lead to poor decision-making, resulting in financial losses and safety hazards across various industries. As climate change causes more erratic weather patterns, the integrity of weather data becomes increasingly crucial. The article discusses the potential methods of sabotage that could be employed against weather data systems, including hacking and data manipulation. It also notes that the implications of such actions could extend beyond immediate financial impacts to long-term trust issues in data integrity.
 
 rss · MIT Tech Review · Jul 17, 08:57
 
-**Background**: Weather forecasts play a crucial role in various industries, influencing decisions that can affect financial outcomes and safety. As technology advances, the methods of forecasting have evolved, making them more susceptible to manipulation.
+**Background**: Weather forecasts are critical for various industries, influencing decisions that can affect lives and livelihoods. The integrity of this data is essential, as inaccuracies can lead to severe consequences, particularly in sectors like agriculture and aviation where weather conditions are paramount.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/">The risk of weather data sabotage is rising | MIT Technology Review</a></li>
-<li><a href="https://asibiont.com/en/blog/risk-sabotazha-dannykh-o-pogode-rastet-chto-nuzhno-znat-biznesu-v-2026-godu">The Hidden Threat: Why the Risk of Weather Data Sabotage Is Rising...</a></li>
+<li><a href="https://climatesort.com/weather-forecasting/">Why Weather Forecasting is Crucial to These 5 Industries in 2026</a></li>
+<li><a href="https://www.brimco.io/industries-that-rely-on-accurate-weather-forecasting/">Industries That Rely on Accurate Weather Forecasting More ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Weather Data`, `#Cybersecurity`, `#Industry Impact`, `#Forecasting`, `#Risk Management`
+**Tags**: `#weather data`, `#sabotage`, `#forecasting`, `#industry impact`, `#data integrity`
 
 ---
 
 <a id="item-25"></a>
-## [Kimi K3 2.8T-A50B: Largest Open Model Released](https://www.latent.space/p/ainews-kimi-k3-28t-a50b-the-largest) ⭐️ 7.0/10
-
-The Kimi K3 2.8T-A50B has been announced as the largest open model ever released, weighing in at 2.8 terabytes and priced competitively at Sonnet 5 levels. This model is positioned to rival the Opus 4.8 and GPT-5.5 in terms of performance. This release is significant as it enhances accessibility to large AI models, potentially democratizing advanced AI technology. The impact will depend on community reception and the applications developed using this model. The Kimi K3 model is benchmarked to perform on par with leading models like Opus 4.8 and GPT-5.5, indicating its competitive capabilities. Additionally, Moonshot AI plans to release the model's weights, which could further enhance its usability in the community.
-
-rss · Latent Space · Jul 17, 01:46
-
-**Background**: Open models are AI models that are publicly accessible for use and modification, promoting collaboration and innovation in the AI community. The Kimi K3's release marks a significant milestone in the development of such models, particularly due to its size and performance metrics.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.latent.space/p/ainews-kimi-k3-28t-a50b-the-largest">[AINews] Kimi K3 2.8T-A50B: the largest open model ever ...</a></li>
-<li><a href="https://www.aimadetools.com/blog/kimi-k3-complete-guide/">Kimi K3 Complete Guide: Moonshot's 2.8T Open-Weight Frontier ...</a></li>
-<li><a href="https://www.dataqbs.com/blog/en/2026-07-17-ainews-kimi-k3-2-8t-a50b-the-largest-open-model-ever-released-opus-4-8-class-at/">[AINews] Kimi K3 2.8T-A50B: the largest open model ever ...</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Community sentiment appears cautiously optimistic, with many expressing excitement about the potential applications of the Kimi K3. However, some concerns were raised regarding the model's accessibility and the support for developers.
-
-**Tags**: `#open models`, `#AI`, `#machine learning`, `#model release`, `#Latent Space`
-
----
-
-<a id="item-26"></a>
 ## [Stereo2Spatial: Convert Stereo Music Tracks to Spatialized Binaural Mixes](https://www.reddit.com/r/MachineLearning/comments/1uzevbg/stereo2spatial_convert_stereo_music_tracks_to/) ⭐️ 7.0/10
 
-A new model called Stereo2Spatial has been developed to convert stereo music tracks into spatialized binaural mixes using a flow-matching diffusion model and a variational autoencoder (VAE). This model was created after approximately six months of development. This development is significant as it addresses the lack of quality spatial mixes in existing music, potentially enhancing the listening experience for users of spatial audio technology. It could impact music producers and audio engineers looking to create immersive soundscapes. The model utilizes a flow-matching diffusion approach in the latent space of a trained VAE, transitioning to raw waveform modeling to improve output quality. It was trained on 7,669 tracks over 20 days using two A6000 GPUs.
+The author has released a model called Stereo2Spatial that converts stereo music tracks into spatialized binaural mixes using a flow-matching diffusion model and a variational autoencoder (VAE). This model was developed over approximately six months and is now available for public use. This development is significant as it enhances the audio experience by providing a method to create high-quality spatial mixes from existing stereo tracks, which are often lacking in spatial quality. It could impact musicians, audio engineers, and listeners seeking immersive audio experiences. The model employs a flow-matching diffusion approach and a VAE to encode stereo inputs into a latent space, which was later pivoted to modeling raw waveforms for improved quality. The training process involved 7,669 tracks over 20 days using two A6000 GPUs.
 
 rss · Reddit MachineLearning · Jul 17, 22:55
 
-**Background**: Stereo2Spatial is part of the growing field of spatial audio, which aims to create immersive listening experiences by simulating sound from multiple directions. Variational autoencoders (VAEs) are generative models that can learn complex data distributions, while flow-matching diffusion models are used for generating high-quality audio outputs.
+**Background**: Spatialized binaural mixes are designed to create an immersive audio experience by simulating how sound is perceived in a three-dimensional space. Variational autoencoders (VAEs) are a type of generative model that learn to encode data into a lower-dimensional latent space, which can be useful for various applications in machine learning.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://diffusionflow.github.io/">Diffusion Meets Flow Matching</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Variational_autoencoder">Variational autoencoder - Wikipedia</a></li>
-<li><a href="https://www.learn.alexpromix.com/tutorials/binaural-mixing-explained">Binaural Mixing Explained: How Dolby Atmos Really Translates ...</a></li>
+<li><a href="https://diffusion.csail.mit.edu/2025/index.html">Flow Matching and Diffusion Models</a></li>
+<li><a href="https://binauro.com/spatial-audio-mixer">Spatial Audio Mixer - Place Sounds in 3D & Export Binaural ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community discussion around Stereo2Spatial has been generally positive, with users expressing excitement about the potential of the model for enhancing audio experiences. Some have raised questions about the technical challenges faced during development.
+**Discussion**: The community discussion around this release is limited, with few comments providing feedback or insights. However, the overall sentiment appears to be positive regarding the innovative approach taken by the author.
 
 **Tags**: `#Audio Processing`, `#Machine Learning`, `#Spatial Audio`, `#Diffusion Models`, `#VAE`
 
 ---
 
-<a id="item-27"></a>
-## [Wyoming Advances Nuclear Renaissance with New Reactor License](https://www.npr.org/2026/05/02/nx-s1-5798892/wyoming-celebrates-nuclear-renaissance-as-feds-approve-license-for-a-new-reactor) ⭐️ 7.0/10
+<a id="item-26"></a>
+## [EU AI Act OpenRAG: 933 Structured Chunks and BGE-M3 Embeddings](https://www.reddit.com/r/MachineLearning/comments/1uytlac/eu_ai_act_openrag_933_legally_structured_chunks/) ⭐️ 7.0/10
 
-Wyoming has begun construction on an advanced nuclear power plant, which is partly funded by the U.S. government and is touted as the first of its kind this century. The project is backed by Bill Gates and aims to utilize proven technology despite existing challenges in the nuclear sector. This development signifies a potential revival in the nuclear energy sector, which could reshape energy policies and contribute to climate change mitigation efforts. It highlights the increasing interest in advanced nuclear technologies as a solution to energy demands and carbon emissions. The reactor being constructed is a sodium-cooled fast reactor, which uses liquid sodium instead of water as a coolant. This innovative design is part of a broader trend towards smaller, more efficient nuclear reactors that promise enhanced safety and reduced waste.
+The author has released a downloadable corpus of the EU AI Act designed for RAG and legal-NLP experimentation, featuring 933 structured chunks and BGE-M3 embeddings in an SQLite database. This release provides a valuable resource for researchers working on legal-NLP, particularly in the context of the EU AI Act, which is crucial for understanding regulatory frameworks. The structured data can enhance the efficiency and effectiveness of legal data processing and analysis. The SQLite database contains 933 chunks, each with a normalized 1024-dimensional BGE-M3 embedding, and includes various metadata such as EUR-Lex links and application-date information. The evaluation against the AI Act Evaluation Benchmark shows promising results, although the structural corpus slightly underperformed in overall RAG classification.
 
-telegram · gptupdates · Jul 17, 16:23
+rss · Reddit MachineLearning · Jul 17, 08:18
 
-**Background**: The term 'nuclear renaissance' refers to a renewed interest in nuclear power, driven by concerns over fossil fuel prices and climate change. Advanced nuclear reactors, often labeled as Generation IV technologies, are designed to be safer and more efficient than their predecessors, addressing many of the safety and waste concerns that have historically plagued the industry.
+**Background**: The EU AI Act is a regulatory framework aimed at governing artificial intelligence technologies within the European Union. Retrieval-augmented generation (RAG) is a technique that enhances the capabilities of language models by allowing them to retrieve and incorporate information from external sources, making it particularly useful in legal contexts.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://nuclearinnovationalliance.org/advanced-nuclear-reactor-technology-primer">Advanced Nuclear Reactor Technology: A Primer | NIA</a></li>
-<li><a href="https://www.energy.gov/ne/advanced-reactor-technologies">Advanced Reactor Technologies - Department of Energy Advanced Reactors | Nuclear Regulatory Commission - NRC Top Stories 5 Advanced Reactor Designs to Watch in 2030 | Department of ... The next generation of nuclear reactors is getting more ... Advanced Reactor Highlights | Nuclear Regulatory Commission - NRC</a></li>
+<li><a href="https://huggingface.co/BAAI/bge-m3">BAAI/bge-m3 · Hugging Face</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation">Retrieval-augmented generation - Wikipedia</a></li>
+<li><a href="https://www.sqlite.org/">SQLite Home Page</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#nuclear energy`, `#advanced technology`, `#energy policy`, `#climate change`, `#innovation`
+**Discussion**: The community discussion has highlighted the significance of the structured corpus for legal NLP research, with some users expressing interest in potential applications. However, there are concerns about the niche audience and the overall impact of the release.
+
+**Tags**: `#Legal NLP`, `#EU AI Act`, `#Data Corpus`, `#Machine Learning`, `#RAG`
 
 ---
 
-<a id="item-28"></a>
+<a id="item-27"></a>
 ## [Hugging Face and alphaXiv Launch Reproducibility Challenge](https://huggingface.co/spaces/ICML-2026-agent-repro/challenge) ⭐️ 7.0/10
 
-Hugging Face and alphaXiv have launched a challenge that invites developers and researchers to reproduce key results from scientific papers. The challenge aims to enhance transparency and reproducibility in AI research, with a deadline set for August 2. This initiative is significant as it addresses the reproducibility crisis in AI research, where approximately 70% of studies are not reproducible. By encouraging community participation through GPU credits and prizes, it could foster greater trust and collaboration in the field. Participants can earn up to $4,000 in GPU credits and additional prizes from OpenResearch. The challenge emphasizes the importance of creating a public repository for verifying scientific work.
+Hugging Face and alphaXiv have launched a challenge that encourages developers and researchers to reproduce key results from scientific papers. The challenge offers incentives such as $4,000 in GPU credits and prizes, ending on August 2. This initiative addresses the reproducibility crisis in AI research, where approximately 70% of studies cannot be reproduced. By incentivizing participation, it aims to enhance transparency and community engagement in scientific validation. Participants can choose any scientific work of interest to reproduce its results using agents. The challenge is designed to create a public repository of verifications for scientific papers.
 
 telegram · gptupdates · Jul 17, 20:56
 
-**Background**: Reproducibility in AI research is a critical issue, as many studies fail to produce consistent results when repeated. This challenge aims to create a public database of verified scientific work to enhance the credibility of AI research outputs.
+**Background**: Reproducibility in AI research is a significant concern, as it affects the credibility and reliability of scientific findings. The challenge by Hugging Face and alphaXiv seeks to encourage more rigorous validation practices in the field. Platforms like alphaXiv facilitate discussions and community engagement around scientific preprints, enhancing the overall research ecosystem.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://medium.com/@meisshaily/how-reproducibility-drives-ai-trust-99d9e4d266f2">How Reproducibility Drives AI Trust | by Shailendra Kumar | Medium</a></li>
+<li><a href="https://grokipedia.com/page/alphaXiv">alphaXiv</a></li>
 
 </ul>
 </details>
