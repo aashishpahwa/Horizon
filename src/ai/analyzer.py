@@ -6,7 +6,7 @@ from typing import List, Optional
 from pydantic import ValidationError
 from rich.console import Console
 from rich.progress import Progress, SpinnerColumn, BarColumn, TextColumn, MofNCompleteColumn
-from tenacity import retry, stop_after_attempt, wait_exponential
+from tenacity import retry, retry_if_exception, stop_after_attempt, wait_exponential
 
 logger = logging.getLogger(__name__)
 
@@ -19,6 +19,14 @@ from ..processing.content import select_content, split_content
 from ..processing.profiles import ProfileRegistry
 
 DEFAULT_THROTTLE_SEC = 0.0
+
+# Errors that fail identically for every item (bad key, no permission), so
+# retrying or moving on to the next item only hides the problem.
+FATAL_ERROR_NAMES = {"AuthenticationError", "PermissionDeniedError"}
+
+
+def _is_fatal(exc: BaseException) -> bool:
+    return type(exc).__name__ in FATAL_ERROR_NAMES
 
 class ContentAnalyzer:
     """Analyzes content items using AI to determine importance."""
@@ -58,12 +66,20 @@ class ContentAnalyzer:
         throttle_sec = self._get_throttle_sec()
         concurrency = self._get_concurrency()
         semaphore = asyncio.Semaphore(concurrency)
+        failures = 0
 
         async def _process(item: ContentItem, index: int, progress_task) -> ContentItem:
             async with semaphore:
                 try:
                     await self._analyze_item(item)
                 except Exception as e:
+                    if _is_fatal(e):
+                        raise RuntimeError(
+                            f"AI provider rejected the request ({type(e).__name__}): {e}. "
+                            "Check that the API key secret is set and still valid."
+                        ) from e
+                    nonlocal failures
+                    failures += 1
                     logger.error("Error analyzing item %s: %s", item.id, e)
                     if item.processing:
                         item.processing.analysis = ContentAnalysis(
@@ -90,11 +106,18 @@ class ContentAnalyzer:
             ]
             analyzed_items = await asyncio.gather(*coros)
 
+        if items and failures == len(items):
+            raise RuntimeError(
+                f"AI analysis failed for all {len(items)} items; refusing to publish an empty summary."
+            )
+
         return analyzed_items
 
     @retry(
         stop=stop_after_attempt(3),
-        wait=wait_exponential(min=2, max=10)
+        wait=wait_exponential(min=2, max=10),
+        retry=retry_if_exception(lambda e: not _is_fatal(e)),
+        reraise=True,
     )
     async def _analyze_item(self, item: ContentItem) -> None:
         """Analyze a single content item.
