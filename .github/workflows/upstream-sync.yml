@@ -1,0 +1,136 @@
+# Weekly check for new commits in Thysrael/Horizon. Opens (or refreshes) a PR
+# instead of merging, so upstream config/schema changes can't silently break
+# the daily run.
+name: Upstream Sync Check
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'  # Mondays 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+env:
+  UPSTREAM: https://github.com/Thysrael/Horizon.git
+  BRANCH: upstream-sync
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Fetch upstream
+        id: fetch
+        run: |
+          git remote add upstream "$UPSTREAM"
+          git fetch --quiet upstream main
+          NEW=$(git rev-list --count HEAD..upstream/main)
+          echo "new=$NEW" >> $GITHUB_OUTPUT
+          echo "Upstream has $NEW new commit(s)"
+          {
+            echo 'log<<EOF'
+            git log --oneline --no-merges HEAD..upstream/main | head -50
+            echo EOF
+          } >> $GITHUB_OUTPUT
+
+      - name: Merge upstream into sync branch
+        id: merge
+        if: steps.fetch.outputs.new != '0'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -B "$BRANCH"
+          if git merge --no-edit upstream/main; then
+            echo "conflict=false" >> $GITHUB_OUTPUT
+          else
+            echo "Conflicted files:"; git diff --name-only --diff-filter=U
+            {
+              echo 'files<<EOF'
+              git diff --name-only --diff-filter=U
+              echo EOF
+            } >> $GITHUB_OUTPUT
+            git merge --abort
+            # Fall back to upstream as-is; the PR will show the conflicts.
+            git checkout -B "$BRANCH" upstream/main
+            echo "conflict=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Install uv
+        if: steps.fetch.outputs.new != '0' && steps.merge.outputs.conflict == 'false'
+        uses: astral-sh/setup-uv@v6
+        with:
+          version: "0.11.26"
+
+      - name: Run tests and validate config
+        id: tests
+        if: steps.fetch.outputs.new != '0' && steps.merge.outputs.conflict == 'false'
+        continue-on-error: true
+        run: |
+          uv sync
+          cp data/config.github.json data/config.json
+          uv run python -c "from src.storage.manager import StorageManager; StorageManager('data').load_config(); print('config OK')"
+          uv run --with pytest --with pytest-asyncio pytest -q -p no:warnings
+
+      - name: Push branch and open PR
+        if: steps.fetch.outputs.new != '0'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NEW: ${{ steps.fetch.outputs.new }}
+          LOG: ${{ steps.fetch.outputs.log }}
+          CONFLICT: ${{ steps.merge.outputs.conflict }}
+          CONFLICT_FILES: ${{ steps.merge.outputs.files }}
+          TESTS: ${{ steps.tests.outcome }}
+        run: |
+          if [ "$CONFLICT" = "true" ]; then
+            STATUS="⚠️ **Merge conflicts** with your changes in:
+          \`\`\`
+          $CONFLICT_FILES
+          \`\`\`
+          Resolve these before merging (or ask Claude to)."
+          elif [ "$TESTS" = "success" ]; then
+            STATUS="✅ Merges cleanly, config loads, and tests pass. Safe to merge."
+          else
+            STATUS="❌ Merges cleanly but **tests or config validation failed** — see the [workflow run]($GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID). Don't merge yet."
+          fi
+          BODY="Upstream [Thysrael/Horizon](https://github.com/Thysrael/Horizon) has **$NEW** new commit(s).
+
+          $STATUS
+
+          <details><summary>New upstream commits</summary>
+
+          \`\`\`
+          $LOG
+          \`\`\`
+          </details>"
+
+          if ! git push --force origin "$BRANCH"; then
+            # GITHUB_TOKEN cannot push commits that change .github/workflows.
+            TITLE="Upstream Horizon has $NEW new commit(s) (manual sync needed)"
+            NOTE="The sync branch couldn't be pushed automatically (upstream likely changed a workflow file). Sync manually or ask Claude to."
+            NUM=$(gh issue list --state open --label upstream-sync --json number -q '.[0].number')
+            gh label create upstream-sync --color 0E8A16 2>/dev/null || true
+            if [ -n "$NUM" ]; then
+              gh issue edit "$NUM" --title "$TITLE" --body "$NOTE
+
+          $BODY"
+            else
+              gh issue create --label upstream-sync --title "$TITLE" --body "$NOTE
+
+          $BODY"
+            fi
+            exit 0
+          fi
+
+          TITLE="Sync with upstream Horizon ($NEW new commits)"
+          if gh pr view "$BRANCH" --json state -q .state 2>/dev/null | grep -q OPEN; then
+            gh pr edit "$BRANCH" --title "$TITLE" --body "$BODY"
+          else
+            gh pr create --base main --head "$BRANCH" --title "$TITLE" --body "$BODY"
+          fi
