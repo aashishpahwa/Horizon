@@ -1,0 +1,297 @@
+{
+  "ai": {
+    "provider": "openai",
+    "model": "gpt-4o-mini",
+    "api_key_env": "OPENAI_API_KEY",
+    "temperature": 0.3,
+    "max_tokens": 8192,
+    "languages": [
+      "en"
+    ],
+    "throttle_sec": 0,
+    "analysis_concurrency": 5,
+    "enrichment_concurrency": 5
+  },
+  "sources": {
+    "github": [
+      {
+        "type": "user_events",
+        "username": "karpathy",
+        "enabled": true,
+        "profile": "tech-news"
+      },
+      {
+        "type": "repo_releases",
+        "owner": "ollama",
+        "repo": "ollama",
+        "enabled": true,
+        "profile": "tech-news"
+      },
+      {
+        "type": "repo_releases",
+        "owner": "ggerganov",
+        "repo": "llama.cpp",
+        "enabled": true,
+        "profile": "tech-news"
+      },
+      {
+        "type": "repo_releases",
+        "owner": "huggingface",
+        "repo": "transformers",
+        "enabled": true,
+        "profile": "tech-news"
+      },
+      {
+        "type": "repo_releases",
+        "owner": "langchain-ai",
+        "repo": "langchain",
+        "enabled": true,
+        "profile": "tech-news"
+      },
+      {
+        "type": "repo_releases",
+        "owner": "vllm-project",
+        "repo": "vllm",
+        "enabled": true,
+        "profile": "tech-news"
+      }
+    ],
+    "hackernews": {
+      "enabled": true,
+      "fetch_top_stories": 50,
+      "min_score": 50,
+      "profile": "tech-news"
+    },
+    "rss": [
+      {
+        "name": "Simon Willison",
+        "url": "https://simonwillison.net/atom/everything/",
+        "enabled": true,
+        "profile": "tech-news"
+      },
+      {
+        "name": "The Decoder",
+        "url": "https://the-decoder.com/feed/",
+        "enabled": true,
+        "profile": "tech-news"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "enabled": true,
+        "profile": "tech-news"
+      },
+      {
+        "name": "Google AI Blog",
+        "url": "http://googleaiblog.blogspot.com/atom.xml",
+        "enabled": true,
+        "profile": "tech-news"
+      },
+      {
+        "name": "DeepMind Blog",
+        "url": "https://deepmind.com/blog/feed/basic/",
+        "enabled": true,
+        "profile": "tech-news"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/news/rss.xml",
+        "enabled": true,
+        "profile": "tech-news"
+      },
+      {
+        "name": "MIT Tech Review",
+        "url": "https://www.technologyreview.com/feed/",
+        "enabled": true,
+        "profile": "tech-news"
+      },
+      {
+        "name": "VentureBeat AI",
+        "url": "https://venturebeat.com/category/ai/feed/",
+        "enabled": true,
+        "profile": "tech-news"
+      },
+      {
+        "name": "Interconnects",
+        "url": "https://www.interconnects.ai/feed",
+        "enabled": true,
+        "profile": "tech-news"
+      },
+      {
+        "name": "Latent Space",
+        "url": "https://www.latent.space/feed",
+        "enabled": true,
+        "profile": "tech-news"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://rss.beehiiv.com/feeds/2R3C6Bt5wj.xml",
+        "enabled": true,
+        "profile": "tech-news"
+      },
+      {
+        "name": "Ahead of AI",
+        "url": "https://magazine.sebastianraschka.com/feed",
+        "enabled": true,
+        "profile": "tech-news"
+      },
+      {
+        "name": "LangChain Blog",
+        "url": "https://blog.langchain.dev/rss/",
+        "enabled": true,
+        "profile": "tech-news"
+      },
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/feed",
+        "enabled": true,
+        "profile": "tech-news"
+      },
+      {
+        "name": "SemiAnalysis",
+        "url": "https://www.semianalysis.com/feed",
+        "enabled": true,
+        "profile": "tech-news"
+      },
+      {
+        "name": "IEEE Spectrum AI",
+        "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+        "enabled": true,
+        "profile": "tech-news"
+      },
+      {
+        "name": "The Gradient",
+        "url": "https://thegradient.pub/rss/",
+        "enabled": true,
+        "profile": "tech-news"
+      },
+      {
+        "name": "GitHub Trending",
+        "url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+        "enabled": true,
+        "profile": "tech-news"
+      },
+      {
+        "name": "Reddit MachineLearning",
+        "url": "https://www.reddit.com/r/MachineLearning/hot/.rss?limit=25",
+        "enabled": true,
+        "profile": "tech-news"
+      },
+      {
+        "name": "Reddit LocalLLaMA",
+        "url": "https://www.reddit.com/r/LocalLLaMA/hot/.rss?limit=25",
+        "enabled": true,
+        "profile": "tech-news"
+      },
+      {
+        "name": "Reddit Artificial",
+        "url": "https://www.reddit.com/r/artificial/hot/.rss?limit=25",
+        "enabled": true,
+        "profile": "tech-news"
+      },
+      {
+        "name": "Reddit ChatGPT",
+        "url": "https://www.reddit.com/r/ChatGPT/hot/.rss?limit=25",
+        "enabled": true,
+        "profile": "tech-news"
+      },
+      {
+        "name": "Reddit OpenAI",
+        "url": "https://www.reddit.com/r/OpenAI/hot/.rss?limit=25",
+        "enabled": true,
+        "profile": "tech-news"
+      },
+      {
+        "name": "Reddit Singularity",
+        "url": "https://www.reddit.com/r/singularity/hot/.rss?limit=25",
+        "enabled": true,
+        "profile": "tech-news"
+      },
+      {
+        "name": "Takara AI Papers",
+        "url": "https://papers.takara.ai/api/feed",
+        "enabled": true,
+        "profile": "tech-news"
+      },
+      {
+        "name": "Reddit MLNews",
+        "url": "https://www.reddit.com/r/machinelearningnews/hot/.rss?limit=25",
+        "enabled": true,
+        "profile": "tech-news"
+      }
+    ],
+    "reddit": {
+      "enabled": false
+    },
+    "telegram": {
+      "enabled": true,
+      "channels": [
+        {
+          "channel": "gptupdates",
+          "enabled": true,
+          "fetch_limit": 20,
+          "profile": "tech-news"
+        },
+        {
+          "channel": "zaihuapd",
+          "enabled": false,
+          "fetch_limit": 20,
+          "profile": "tech-news"
+        }
+      ]
+    },
+    "twitter": {
+      "enabled": false
+    }
+  },
+  "webhook": {
+    "enabled": true,
+    "url_env": "HORIZON_WEBHOOK_URL",
+    "delivery": "summary_and_items",
+    "overview_position": "last",
+    "platform": "feishu",
+    "layout": "collapsible",
+    "fallback_layout": "markdown",
+    "languages": [
+      "zh"
+    ],
+    "request_body": {
+      "msg_type": "interactive",
+      "card": {
+        "schema": "2.0",
+        "config": {
+          "wide_screen_mode": true
+        },
+        "header": {
+          "title": {
+            "tag": "plain_text",
+            "content": "#{message_title}"
+          },
+          "template": "blue"
+        },
+        "body": {
+          "elements": [
+            {
+              "tag": "markdown",
+              "content": "#{summary}"
+            }
+          ]
+        }
+      }
+    },
+    "headers": ""
+  },
+  "collection": {
+    "time_window_hours": 24
+  },
+  "processing": {
+    "profiles_dir": "profiles",
+    "default_profile": "tech-news",
+    "profile_settings": {
+      "tech-news": {
+        "threshold": 7.0,
+        "topic_dedup": true
+      }
+    }
+  }
+}

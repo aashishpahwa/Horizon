@@ -15,7 +15,7 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -25,12 +25,15 @@ jobs:
           python-version: '3.11'
 
       - name: Install uv
-        run: pip install uv
+        uses: astral-sh/setup-uv@v6
+        with:
+          version: "0.11.26"
 
       - name: Install dependencies
-        run: |
-          uv sync
-          uv pip install python-dateutil
+        run: uv sync
+
+      - name: Prepare GitHub Actions config
+        run: cp data/config.github.json data/config.json
 
       - name: Run Horizon
         env:
@@ -41,7 +44,8 @@ jobs:
       - name: Find latest summary file
         id: find_summary
         run: |
-          LATEST=$(ls -t data/summaries/*-en.md 2>/dev/null | head -1)
+          LATEST="data/summaries/horizon-$(date -u +%Y-%m-%d)-en.md"
+          [ -f "$LATEST" ] || LATEST=
           echo "summary_file=$LATEST" >> $GITHUB_OUTPUT
           echo "Found: $LATEST"
 
