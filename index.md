@@ -3,21 +3,28 @@ layout: default
 title: Home
 ---
 
-<span class="koso-brand">Koso.ai AI News Daily</span>
+<section id="archive" class="k-archive">
+  <div class="k-section-head">
+    <p class="k-eyebrow"><span class="k-eyebrow-n">02</span><span class="k-eyebrow-rule"></span>Archive</p>
+    <h2 class="h-section">Every briefing<br><span class="k-italic">so far.</span></h2>
+  </div>
 
-**Koso.ai AI News Daily** — an AI-driven daily digest of the most important tech and research news.
-
-## Daily Digest <a class="rss-icon" href="{{ '/feed-en.xml' | relative_url }}" aria-label="Subscribe RSS"><svg viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M128.081 415.959c0 35.369-28.672 64.041-64.041 64.041S0 451.328 0 415.959s28.672-64.041 64.041-64.041 64.04 28.673 64.04 64.041zm175.66 47.25c-8.354-154.6-132.185-278.587-286.95-286.95C7.656 175.765 0 183.105 0 192.253v48.069c0 8.415 6.49 15.472 14.887 16.018 111.832 7.284 201.473 96.702 208.772 208.772.547 8.397 7.604 14.887 16.018 14.887h48.069c9.149.001 16.489-7.655 15.995-16.79zm144.249.288C439.596 229.677 251.465 40.445 16.503 32.01 7.473 31.686 0 38.981 0 48.016v48.068c0 8.625 6.835 15.645 15.453 15.999 191.179 7.839 344.627 161.316 352.465 352.465.353 8.618 7.373 15.453 15.999 15.453h48.068c9.034-.001 16.329-7.474 16.005-16.504z"/></svg></a>
-
-{% assign en_posts = site.posts | where: "lang", "en" %}
-{% assign en_by_month = en_posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
-{% for month in en_by_month %}
-### {{ month.name }}
-<ul>
-  {% for post in month.items %}
-    <li><a href="{{ post.url | relative_url }}">{{ post.date | date: "%Y-%m-%d" }}</a></li>
+  {% assign en_posts = site.posts | where: "lang", "en" %}
+  {% assign en_by_month = en_posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
+  {% for month in en_by_month %}
+  <div class="k-month">
+    <h3 class="k-month-name"><span class="k-month-n">/{{ forloop.index | prepend: "0" | slice: -2, 2 }}</span>{{ month.name }}</h3>
+    <ul class="k-days">
+      {% for post in month.items %}
+      <li><a href="{{ post.url | relative_url }}">
+        <span class="k-day-num">{{ post.date | date: "%d" }}</span>
+        <span class="k-day-name">{{ post.date | date: "%A" }}</span>
+        <span class="k-day-arrow" aria-hidden="true">→</span>
+      </a></li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% else %}
+  <p class="k-muted">No briefings yet.</p>
   {% endfor %}
-</ul>
-{% else %}
-<em>No posts yet</em>
-{% endfor %}
+</section>
