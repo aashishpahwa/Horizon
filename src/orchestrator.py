@@ -224,11 +224,14 @@ class HorizonOrchestrator:
         )
         self.last_fetch_report: Optional[FetchReport] = None
 
-    async def run(self, force_hours: int = None) -> None:
+    async def run(self, force_hours: int = None, until: Optional[datetime] = None) -> None:
         """Execute the complete workflow.
 
         Args:
             force_hours: Optional override for time window in hours
+            until: Optional end of the time window, for backfilling a past
+                date. Only items published before it are kept, the digest is
+                dated by it, and email/webhook notifications are skipped.
         """
         self.console.print(
             f"[bold cyan]{self.icons['start']} Horizon - Starting aggregation...[/bold cyan]\n"
@@ -246,7 +249,7 @@ class HorizonOrchestrator:
 
         try:
             # 1. Determine time window
-            since = self._determine_time_window(force_hours)
+            since = self._determine_time_window(force_hours, until)
             self.console.print(
                 f"{self.icons['date']} Fetching content since: "
                 f"{since.strftime('%Y-%m-%d %H:%M:%S')}\n"
@@ -254,6 +257,16 @@ class HorizonOrchestrator:
 
             # 2. Fetch content from all sources
             all_items = await self.fetch_all_sources(since)
+            if until:
+                all_items = [
+                    item for item in all_items
+                    if not item.published_at
+                    or (
+                        item.published_at
+                        if item.published_at.tzinfo
+                        else item.published_at.replace(tzinfo=timezone.utc)
+                    ) < until
+                ]
             self.console.print(
                 f"{self.icons['fetched']} Fetched {len(all_items)} items from all sources\n"
             )
@@ -299,7 +312,7 @@ class HorizonOrchestrator:
             await self.enrich_items(important_items)
 
             # 7. Generate and save daily summaries for each configured language
-            today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+            today = (until or datetime.now(timezone.utc)).strftime("%Y-%m-%d")
             for lang in self.config.ai.languages:
                 summarizer = DailySummarizer(
                     profile_names=self.profiles.names,
@@ -353,6 +366,10 @@ class HorizonOrchestrator:
                         f"[yellow]{self.icons['warning']} Failed to copy "
                         f"{lang.upper()} summary to docs/: {e}[/yellow]\n"
                     )
+
+                # Backfilled digests are only saved, never pushed to subscribers
+                if until:
+                    continue
 
                 # Send email if configured
                 if self.email_manager and self.config.email and self.config.email.enabled:
@@ -414,13 +431,11 @@ class HorizonOrchestrator:
 
             raise
 
-    def _determine_time_window(self, force_hours: int = None) -> datetime:
-        if force_hours:
-            since = datetime.now(timezone.utc) - timedelta(hours=force_hours)
-        else:
-            hours = self.config.collection.time_window_hours
-            since = datetime.now(timezone.utc) - timedelta(hours=hours)
-        return since
+    def _determine_time_window(
+        self, force_hours: int = None, until: Optional[datetime] = None
+    ) -> datetime:
+        hours = force_hours or self.config.collection.time_window_hours
+        return (until or datetime.now(timezone.utc)) - timedelta(hours=hours)
 
     async def fetch_all_sources(self, since: datetime) -> List[ContentItem]:
         """Fetch content from all configured sources.

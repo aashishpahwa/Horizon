@@ -4,6 +4,7 @@ import argparse
 import asyncio
 import shlex
 import sys
+from datetime import datetime, timezone
 from pathlib import Path
 
 from dotenv import load_dotenv
@@ -35,6 +36,14 @@ def print_banner():
     console.print(banner)
 
 
+def _backfill_until(value: str) -> datetime:
+    try:
+        day = datetime.strptime(value, "%Y-%m-%d")
+    except ValueError:
+        raise argparse.ArgumentTypeError(f"invalid date '{value}', expected YYYY-MM-DD")
+    return day.replace(hour=12, tzinfo=timezone.utc)
+
+
 def main():
     """Main CLI entry point."""
     configure_logging(console)
@@ -43,6 +52,14 @@ def main():
 
     parser = argparse.ArgumentParser(description="Horizon - AI-Driven Information Aggregation System")
     parser.add_argument("--hours", type=int, help="Force fetch from last N hours")
+    parser.add_argument(
+        "--date",
+        type=_backfill_until,
+        dest="until",
+        metavar="YYYY-MM-DD",
+        help="Backfill a past day: use the window ending at 12:00 UTC that day, "
+        "date the digest by it, and skip notifications",
+    )
     add_data_dir_arguments(parser)
     add_log_level_argument(parser)
     args = parser.parse_args()
@@ -102,7 +119,7 @@ def main():
 
         # Create and run orchestrator
         orchestrator = HorizonOrchestrator(config, storage, console=console)
-        asyncio.run(orchestrator.run(force_hours=args.hours))
+        asyncio.run(orchestrator.run(force_hours=args.hours, until=args.until))
 
     except KeyboardInterrupt:
         console.print(f"\n[yellow]{icons['warning']} Interrupted by user[/yellow]")
