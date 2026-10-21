@@ -1,29 +1,11 @@
-# Security Policy
+# Security
 
-## Reporting a Vulnerability
+Found a vulnerability in AI News Daily? Please do not open a public issue or pull request.
 
-If you discover a security vulnerability in Horizon, please do **not** open a public issue.
-Instead, please report it privately by email:
-**thysrael@gmail.com**
+Report it privately through [koso.ai](https://koso.ai) with:
 
-Please include:
-- A clear description of the issue
-- Steps to reproduce the problem
-- The affected version, commit, or environment
-- Any proof-of-concept, screenshots, or logs that may help
+- what the issue is and where it lives
+- steps to reproduce it
+- the commit or date you saw it on
 
-## Response Process
-
-I will try to:
-
-- Acknowledge receipt within **7 days**
-- Investigate and validate the report
-- Work on a fix and coordinate responsible disclosure when appropriate
-
-## Supported Versions
-
-Security updates are provided for the latest maintained version of Horizon.
-
-## Disclosure Policy
-
-Please avoid public disclosure until I have had a reasonable opportunity to investigate and release a fix.
+Koso will confirm receipt, fix it on `main` and credit you if you want to be named.
