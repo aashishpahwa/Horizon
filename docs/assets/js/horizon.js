@@ -27,6 +27,14 @@
     paragraphs.forEach(function (p) {
       var text = p.textContent.trim();
 
+      // A bold-only paragraph right before a list is a contents heading
+      var next = p.nextElementSibling;
+      if (p.children.length === 1 && p.firstElementChild.tagName === 'STRONG' &&
+          p.firstElementChild.textContent.trim() === text && next && next.tagName === 'OL') {
+        p.classList.add('toc-title');
+        return;
+      }
+
       if (/^Tags\s*:/.test(text)) {
         p.classList.add('tag-line');
         return;

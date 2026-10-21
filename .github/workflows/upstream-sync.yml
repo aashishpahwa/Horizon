@@ -11,7 +11,6 @@ on:
 permissions:
   contents: write
   pull-requests: write
-  issues: write
 
 env:
   UPSTREAM: https://github.com/Thysrael/Horizon.git
@@ -114,18 +113,9 @@ jobs:
             # GITHUB_TOKEN cannot push commits that change .github/workflows.
             TITLE="Upstream Horizon has $NEW new commit(s) (manual sync needed)"
             NOTE="The sync branch couldn't be pushed automatically (upstream likely changed a workflow file). Sync manually or ask Claude to."
-            NUM=$(gh issue list --state open --label upstream-sync --json number -q '.[0].number')
-            gh label create upstream-sync --color 0E8A16 2>/dev/null || true
-            if [ -n "$NUM" ]; then
-              gh issue edit "$NUM" --title "$TITLE" --body "$NOTE
-
-          $BODY"
-            else
-              gh issue create --label upstream-sync --title "$TITLE" --body "$NOTE
-
-          $BODY"
-            fi
-            exit 0
+            echo "::error title=$TITLE::$NOTE"
+            echo "$BODY" >> "$GITHUB_STEP_SUMMARY"
+            exit 1
           fi
 
           TITLE="Sync with upstream Horizon ($NEW new commits)"

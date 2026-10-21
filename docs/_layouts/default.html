@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% if page.layout == "default" and page.date and page.url != "/" %}
+    {% capture page_heading %}AI Briefing, {{ page.date | date: "%-d %B %Y" }}{% endcapture %}
+  {% else %}
+    {% assign page_heading = site.title %}
+  {% endif %}
+  <title>{% if page.url == "/" %}{{ site.title }} by Koso{% else %}{{ page_heading }} | Koso AI News Daily{% endif %}</title>
+  <meta name="description" content="{{ site.description }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <meta property="og:title" content="{{ page_heading }}">
+  <meta property="og:description" content="{{ site.description }}">
+  <meta property="og:site_name" content="Koso AI News Daily">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta name="theme-color" content="#070707">
+  <link rel="icon" type="image/svg+xml" href="{{ '/assets/koso-logo.svg' | relative_url }}">
+  <link rel="alternate" type="application/atom+xml" title="Koso AI News Daily" href="{{ '/feed-en.xml' | relative_url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:ital,wght@0,400;0,500;0,600;0,700;1,300&display=swap">
+  <link rel="stylesheet" href="{{ '/assets/css/horizon.css' | relative_url }}">
+  <script src="{{ '/assets/js/horizon.js' | relative_url }}" defer></script>
+</head>
+<body>
+  <header class="k-nav">
+    <div class="k-container k-nav-inner">
+      <a class="k-logo" href="https://koso.ai" aria-label="Koso">
+        <img src="{{ '/assets/koso-logo.svg' | relative_url }}" alt="Koso" width="104" height="29">
+      </a>
+      <nav class="k-nav-links" aria-label="Site">
+        <a href="{{ '/' | relative_url }}">Archive</a>
+        <a href="{{ '/feed-en.xml' | relative_url }}">RSS</a>
+        <a class="k-btn" href="https://koso.ai">Koso.ai <span aria-hidden="true">↗</span></a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="k-hero">
+    <div class="grid-bg k-hero-grid" aria-hidden="true"></div>
+    <div class="k-container k-hero-inner">
+      {% if page.url == "/" %}
+        <p class="k-eyebrow"><span class="k-eyebrow-n">01</span><span class="k-eyebrow-rule"></span>Daily briefing</p>
+        <h1 class="h-hero">AI News<br>Daily</h1>
+        <div class="k-hero-side">
+          <p class="p-lead k-muted">Every morning, an AI pipeline built by Koso reads around a hundred sources, scores each story and keeps only the ones worth your time.</p>
+          <div class="k-hero-ctas">
+            <a class="k-btn k-btn-primary" href="#archive">Read the latest <span aria-hidden="true">→</span></a>
+            <a class="k-btn" href="https://koso.ai">Built by Koso <span aria-hidden="true">↗</span></a>
+          </div>
+        </div>
+      {% else %}
+        <p class="k-eyebrow"><span class="k-eyebrow-n">/{{ page.date | date: "%d" }}</span><span class="k-eyebrow-rule"></span>{{ page.date | date: "%A" }}</p>
+        <h1 class="h-section">AI Briefing<br><span class="k-italic">{{ page.date | date: "%-d %b %Y" }}</span></h1>
+      {% endif %}
+    </div>
+  </section>
+
+  <main id="content" class="main-content k-container">
+    {{ content }}
+  </main>
+
+  <footer class="k-footer">
+    <div class="k-container k-footer-inner">
+      <div class="k-footer-brand">
+        <a href="https://koso.ai" aria-label="Koso">
+          <img class="k-footer-logo" src="{{ '/assets/koso-logo.svg' | relative_url }}" alt="Koso" width="140" height="39">
+        </a>
+        <p class="k-footer-tag">Not chatbots. Software that ships work.</p>
+      </div>
+      <div class="k-footer-cols">
+        <div>
+          <p class="k-label">Studio</p>
+          <a href="https://koso.ai">Koso.ai: custom AI development</a>
+        </div>
+        <div>
+          <p class="k-label">Founder</p>
+          <a href="https://aashishpahwa.com">Aashish Pahwa</a>
+        </div>
+        <div>
+          <p class="k-label">Subscribe</p>
+          <a href="{{ '/feed-en.xml' | relative_url }}">RSS feed</a>
+        </div>
+      </div>
+    </div>
+    <div class="k-container k-footer-base">
+      <span>© {{ site.time | date: "%Y" }} Koso. AI-curated. Every story links to its source.</span>
+      <span>Built by <a href="https://koso.ai">Koso</a> for <a href="https://aashishpahwa.com">Aashish Pahwa</a></span>
+    </div>
+  </footer>
+</body>
+</html>
