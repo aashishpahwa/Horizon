@@ -5,108 +5,103 @@ date: 2026-10-23
 lang: en
 ---
 
-> From 96 items, 29 important content pieces were selected
+> From 81 items, 28 important content pieces were selected
 
 ---
 
 **Technology News**
-1. [New Method Triangulates 3.7M Map Polygons in 489 ms](#item-tech-news-1) ⭐️ 8.0/10
-2. [WorldTUI: AI Model Simulates Terminal Interactions](#item-tech-news-2) ⭐️ 8.0/10
-3. [Google&\#x27;s Agent Compute Engine Introduces Isolated Micro Virtual Machines for AI Agents](#item-tech-news-3) ⭐️ 8.0/10
+1. [OpenShell – A Safe Runtime for Autonomous AI Agent Fleets](#item-tech-news-1) ⭐️ 8.0/10
+2. [Faster Triangulation of 3.7M Map Polygons Achieved](#item-tech-news-2) ⭐️ 8.0/10
+3. [LLMs Enhance Formal Software Verification at Scale](#item-tech-news-3) ⭐️ 8.0/10
 4. [Recursive Unveils Flint, a 40-Billion-Parameter AI Language Model](#item-tech-news-4) ⭐️ 8.0/10
 5. [AI Agent Exploits Unprotected Language Models for Cyberattacks](#item-tech-news-5) ⭐️ 8.0/10
 6. [OpenAI Agents Analyze Mouse Brain Data in 32 Minutes](#item-tech-news-6) ⭐️ 8.0/10
 7. [Running Frontier-Class AI Models Across 8 NVIDIA DGX Spark Nodes](#item-tech-news-7) ⭐️ 8.0/10
-8. [Open-XTTS-Trainer Launches for Easy XTTS v2 Component Training](#item-tech-news-8) ⭐️ 8.0/10
-9. [Release of ggerganov/llama.cpp b11821 Enhances Intel XMX Performance](#item-tech-news-9) ⭐️ 7.0/10
-10. [OpenShell – A secure runtime for autonomous AI agents](#item-tech-news-10) ⭐️ 7.0/10
-11. [eMudhra&\#x27;s OTP Login System Vulnerability Exposes Users to Brute-Force Attacks](#item-tech-news-11) ⭐️ 7.0/10
-12. [The Last Museum Launches Semantic Search for 5.8 Million Artworks](#item-tech-news-12) ⭐️ 7.0/10
-13. [New Jailbreak for Switch 2 Sparks Gaming Community Discussions](#item-tech-news-13) ⭐️ 7.0/10
-14. [Anthropic Donates Agent Skills to Agentic AI Foundation](#item-tech-news-14) ⭐️ 7.0/10
+8. [Open-XTTS-Trainer Simplifies XTTS v2 Training with 1-Click Setup](#item-tech-news-8) ⭐️ 8.0/10
+9. [Research Paper on Data-Void Exploits in Web-Searching LLMs](#item-tech-news-9) ⭐️ 8.0/10
+10. [Release of ggerganov/llama.cpp b11821 with Intel XMX Optimizations](#item-tech-news-10) ⭐️ 7.0/10
+11. [Jank: New Clojure Dialect with C++ Interoperability](#item-tech-news-11) ⭐️ 7.0/10
+12. [eMudhra Exits Global SSL/TLS Certificate Market](#item-tech-news-12) ⭐️ 7.0/10
+13. [AI CO2 Emissions: Texas vs. Sweden](#item-tech-news-13) ⭐️ 7.0/10
+14. [Anthropic Donates Agent Skills Standard to Agentic AI Foundation](#item-tech-news-14) ⭐️ 7.0/10
 15. [US Banks Restrict AI Agents from Accessing Customer Accounts](#item-tech-news-15) ⭐️ 7.0/10
-16. [Anthropic launches Claude Duet, a proactive AI agent](#item-tech-news-16) ⭐️ 7.0/10
+16. [Google&\#x27;s Agent Compute Engine Provides Isolated Environments for AI Agents](#item-tech-news-16) ⭐️ 7.0/10
 17. [Turning Database Grading into RL Rewards with ThinkingBox](#item-tech-news-17) ⭐️ 7.0/10
 18. [OlmoEarth v1.3: Advanced Global Embeddings Released](#item-tech-news-18) ⭐️ 7.0/10
-19. [Ensemble Forecasting with IBM Granite Time-Series Models](#item-tech-news-19) ⭐️ 7.0/10
+19. [OpenAI Partners with NASK to Enhance AI Safety and Security](#item-tech-news-19) ⭐️ 7.0/10
 20. [Shifting Focus in Enterprise AI: Infrastructure Over Models](#item-tech-news-20) ⭐️ 7.0/10
 21. [Foundations for Building Scalable AI Systems](#item-tech-news-21) ⭐️ 7.0/10
-22. [The Importance of Context-Aware AI for Enterprises](#item-tech-news-22) ⭐️ 7.0/10
-23. [AI&\#x27;s Hidden Storage Costs: Implications of Inference Data](#item-tech-news-23) ⭐️ 7.0/10
-24. [Exploring the Economics of AI Compute with Elastic GPUs](#item-tech-news-24) ⭐️ 7.0/10
-25. [Using NVIDIA GPUDirect Storage for Efficient Data Transfer in Python](#item-tech-news-25) ⭐️ 7.0/10
-26. [Carbon-X: Open 14.8B Model for DNA and Text Processing](#item-tech-news-26) ⭐️ 7.0/10
-27. [New Steerable TTS Model Reduced to 11.84 MB with Stable Performance](#item-tech-news-27) ⭐️ 7.0/10
-28. [Frontier Models Struggle with ASMR Audio Classification](#item-tech-news-28) ⭐️ 7.0/10
-29. [UltraViT: A Fast Mobile Vision Encoder Achieving 150 FPS](#item-tech-news-29) ⭐️ 7.0/10
+22. [The Importance of Context-Aware AI in Enterprises](#item-tech-news-22) ⭐️ 7.0/10
+23. [Reading Data into GPU Memory with NVIDIA GPUDirect Storage in Python](#item-tech-news-23) ⭐️ 7.0/10
+24. [Next-Concept Modeling Introduces Hierarchical Text Generation Method](#item-tech-news-24) ⭐️ 7.0/10
+25. [Carbon-X: Open 14.8B Model for DNA and Text Processing](#item-tech-news-25) ⭐️ 7.0/10
+26. [New Steerable TTS Model Released at 11.84 MB with Unchanged WER](#item-tech-news-26) ⭐️ 7.0/10
+27. [Canva Launches Craft - New Image Generation Model with Design Understanding](#item-tech-news-27) ⭐️ 7.0/10
+28. [Corridor Crew Releases CorridorKey 2 for Enhanced Video Processing](#item-tech-news-28) ⭐️ 7.0/10
 
 ---
 
 ## Technology News
 
 <a id="item-tech-news-1"></a>
-### [New Method Triangulates 3.7M Map Polygons in 489 ms](https://globus.software/blog/2026/10/16/cutting-map-polygons/) ⭐️ 8.0/10
+### [OpenShell – A Safe Runtime for Autonomous AI Agent Fleets](https://github.com/NVIDIA/OpenShell) ⭐️ 8.0/10
 
-A new method has been developed that can triangulate 3.7 million map polygons in just 489 milliseconds, significantly improving performance over previous techniques. This advancement has generated considerable interest within the software engineering community, particularly in the fields of computational geometry and mapping applications.
+OpenShell is a new framework designed to manage permissions for fleets of autonomous AI agents, ensuring that their collective permissions do not exceed predefined limits. This approach addresses security and coordination challenges among agents, allowing them to communicate and collaborate without compromising safety. The project is currently available on GitHub.
 
-hackernews · molind · Oct 22, 09:31 · [Discussion](https://news.ycombinator.com/item?id=50193170)
+hackernews · niemandhier · Oct 22, 17:44 · [Discussion](https://news.ycombinator.com/item?id=50198675)
 
-**「Background on Triangulation Improvements」** The new triangulator, named earstrip, is a C++ and WebAssembly library that has been developed to improve the performance of polygon triangulation. It processes 3.7 million map polygons in 489 milliseconds, outperforming the existing earcut library by 14% in native C++ and 1.4 to 2.1 times faster in browser environments. This development builds on previous triangulation methods, specifically enhancing the ear clipping algorithm.
+**「Background on Autonomous AI Agents」** The development of autonomous AI agents has raised significant concerns regarding security and permission management, particularly when these agents operate in fleets. Previous solutions often struggled to balance the need for agent collaboration with the necessity of restricting their capabilities to prevent unauthorized actions.
 
-**「Implications for Mapping Applications」** This performance enhancement allows developers to handle larger and more complex map datasets efficiently, potentially improving the responsiveness and capabilities of mapping applications that rely on triangulation.
+**「Impact on AI Agent Management」** OpenShell&\#x27;s introduction could lead to improved security practices for organizations deploying fleets of autonomous AI agents, as it allows for more granular control over permissions while facilitating necessary communication between agents. This could mitigate risks associated with agent collusion and unauthorized access.
 
-**「Technical Insights from the Community」** Community members have engaged in discussions about the implications of this new method, with some comparing it to existing triangulation techniques like Earcut and expressing curiosity about its performance relative to other algorithms.
+**「Community Insights」** Community members have expressed both enthusiasm and skepticism regarding OpenShell&\#x27;s capabilities. Some highlight its potential to manage permissions effectively, while others question whether it can truly balance access and security without compromising agent functionality.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://globus.software/blog/2026/10/16/cutting-map-polygons/">Faster than earcut: triangulating 3.7M map polygons in 489 ms</a></li>
-<li><a href="https://daily.dev/posts/faster-than-earcut-triangulating-3-7m-map-polygons-in-489-ms-ml3fqleef">Faster than earcut: triangulating 3.7M map polygons in...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#triangulation`, `#performance`, `#software engineering`, `#community discussion`
+**Tags**: `#AI`, `#autonomous agents`, `#security`, `#permissions`, `#technology`
 
 ---
 
 <a id="item-tech-news-2"></a>
-### [WorldTUI: AI Model Simulates Terminal Interactions](https://simedw.com/2026/10/21/world-model-terminal/) ⭐️ 8.0/10
+### [Faster Triangulation of 3.7M Map Polygons Achieved](https://globus.software/blog/2026/10/16/cutting-map-polygons/) ⭐️ 8.0/10
 
-The article discusses WorldTUI, a 360 million parameter AI model fine-tuned to simulate terminal interactions. This innovative approach has generated significant interest in the AI and user interface design communities, highlighting its potential applications and implications for user experience.
+A new method for triangulating 3.7 million map polygons has achieved a performance time of 489 milliseconds, significantly faster than previous methods like Earcut. This advancement is particularly relevant for software engineering and graphics programming, as it enhances the efficiency of handling large datasets in mapping applications.
 
-hackernews · alphax314 · Oct 22, 02:18 · [Discussion](https://news.ycombinator.com/item?id=50190363)
+hackernews · molind · Oct 22, 09:31 · [Discussion](https://news.ycombinator.com/item?id=50193170)
 
-**「Background on AI in User Interfaces」** The development of AI models for simulating user interfaces, such as terminals, represents a growing trend in leveraging machine learning to enhance user interactions. Previous advancements in fine-tuning models for specific tasks have paved the way for such applications.
+**「Advancements in Triangulation Techniques」** Triangulation is a critical process in computer graphics and geographic information systems, where complex shapes are divided into simpler triangles for rendering and analysis. Recent developments, such as improvements in Delaunay triangulation methods, have focused on enhancing performance and efficiency, particularly for large datasets like map polygons.
 
-**「Impact on AI and User Interface Design」** WorldTUI&\#x27;s ability to simulate terminal interactions could lead to more intuitive user interfaces, allowing users to engage with systems in a more natural and efficient manner. This may encourage further exploration and development of AI-driven user interface technologies.
+**「Implications for Developers」** This performance improvement allows developers to process large map datasets more efficiently, potentially leading to faster rendering times and improved user experiences in applications that rely on complex polygon triangulation.
 
-**「Community Reactions and Insights」** Community members expressed excitement about the potential of WorldTUI, with discussions highlighting related projects and concepts, such as &\#x27;lossy git&\#x27; and the idea of &\#x27;Neural Computers&\#x27; that blur the lines between real and simulated interactions.
+**「Technical Insights from the Community」** Community members have engaged in discussions about the implications of the new triangulation method, with some comparing it to existing algorithms like Earcut and expressing curiosity about performance optimizations and triangle quality in rendering.
 
-**Tags**: `#AI`, `#Machine Learning`, `#User Interface`, `#Software Engineering`
+**Tags**: `#triangulation`, `#performance`, `#software engineering`, `#graphics programming`, `#community discussion`
 
 ---
 
 <a id="item-tech-news-3"></a>
-### [Google&\#x27;s Agent Compute Engine Introduces Isolated Micro Virtual Machines for AI Agents](https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/) ⭐️ 8.0/10
+### [LLMs Enhance Formal Software Verification at Scale](https://www.anthropic.com/research/formal-verification) ⭐️ 8.0/10
 
-Google has launched the Agent Compute Engine, a new runtime environment specifically for AI agents, which provides each Gemini agent with its own hardware-isolated micro virtual machine. This development enhances governance capabilities, allowing companies to manage AI agents effectively across cloud, hybrid, and on-premises environments.
+The integration of large language models \(LLMs\) into formal software verification is significantly advancing the field, making it feasible at a larger scale. This development is highlighted by practical applications and community discussions that reflect a strong interest in the implications and effectiveness of these methods.
 
-rss · The Decoder · Oct 22, 17:50
+hackernews · johnbender · Oct 22, 22:54 · [Discussion](https://news.ycombinator.com/item?id=50202217)
 
-**「Introduction of Agent Compute Engine」** Google&\#x27;s Agent Compute Engine is a new runtime environment tailored for AI agents, enhancing governance and isolation capabilities. This development is part of the broader Gemini Enterprise Agent Platform, which allows for the management of AI agents across various environments, including cloud and on-premises setups.
+**「Advancements in Formal Software Verification」** Formal software verification has traditionally relied on rigorous mathematical methods to ensure that software behaves as intended. Recent developments have introduced large language models \(LLMs\) into this field, enhancing the ability to automate and scale verification processes, as evidenced by ongoing research and community discussions.
 
-**Tags**: `#AI`, `#cloud computing`, `#virtual machines`, `#software engineering`
+**「Impact on Software Development」** The use of LLMs in formal verification could lead to more reliable software systems, as developers may be able to automate the verification process more effectively, reducing the risk of errors in critical applications.
+
+**「Community Insights」** Community members have expressed both optimism and skepticism regarding the effectiveness of LLMs in formal verification. Some users report successful applications, while others raise concerns about the reliability of proofs generated by LLMs.
+
+**Tags**: `#formal verification`, `#software engineering`, `#large language models`, `#AI`, `#community discussion`
 
 ---
 
 <a id="item-tech-news-4"></a>
 ### [Recursive Unveils Flint, a 40-Billion-Parameter AI Language Model](https://the-decoder.com/recursive-shows-first-result-of-its-ai-driven-research-process-with-flint/) ⭐️ 8.0/10
 
-Recursive has introduced Flint, a new AI language model featuring 40 billion parameters, developed by former DeepMind researchers. This model utilizes Recursive&\#x27;s in-house AI system, Eureka Machine, which independently tests and optimizes architectures. The company has not yet demonstrated the effectiveness of this approach in creating self-improving AI.
+Recursive has introduced Flint, a new AI language model featuring 40 billion parameters, developed by former DeepMind researchers. This model was created in just four months using Recursive&\#x27;s proprietary AI system, Eureka Machine, which autonomously tests and optimizes AI architectures. However, the effectiveness of this innovative approach in achieving self-improving AI remains unproven.
 
 rss · The Decoder · Oct 22, 14:40
 
-**「Background on Flint Language Model」** Recursive&\#x27;s Flint is a 40-billion-parameter mixture-of-experts \(MoE\) language model specifically designed for coding tasks. It was developed using an in-house AI system called Eureka Machine, which autonomously tests and optimizes model architectures. This approach aims to enhance the efficiency and effectiveness of AI-driven coding agents.
+**「Background on Flint and Recursive&\#x27;s AI Research」** Recursive has developed Flint, a 40-billion-parameter mixture-of-experts language model specifically designed for coding tasks. This model was created using Recursive&\#x27;s proprietary AI system, Eureka Machine, which autonomously tests and optimizes AI architectures, marking a novel approach in AI research and development.
 
 <details><summary>References</summary>
 <ul>
@@ -117,38 +112,31 @@ rss · The Decoder · Oct 22, 14:40
 </ul>
 </details>
 
-**Tags**: `#AI`, `#language model`, `#machine learning`, `#technology news`
+**Tags**: `#AI`, `#language model`, `#machine learning`, `#innovation`, `#technology`
 
 ---
 
 <a id="item-tech-news-5"></a>
 ### [AI Agent Exploits Unprotected Language Models for Cyberattacks](https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks/) ⭐️ 8.0/10
 
-Researchers at Symantec have discovered an AI agent that autonomously hijacks unprotected language models to conduct cyberattacks, including stealing databases and installing cryptominers. This agent can operate independently for up to 100,000 steps without human intervention, leaving the owners of the compromised models responsible for the resulting costs.
+Researchers at Symantec have discovered an AI agent that can hijack unprotected language models to autonomously conduct cyberattacks, including stealing databases and installing cryptominers. This agent can operate for up to 100,000 steps without human intervention, leaving the owners of the compromised models responsible for the resulting costs. This development raises significant security concerns regarding the vulnerabilities of widely used technologies.
 
 rss · The Decoder · Oct 22, 11:30
 
-**「Emerging Threats in AI Security」** The discovery of an AI agent capable of hijacking unprotected language models builds on previous concerns about AI&\#x27;s potential misuse in cybersecurity. Earlier incidents, such as AI agents making unauthorized edits on platforms like DseWiki, have highlighted vulnerabilities in AI systems and the unintended consequences of their deployment.
+**「Background on AI Cybersecurity Threats」** The emergence of AI agents capable of exploiting vulnerabilities in language models has raised significant concerns in cybersecurity. Previous incidents have demonstrated how AI can be misused to manipulate online platforms and conduct unauthorized activities, highlighting the need for enhanced security measures to protect against such threats.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.phoneworld.com.pk/openai-responds-after-ai-agents-hijack-german-wiki-forum/">OpenAI Responds After AI Agents Hijack German Wiki... - PhoneWorld</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI Security`, `#Cybersecurity`, `#Language Models`, `#Self-sustaining Systems`
+**Tags**: `#AI`, `#cybersecurity`, `#language models`, `#self-sustaining attacks`
 
 ---
 
 <a id="item-tech-news-6"></a>
 ### [OpenAI Agents Analyze Mouse Brain Data in 32 Minutes](https://the-decoder.com/openai-agents-analyze-mouse-brain-data-in-32-minutes-a-job-that-would-take-humans-months/) ⭐️ 8.0/10
 
-OpenAI, in collaboration with PerturbAI and Scripps Research, has deployed thousands of AI agents to analyze biological data from millions of mouse cells, completing the task in just 32 minutes. This process would typically take human researchers several months, marking a significant advancement in the application of AI to biological research.
+OpenAI, in collaboration with PerturbAI and Scripps Research, has deployed thousands of AI agents to analyze biological data from millions of mouse cells, completing the task in just 32 minutes. This process would typically take human researchers several months, marking a significant advancement in the efficiency of biological data analysis.
 
 rss · The Decoder · Oct 22, 10:01
 
-**「Advancements in AI for Research」** The use of AI agents for data analysis represents a growing trend in scientific research, where machine learning techniques are increasingly applied to complex biological datasets to enhance efficiency and accuracy.
+**「Background on AI in Biological Research」** The use of AI agents in analyzing complex biological data represents a growing trend in scientific research, where machine learning techniques are increasingly applied to accelerate data processing and analysis.
 
 **Tags**: `#AI`, `#biological data`, `#OpenAI`, `#research`, `#machine learning`
 
@@ -157,234 +145,231 @@ rss · The Decoder · Oct 22, 10:01
 <a id="item-tech-news-7"></a>
 ### [Running Frontier-Class AI Models Across 8 NVIDIA DGX Spark Nodes](https://developer.nvidia.com/blog/running-frontier-class-ai-models-across-8-nvidia-dgx-spark-nodes/) ⭐️ 8.0/10
 
-The article discusses advanced techniques for orchestrating multiple frontier-class AI models across eight NVIDIA DGX Spark nodes. This approach allows AI developers to run models in parallel, enhancing performance and efficiency in AI applications. The insights provided are particularly valuable for those working with NVIDIA hardware and seeking to optimize their AI workflows.
+The article discusses the orchestration of multiple frontier-class AI models across eight NVIDIA DGX Spark nodes, highlighting advancements in AI model management and performance. This development allows AI developers to run models in parallel, enhancing efficiency and experimentation capabilities in AI infrastructure.
 
 rss · NVIDIA Developer Blog · Oct 22, 16:00
 
-**「Background on AI Model Execution」** Traditionally, AI developers focused on running single models, but advancements in hardware and software have enabled the orchestration of multiple models simultaneously. This shift allows for more complex AI applications and improved resource utilization.
+**「Advancements in AI Infrastructure」** NVIDIA DGX Spark is designed for developers and researchers needing robust computing capabilities for AI tasks. It allows for the orchestration of multiple AI models across nodes, enhancing performance and efficiency in AI model management. This capability builds on previous developments in distributed computing and AI infrastructure, enabling more complex and scalable AI applications.
 
-**Tags**: `#AI`, `#NVIDIA`, `#Machine Learning`, `#Software Engineering`, `#Technology`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://docs.nvidia.com/dgx/dgx-spark/">DGX Spark User Guide - NVIDIA Documentation Hub</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI`, `#NVIDIA`, `#Machine Learning`, `#Software Engineering`, `#Cloud Computing`
 
 ---
 
 <a id="item-tech-news-8"></a>
-### [Open-XTTS-Trainer Launches for Easy XTTS v2 Component Training](https://www.reddit.com/r/MachineLearning/comments/1xcurgj/i_built_openxttstrainer_now_you_can_add_new/) ⭐️ 8.0/10
+### [Open-XTTS-Trainer Simplifies XTTS v2 Training with 1-Click Setup](https://www.reddit.com/r/MachineLearning/comments/1xcurgj/i_built_openxttstrainer_now_you_can_add_new/) ⭐️ 8.0/10
 
-Open-XTTS-Trainer is a newly developed open-source tool that simplifies the training of all three components of XTTS v2 in a single click. This tool addresses the training gaps left by the shutdown of Coqui AI, particularly for the DVAE audio tokenizer and Latent HiFi-GAN vocoder, and allows for the addition of new language scripts without the issues of fixed vocabularies. It is available under the Mozilla Public License 2.0 and includes a 1-click demo on Google Colab.
+Open-XTTS-Trainer is an open-source tool designed to streamline the training process for XTTS v2, particularly after the shutdown of Coqui AI, which left critical components unsupported. This tool allows users to add new language scripts and train all three XTTS v2 components with a single click using a Google Colab demo. It operates under the Mozilla Public License 2.0 and has demonstrated significant improvements in training metrics on real human speech.
 
 rss · Reddit MachineLearning · Oct 22, 21:03
 
-**「Background on XTTS v2 and Coqui AI」** XTTS v2 is a prominent text-to-speech model that faced significant training challenges after Coqui AI ceased operations, leaving users without official training code for critical components. The lack of support for new Unicode scripts further complicated the training process, necessitating a solution like Open-XTTS-Trainer.
+**「Background on XTTS v2 and Coqui AI」** XTTS v2 is a text-to-speech model that faced challenges in training and adaptation following the closure of Coqui AI, which left gaps in the availability of training code for essential components like the DVAE audio tokenizer and HiFi-GAN vocoder. The lack of support for new Unicode scripts further complicated the training process.
 
-**「Impact on Machine Learning Community」** The introduction of Open-XTTS-Trainer provides a crucial resource for developers and researchers in the machine learning community, enabling them to train XTTS v2 components more efficiently and expand language support without encountering previous limitations.
+**「Impact on Machine Learning Community」** The introduction of Open-XTTS-Trainer provides a crucial resource for developers and researchers in the machine learning community, enabling easier adaptation of XTTS v2 for diverse languages and improving accessibility for those looking to implement text-to-speech applications.
 
-**Tags**: `#Machine Learning`, `#Open Source`, `#Text-to-Speech`, `#AI Tools`
+**Tags**: `#Open Source`, `#Machine Learning`, `#Text-to-Speech`, `#AI Tools`
 
 ---
 
 <a id="item-tech-news-9"></a>
-### [Release of ggerganov/llama.cpp b11821 Enhances Intel XMX Performance](https://github.com/ggml-org/llama.cpp/releases/tag/b11821) ⭐️ 7.0/10
+### [Research Paper on Data-Void Exploits in Web-Searching LLMs](https://www.thepromptindex.com/data-void-tricks-that-can-mislead-web-searching-chatbots.html) ⭐️ 8.0/10
 
-The release of ggerganov/llama.cpp version b11821 introduces optimizations specifically for Intel XMX matrix engines, significantly improving performance for machine learning applications. Key enhancements include a refactored multi-column matrix multiplication function and various bug fixes, which collectively enhance functionality and efficiency for developers utilizing this library.
+The research paper titled &quot;Data-Void Exploits in Web-Searching LLMs&quot; identifies vulnerabilities in web-searching large language models \(LLMs\) that can be exploited to manipulate user trust. It highlights how disinformers can create unreliable narratives in areas with limited trustworthy information, leading LLMs to generate responses based on these sparse sources. The paper emphasizes the need for improved retrieval practices and source quality checks to mitigate these risks.
 
-github · github-actions\[bot\] · Oct 22, 17:02
+telegram · gptupdates · Oct 23, 08:45
 
-**「Background Information」** This release builds on previous versions of llama.cpp, which have focused on improving performance and compatibility for various hardware architectures. The optimizations in this version are particularly relevant for users leveraging Intel&\#x27;s XMX technology in their machine learning workflows.
+**「Understanding Data-Void Exploits」** Web-searching large language models \(LLMs\) synthesize answers from online content, shifting user reliance from traditional search results to AI-generated summaries. This paper introduces the concept of &\#x27;data-void exploits,&\#x27; where adversaries manipulate LLM responses by seeding unreliable information in areas with limited trustworthy sources, thereby undermining the reliability of AI-generated content.
 
-**「User Impact」** Developers using the llama.cpp library can expect improved performance metrics, particularly in tasks involving matrix operations on Intel hardware, which may lead to faster model training and inference times.
+**「Implications for AI and User Trust」** The findings suggest that without robust source verification, users may inadvertently trust AI-generated responses that are based on unreliable or adversarial content. This raises concerns about the reliability of information provided by LLMs and underscores the necessity for enhanced defenses against data-void conditions.
 
-**Tags**: `#machine learning`, `#software engineering`, `#performance optimization`, `#open source`
+**Tags**: `#AI`, `#machine learning`, `#web search`, `#security`, `#research`
 
 ---
 
 <a id="item-tech-news-10"></a>
-### [OpenShell – A secure runtime for autonomous AI agents](https://github.com/NVIDIA/OpenShell) ⭐️ 7.0/10
+### [Release of ggerganov/llama.cpp b11821 with Intel XMX Optimizations](https://github.com/ggml-org/llama.cpp/releases/tag/b11821) ⭐️ 7.0/10
 
-OpenShell is a newly introduced secure runtime designed for managing fleets of autonomous AI agents, emphasizing security and privacy. It aims to provide capabilities that allow agents to perform tasks without granting them unrestricted access to sensitive data or networks. This tool has sparked discussions regarding its potential applications and limitations within the AI and software engineering communities.
+The release of ggerganov/llama.cpp version b11821 introduces optimizations specifically for Intel XMX matrix engines, enhancing performance for machine learning tasks. Key improvements include a refactored multi-column matrix multiplication function and various bug fixes, which collectively aim to improve computational efficiency in specific use cases.
 
-hackernews · niemandhier · Oct 22, 17:44 · [Discussion](https://news.ycombinator.com/item?id=50198675)
+github · github-actions\[bot\] · Oct 22, 17:02
 
-**「Overview of OpenShell」** OpenShell is an open-source runtime developed by NVIDIA designed to manage fleets of autonomous AI agents securely. It allows users to define policies that restrict what data and systems each agent can access, thereby enhancing security while maintaining functionality. The runtime combines features like sandboxed execution, controlled service access, and credential management to protect sensitive information.
+**「Background Information」** This release builds on previous versions of ggerganov/llama.cpp, which have focused on performance enhancements for machine learning applications. The introduction of Intel XMX optimizations reflects ongoing efforts to leverage hardware capabilities for improved processing speeds.
 
-**「Consequences for AI management」** The introduction of OpenShell may lead to improved security practices for organizations deploying autonomous AI agents, as it allows for controlled access to resources while maintaining operational capabilities. This could help mitigate risks associated with data exfiltration and unauthorized access.
+**「User Impact」** Users leveraging Intel XMX matrix engines for machine learning can expect improved performance metrics, particularly in tasks involving matrix multiplication, which may lead to faster processing times and more efficient resource utilization.
 
-**「Community insights」** Community members have expressed mixed feelings about OpenShell&\#x27;s capabilities, with some highlighting its potential for managing containerized agents effectively, while others question the feasibility of balancing agent access and security. Users have shared experiences with similar tools, indicating a strong interest in finding secure solutions for AI agent management.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://github.com/NVIDIA/OpenShell">GitHub - NVIDIA/OpenShell: OpenShell is the safe, private ...</a></li>
-<li><a href="https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell/">Add Runtime Controls to AI Agents with NVIDIA OpenShell</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#security`, `#autonomous systems`, `#software engineering`
+**Tags**: `#software engineering`, `#machine learning`, `#performance optimization`
 
 ---
 
 <a id="item-tech-news-11"></a>
-### [eMudhra&\#x27;s OTP Login System Vulnerability Exposes Users to Brute-Force Attacks](https://mastodon.catgirl.cloud/@49016/117475976434068995) ⭐️ 7.0/10
+### [Jank: New Clojure Dialect with C++ Interoperability](https://jank-lang.org/) ⭐️ 7.0/10
 
-A security vulnerability in eMudhra&\#x27;s one-factor authentication \(1FA\) OTP login system has been identified, allowing potential brute-force attacks due to insufficient protections. This flaw exposes users to risks as the system lacks proper rate-limiting and endpoint protections, making it easier for attackers to exploit the OTP verification process.
+Jank is a newly introduced dialect of Clojure that enables seamless integration with C++, aimed at enhancing development efficiency and parallel processing capabilities. This integration allows developers to leverage native C++ code directly within Clojure, potentially transforming workflows in software development, especially in areas like agent engineering.
 
-hackernews · tensegrist · Oct 22, 19:14 · [Discussion](https://news.ycombinator.com/item?id=50199757)
+hackernews · giancarlostoro · Oct 22, 23:56 · [Discussion](https://news.ycombinator.com/item?id=50202762)
 
-**「Background on eMudhra&\#x27;s OTP System Vulnerability」** eMudhra&\#x27;s OTP \(One-Time Password\) login system has been criticized for its lack of adequate security measures, particularly in relation to rate limiting and endpoint protection. This vulnerability allows attackers to potentially execute brute-force attacks on the OTP verification process, as the search space for valid OTPs is limited and not sufficiently protected against repeated attempts.
+**「Introduction to Jank」** Jank is a new programming language that serves as a dialect of Clojure, designed to operate on LLVM and provide seamless interoperability with C++. Unlike traditional Clojure, which relies on the Java Virtual Machine \(JVM\), Jank allows developers to directly compile to C++, enhancing performance and integration with C++ ecosystems.
 
-**「Consequences for Users」** Users of eMudhra&\#x27;s services may be at risk of unauthorized access if their email addresses are known, as the vulnerability allows attackers to brute-force OTP codes without adequate defenses in place.
+**「Impact on Development Workflows」** The introduction of Jank could significantly streamline development processes by allowing real-time coding without the need for restarting or recompiling, which is particularly beneficial for projects requiring high levels of concurrency and performance.
 
-**「Community Reactions」** Community members expressed concern over the implications of the vulnerability, with one user noting that the lack of rate-limiting on OTP checks could lead to easy exploitation. Another user highlighted the potential risks for anyone using eMudhra&\#x27;s services if their email is compromised.
+**「Community Insights」** \[goldenshale\] expressed optimism about Jank&\#x27;s potential for agent engineering, highlighting the advantages of REPL-driven development combined with access to native code, which could facilitate parallel processing while maintaining data integrity.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://news.ycombinator.com/item?id=50199757">A complete bypass of eMudhra ’s 1FA OTP login system | Hacker News</a></li>
+<li><a href="https://jank-lang.org/">jank programming language - Clojure/LLVM/C++</a></li>
+<li><a href="https://github.com/jank-lang/jank">GitHub - jank-lang/jank: jank is the native Clojure dialect ... Reaching into C++ - The jank Programming Language jank-lang/jank: Clojure on LLVM with C++ interop jank is C++ - jank-lang.org Jank：原生Clojure方言无缝对接C++ — Jank – The native Clojure dial... jank-lang · GitHub</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#security`, `#software engineering`, `#cybersecurity`, `#vulnerability`
+**Tags**: `#Clojure`, `#C++`, `#Programming Languages`, `#Software Development`
 
 ---
 
 <a id="item-tech-news-12"></a>
-### [The Last Museum Launches Semantic Search for 5.8 Million Artworks](https://lastmuseum.com/) ⭐️ 7.0/10
+### [eMudhra Exits Global SSL/TLS Certificate Market](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business) ⭐️ 7.0/10
 
-The Last Museum has introduced a semantic search tool that allows users to explore 5.8 million artworks from major museums. This tool aims to enhance the search experience by leveraging AI to connect users with relevant artworks based on their queries, fostering discussions about AI&\#x27;s role in supporting human creativity.
+eMudhra has announced its exit from the global SSL/TLS certificate business, raising concerns about the security and reliability of web PKI systems. This decision has sparked critical discussions within the community regarding the trustworthiness of certificate authorities and the implications for web security.
 
-hackernews · surprisetalk · Oct 22, 12:40 · [Discussion](https://news.ycombinator.com/item?id=50194522)
+hackernews · bo0tzz · Oct 22, 13:33 · [Discussion](https://news.ycombinator.com/item?id=50195110)
 
-**「Overview of The Last Museum」** The Last Museum is a semantic search engine that aggregates 5.8 million artworks from major museums worldwide, allowing users to search by various criteria such as theme, style, and subject. This project aims to enhance the accessibility of art collections and facilitate discovery through advanced search capabilities.
+**「eMudhra&\#x27;s SSL/TLS Business Context」** eMudhra&\#x27;s decision to exit the global SSL/TLS certificate market stems from its contribution of only about 1% to the company&\#x27;s overall revenue. The company cited increasing complexity, rising compliance requirements, and competition from free certificate providers as factors diminishing the profitability of this segment. This move follows scrutiny over the security of its private keys, which has raised concerns about the reliability of its certificate authority services.
 
-**「User Experience Enhancement」** This semantic search capability could significantly improve how users discover and engage with art, making it easier to find relevant pieces that resonate with their interests or needs, thus enhancing the overall experience of exploring art collections.
+**「Consequences for Web Security」** The exit of eMudhra from the SSL/TLS market may lead to increased scrutiny of other certificate authorities and could undermine trust in web PKI systems, potentially affecting organizations that rely on these certificates for secure communications.
 
-**「Community Insights」** Community members expressed interest in using AI to support human creativity rather than replace it, with one user sharing their own project that utilizes similar concepts for organizing YouTube thumbnails. This indicates a broader interest in applying semantic search across various domains.
+**「Community Reactions」** Community members have expressed frustration over the implications of eMudhra&\#x27;s exit, with some arguing that the web PKI system is fundamentally flawed and needs reform. Others have highlighted the disproportionate scrutiny this incident has received compared to the actual risks involved.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://lastmuseum.com/">The Last Museum</a></li>
-<li><a href="https://mymodernmet.com/the-last-museum-art-archive/">This Free Digital Archive Lets You Search 5.8 Million Artworks</a></li>
-<li><a href="https://daily.dev/posts/the-last-museum-semantic-search-across-5-8m-artworks-from-major-museums-m7sayrw9o">The Last Museum: Semantic search across 5.8M artworks...</a></li>
+<li><a href="https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business">eMudhra to Exit global SSL / TLS Certificate Business</a></li>
+<li><a href="https://timesofindia.indiatimes.com/business/india-business/emudhra-to-exit-global-ssl/tls-business-shares-tank/articleshow/135127748.cms">Emudhra : eMudhra to exit global SSL / TLS business , shares tank</a></li>
+<li><a href="https://www.theregister.com/security/2026/10/20/indian-certification-authority-emudhras-private-keys-compromised-one-of-them-was-the-number-4/5304312">Indian certification authority eMudhra ’s private keys compromised...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semantic search`, `#artificial intelligence`, `#machine learning`, `#software engineering`, `#art`
+**Tags**: `#SSL/TLS`, `#web security`, `#certificate authorities`, `#community discussion`
 
 ---
 
 <a id="item-tech-news-13"></a>
-### [New Jailbreak for Switch 2 Sparks Gaming Community Discussions](https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/) ⭐️ 7.0/10
+### [AI CO2 Emissions: Texas vs. Sweden](https://berget.ai/en/blog/per-request-co2-press-release) ⭐️ 7.0/10
 
-A new jailbreak for the Switch 2 has been released, which could significantly enhance game accessibility and hardware compatibility. This development has generated considerable interest within the gaming community, with discussions about the potential for console exclusives to be playable on various hardware platforms. The implications of this jailbreak may lead to a surge in game dumps and increased interoperability among devices.
+A recent analysis reveals that AI requests in Texas emit 8.5 times more CO2 than those in Sweden, primarily due to the differing energy sources used in each region. In Texas, approximately half of electricity production relies on fossil fuels, while Sweden predominantly utilizes hydro, nuclear, and wind energy. This stark contrast highlights the significant impact of energy infrastructure on the environmental footprint of AI technologies.
 
-hackernews · ledoge · Oct 22, 08:01 · [Discussion](https://news.ycombinator.com/item?id=50192536)
+hackernews · jlundberg · Oct 23, 06:41 · [Discussion](https://news.ycombinator.com/item?id=50205229)
 
-**「Background on Switch 2 Jailbreak」** The recent jailbreak for the Nintendo Switch 2 is a software-only, tethered exploit that enables users to run arbitrary native code on the latest firmware. This method requires the use of a specific backward-compatible game from the original Switch, which must be launched each time the Switch 2 is powered on to exploit the vulnerability.
+**「CO2 Emissions from AI Requests」** The article highlights a significant disparity in CO2 emissions from AI requests based on geographic location, specifically comparing Texas and Sweden. In Texas, a typical AI request emits approximately 3.2 grams of CO2, while in Sweden, it emits only about 0.4 grams. This difference is largely attributed to the energy sources used in each region, with Texas relying heavily on fossil fuels and Sweden utilizing more renewable energy sources.
 
-**「Potential Consequences for Gaming」** The jailbreak could lead to the emergence of Switch 2 game dumps, allowing users to play exclusive titles on non-Nintendo hardware, which may challenge Nintendo&\#x27;s control over its gaming ecosystem.
+**「Environmental Impact of AI Operations」** The findings suggest that organizations deploying AI in regions with high fossil fuel dependency, like Texas, may face increased scrutiny regarding their carbon footprint. This could influence decisions on where to host AI operations based on sustainability goals.
 
-**「Community Reactions」** Community members expressed excitement about the jailbreak&\#x27;s potential, with some predicting rapid game dumps and discussing innovative automation tools that could enhance the gaming experience.
+**「Community Insights on Energy Sources」** Community members noted that the disparity in emissions is not unique to AI but applies to all electricity-consuming technologies. Discussions also highlighted the importance of energy source choices in reducing overall carbon emissions.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://wccftech.com/nintendo-switch-2-hacked-jailbreak/">The Nintendo Switch 2 Has Been Hacked, As First Jailbreak ...</a></li>
-<li><a href="https://kotaku.com/nintendo-switch-2-jailbreak-hack-exploit-piracy-homebrew-emulation-modding-2000748784">The Switch 2 Has Been Jailbroken For The First Time - Kotaku</a></li>
+<li><a href="https://daily.dev/posts/the-same-ai-request-emits-8-5-times-more-co2-in-texas-than-in-sweden-ccuzpfima">The same AI request emits 8.5 times more CO2 in Texas...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#jailbreaking`, `#gaming`, `#hardware`, `#Switch 2`, `#community engagement`
+**Tags**: `#AI`, `#CO2 emissions`, `#energy consumption`, `#environment`, `#sustainability`
 
 ---
 
 <a id="item-tech-news-14"></a>
-### [Anthropic Donates Agent Skills to Agentic AI Foundation](https://simonwillison.net/2026/Oct/22/donating-agent-skills/) ⭐️ 7.0/10
+### [Anthropic Donates Agent Skills Standard to Agentic AI Foundation](https://simonwillison.net/2026/Oct/22/donating-agent-skills/) ⭐️ 7.0/10
 
-Anthropic has donated its Agent Skills standard to the Agentic AI Foundation \(AAIF\), which it co-founded with Block and OpenAI. This move aims to promote open, community-driven, and vendor-neutral standards in AI development. The donation follows Anthropic&\#x27;s earlier commitment to keeping Agent Skills as an open standard.
+Anthropic has donated the Agent Skills standard to the Agentic AI Foundation \(AAIF\), which it co-founded with Block and OpenAI. This move aims to promote open, community-driven, and vendor-neutral AI development, reinforcing Anthropic&\#x27;s commitment to collaborative standards in the AI field.
 
 rss · Simon Willison · Oct 22, 18:09
 
-**「Background on Agent Skills and AI Standards」** The Agentic AI Foundation \(AAIF\) was co-founded by Anthropic, Block, and OpenAI to promote open standards in AI development. Previously, Anthropic had donated the Model Context Protocol \(MCP\) to the AAIF, establishing a framework for community-driven AI standards. The recent donation of Agent Skills to the AAIF builds on this initiative, aiming to further enhance collaboration and standardization in the AI field.
+**「Context of the Donation」** The Agent Skills standard was previously declared an &\#x27;open standard&\#x27; by Anthropic, indicating its intention to foster community involvement and transparency in AI development. The AAIF also hosts the Model Context Protocol \(MCP\), which was donated by Anthropic last year.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://developer.nvidia.com/blog/nvidia-jetpack-7-2-1-adds-agentic-video-skills-and-t3000-emulation/">2026-08-12 — NVIDIA JetPack 7.2.1 Adds Agentic Video Skills and T3000 Emulation</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#Open Source`, `#Standards`, `#Community-driven`, `#Technology News`
+**Tags**: `#AI`, `#Open Source`, `#Community Standards`, `#Agentic AI`, `#Anthropic`
 
 ---
 
 <a id="item-tech-news-15"></a>
 ### [US Banks Restrict AI Agents from Accessing Customer Accounts](https://the-decoder.com/major-us-banks-are-locking-out-ai-agents-that-log-in-with-customer-credentials/) ⭐️ 7.0/10
 
-Major U.S. banks, including Morgan Stanley and JPMorgan, are restricting AI agents from accessing customer accounts using their credentials due to security concerns. Morgan Stanley has completely blocked these agents, while others are limiting access to read-only permissions. This shift reflects growing apprehension about the integration of AI in banking operations.
+Major U.S. banks, including Morgan Stanley and JPMorgan, are implementing restrictions on AI agents that use customer credentials to access accounts. Morgan Stanley has completely blocked these agents, while others are limiting their access to read-only capabilities. This shift reflects increasing concerns over security and privacy in the banking sector.
 
 rss · The Decoder · Oct 22, 18:26
 
-**「Background on AI Access in Banking」** Recent concerns have emerged regarding unauthorized access by AI agents to customer bank accounts, prompting major U.S. banks to take action. Previously, customers were allowing AI agents to use their credentials for account access, which raised security issues and led banks like Morgan Stanley to block these agents entirely. Other banks are now following suit by restricting AI access to read-only permissions.
+**「Background on AI Access Restrictions」** Recent concerns over unauthorized access by AI agents to customer accounts have prompted major U.S. banks, including Morgan Stanley and JPMorgan, to implement restrictions. These banks are responding to security risks associated with third-party AI agents that can log in using customer credentials, leading to a trend of limiting such access to enhance privacy and security.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access">Scoop: Unvetted AI agents are accessing U.S. bank accounts</a></li>
+<li><a href="https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access">Scoop: Unvetted AI agents are accessing U . S . bank accounts</a></li>
 <li><a href="https://financefeeds.com/morgan-stanley-bofa-and-jpmorgan-flag-unauthorized-ai-agents-inside-customer-accounts/">JPMorgan, BofA Block Rogue AI Agents From Customer Accounts</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#banking`, `#security`, `#technology`, `#software engineering`
+**Tags**: `#AI`, `#banking`, `#security`, `#technology`, `#finance`
 
 ---
 
 <a id="item-tech-news-16"></a>
-### [Anthropic launches Claude Duet, a proactive AI agent](https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet/) ⭐️ 7.0/10
+### [Google&\#x27;s Agent Compute Engine Provides Isolated Environments for AI Agents](https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/) ⭐️ 7.0/10
 
-Anthropic has introduced Claude Duet, a proactive AI agent built on Claude Opus 5.5, which operates independently and can handle tasks even when users are offline. It connects to over 6,000 services, including Gmail, Slack, and Stripe, and requires user approval for sensitive actions like payments. This launch positions Claude Duet as a competitor to similar offerings from xAI, Meta, and OpenAI.
+Google has launched the Agent Compute Engine, which provides a dedicated runtime environment for AI agents, specifically designed to enhance governance and management capabilities. Each Gemini agent will operate within its own hardware-isolated micro virtual machine, allowing for improved management across cloud, hybrid, and on-premises environments.
 
-rss · The Decoder · Oct 22, 08:35
+rss · The Decoder · Oct 22, 17:50
 
-**「Introduction of Claude Duet」** Claude Duet is a new proactive AI agent developed by Anthropic, built on the Claude Opus 5.5 framework. It allows users to manage tasks independently, even when offline, and integrates with various services through over 6,000 connectors, including Gmail and Slack.
+**「Introduction of Agent Compute Engine」** Google&\#x27;s Agent Compute Engine is a new runtime environment tailored for AI agents, enhancing governance and management capabilities across various deployment environments, including cloud, hybrid, and on-premises setups. This development builds on the existing Gemini platform, which focuses on scaling AI agents effectively in production.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://claude.com/resources/articles/claude-duet">Introducing Claude Duet | Claude by Anthropic</a></li>
-<li><a href="https://www.nytimes.com/2026/10/21/technology/anthropic-ai-agent-claude-duet.html">Anthropic Joins the A.I. Agent Race With Claude Duet</a></li>
+<li><a href="https://cloud.google.com/blog/topics/ai-infrastructure/introducing-agent-compute-engine-and-expanded-agent-governance">Introducing Agent Compute Engine and expanding agent ...</a></li>
+<li><a href="https://docs.cloud.google.com/gemini-enterprise-agent-platform/scale">Scale your agents | Gemini Enterprise Agent Platform | Google ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#software engineering`, `#technology industry`, `#proactive agents`, `#Anthropic`
+**Tags**: `#AI`, `#cloud computing`, `#virtual machines`, `#software engineering`
 
 ---
 
 <a id="item-tech-news-17"></a>
 ### [Turning Database Grading into RL Rewards with ThinkingBox](https://huggingface.co/blog/microsoft/thinkingbox-training) ⭐️ 7.0/10
 
-The article introduces a novel approach to enhancing reinforcement learning \(RL\) by integrating database grading through a system called ThinkingBox. This method aims to improve the training of RL agents by providing structured feedback, potentially leading to more effective learning outcomes. The implications of this technique could significantly influence future developments in agent training within AI and machine learning.
+The article introduces a novel approach to integrating reinforcement learning \(RL\) rewards into database grading, showcasing advancements in AI training techniques. This method, referred to as ThinkingBox, focuses on post-training agents, potentially enhancing the efficiency and effectiveness of AI models in database systems.
 
 rss · Hugging Face Blog · Oct 22, 22:24
 
-**「Background on Reinforcement Learning」** Reinforcement learning is a type of machine learning where agents learn to make decisions by receiving rewards or penalties based on their actions. The integration of database grading represents a new way to provide feedback to these agents, enhancing their learning process.
+**「Background on ThinkingBox」** ThinkingBox is an open-source tool developed by Microsoft that evaluates AI agents based on the state of the database they modify, rather than their claimed outputs. This approach highlights the importance of assessing the actual impact of AI agents in real-world scenarios, addressing issues like silent failures and reliability in AI performance. The tool has been benchmarked across various workflows to expose gaps in agent performance metrics.
 
-**Tags**: `#reinforcement learning`, `#machine learning`, `#AI`, `#database systems`, `#Hugging Face`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://ngtech.app/insights/2026-08-19-microsoft-open-sources-thinkingbox-a-sandbox-and-benchmark-that-grades-ai-agents">Microsoft open-sources ThinkingBox , a sandbox and... - NG Tech LLC</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Reinforcement Learning`, `#Machine Learning`, `#AI Training`, `#Database Systems`
 
 ---
 
 <a id="item-tech-news-18"></a>
 ### [OlmoEarth v1.3: Advanced Global Embeddings Released](https://huggingface.co/blog/allenai/olmoearth-v1-3) ⭐️ 7.0/10
 
-OlmoEarth v1.3 has been released, providing state-of-the-art embeddings designed for global applications in AI and machine learning. This version represents a significant advancement in the technology, enhancing the capabilities of various AI applications.
+OlmoEarth v1.3 has been released, providing state-of-the-art embeddings designed for global applications in AI and machine learning. This version represents a significant advancement in embedding technology, which could enhance various AI applications for developers and researchers.
 
 rss · Hugging Face Blog · Oct 22, 16:11
 
-**「OlmoEarth Overview」** OlmoEarth is a multimodal, spatio-temporal foundation model developed by the Allen Institute for AI, designed specifically for Earth observation tasks. The model utilizes advanced self-supervised learning techniques to generate embeddings that can be applied across various AI and machine learning applications.
+**「OlmoEarth Overview」** OlmoEarth is a platform developed by the Allen Institute for AI that provides satellite embeddings for various regions and time periods. The recent release of version 1.3 includes precomputed annual embeddings at a 10-meter resolution, enhancing its utility for AI and machine learning applications.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://allenai.org/olmoearth">OlmoEarth | Ai 2</a></li>
-<li><a href="https://arxiv.org/abs/2511.13655">[2511.13655] OlmoEarth : Stable Latent Image Modeling for Multimodal...</a></li>
+<li><a href="https://www.unite.ai/ai2-releases-olmoearth-v1-3-with-global-10m-satellite-embeddings/">Ai2 Releases OlmoEarth V1.3 With Global 10M Satellite Embeddings</a></li>
+<li><a href="https://www.explainx.ai/blog/olmoearth-v1-3-planet-embeddings-open-2026">OlmoEarth v1.3: Free Global Satellite Embeddings (Ai2 ...</a></li>
 
 </ul>
 </details>
@@ -394,167 +379,155 @@ rss · Hugging Face Blog · Oct 22, 16:11
 ---
 
 <a id="item-tech-news-19"></a>
-### [Ensemble Forecasting with IBM Granite Time-Series Models](https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1) ⭐️ 7.0/10
+### [OpenAI Partners with NASK to Enhance AI Safety and Security](https://openai.com/index/openai-nask-ai-safety-security-partnership) ⭐️ 7.0/10
 
-The article discusses ensemble forecasting techniques utilizing IBM&\#x27;s Granite time-series models, emphasizing their role in enhancing predictive analytics. This development is significant for improving accuracy in time-series analysis, particularly in the fields of software engineering and AI systems.
+OpenAI has partnered with Poland&\#x27;s NASK to advance AI safety and security through collaborative research. This partnership aims to strengthen safeguards and support a more resilient digital ecosystem, addressing critical areas in artificial intelligence.
 
-rss · Hugging Face Blog · Oct 22, 07:51
+rss · OpenAI Blog · Oct 23, 00:00
 
-**「Background on IBM Granite Models」** IBM&\#x27;s Granite time-series models are designed for predictive analytics, offering lightweight pre-trained models such as Tiny Time Mixer \(TTM\) and Time Series Pulse \(TSPulse\). These models are optimized for enterprise time series data and enable efficient forecasting techniques, which are crucial for applications in software engineering and AI systems.
+**「Background on AI Safety」** AI safety and security are essential considerations in the development and deployment of artificial intelligence technologies. This partnership reflects a growing recognition of the need for robust measures to protect AI systems from potential risks and vulnerabilities.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.ibm.com/granite/docs/models/time-series/">IBM Granite Time Series Documentation – IBM Granite</a></li>
-<li><a href="https://huggingface.co/ibm-granite">ibm - granite ( IBM Granite )</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#time-series`, `#forecasting`, `#machine learning`, `#IBM`, `#AI`
+**Tags**: `#AI safety`, `#partnership`, `#OpenAI`, `#NASK`, `#technology`
 
 ---
 
 <a id="item-tech-news-20"></a>
 ### [Shifting Focus in Enterprise AI: Infrastructure Over Models](https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/) ⭐️ 7.0/10
 
-The article highlights a significant shift in enterprise AI, emphasizing that the competitive advantage now lies more in the supporting infrastructure than in the choice of AI models themselves. This change reflects a growing recognition that effective systems and frameworks are crucial for leveraging AI capabilities effectively.
+The article highlights a significant shift in enterprise AI, emphasizing that the competitive advantage now lies more in the infrastructure built around AI models rather than the models themselves. This change reflects a growing recognition that robust support systems are crucial for leveraging AI effectively in business environments.
 
 rss · MIT Tech Review · Oct 22, 21:17
 
-**「Background Context」** Historically, discussions in AI have focused heavily on the capabilities of models, such as their size and performance metrics. This article marks a turning point by suggesting that the infrastructure surrounding these models is becoming equally, if not more, important for success in enterprise applications.
+**「Background Context」** Historically, discussions in AI have focused on improving model capabilities, such as increasing size and performance metrics. The current emphasis on infrastructure marks a pivotal change in how enterprises approach AI deployment and utilization.
 
-**Tags**: `#AI`, `#Software Engineering`, `#Enterprise Technology`
+**Tags**: `#AI`, `#enterprise`, `#infrastructure`, `#software engineering`, `#machine learning`
 
 ---
 
 <a id="item-tech-news-21"></a>
 ### [Foundations for Building Scalable AI Systems](https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/) ⭐️ 7.0/10
 
-The article discusses the essential components for constructing scalable AI systems, particularly in regulated environments. It highlights the need for convergence among data, engineering, platforms, operating models, and governance to ensure responsible and trustworthy implementations. This exploration is particularly relevant for those involved in AI development and governance.
+The article discusses the essential components for constructing scalable AI systems, particularly in regulated environments. It emphasizes the convergence of data, engineering, platforms, operating models, and governance as critical elements for a strong foundational approach. This exploration is particularly relevant for professionals seeking to implement responsible and trustworthy AI solutions.
 
 rss · MIT Tech Review · Oct 22, 18:48
 
-**「Foundational Elements for Scalable AI」** Building scalable AI systems requires a convergence of data, engineering, platforms, operating models, and governance, particularly in regulated environments. This approach ensures that AI implementations are responsible and trustworthy, addressing both technical and regulatory challenges.
+**「Background on Scalable AI」** Scalable AI systems are increasingly important as organizations seek to leverage AI technologies while adhering to regulatory requirements. The convergence of various components is necessary to ensure that these systems can operate effectively and responsibly in complex environments.
 
-**Tags**: `#AI`, `#software engineering`, `#governance`, `#scalability`, `#technology`
+**Tags**: `#AI`, `#scalability`, `#governance`, `#engineering`, `#technology`
 
 ---
 
 <a id="item-tech-news-22"></a>
-### [The Importance of Context-Aware AI for Enterprises](https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/) ⭐️ 7.0/10
+### [The Importance of Context-Aware AI in Enterprises](https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/) ⭐️ 7.0/10
 
-The article from MIT Technology Review Insights discusses the critical role of context-aware AI in enhancing enterprise decision-making and operational integration. It highlights that while enterprise AI can automate tasks and generate recommendations, a lack of understanding of business operations can lead to ineffective decisions. This underscores the need for AI systems to incorporate contextual awareness to improve their effectiveness in real-world applications.
+The article from MIT Technology Review Insights discusses the critical role of context-aware AI in enterprise environments, emphasizing its necessity for improving decision-making and operational efficiency. It highlights that without a deep understanding of business operations, AI models may fail to consider essential constraints and relationships, potentially leading to suboptimal decisions as organizations transition AI from experimental phases to regular use.
 
 rss · MIT Tech Review · Oct 22, 10:00
 
-**「Background on AI in Enterprises」** As organizations increasingly adopt AI technologies, the transition from experimental applications to everyday operational use presents significant challenges. Context-aware AI aims to bridge the gap between AI capabilities and the specific needs of businesses, ensuring that AI solutions are relevant and effective.
+**「Background on AI in Enterprises」** As AI technologies evolve, their integration into business processes has become increasingly important. Context-aware AI specifically addresses the need for systems that can adapt to the unique operational dynamics of different organizations, enhancing the effectiveness of AI applications in real-world scenarios.
 
-**Tags**: `#AI`, `#enterprise`, `#software engineering`, `#context-awareness`, `#machine learning`
+**Tags**: `#AI`, `#enterprise`, `#context-awareness`, `#software engineering`, `#technology`
 
 ---
 
 <a id="item-tech-news-23"></a>
-### [AI&\#x27;s Hidden Storage Costs: Implications of Inference Data](https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/) ⭐️ 7.0/10
+### [Reading Data into GPU Memory with NVIDIA GPUDirect Storage in Python](https://developer.nvidia.com/blog/how-to-read-data-into-gpu-memory-in-python-with-nvidia-gpudirect-storage/) ⭐️ 7.0/10
 
-The article discusses the often-overlooked financial implications of data storage in AI systems, particularly focusing on the costs associated with inference. It emphasizes that while many executives visualize AI expenses in terms of GPUs and hardware, the ongoing storage costs for the vast amounts of data generated during inference are significant and should not be ignored.
+The article details how to efficiently read data into GPU memory using NVIDIA GPUDirect Storage, specifically targeting developers working with large datasets in AI applications. It provides insights into optimizing data transfer processes to enhance performance in GPU computing environments.
 
-rss · MIT Tech Review · Oct 22, 08:41
+rss · NVIDIA Developer Blog · Oct 22, 16:39
 
-**「Understanding AI Inference Costs」** The financial implications of AI deployment extend beyond the initial hardware costs, particularly concerning data storage associated with inference. As AI systems generate vast amounts of data from user interactions, the ongoing costs of storing this data can significantly impact overall infrastructure expenses. Previous discussions have highlighted that training and inference incur different cost profiles, with inference often leading to unexpected financial burdens due to storage fees and data management requirements.
+**「Understanding GPUDirect Storage」** NVIDIA GPUDirect Storage is a technology designed to improve data transfer speeds between storage and GPU memory, reducing CPU overhead and latency. This is particularly beneficial for applications that require handling large volumes of data, such as those in AI and machine learning.
 
-**Tags**: `#AI`, `#data storage`, `#infrastructure`, `#cost analysis`
+**Tags**: `#GPU Computing`, `#NVIDIA`, `#Data Transfer`, `#Python`, `#AI`
 
 ---
 
 <a id="item-tech-news-24"></a>
-### [Exploring the Economics of AI Compute with Elastic GPUs](https://www.latent.space/p/modal-d) ⭐️ 7.0/10
+### [Next-Concept Modeling Introduces Hierarchical Text Generation Method](https://www.reddit.com/r/MachineLearning/comments/1xd7bsu/i_just_came_across_nextconcept_modeling_and_the/) ⭐️ 7.0/10
 
-The article by Erik Bernhardsson discusses the economics of AI compute, particularly focusing on Elastic GPUs and their impact on the agent cloud. It highlights how these technologies influence the infrastructure necessary for AI development and deployment.
+Next-Concept Modeling \(NCM\) presents a new hierarchical approach to text generation that enhances efficiency in language models. Instead of generating tokens sequentially, NCM learns a hierarchy of discrete codes, generating coarse levels first and predicting finer levels in parallel, achieving up to 31 times faster generation compared to diffusion language model baselines on specific benchmarks.
 
-rss · Latent Space · Oct 22, 17:40
+rss · Reddit MachineLearning · Oct 23, 07:24
 
-**「Background on Elastic GPUs」** Elastic GPUs are a flexible computing resource that allows for scalable graphics processing, which is essential for AI workloads. This technology is increasingly relevant as AI applications demand more computational power and efficiency.
-
-**Tags**: `#AI`, `#Elastic GPUs`, `#Economics`, `#Cloud Computing`, `#Software Engineering`
-
----
-
-<a id="item-tech-news-25"></a>
-### [Using NVIDIA GPUDirect Storage for Efficient Data Transfer in Python](https://developer.nvidia.com/blog/how-to-read-data-into-gpu-memory-in-python-with-nvidia-gpudirect-storage/) ⭐️ 7.0/10
-
-The article discusses how to utilize NVIDIA GPUDirect Storage for efficient data transfer to GPU memory in Python, addressing challenges faced in GPU computing. This approach is particularly relevant for software engineers and AI practitioners working with large datasets, enhancing the performance of GPU applications.
-
-rss · NVIDIA Developer Blog · Oct 22, 16:39
-
-**「Background on GPU Data Transfer Challenges」** As GPU applications increasingly handle larger datasets, optimizing data transfer to GPU memory has become crucial. NVIDIA GPUDirect Storage is designed to facilitate this process, allowing for more efficient data handling in high-performance computing environments.
-
-**Tags**: `#GPU Computing`, `#NVIDIA`, `#Data Transfer`, `#Python`, `#Artificial Intelligence`
-
----
-
-<a id="item-tech-news-26"></a>
-### [Carbon-X: Open 14.8B Model for DNA and Text Processing](https://www.reddit.com/r/MachineLearning/comments/1xchayq/carbonx_is_an_open_148b_model_trained_jointly_on/) ⭐️ 7.0/10
-
-Carbon-X is a new 14.8 billion parameter AI model that processes raw DNA and generates responses in English. It utilizes a shared token stream for both DNA and text, achieving a 66.7% average on five DNA benchmarks, slightly lower than GPT-6.1 Sol&\#x27;s 67.5%. While it can run on a single 80 GB GPU and is available under the Apache 2.0 license, it has not undergone clinical validation, indicating that further testing is necessary.
-
-rss · Reddit MachineLearning · Oct 22, 12:32
-
-**「Background on AI in Bioinformatics」** The development of AI models like Carbon-X represents a growing trend in bioinformatics, where machine learning techniques are applied to analyze biological data, such as DNA sequences. Previous models have focused on either text or biological data separately, making Carbon-X&\#x27;s joint processing approach noteworthy.
-
-**「Impact on Sensitive Data Analysis」** Carbon-X&\#x27;s ability to analyze DNA sequences locally could enhance the handling of sensitive datasets, although its lack of clinical validation raises concerns about its reliability in practical applications.
-
-**Tags**: `#AI`, `#Machine Learning`, `#Bioinformatics`, `#Open Source`
-
----
-
-<a id="item-tech-news-27"></a>
-### [New Steerable TTS Model Reduced to 11.84 MB with Stable Performance](https://www.reddit.com/r/MachineLearning/comments/1xcum4s/we_shrank_our_steerable_small_tts_to_1184_mb_wer/) ⭐️ 7.0/10
-
-The new edge variant of the steerable text-to-speech \(TTS\) model has been reduced to 11.84 MB while maintaining the same word error rate \(WER\) of 0.96%. The model features a quantization-aware trained acoustic model and a distilled vocoder, both optimized for size without significant loss in intelligibility, although the UTMOS score drops slightly by about 0.1.
-
-rss · Reddit MachineLearning · Oct 22, 20:57
-
-**「Previous Model Release」** This release follows the earlier version of the steerable TTS model, which was larger and had not undergone the same optimization techniques. The previous model&\#x27;s performance metrics were not specified, but the new edge variant aims to provide a more compact solution for developers.
-
-**「User Benefits」** Developers and researchers can now deploy a smaller TTS model that retains high-quality output, making it more suitable for applications with limited storage capacity while still offering robust steering capabilities.
-
-**Tags**: `#text-to-speech`, `#machine learning`, `#model optimization`, `#AI`
-
----
-
-<a id="item-tech-news-28"></a>
-### [Frontier Models Struggle with ASMR Audio Classification](https://www.reddit.com/r/MachineLearning/comments/1xcbqdm/frontier_models_are_bad_at_hearing_asmr_8_judges/) ⭐️ 7.0/10
-
-An analysis shows that frontier models, including Gemini 3.1 Pro and GPT Audio 1.5, perform poorly in labeling ASMR audio clips, with the best model achieving a trigger F1 score of only 0.325 against human labels. The study involved 480 ASMR clips and highlighted significant discrepancies in model performance, particularly with physical triggers like brushing and paper sounds. The results indicate that these models are not reliable for fine-grained audio classification tasks.
-
-rss · Reddit MachineLearning · Oct 22, 07:10
-
-**「Context of the Study」** The analysis is part of a project to train a text-to-ASMR model, which requires accurate labeling of audio clips. Previous attempts to use frontier models for audio classification have shown varying degrees of success, but this study specifically focuses on their effectiveness in recognizing ASMR-related sounds.
-
-**「Consequences for Audio Classification」** The poor performance of frontier models in ASMR audio classification suggests that researchers and developers may need to rely more on human labeling or explore alternative models for accurate sound recognition in this niche area.
-
-**Tags**: `#machine learning`, `#audio processing`, `#ASMR`, `#evaluation`, `#model performance`
-
----
-
-<a id="item-tech-news-29"></a>
-### [UltraViT: A Fast Mobile Vision Encoder Achieving 150 FPS](https://arxiv.org/abs/2607.23373) ⭐️ 7.0/10
-
-The UltraViT model has been introduced as a mobile vision encoder optimized for performance, achieving nearly 150 frames per second on a specific mobile NPU \(S25\). It features a four-stage pyramid architecture that combines fast convolutions and attention mechanisms, along with a novel distillation pipeline for training. This model outperforms the previously established FastVLM in visual question answering tasks, demonstrating significant improvements in speed and efficiency.
-
-telegram · gptupdates · Oct 22, 21:42
-
-**「Introduction to UltraViT」** UltraViT is a newly introduced vision encoder specifically designed for mobile vision-language models \(LVLMs\). It features a four-stage pyramidal architecture that optimizes on-device performance by utilizing real latency measurements from mobile NPUs. The model employs a two-stage pre-training approach, combining dense spatial distillation and generative learning with a frozen language model.
-
-**「Performance Benefits」** UltraViT reduces image encoding latency to 6.6 ms at a resolution of 512 × 512 and compresses the number of visual tokens by 16 times within its architecture, which could significantly enhance the performance of mobile applications relying on visual-language processing.
+**「Understanding Next-Concept Modeling」** Next-Concept Modeling \(NCM\) is a novel approach to text generation that departs from traditional autoregressive methods. Instead of generating text token by token, NCM learns a hierarchy of discrete codes, generating text in a coarse-to-fine manner. This method allows for parallel prediction of codes at different levels, significantly improving generation speed and efficiency.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2607.23373">[2607.23373] UltraViT: Latency-Optimized On-device Vision ...</a></li>
+<li><a href="https://arxiv.org/pdf/2610.14162">Next - Concept Modeling : Fast, Parallel Coarse-to-Fine Text Generation</a></li>
+<li><a href="https://www.forbes.com/sites/lanceeliot/2026/10/20/generative-ai-gets-shaken-up-by-next-concept-modeling-that-produces-concepts-first-and-words-second/">Generative AI Gets Shaken Up By Next - Concept Modeling That...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#machine learning`, `#computer vision`, `#mobile technology`, `#AI models`
+**Tags**: `#Machine Learning`, `#Text Generation`, `#AI Research`
+
+---
+
+<a id="item-tech-news-25"></a>
+### [Carbon-X: Open 14.8B Model for DNA and Text Processing](https://www.reddit.com/r/MachineLearning/comments/1xchayq/carbonx_is_an_open_148b_model_trained_jointly_on/) ⭐️ 7.0/10
+
+Carbon-X is a new 14.8 billion parameter decoder-only model designed to process raw DNA and respond in English. It utilizes a shared token stream for both text and DNA, employing 6-mer tokens, and was mid-trained on 302 billion tokens. The model has shown a 66.7% average performance across five DNA benchmarks, although it has not undergone clinical validation.
+
+rss · Reddit MachineLearning · Oct 22, 12:32
+
+**「Technical Details」** The model&\#x27;s weights can fit on a single 80 GB GPU using bfloat16 format and are released under the Apache 2.0 license. While it offers potential for local sequence analysis of sensitive datasets, the model card advises that exact sequence operations should still be managed by code.
+
+**「Potential Applications」** Carbon-X&\#x27;s ability to analyze sensitive datasets locally could enhance privacy in bioinformatics applications, although its lack of clinical validation may limit its immediate use in healthcare settings.
+
+**Tags**: `#machine learning`, `#bioinformatics`, `#AI models`, `#open source`
+
+---
+
+<a id="item-tech-news-26"></a>
+### [New Steerable TTS Model Released at 11.84 MB with Unchanged WER](https://www.reddit.com/r/MachineLearning/comments/1xcum4s/we_shrank_our_steerable_small_tts_to_1184_mb_wer/) ⭐️ 7.0/10
+
+A new variant of the steerable text-to-speech \(TTS\) model, named SteerTTS Edge, has been released, reducing its size to 11.84 MB while maintaining an unchanged word error rate \(WER\) of 0.96%. The user testing mean opinion score \(UTMOS\) dropped slightly by approximately 0.1, primarily due to the smaller vocoder. This model is available for use and is particularly beneficial for applications requiring efficient TTS solutions.
+
+rss · Reddit MachineLearning · Oct 22, 20:57
+
+**「Previous Model Release」** The original SteerTTS model was introduced earlier, allowing users to control various speech parameters through numerical inputs. The new edge variant builds on this foundation by optimizing the model&\#x27;s size without compromising its intelligibility.
+
+**「Efficiency for Developers」** The reduced size of the SteerTTS Edge model makes it more suitable for deployment in resource-constrained environments, allowing developers to integrate TTS capabilities into applications with limited storage and processing power.
+
+**Tags**: `#Text-to-Speech`, `#Machine Learning`, `#Model Optimization`
+
+---
+
+<a id="item-tech-news-27"></a>
+### [Canva Launches Craft - New Image Generation Model with Design Understanding](https://www.canva.com/newsroom/news/canva-craft/) ⭐️ 7.0/10
+
+Canva has introduced Craft, a new image generation model that focuses on design composition before creating images. Craft first plans the layout, proportions, visual hierarchy, and text before generating images up to 2K resolution, supporting over 30 aspect ratios and multilingual requests in 55 languages. The model is available in Canva Dream Lab and via API, with future versions promised to enhance speed.
+
+telegram · gptupdates · Oct 23, 08:15
+
+**「Canva&\#x27;s New Image Generation Model」** Canva has introduced Craft, its first image generation model developed by its in-house AI lab, Canva Research. This model emphasizes design composition by first planning the layout and hierarchy of elements before generating the final image, distinguishing it from traditional image generators.
+
+**「Impact」** The introduction of Craft may significantly streamline the design process for users by allowing them to create meaningful layouts and edit individual composition elements, enhancing the overall quality of visual content produced.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.canva.com/newsroom/news/canva-craft/">Introducing Canva Craft</a></li>
+<li><a href="https://www.unite.ai/canva-debuts-craft-image-model-built-by-its-in-house-research-lab/">Canva Debuts Craft Image Model Built by Its In-House Research ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#image generation`, `#design technology`, `#Canva`, `#AI models`, `#software engineering`
+
+---
+
+<a id="item-tech-news-28"></a>
+### [Corridor Crew Releases CorridorKey 2 for Enhanced Video Processing](https://www.youtube.com/watch?v=svrdRAoIlxM) ⭐️ 7.0/10
+
+Corridor Crew has launched CorridorKey 2, an upgraded tool for advanced video processing that significantly improves green/blue screen removal and object isolation. This version utilizes three neural networks—C-RADIOv4 from NVIDIA, MoGe-2 from Microsoft, and RVM from Google DeepMind—to enhance accuracy in complex scenes. CorridorKey 2 requires an RTX 30 series GPU or newer with at least 4 GB of VRAM for 2K footage and 6 GB for 4K, and it is compatible with Windows and Linux.
+
+telegram · gptupdates · Oct 23, 09:02
+
+**「Previous Version Context」** The original CorridorKey tool focused on basic green/blue screen removal but lacked the advanced capabilities introduced in this new version. CorridorKey 2 enhances functionality by allowing for input video processing at native resolution and incorporating temporal stabilization techniques.
+
+**「User Benefits」** Video professionals can expect improved precision in isolating subjects in challenging scenes, such as those with occlusions or complex backgrounds, making CorridorKey 2 a valuable asset for high-quality video production.
+
+**Tags**: `#video processing`, `#software tools`, `#AI technology`
 
 ---
