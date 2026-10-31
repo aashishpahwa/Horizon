@@ -1,29 +1,31 @@
 # Horizon Daily - 2026-10-31
 
-> From 80 items, 19 important content pieces were selected
+> From 71 items, 21 important content pieces were selected
 
 ---
 
 **Technology News**
 1. [AI Model Autonomously Performs Gene Therapy on Mouse Brain](#item-tech-news-1) ⭐️ 9.0/10
 2. [GLM 5.3 AI Model Generates Firefox Exploit Chains Autonomously](#item-tech-news-2) ⭐️ 9.0/10
-3. [Northflank Breach Highlights SaaS Security Vulnerabilities](#item-tech-news-3) ⭐️ 8.0/10
-4. [Backdoor Found in Claude Code Extension on Cursor Marketplace](#item-tech-news-4) ⭐️ 8.0/10
-5. [Azure Cross-Tenant Vulnerabilities Exposed](#item-tech-news-5) ⭐️ 8.0/10
-6. [Build Specialized Agents on a Stack You Control with NVIDIA NemoClaw](#item-tech-news-6) ⭐️ 8.0/10
-7. [Refined Multi-Token Prediction Technique Introduced](#item-tech-news-7) ⭐️ 8.0/10
-8. [DeepSeek-V4.1-Flash Introduces Enhanced Efficiency in Multimodal Models](#item-tech-news-8) ⭐️ 8.0/10
-9. [Neuralink&\#x27;s Blindsight Ready for Regulatory Approval](#item-tech-news-9) ⭐️ 8.0/10
-10. [Emulating Nintendo Entertainment System with LLM Weights](#item-tech-news-10) ⭐️ 7.0/10
-11. [Tangled Launches as a Federated Code Forge](#item-tech-news-11) ⭐️ 7.0/10
-12. [AI&\#x27;s Impact on Site Reliability Engineers: Deskilling Concerns](#item-tech-news-12) ⭐️ 7.0/10
-13. [The $6.3B Binance Hack Executed in Just 20 Minutes](#item-tech-news-13) ⭐️ 7.0/10
-14. [OpenAI Updates AI Behavioral Guidelines for Enhanced Control](#item-tech-news-14) ⭐️ 7.0/10
-15. [Reddit CEO Warns Google&\#x27;s AI Mode Harms Web Traffic](#item-tech-news-15) ⭐️ 7.0/10
-16. [Validated Kubernetes Runtime for NVIDIA Dynamo Enhances AI Deployment](#item-tech-news-16) ⭐️ 7.0/10
-17. [Deploy AI Models for Edge Applications with Simple Commands](#item-tech-news-17) ⭐️ 7.0/10
-18. [Guide to Configuring NVIDIA GPUDirect Storage for Enhanced GPU Access](#item-tech-news-18) ⭐️ 7.0/10
-19. [Biological Computing Co. Launches AI Video Model Using Lab-Grown Brain Cells](#item-tech-news-19) ⭐️ 7.0/10
+3. [Northflank Breach Raises Security Concerns in SaaS Sector](#item-tech-news-3) ⭐️ 8.0/10
+4. [Introducing Sanstun: A Parallel-Friendly WireGuard Implementation in Rust](#item-tech-news-4) ⭐️ 8.0/10
+5. [Improved Multi-Token Prediction Method Introduced](#item-tech-news-5) ⭐️ 8.0/10
+6. [DeepSeek-V4.1-Flash Launches with Innovative Multimodal Model](#item-tech-news-6) ⭐️ 8.0/10
+7. [Cisco Provides Unlimited AI Tokens for Legacy Code Rewriting](#item-tech-news-7) ⭐️ 7.0/10
+8. [Emulating Nintendo Entertainment System with LLM Weights](#item-tech-news-8) ⭐️ 7.0/10
+9. [Linode Security Incident Raises Concerns Over Vulnerabilities](#item-tech-news-9) ⭐️ 7.0/10
+10. [AI&\#x27;s Impact on Site Reliability Engineers: Deskilling Concerns](#item-tech-news-10) ⭐️ 7.0/10
+11. [Tangled Launches Federated Code Forge for Self-Hosting and Collaboration](#item-tech-news-11) ⭐️ 7.0/10
+12. [Malicious Claude Code Extension in Cursor&\#x27;s Marketplace Attempts Data Theft](#item-tech-news-12) ⭐️ 7.0/10
+13. [OpenAI Updates Behavioral Guidelines for AI Models](#item-tech-news-13) ⭐️ 7.0/10
+14. [Reddit CEO Warns Google&\#x27;s AI Mode Harms Web Traffic](#item-tech-news-14) ⭐️ 7.0/10
+15. [Critical Vulnerabilities in AI Models Highlighted in &\#x27;Black October&\#x27;](#item-tech-news-15) ⭐️ 7.0/10
+16. [Validated Kubernetes Runtime for NVIDIA Dynamo Announced](#item-tech-news-16) ⭐️ 7.0/10
+17. [Build Specialized Agents with NVIDIA NemoClaw for Enhanced Security](#item-tech-news-17) ⭐️ 7.0/10
+18. [Configuring NVIDIA GPUDirect Storage for Efficient GPU Data Access](#item-tech-news-18) ⭐️ 7.0/10
+19. [Lab-grown brain cells enhance AI video model speed by 5x](#item-tech-news-19) ⭐️ 7.0/10
+20. [Neuralink&\#x27;s Blindsight Ready for Regulatory Approval](#item-tech-news-20) ⭐️ 7.0/10
+21. [Anthropic Surpasses US Government as SpaceX&\#x27;s Largest Customer](#item-tech-news-21) ⭐️ 7.0/10
 
 ---
 
@@ -32,250 +34,216 @@
 <a id="item-tech-news-1"></a>
 ### [AI Model Autonomously Performs Gene Therapy on Mouse Brain](https://the-decoder.com/a-claude-model-autonomously-chose-a-gene-therapy-and-operated-on-a-mouse-brain-with-no-human-decision-making/) ⭐️ 9.0/10
 
-An AI model autonomously selected and administered gene therapy to an epileptic mouse, marking a significant advancement in AI&\#x27;s role in medical procedures. This is the first instance where an AI agent has independently chosen a treatment and executed it on a living mammal. However, during the procedure, a calibration error occurred, causing the AI to refuse to continue the operation.
+An AI model autonomously selected and administered gene therapy to an epileptic mouse, determining the drug, brain target, and injection coordinates without human intervention. This marks the first instance of an AI agent autonomously choosing and delivering a treatment to a living mammal. However, during the procedure, a calibration error occurred, causing the AI to refuse to continue the operation.
 
 rss · The Decoder · Oct 30, 19:42
 
-**「Background on AI in Medicine」** This development highlights the growing intersection of artificial intelligence and healthcare, where AI systems are increasingly being explored for their potential to perform complex medical tasks autonomously.
+**「AI in Medical Procedures」** This development marks a significant step in the application of AI in healthcare, particularly in autonomous medical procedures. Previously, AI systems have assisted in medical decision-making, but this instance represents the first time an AI agent, specifically running on Claude Sonnet 5, has autonomously selected a treatment and executed a surgical procedure on a living organism without human intervention.
 
-**「Impact on Future AI Applications」** The successful autonomous operation by the AI model could pave the way for future applications of AI in medical procedures, although the incident with the calibration error raises concerns about the reliability and safety of such systems in critical situations.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://the-decoder.com/a-claude-model-autonomously-chose-a-gene-therapy-and-operated-on-a-mouse-brain-with-no-human-decision-making/">A Claude model autonomously chose a gene therapy and operated ...</a></li>
+<li><a href="https://radar.aitoolnet.com/guide/claude-autonomously-performs-gene-therapy-brain-surgery-on-mouse-first-ai-led-tr-mvvluvg9">Claude Autonomously Performs Gene Therapy Brain Surgery on ...</a></li>
 
-**Tags**: `#AI`, `#gene therapy`, `#autonomous systems`, `#medical technology`, `#machine learning`
+</ul>
+</details>
+
+**Tags**: `#AI`, `#gene therapy`, `#neuroscience`, `#autonomous systems`, `#medical technology`
 
 ---
 
 <a id="item-tech-news-2"></a>
 ### [GLM 5.3 AI Model Generates Firefox Exploit Chains Autonomously](https://the-decoder.com/open-weight-model-glm-5-3-built-full-firefox-exploit-chains-with-zero-human-input-in-under-48-hours/) ⭐️ 9.0/10
 
-The AI model GLM 5.3 autonomously generated exploit chains for six Firefox releases in under 48 hours, utilizing public security fixes before they were patched for users. Each exploit cost approximately $1,000 in API fees and bypassed existing safeguards from tested providers, raising significant security concerns.
+Researchers have shown that the GLM 5.3 AI model can autonomously generate exploit chains for six Firefox releases, turning public security fixes into working exploits in under 48 hours. This process cost approximately $1,000 in API fees for each exploit and occurred without triggering any safeguards from the tested providers, raising significant concerns about AI&\#x27;s potential role in cybersecurity threats.
 
 rss · The Decoder · Oct 30, 12:22
 
-**「Background on GLM 5.3」** GLM 5.3 is an advanced AI model developed by Z. AI, which builds on its predecessor, GLM 5.2, with enhancements in software engineering and agent capabilities. This model&\#x27;s ability to autonomously generate exploit chains from public security fixes highlights significant advancements in AI&\#x27;s role in cybersecurity, raising concerns about the implications for software safety and security.
+**「Background on GLM 5.3」** GLM 5.3 is an open-weight AI model developed by Z. ai, released without gated controls, which allows for broader accessibility and potential misuse. It builds on the capabilities of its predecessor, GLM 5.2, with enhancements aimed at complex software engineering and exploit development, as highlighted in a cyber capability assessment published by Anthropic on September 30, 2026.
 
-**「Impact on Cybersecurity」** This development poses a serious threat to cybersecurity, as it demonstrates the potential for AI to rapidly exploit vulnerabilities in widely used software, potentially leading to increased risks for users and organizations relying on Firefox.
+**「Implications for Cybersecurity」** The ability of the GLM 5.3 model to create exploit chains autonomously poses a serious risk to cybersecurity, as it demonstrates how AI can be leveraged for malicious purposes, potentially outpacing traditional security measures.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://the-decoder.com/open-weight-model-glm-5-3-built-full-firefox-exploit-chains-with-zero-human-input-in-under-48-hours/">Open-weight model GLM 5 . 3 built full Firefox exploit chains with zero...</a></li>
+<li><a href="https://convly.ai/antorix-glm-5-3-hacking-capability-warning/">Anthropic Warns of GLM - 5 . 3 Hacking Capability Risk | Convly</a></li>
+<li><a href="https://docs.z.ai/guides/llm/glm-5.3">GLM - 5 . 3 - Overview - Z. AI DEVELOPER DOCUMENT</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#Cybersecurity`, `#Software Engineering`, `#Exploits`, `#Machine Learning`
+**Tags**: `#AI`, `#Cybersecurity`, `#Exploit Development`, `#Software Engineering`
 
 ---
 
 <a id="item-tech-news-3"></a>
-### [Northflank Breach Highlights SaaS Security Vulnerabilities](https://status.northflank.com/) ⭐️ 8.0/10
+### [Northflank Breach Raises Security Concerns in SaaS Sector](https://status.northflank.com/) ⭐️ 8.0/10
 
-The Northflank breach has raised alarms about security vulnerabilities in SaaS platforms, prompting urgent discussions within the industry. This incident underscores the need for improved security practices as multiple attacks against similar vendors have occurred recently, indicating a troubling trend in the sector.
+Northflank has experienced a security breach, raising significant concerns within the SaaS industry regarding the safety of multi-tenant services. This incident has sparked urgent discussions about infrastructure security practices and the implications for service providers and their customers.
 
 hackernews · js4ever · Oct 30, 15:10 · [Discussion](https://news.ycombinator.com/item?id=50305025)
 
-**「Background on Northflank」** Northflank is a platform that provides infrastructure as a service \(IaaS\) for deploying applications. It has experienced multiple incidents in 2026, including issues related to uptime and security, which have raised concerns about the vulnerabilities inherent in SaaS platforms. The recent breach highlights the ongoing challenges in securing multi-tenant environments, which have been increasingly targeted by cyberattacks.
+**「Context of Northflank Breach」** On October 30, 2026, Northflank experienced a significant security breach, prompting the company to advise users to assume their environment variables were compromised and to rotate all secrets. This incident follows a series of similar attacks on multi-tenant SaaS providers, raising concerns about the security practices within the industry and the vulnerabilities inherent in shared infrastructure.
 
-**「Consequences for SaaS Providers」** The breach may lead to a shift in customer trust, pushing organizations to reconsider their reliance on smaller SaaS providers in favor of larger hyperscalers known for stronger security measures. This could impact the market dynamics for infrastructure startups.
+**「Consequences for SaaS Providers」** The breach may lead to a shift back towards hyperscalers for infrastructure needs, as security becomes a paramount concern for enterprises, potentially impacting the viability of smaller SaaS startups.
 
-**「Community Reactions」** Community members expressed concern over the frequency of attacks on SaaS vendors, with one commenter noting at least six significant breaches in the past month. Others discussed potential security strategies, such as encrypting environment variables to mitigate risks.
+**「Community Reactions」** Community members express concern over the frequency of attacks on SaaS vendors, with one user noting at least six significant breaches in the past month. There is a call for improved security measures and a potential shift in customer trust towards larger providers.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://status.northflank.com/history/1">Notice history - Northflank - Status</a></li>
-<li><a href="https://pingoru.io/providers/northflank">Is Northflank Down? Outages, Status... — September 2026 · Pingoru</a></li>
+<li><a href="https://status.northflank.com/cmvv0rn5a092f14rutwccodpp">Security incident - Incident details - Northflank - Status</a></li>
+<li><a href="https://www.qovery.com/blog/northflank-security-incident-secrets-own-cloud">Northflank Security Incident (October 30, 2026): What ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#security`, `#SaaS`, `#breach`, `#infosec`, `#community discussion`
+**Tags**: `#security`, `#SaaS`, `#infrastructure`, `#breach`, `#community discussion`
 
 ---
 
 <a id="item-tech-news-4"></a>
-### [Backdoor Found in Claude Code Extension on Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) ⭐️ 8.0/10
+### [Introducing Sanstun: A Parallel-Friendly WireGuard Implementation in Rust](https://www.firezone.dev/blog/introducing-sanstun) ⭐️ 8.0/10
 
-A backdoor was discovered in the Claude Code extension available on the Cursor Marketplace, raising significant security concerns for users of this VS Code extension. The malicious version, which was not developed by Anthropic, was live on the marketplace for several hours before being removed. Users are advised to check their SSH authorized keys for a public key labeled &\#x27;svc-telemetry&\#x27; that indicates compromise.
+Sanstun is a new implementation of the WireGuard protocol developed in Rust, designed to enhance parallelism while adhering to Rust&\#x27;s ownership principles. This implementation aims to improve performance and security for developers working with secure communication protocols. It emphasizes compatibility with Rust&\#x27;s features, making it suitable for modern programming practices.
 
-hackernews · \_chall · Oct 30, 07:09 · [Discussion](https://news.ycombinator.com/item?id=50300683)
+hackernews · wh33zle · Oct 30, 21:30 · [Discussion](https://news.ycombinator.com/item?id=50310398)
 
-**「Background on the Claude Code Extension Incident」** The Claude Code extension for VS Code, specifically version 2.1.313, was compromised and made available on the Cursor Marketplace, leading to the installation of a malicious SSH backdoor on users&\#x27; systems. This incident was confirmed by Cursor, which stated that the malicious version was not developed by Anthropic, the original creators of the extension, and was live for a limited time, impacting potentially up to 5,000 users.
+**「Background on WireGuard Implementations」** Sanstun is a new implementation of the WireGuard protocol, which is known for its simplicity and efficiency in secure communications. This implementation, developed by Firezone, builds on over two years of experience maintaining a fork of boringtun, another WireGuard implementation, and aims to enhance performance by separating I/O from protocol logic, allowing for better parallelism.
 
-**「User Security Risks」** Developers using the compromised Claude Code extension may have had their systems exposed, as the backdoor allows unauthorized access through SSH. Users are urged to verify their SSH keys to ensure they are not affected.
+**「Impact on Developers」** Developers interested in secure networking can leverage Sanstun&\#x27;s design to create more efficient and testable protocol implementations in Rust, potentially leading to improved performance and reduced security risks in their applications.
 
-**「Clarifications from the Community」** Community members, including Felix from Anthropic, clarified that the backdoor was due to a tampered version of the extension published on Cursor&\#x27;s marketplace, not a breach of Anthropic&\#x27;s systems. Users are discussing the implications of this incident and how to check for potential impacts on their systems.
+**「Community Insights」** Community members have expressed enthusiasm for Sanstun&\#x27;s design, noting its alignment with best practices in Rust programming. Some users highlighted the benefits of shared code between async and blocking I/O, while others discussed the simplicity of the WireGuard protocol as a foundation for innovation.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html">Official Claude Code VS Code Extension Compromised to Install...</a></li>
-<li><a href="https://cursor.com/blog/claude-code-extension-security-notice">Security notice — malicious version of Anthropic. claude - code ...</a></li>
-<li><a href="https://phorion.io/blog/offical-claude-code-vsx-compromise/">Official Claude Code Extension Compromise: Security... | Phorion</a></li>
+<li><a href="https://www.firezone.dev/blog/introducing-sanstun">Introducing sanstun: sans-IO WireGuard | Firezone Blog</a></li>
+<li><a href="https://news.lavx.hu/article/firezone-releases-sanstun-a-sans-io-wireguard-implementation-built-for-parallel-crypto">Firezone releases sanstun, a sans-IO WireGuard implementation ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#security`, `#software engineering`, `#VS Code`, `#malware`, `#community discussion`
+**Tags**: `#Rust`, `#WireGuard`, `#Networking`, `#Security`, `#Concurrency`
 
 ---
 
 <a id="item-tech-news-5"></a>
-### [Azure Cross-Tenant Vulnerabilities Exposed](https://www.binarysecurity.no/posts/2026/10/one-root-case) ⭐️ 8.0/10
+### [Improved Multi-Token Prediction Method Introduced](https://www.reddit.com/r/MachineLearning/comments/1xjnz40/multitoken_prediction_done_right_r/) ⭐️ 8.0/10
 
-A recent article highlights serious cross-tenant vulnerabilities in Azure, revealing five full compromises that could affect organizations using the platform. This has sparked significant community concern regarding the security implications for enterprise users, emphasizing the need for improved security measures. The vulnerabilities could potentially allow unauthorized access across different tenants within Azure.
+A new paper presents an enhanced method for Multi-Token Prediction \(MTP\) in machine learning, featuring a KL gradient-recovery technique that improves speculative decoding. This method requires only a simple one-line code change to implement, potentially offering significant performance improvements across various tasks. The code and paper are available on GitHub and arXiv, respectively.
 
-hackernews · swq115 · Oct 30, 10:06 · [Discussion](https://news.ycombinator.com/item?id=50301854)
+rss · Reddit MachineLearning · Oct 30, 18:53
 
-**「Understanding Cross-Tenant Vulnerabilities」** Cross-tenant vulnerabilities in cloud services allow attackers to access data or resources from other tenants, posing significant security risks. Previous reports, such as one detailing a critical vulnerability in Azure&\#x27;s Cosmos DB, have highlighted the severity of these issues, indicating that such flaws are not unique to Azure but prevalent across cloud platforms. This context underscores the importance of addressing security measures in multi-tenant environments.
-
-**「Impact on Azure Users」** The identified vulnerabilities pose a direct risk to organizations using Azure, as they may lead to unauthorized access to sensitive data across different tenants. This situation necessitates immediate attention from Microsoft to enhance security protocols and protect user data.
-
-**「Community Reactions」** Community members have expressed frustration over the frequency of cross-tenant leaks in Azure, with some questioning why enterprises continue to use the platform despite these vulnerabilities. Others have praised the efforts of the researcher who uncovered these issues, highlighting the importance of such findings for improving security.
+**「Understanding Multi-Token Prediction」** Multi-Token Prediction \(MTP\) has become a standard technique in language model pre-training, enhancing performance and enabling faster inference through speculative decoding. Recent research has identified issues with the standard MTP training process, particularly a noisy residual gradient that hampers effective learning, especially as model sizes increase. The newly proposed Soft Multi-Token Prediction \(Soft-MTP\) addresses these issues by utilizing a KL gradient-recovery technique to improve the training process.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://shattered.io/cosmosescape-azure-cosmos-db-vulnerability-2026/">CosmosEscape: Azure Cosmos DB Bug Scores CVSS 10.0 [ 2026 ]</a></li>
-<li><a href="https://www.thestack.technology/aws-azure-cross-tenant-vulnerability-driver-orca/">Azure savaged over new cross - tenant vulnerability</a></li>
+<li><a href="https://aitop.news/item/51133">Soft-MTP Fixes Multi-Token Prediction Training via KL ...</a></li>
+<li><a href="https://arxiv.org/abs/2610.38331">[2610.38331] Multi-Token Prediction Done Right - arXiv.org</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Azure`, `#security`, `#vulnerabilities`, `#cloud computing`, `#cross-tenant`
+**Tags**: `#Machine Learning`, `#Artificial Intelligence`, `#Research`, `#Technical Innovation`
 
 ---
 
 <a id="item-tech-news-6"></a>
-### [Build Specialized Agents on a Stack You Control with NVIDIA NemoClaw](https://developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw/) ⭐️ 8.0/10
+### [DeepSeek-V4.1-Flash Launches with Innovative Multimodal Model](https://arxiv.org/abs/2609.19969) ⭐️ 8.0/10
 
-NVIDIA has introduced NemoClaw, a framework designed to help developers build secure, specialized autonomous agents while maintaining control over their deployment stack. This approach emphasizes the importance of a secure runtime environment and domain-specific tools for effective agent deployment.
+DeepSeek-V4.1-Flash has been released, featuring a multimodal model with 552 billion parameters and advanced caching techniques, significantly improving efficiency. The model supports a context of 1 million tokens and reduces global KV-cache size to 890 bytes per token, compared to 3,514 bytes in the previous version. This release marks a departure from typical decoder-only architectures, showcasing a novel decoder-decoder approach.
 
-rss · NVIDIA Developer Blog · Oct 30, 16:00
+telegram · gptupdates · Oct 30, 22:36
 
-**「NVIDIA NemoClaw Overview」** NVIDIA NemoClaw is an open-source tool designed to facilitate the deployment and management of autonomous agents, emphasizing security and control over the deployment stack. It allows developers to create specialized agents by integrating domain-specific tools and enforcing runtime security measures. This approach is part of a broader trend in AI development focused on building safer and more reliable autonomous systems.
+**「DeepSeek Model Evolution」** DeepSeek-V4.1-Flash is a significant update from the previous DeepSeek models, particularly DeepSeek-V4-Flash, which was released earlier. The new version introduces a multimodal model with 552 billion parameters and innovative caching techniques that enhance efficiency, particularly in handling large contexts of up to 1 million tokens. This evolution reflects a shift from traditional decoder-only architectures to a more complex decoder-decoder structure, aiming to improve performance in various tasks.
+
+**「Impact on AI Model Efficiency」** The introduction of DeepSeek-V4.1-Flash allows for more efficient handling of agent sessions with large token counts, as it shifts the computational burden from memory size to processing power. This could lead to broader adoption of large-scale models in environments with limited hardware resources.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.nvidia.com/en-us/ai/nemoclaw/">Safer AI Agents &amp; Assistants with OpenClaw | NVIDIA NemoClaw</a></li>
-<li><a href="https://sourceforge.net/projects/nemoclaw.mirror/">NemoClaw download | SourceForge.net</a></li>
+<li><a href="https://www.deepseek.com/en/news/deepseek-v4-1-flash/">DeepSeek | Introducing DeepSeek-V4.1-Flash: smarter, faster ...</a></li>
+<li><a href="https://baike.baidu.com/en/item/DeepSeek+V4.1+Flash/5729202">DeepSeek V4.1 Flash（A model officially released on September ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#NVIDIA`, `#AI`, `#autonomous agents`, `#software engineering`, `#machine learning`
+**Tags**: `#open source`, `#machine learning`, `#AI models`, `#technology news`
 
 ---
 
 <a id="item-tech-news-7"></a>
-### [Refined Multi-Token Prediction Technique Introduced](https://www.reddit.com/r/MachineLearning/comments/1xjnz40/multitoken_prediction_done_right_r/) ⭐️ 8.0/10
+### [Cisco Provides Unlimited AI Tokens for Legacy Code Rewriting](https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/) ⭐️ 7.0/10
 
-A new paper introduces an enhanced method for Multi-Token Prediction \(MTP\), which improves upon standard techniques used in machine learning models. The authors reveal that the conventional MTP gradient conceals a KL self-distillation signal that can enhance speculative decoding, and they propose a simple code modification to recover this gradient. The new approach, termed Soft Multi-Token Prediction \(Soft-MTP\), is claimed to improve performance across various tasks.
+Cisco has announced an initiative to provide unlimited AI tokens to a 27-year-old engineer, Jeetu Patel, to assist in rewriting legacy code. This approach aims to modernize outdated software systems and reflects a significant shift in how companies may leverage AI for software engineering tasks. The initiative highlights Cisco&\#x27;s commitment to innovation in technology and software development.
 
-rss · Reddit MachineLearning · Oct 30, 18:53
+hackernews · taubek · Oct 30, 14:08 · [Discussion](https://news.ycombinator.com/item?id=50304122)
 
-**「Understanding Multi-Token Prediction」** Multi-Token Prediction \(MTP\) is a technique in machine learning that enables models to predict multiple upcoming tokens simultaneously, rather than just the next one. This approach provides a richer training signal and facilitates faster generation, making it a standard method in frontier pre-training. Recent advancements have highlighted ways to improve MTP&\#x27;s effectiveness, particularly in speculative decoding tasks.
+**「Context of Legacy Code Challenges」** Legacy code often presents significant challenges for organizations, including outdated technologies and a lack of documentation. Companies are increasingly looking for innovative solutions, such as AI, to modernize these systems efficiently.
 
-**Tags**: `#Machine Learning`, `#Artificial Intelligence`, `#Research`, `#Software Engineering`
+**「Potential Consequences for Software Development」** This initiative could streamline the process of updating legacy systems, potentially reducing costs and time associated with software modernization. However, it may also introduce new bugs and security vulnerabilities if not managed properly.
+
+**「Community Reactions」** Community members have expressed mixed feelings about the initiative, with some highlighting the potential for AI to effectively translate and modernize outdated code, while others raise concerns about the risks of introducing vulnerabilities through AI-generated code.
+
+**Tags**: `#AI`, `#legacy code`, `#software engineering`, `#Cisco`, `#technology industry`
 
 ---
 
 <a id="item-tech-news-8"></a>
-### [DeepSeek-V4.1-Flash Introduces Enhanced Efficiency in Multimodal Models](https://arxiv.org/abs/2609.19969) ⭐️ 8.0/10
+### [Emulating Nintendo Entertainment System with LLM Weights](https://github.com/dbreunig/nesformer) ⭐️ 7.0/10
 
-DeepSeek-V4.1-Flash has been released, showcasing a multimodal model with 552 billion parameters and a unique decoder-decoder architecture. This version significantly improves efficiency in KV cache usage, reducing global KV cache size to 890 bytes per token, compared to 3,514 bytes in the previous version. The model also supports a context of 1 million tokens and achieves a 90.6% Pass@1 score on the Terminal-Bench 2.1 benchmark.
+A new project called &\#x27;nesformer&\#x27; demonstrates the emulation of a Nintendo Entertainment System \(NES\) using approximately 1GB of Qwen LLM weights. This innovative approach has generated significant interest in the intersection of AI and hardware emulation, showcasing how large language models can be utilized for such tasks.
 
-telegram · gptupdates · Oct 30, 22:36
+hackernews · dbreunig · Oct 30, 16:40 · [Discussion](https://news.ycombinator.com/item?id=50306442)
 
-**「DeepSeek Model Evolution」** DeepSeek-V4.1-Flash represents a significant advancement in the DeepSeek series, particularly in its use of KV cache compression techniques. Previous versions, such as DeepSeek-V4-Flash, had a higher KV cache footprint, which has now been reduced by approximately 1/8 in the latest iteration, enhancing efficiency and performance in handling large contexts.
+**「Context of Development」** This project builds on the concept of using AI models for hardware emulation, a field that has seen various explorations, particularly with FPGAs. The nesformer project specifically leverages LLM weights to emulate both the CPU and RAM of the NES, which is a notable advancement in this area.
 
-**「Impact on Computational Efficiency」** The advancements in DeepSeek-V4.1-Flash allow for more efficient handling of agent sessions with a million tokens, focusing on computational resources rather than memory size. This could lead to broader applications in AI where large context handling is critical.
+**「Consequences for Users」** The nesformer project highlights the substantial computational requirements of using LLMs for emulation, running 150–290 times slower than the actual NES console. This indicates that while such emulation is technically feasible, it may not be practical for real-time applications without significant optimization.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://arxiv.org/abs/2609.19969">DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression</a></li>
+**「Community Insights」** Community members have expressed excitement about the potential of embedding virtual machines within LLM weights, suggesting that this could lead to more efficient execution of various programming tasks. However, there are concerns regarding the efficiency of such approaches compared to traditional programming methods.
 
-</ul>
-</details>
-
-**Tags**: `#AI`, `#Machine Learning`, `#Open Source`, `#Model Architecture`
+**Tags**: `#AI`, `#emulation`, `#hardware`, `#machine learning`, `#community discussion`
 
 ---
 
 <a id="item-tech-news-9"></a>
-### [Neuralink&\#x27;s Blindsight Ready for Regulatory Approval](https://x.com/elonmusk/status/2116019939056513218) ⭐️ 8.0/10
+### [Linode Security Incident Raises Concerns Over Vulnerabilities](https://status.linode.com/incidents/nt58zhx3pmgm) ⭐️ 7.0/10
 
-Elon Musk announced that Neuralink&\#x27;s Blindsight, designed to restore vision for the blind, is ready from an engineering perspective and is currently awaiting regulatory approval. While Musk claims it can enable sight for those who are completely blind or have never seen, no specific timeline for regulatory review has been provided.
+Linode has experienced a security incident that has prompted discussions within the community regarding vulnerabilities in technology infrastructure and the necessity for enhanced defensive measures. The specifics of the incident remain unclear, but it has highlighted significant security concerns relevant to users of Linode&\#x27;s cloud services.
 
-telegram · gptupdates · Oct 31, 00:12
+hackernews · lacoolj · Oct 30, 21:57 · [Discussion](https://news.ycombinator.com/item?id=50310687)
 
-**「Neuralink&\#x27;s Product Development History」** Neuralink&\#x27;s first product, Telepathy, was designed to allow users to control computers through thought, and it received FDA approval for human trials in May 2023. The announcement of Blindsight follows this development, indicating progress in Neuralink&\#x27;s efforts to create neurotechnology aimed at restoring sensory functions.
+**「Linode Overview」** Linode is a cloud hosting provider that specializes in Linux-based virtual machines and cloud infrastructure. The company has been a significant player in the cloud services market, offering various solutions for developers and businesses.
+
+**「User Implications」** The incident may lead Linode users to reassess their security protocols and consider investing in more robust defensive measures to protect against potential vulnerabilities in cloud services.
+
+**「Community Reactions」** Community members expressed confusion over the details of the incident, with some calling for clearer communication and others emphasizing the need for companies to invest in defensive AI to combat emerging threats.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.thetimes.com.au/world/23001-the-fda-finally-approved-elon-musk-s-neuralink-chip-for-human-trials-have-all-the-concerns-been-addressed">The FDA finally approved Elon Musk&#x27;s Neuralink chip for human ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Linode">Linode - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Neurotechnology`, `#Artificial Intelligence`, `#Elon Musk`, `#Healthcare`, `#Regulatory Approval`
+**Tags**: `#security`, `#cloud services`, `#community discussion`, `#vulnerabilities`
 
 ---
 
 <a id="item-tech-news-10"></a>
-### [Emulating Nintendo Entertainment System with LLM Weights](https://github.com/dbreunig/nesformer) ⭐️ 7.0/10
-
-A new project called &\#x27;nesformer&\#x27; demonstrates the emulation of a Nintendo Entertainment System \(NES\) using approximately 1GB of Qwen LLM weights. This innovative approach has generated significant interest within the community, highlighting both the technical feasibility and the performance implications of using large language models for emulation tasks.
-
-hackernews · dbreunig · Oct 30, 16:40 · [Discussion](https://news.ycombinator.com/item?id=50306442)
-
-**「Technical Context」** The nesformer project utilizes large language model \(LLM\) weights to emulate the NES, a classic gaming console. This method contrasts with traditional emulation techniques, which typically rely on more direct hardware simulation.
-
-**「Performance Considerations」** Users should note that nesformer runs 150–290 times slower than the actual NES console, illustrating the substantial computational demands of using LLMs for such tasks compared to conventional emulation methods.
-
-**「Community Insights」** Community members have expressed excitement about the potential applications of this technology, with discussions highlighting the possibility of embedding virtual machines within LLM weights for executing various programming tasks more efficiently.
-
-**Tags**: `#emulation`, `#machine learning`, `#community discussion`, `#technology`
-
----
-
-<a id="item-tech-news-11"></a>
-### [Tangled Launches as a Federated Code Forge](https://tangled.org/blog/forge/) ⭐️ 7.0/10
-
-Tangled has launched as a federated code collaboration platform, enhancing code collaboration and self-hosting capabilities for developers. This platform aims to provide decentralized solutions, appealing particularly to those interested in self-hosting their projects. The launch has generated significant community interest, indicating potential shifts in existing workflows.
-
-hackernews · zlliang · Oct 30, 15:44 · [Discussion](https://news.ycombinator.com/item?id=50305573)
-
-**「Background on Tangled&\#x27;s Launch」** Tangled is a new federated code collaboration platform that allows users to host their code on their own servers while collaborating with others seamlessly. It is built on the AT Protocol and aims to combine the longevity of open protocols with user-friendly features typical of traditional code forges.
-
-**「Impact on Developers」** Developers looking for decentralized code collaboration solutions may find Tangled&\#x27;s self-hosting capabilities beneficial, potentially allowing them to streamline their workflows and reduce reliance on centralized platforms.
-
-**「Community Enthusiasm」** Community members have expressed excitement about Tangled&\#x27;s launch, with some planning to migrate their projects from other platforms like Gitea to Tangled for better integration and self-hosting options.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://tangled.org/blog/forge/">The federated code forge · The Tangled Blog</a></li>
-<li><a href="https://tangled.org/">Tangled · Your code forge for the next decade</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#federated systems`, `#code collaboration`, `#self-hosting`, `#software engineering`
-
----
-
-<a id="item-tech-news-12"></a>
 ### [AI&\#x27;s Impact on Site Reliability Engineers: Deskilling Concerns](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling) ⭐️ 7.0/10
 
-The article discusses how AI is influencing the skills of Site Reliability Engineers \(SREs\), suggesting that rather than replacing them, AI is leading to a deskilling effect. This has sparked significant debate within the community regarding the implications for the SRE field and the future of software engineering practices.
+The article discusses how AI is impacting Site Reliability Engineers \(SREs\) by raising concerns about deskilling. It emphasizes the importance of human expertise in managing complex systems, suggesting that while AI can automate tasks, it may lead to a reduction in critical skills among SREs.
 
 hackernews · dorianniemiec · Oct 30, 15:52 · [Discussion](https://news.ycombinator.com/item?id=50305693)
 
-**「Impact of AI on Site Reliability Engineering」** The discussion around AI&\#x27;s influence on Site Reliability Engineering \(SRE\) has gained traction, particularly regarding how AI tools can both assist and complicate the roles of SREs. Earlier reports indicated that while AI tools enhance outage management, they also introduce new challenges that require SREs to adapt their skills and approaches \(source: tool-1-1\).
+**「Impact of AI on SRE Skills」** The discussion around AI&\#x27;s impact on Site Reliability Engineers \(SREs\) highlights a growing concern about deskilling in the profession. As AI tools increasingly handle routine tasks, such as monitoring and incident response, engineers may lose critical hands-on experience and understanding of complex systems. This phenomenon mirrors challenges faced in other fields, such as aviation, where reliance on automation has raised similar deskilling concerns.
 
-**「Consequences for SRE Professionals」** As AI tools become more capable, SREs may find their traditional skills less relevant, potentially leading to a reliance on AI for tasks that require deep understanding and critical thinking. This shift could impact job roles and the overall skill set required in the industry.
+**「Consequences for SRE Professionals」** As AI tools become more capable, SREs may find their traditional skills diminishing, which could lead to challenges in effectively managing complex systems without adequate human oversight.
 
-**「Community Perspectives」** Community members have expressed concerns that while AI can enhance efficiency, it may also diminish the fundamental understanding required for effective SRE work. Some argue that maintaining human oversight is crucial to prevent deskilling and ensure quality in complex systems.
+**「Community Perspectives」** Community members express concerns about the deskilling of SREs due to AI, with some arguing that while AI can enhance efficiency, it may also undermine the deep understanding required for effective system management.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.infoworld.com/article/4199033/how-ai-impacts-site-reliability-engineering.html">How AI impacts site reliability engineering - InfoWorld</a></li>
+<li><a href="https://www.linkedin.com/posts/sherlocks-ai_aisre-sitereliability-devops-activity-7469641619936448512-WlxU">AI in SRE: Deskilling Engineers | Sherlocks. ai posted on... | LinkedIn</a></li>
+<li><a href="https://www.businessinsider.com/avoid-ai-deskilling-pilots-autopilot-2026-10">Want to Avoid AI Deskilling ? Pilots May Have the... - Business Insider</a></li>
 
 </ul>
 </details>
@@ -284,39 +252,44 @@ hackernews · dorianniemiec · Oct 30, 15:52 · [Discussion](https://news.ycombi
 
 ---
 
-<a id="item-tech-news-13"></a>
-### [The $6.3B Binance Hack Executed in Just 20 Minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/) ⭐️ 7.0/10
+<a id="item-tech-news-11"></a>
+### [Tangled Launches Federated Code Forge for Self-Hosting and Collaboration](https://tangled.org/blog/forge/) ⭐️ 7.0/10
 
-A significant cryptocurrency hack targeting Binance resulted in a loss of $6.3 billion and was executed in just 20 minutes. The article highlights the rapid execution of the hack, suggesting that while the actual theft was quick, the preparation likely took years, raising concerns about security in the cryptocurrency sector.
+Tangled, a new federated code forge, has launched with a focus on enhancing self-hosting capabilities and community collaboration. The platform aims to provide tools for developers to manage their projects while facilitating community feedback and engagement. Key features include an overhauled architecture and user interface, with support for organizations and private repositories expected to roll out soon.
 
-hackernews · domhudson · Oct 30, 12:50 · [Discussion](https://news.ycombinator.com/item?id=50303172)
+hackernews · zlliang · Oct 30, 15:44 · [Discussion](https://news.ycombinator.com/item?id=50305573)
 
-**「Background on the Binance Hack」** On October 29, 2026, a significant security breach occurred at Binance, resulting in the theft of approximately $6.36 billion in digital assets. This incident is reportedly linked to the North Korea-associated hacking group TraderTraitor and is noted as the largest cryptocurrency heist to date. Initial investigations suggested a compromised DevOps engineer&\#x27;s laptop as a point of entry, but further breaches have since been identified.
+**「Understanding Federated Code Forges」** Federated code forges are platforms that allow developers to collaborate on software projects while maintaining control over their own data and infrastructure. This model contrasts with traditional centralized code hosting services, enabling self-hosting and community-driven development. The launch of Tangled adds to the growing interest in federated systems, which aim to enhance privacy and collaboration in software development.
 
-**「Impact on Security Practices」** This incident underscores the urgent need for enhanced security measures in the cryptocurrency industry, as the swift execution of the hack reveals vulnerabilities that could be exploited by malicious actors.
+**「Potential for Enhanced Collaboration」** The launch of Tangled may provide developers with a viable alternative to existing platforms like GitHub and GitLab, particularly for those interested in self-hosting their projects. This could lead to increased adoption of federated systems in software development, allowing for greater control over project management and community interaction.
 
-**「Community Reactions」** Community members expressed skepticism about the significance of the hack&\#x27;s duration, with some arguing that the planning phase is often extensive. Others pointed out that such targeted attacks may involve sophisticated actors, potentially complicating law enforcement responses.
+**「Community Feedback on Tangled」** Community members have expressed excitement about Tangled&\#x27;s potential, with some users looking to migrate their projects from other platforms. However, feedback on the user interface suggests that improvements could enhance user experience, particularly regarding the homepage layout and activity charts.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/2026_Binance_hack">2026 Binance hack - Wikipedia</a></li>
-<li><a href="https://hackenproof.com/blog/binance-hack">Binance Hack 2026: Inside the $6.3B Breach | HackenProof</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#cybersecurity`, `#cryptocurrency`, `#hacking`, `#software engineering`
+**Tags**: `#federated systems`, `#software development`, `#open source`, `#community engagement`
 
 ---
 
-<a id="item-tech-news-14"></a>
-### [OpenAI Updates AI Behavioral Guidelines for Enhanced Control](https://the-decoder.com/openai-sets-new-behavioral-guidelines-for-ai-models-that-have-already-proven-hard-to-control/) ⭐️ 7.0/10
+<a id="item-tech-news-12"></a>
+### [Malicious Claude Code Extension in Cursor&\#x27;s Marketplace Attempts Data Theft](https://the-decoder.com/malicious-claude-code-extension-in-cursors-marketplace-attempted-remote-access-and-data-theft/) ⭐️ 7.0/10
 
-OpenAI has restructured its AI behavior guidelines, focusing on five core values, including faithfulness to human intent and correctability. The updated Model Spec requires GPT models to utilize conversation history to better understand user intentions and to disclose their assumptions. However, the actual adherence of these models to the new guidelines remains uncertain.
+A malicious Claude Code extension was active in Cursor&\#x27;s marketplace for approximately 11 hours, impacting around 5,000 users by attempting to steal data and establish remote access. In response, Cursor temporarily took the entire marketplace offline and later reinstated it after ensuring there were no further risks.
+
+rss · The Decoder · Oct 30, 18:16
+
+**「Context of the Incident」** This incident highlights significant security vulnerabilities within software marketplaces, where malicious extensions can pose serious risks to user data and software integrity.
+
+**Tags**: `#security`, `#software engineering`, `#data theft`, `#malware`
+
+---
+
+<a id="item-tech-news-13"></a>
+### [OpenAI Updates Behavioral Guidelines for AI Models](https://the-decoder.com/openai-sets-new-behavioral-guidelines-for-ai-models-that-have-already-proven-hard-to-control/) ⭐️ 7.0/10
+
+OpenAI has revised its behavioral guidelines for AI models, emphasizing five core values, including faithfulness to human intent and correctability. The updated Model Spec requires GPT models to utilize conversation history to better understand user intentions and to disclose their assumptions. However, the effectiveness of these guidelines in practice remains uncertain.
 
 rss · The Decoder · Oct 30, 17:44
 
-**「OpenAI&\#x27;s Updated Model Spec」** OpenAI&\#x27;s updated Model Spec introduces five core values aimed at improving AI behavior, including alignment with human intent and correctability. This update is part of ongoing efforts to address challenges in controlling AI models and ensuring they act in accordance with user expectations.
+**「OpenAI&\#x27;s Updated Model Spec」** OpenAI has restructured its Model Spec to emphasize five core values, including faithfulness to human intent and correctability. This update aims to guide AI behavior in a way that aligns more closely with user expectations and promotes sound judgment in AI interactions.
 
 <details><summary>References</summary>
 <ul>
@@ -325,109 +298,171 @@ rss · The Decoder · Oct 30, 17:44
 </ul>
 </details>
 
-**Tags**: `#AI Ethics`, `#OpenAI`, `#Behavioral Guidelines`, `#Machine Learning`, `#Software Development`
+**Tags**: `#AI`, `#OpenAI`, `#behavioral guidelines`, `#machine learning`, `#technology news`
 
 ---
 
-<a id="item-tech-news-15"></a>
+<a id="item-tech-news-14"></a>
 ### [Reddit CEO Warns Google&\#x27;s AI Mode Harms Web Traffic](https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/) ⭐️ 7.0/10
 
-Reddit&\#x27;s CEO, Steve Huffman, reported that the platform lost over one million Google search referrals per week in October 2026, attributing this decline to Google&\#x27;s AI Overviews and AI Mode, which he claims drive no traffic to external sites. As a result, Reddit is testing login barriers to become a more direct destination, reducing its reliance on the open web. This shift poses a significant threat to content-driven businesses that depend on search traffic.
+Reddit&\#x27;s CEO, Steve Huffman, reported that the platform lost over one million Google search referrals per week in October 2026, attributing this decline to Google&\#x27;s AI Overviews and AI Mode, which he claims drive no traffic to external sites. As a result, Reddit is testing login barriers and aims to become a direct destination, reducing its reliance on search referrals. This shift poses a threat to content-driven businesses that depend on search traffic.
 
 rss · The Decoder · Oct 30, 17:15
 
-**「Background on Google&\#x27;s AI Mode」** Google&\#x27;s AI Mode represents a shift in search technology, utilizing generative AI to provide direct answers to user queries rather than directing users to external websites. This change has led to significant concerns among content-driven businesses, as it can result in lower click-through rates and reduced web traffic, impacting their reliance on search referrals.
+**「Impact of Google&\#x27;s AI Mode on Web Traffic」** Google&\#x27;s AI Mode provides direct answers to user queries, which reduces the need for users to click through to external websites. This shift has led to significant declines in organic traffic for many content-driven businesses, as evidenced by Reddit&\#x27;s loss of over one million Google search referrals per week in October 2026. The trend poses challenges for organizations that rely heavily on search traffic for visibility and revenue.
 
-**「Impact on Content-Driven Businesses」** The decline in web traffic due to Google&\#x27;s AI Mode could severely affect content-driven businesses that rely on search referrals for visibility and engagement, potentially leading to reduced revenue and audience reach.
+**「Impact on Content-Driven Businesses」** The decline in search referrals due to Google&\#x27;s AI Mode could significantly impact content-driven businesses that rely on search traffic for visibility and engagement, forcing them to reconsider their content strategies and potentially leading to a shift in how they attract users.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://www.accuwebhosting.com/blog/google-ai-mode/">Google AI Mode : Impact on Web , SEO &amp; How to Optimize?</a></li>
-<li><a href="https://servicensure.com/blog/google-ai-mode-impact-on-seo/">Google AI Mode Impact on SEO: What to Expect in 2026</a></li>
+<li><a href="https://www.seo.com/ai/google-ai-mode/">Google AI Mode : What SEOs Need to Know (And Do)</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#SEO`, `#Web Traffic`, `#Content Strategy`
+**Tags**: `#AI`, `#Web Traffic`, `#Reddit`, `#Google`, `#Content Strategy`
+
+---
+
+<a id="item-tech-news-15"></a>
+### [Critical Vulnerabilities in AI Models Highlighted in &\#x27;Black October&\#x27;](https://www.interconnects.ai/p/was-i-wrong-about-open-models-and) ⭐️ 7.0/10
+
+The article discusses significant vulnerabilities in AI models, particularly in the context of recent critical disclosures during what has been termed &\#x27;Black October.&\#x27; This period marks a pivotal moment in recognizing the emerging cyber risks associated with AI technologies, which is crucial for professionals in software engineering and AI development.
+
+rss · Interconnects · Oct 30, 17:36
+
+**「Context of Cyber Risks in AI Models」** The term &\#x27;Black October&\#x27; emerged following a series of critical vulnerability disclosures in October 2026, notably including significant flaws in PHP and GitLab. This period marked a turning point in recognizing the cyber risks associated with AI models, as vulnerabilities began to be exploited more effectively, raising alarms among cybersecurity experts.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability">‘ Black October ’: cybersecurity experts sound the... | The Guardian</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#cybersecurity`, `#AI models`, `#vulnerabilities`, `#software engineering`
 
 ---
 
 <a id="item-tech-news-16"></a>
-### [Validated Kubernetes Runtime for NVIDIA Dynamo Enhances AI Deployment](https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo/) ⭐️ 7.0/10
+### [Validated Kubernetes Runtime for NVIDIA Dynamo Announced](https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo/) ⭐️ 7.0/10
 
-NVIDIA has developed a validated Kubernetes runtime specifically for NVIDIA Dynamo, aimed at improving deployment strategies for AI applications. This new runtime provides teams with a repeatable path from model configuration to a functioning inference endpoint, facilitating more effective deployment of AI models.
+NVIDIA has announced the creation of a validated Kubernetes runtime specifically for NVIDIA Dynamo, aimed at facilitating the development of AI applications. This new runtime provides teams with a repeatable path from model configuration to a functioning inference endpoint, enhancing the deployment process for AI workloads in cloud-native environments.
 
 rss · NVIDIA Developer Blog · Oct 30, 21:35
 
-**「NVIDIA Dynamo Overview」** NVIDIA Dynamo is designed to facilitate distributed inference for AI applications, providing a framework that integrates various inference engines without replacing them. It allows for the coordination of multiple nodes in an inference system, enhancing deployment strategies for AI models within Kubernetes environments.
+**「NVIDIA Dynamo and Kubernetes Integration」** NVIDIA Dynamo is designed to facilitate distributed inference for AI applications, allowing teams to efficiently manage model configurations and inference endpoints. The integration with Kubernetes provides a scalable and repeatable deployment path, essential for modern AI workloads that require robust orchestration and resource management.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://docs.nvidia.com/dynamo/kubernetes/getting-started/quickstart">Kubernetes Quickstart | NVIDIA Dynamo Documentation</a></li>
-<li><a href="https://kubernetes.recipes/recipes/ai/nvidia-dynamo-distributed-inference-kubernetes/">NVIDIA Dynamo Distributed Inference | K8s Recipes</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Kubernetes`, `#AI`, `#NVIDIA`, `#Cloud Infrastructure`, `#Machine Learning`
+**Tags**: `#Kubernetes`, `#AI`, `#NVIDIA`, `#Cloud Computing`, `#Machine Learning`
 
 ---
 
 <a id="item-tech-news-17"></a>
-### [Deploy AI Models for Edge Applications with Simple Commands](https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands/) ⭐️ 7.0/10
+### [Build Specialized Agents with NVIDIA NemoClaw for Enhanced Security](https://developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw/) ⭐️ 7.0/10
 
-NVIDIA has introduced a streamlined approach for developers to deploy AI models for edge applications using just a few commands. This development simplifies the process of integrating AI capabilities into edge devices, making it more accessible for software engineers working in AI and edge computing.
+NVIDIA has introduced NemoClaw, a framework designed for building secure, specialized autonomous agents. This tool allows developers to create agents on a customizable stack, enhancing control and security in AI development. The framework emphasizes the importance of a secure runtime environment for deploying these agents effectively.
 
-rss · NVIDIA Developer Blog · Oct 30, 20:33
+rss · NVIDIA Developer Blog · Oct 30, 16:00
 
-**「Background on Edge AI Development」** The trend of deploying AI models at the edge has gained momentum as organizations seek to enhance real-time data processing and decision-making capabilities outside traditional data centers. This shift allows for improved performance in applications such as monitoring driver attention and cabin conditions in vehicles.
+**「Overview of NVIDIA NemoClaw」** NVIDIA NemoClaw is an open-source reference stack designed for building and deploying autonomous agents securely. It provides tools for model routing, skill execution, and runtime controls, enabling developers to create domain-specialized AI systems that can operate safely within NVIDIA OpenShell sandboxes.
 
-**Tags**: `#AI`, `#Edge Computing`, `#Software Development`, `#NVIDIA`, `#Machine Learning`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.nvidia.com/en-us/ai/nemoclaw/">Safer AI Agents &amp; Assistants with OpenClaw | NVIDIA NemoClaw</a></li>
+<li><a href="https://github.com/NVIDIA/NemoClaw">GitHub - NVIDIA/NemoClaw: Run agents like Hermes, LangChain ...</a></li>
+<li><a href="https://docs.nvidia.com/nemoclaw/user-guide/openclaw/home">NVIDIA NemoClaw</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#NVIDIA`, `#autonomous agents`, `#AI development`, `#software engineering`, `#security`
 
 ---
 
 <a id="item-tech-news-18"></a>
-### [Guide to Configuring NVIDIA GPUDirect Storage for Enhanced GPU Access](https://developer.nvidia.com/blog/how-to-check-and-configure-nvidia-gpudirect-storage-for-your-platform/) ⭐️ 7.0/10
+### [Configuring NVIDIA GPUDirect Storage for Efficient GPU Data Access](https://developer.nvidia.com/blog/how-to-check-and-configure-nvidia-gpudirect-storage-for-your-platform/) ⭐️ 7.0/10
 
-The article provides a comprehensive guide on how to check and configure NVIDIA GPUDirect Storage \(GDS\) to improve GPU storage access in both on-premises and cloud environments. This configuration is crucial for optimizing performance in data-intensive applications, making it particularly relevant for software engineers and AI practitioners.
+The article provides guidance on checking and configuring NVIDIA GPUDirect Storage \(GDS\), which enhances GPU data access efficiency in both on-premises and cloud environments. This configuration is crucial for software engineers and AI practitioners who depend on optimized data management for performance improvements.
 
 rss · NVIDIA Developer Blog · Oct 30, 15:01
 
-**「Understanding NVIDIA GPUDirect Storage」** NVIDIA GPUDirect Storage \(GDS\) is designed to enhance data transfer efficiency between storage and GPU memory, significantly improving performance in data-intensive applications. It allows for direct access to storage from the GPU, bypassing the CPU, which reduces latency and increases throughput. This technology is particularly beneficial in both on-premises and cloud environments where large datasets are common.
+**「Understanding NVIDIA GPUDirect Storage」** NVIDIA GPUDirect Storage \(GDS\) is designed to enhance the efficiency of data access for GPUs by providing a direct path between storage and GPU memory. This technology is particularly beneficial in environments where large datasets are common, as it reduces the time required for data loading, thereby improving application performance. GDS is applicable in both on-premises and cloud computing scenarios, making it relevant for a wide range of GPU-accelerated applications.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://developer.nvidia.com/gpudirect-storage">Magnum IO GPUDirect Storage | NVIDIA Developer</a></li>
 <li><a href="https://developer.nvidia.com/blog/gpudirect-storage/">GPUDirect Storage : A Direct Path Between Storage and GPU Memory</a></li>
-<li><a href="https://www.weka.io/learn/glossary/gpu/what-is-gpudirect-storage/">What is GPUDirect Storage ? | WEKA</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#NVIDIA`, `#GPUDirect Storage`, `#GPU`, `#cloud computing`, `#data access`
+**Tags**: `#NVIDIA`, `#GPUDirect Storage`, `#GPU`, `#data management`, `#cloud computing`
 
 ---
 
 <a id="item-tech-news-19"></a>
-### [Biological Computing Co. Launches AI Video Model Using Lab-Grown Brain Cells](https://www.prnewswire.com/news-releases/the-biological-computing-co-launches-worlds-first-publicly-available-neuron-derived-ai-video-model-302924399.html) ⭐️ 7.0/10
+### [Lab-grown brain cells enhance AI video model speed by 5x](https://www.prnewswire.com/news-releases/the-biological-computing-co-launches-worlds-first-publicly-available-neuron-derived-ai-video-model-302924399.html) ⭐️ 7.0/10
 
-The Biological Computing Co. has introduced a new AI video model named mischief 1, which reportedly operates at least five times faster than the existing Wan 2.2 model while maintaining similar quality. This model integrates lab-grown brain cells to enhance processing efficiency and is available on platforms like fal and OpenRouter, costing approximately 2.5 cents for a five-second clip at 480p or 720p. However, independent validation of its performance is still pending.
+The Biological Computing Co. has launched a new AI video model called mischief 1, which reportedly operates at least five times faster than the existing Wan 2.2 model. This enhancement is achieved by integrating a small software layer that utilizes lab-grown brain cells to process information, allowing for the generation of 3- or 5-second video clips at 480p or 720p resolutions for as low as 2.5 cents per clip. The model is now available on platforms like fal and OpenRouter.
 
 telegram · gptupdates · Oct 30, 21:57
 
-**「Background on Neuron-Derived AI Models」** The Biological Computing Co. has developed a new AI video model called mischief 1, which integrates a software layer derived from lab-grown neurons to enhance video processing speed. This model builds on the existing open video model, Wan 2.2, and aims to improve performance by at least five times while maintaining similar quality. The company previously announced a partnership with AWS to further develop and scale its neuron-derived technology.
+**「Background on Neuron-Derived AI Models」** The Biological Computing Co. has developed a novel AI video model, mischief 1, which incorporates a software layer derived from lab-grown neurons. This approach builds on previous advancements in biological computing, where companies like TBC and AWS have explored the potential of biological or brain-inspired computing to enhance AI efficiency and processing speed.
 
-**「Potential Implications for AI Development」** If the claims about mischief 1&\#x27;s performance are validated, this could signify a significant advancement in AI video processing, potentially influencing future developments in both video and language models.
+**「Impact on AI Processing」** If the claims about the speed improvement are validated, this could significantly enhance the efficiency of video processing tasks, potentially leading to broader applications in AI-driven content creation and real-time video analysis.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.explainx.ai/blog/biological-computing-co-neuron-derived-ai-video-model-aws-5x-faster-80-percent-cheaper-claimed-vs-verified-2026">Biological Computing Co.&#x27;s &quot;Neuron-Derived&quot; AI Video Model ...</a></li>
-<li><a href="https://finance.yahoo.com/technology/ai/articles/biological-computing-co-launches-worlds-120000248.html?fr=sycsrp_catchall">The Biological Computing Co. Launches World&#x27;s First Publicly ...</a></li>
+<li><a href="https://the-decoder.com/a-tiny-software-layer-from-lab-grown-neurons-promises-faster-cheaper-ai-video/">A tiny software layer from lab - grown neurons promises faster, cheaper...</a></li>
+<li><a href="https://tech-insider.org/tbc-neuron-derived-ai-video-model-aws-2026/">TBC Neuron-Derived AI Video Model : 5x Faster on AWS</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#machine learning`, `#neuroscience`, `#video processing`, `#innovation`
+**Tags**: `#AI`, `#machine learning`, `#neuroscience`, `#video processing`
+
+---
+
+<a id="item-tech-news-20"></a>
+### [Neuralink&\#x27;s Blindsight Ready for Regulatory Approval](https://x.com/elonmusk/status/2116019939056513218) ⭐️ 7.0/10
+
+Elon Musk announced that Neuralink&\#x27;s second product, Blindsight, is ready from an engineering standpoint and is awaiting regulatory approval. This technology aims to enable vision for individuals who are completely blind or have never seen. No specific timeline for regulatory approval was provided.
+
+telegram · gptupdates · Oct 31, 00:12
+
+**「Neuralink&\#x27;s Blindsight Overview」** Neuralink&\#x27;s Blindsight is designed to restore vision for individuals with total visual impairment by directly stimulating the visual cortex, bypassing the optic nerve. This technology aims to create visual perception in those who have never seen or are completely blind due to damage to the optic nerve.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Blindsight_%28Neuralink%29">Blindsight (Neuralink) - Wikipedia</a></li>
+<li><a href="https://www.neurapod.com/blog/neuralink-blindsight-human-trials-what-to-expect">Neuralink Blindsight Trial: What to Expect in the First Human ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Neurotechnology`, `#Artificial Intelligence`, `#Healthcare`, `#Regulatory Affairs`
+
+---
+
+<a id="item-tech-news-21"></a>
+### [Anthropic Surpasses US Government as SpaceX&\#x27;s Largest Customer](https://news.bloomberglaw.com/capital-markets/spacexs-largest-3-billion-a-month-customer-b-is-anthropic) ⭐️ 7.0/10
+
+Anthropic has emerged as SpaceX&\#x27;s largest customer, contributing approximately 34.5% of SpaceX&\#x27;s revenue last quarter, surpassing government contracts. This partnership involves Anthropic renting computing power from SpaceX&\#x27;s AI division, Super Intelligence, with potential spending of up to $120.5 billion under contracts extending to 2029, averaging about $3.1 billion monthly starting December. Anthropic retains the option to cancel the contract with 90 days&\#x27; notice after early 2027.
+
+telegram · gptupdates · Oct 31, 05:12
+
+**「Background on Anthropic and SpaceX Partnership」** In May 2026, Anthropic signed a significant deal with SpaceX to utilize all compute capacity at SpaceX&\#x27;s Colossus 1 data center in Memphis, Tennessee. This partnership allows Anthropic to access substantial computing resources, which is crucial for its AI operations, and is expected to result in payments totaling up to $120.5 billion by 2029, with monthly expenditures reaching approximately $3.1 billion once fully operational.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.cnbc.com/2026/05/06/anthropic-spacex-data-center-capacity.html">Anthropic, SpaceX announce compute deal, includes space ...</a></li>
+<li><a href="https://teslanorth.com/2026/10/26/anthropic-s1-spacex-120b-compute/">Anthropic Reveals It Will Pay SpaceX Up to $120.5B for AI ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI`, `#SpaceX`, `#Anthropic`, `#business`, `#technology`
 
 ---
 
