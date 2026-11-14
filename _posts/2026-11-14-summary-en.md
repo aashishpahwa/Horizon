@@ -5,658 +5,641 @@ date: 2026-11-14
 lang: en
 ---
 
-> From 111 items, 33 important content pieces were selected
+> From 97 items, 30 important content pieces were selected
 
 ---
 
 **Technology News**
-1. [llama.cpp v1.0.0 Released with Major API Changes and New Features](#item-tech-news-1) ⭐️ 8.0/10
-2. [Hugging Face Releases Transformers v5.23.0 with Inkling2 Model](#item-tech-news-2) ⭐️ 8.0/10
-3. [AI Unlocks Gödel&\#x27;s Notebooks Revealing Hundreds of Theorems](#item-tech-news-3) ⭐️ 8.0/10
-4. [Anthropic&\#x27;s Claude for Manufacturing Integrates AI with Factory Software](#item-tech-news-4) ⭐️ 8.0/10
+1. [Hugging Face Releases Transformers v5.23.0 with Inkling2 Model](#item-tech-news-1) ⭐️ 8.0/10
+2. [AI Unlocks Gödel&\#x27;s Notebooks, Revealing Potential New Theorems](#item-tech-news-2) ⭐️ 8.0/10
+3. [Runway Releases Open-Source Praxis-1 for Video AI Robot Control](#item-tech-news-3) ⭐️ 8.0/10
+4. [Anthropic&\#x27;s Claude for Manufacturing Integrates AI into Factory Software](#item-tech-news-4) ⭐️ 8.0/10
 5. [Evidence of Nvidia Blackwell GPUs Found in Chinese AI Models](#item-tech-news-5) ⭐️ 8.0/10
-6. [Jensen Huang Resigns as NVIDIA CEO After 33 Years](#item-tech-news-6) ⭐️ 8.0/10
-7. [NVIDIA Enhances cuBLAS with New FP64 Algorithms for Scientific Simulations](#item-tech-news-7) ⭐️ 8.0/10
-8. [NVIDIA cuPhoton Enhances Black Hole Imaging with GPU Technology](#item-tech-news-8) ⭐️ 8.0/10
-9. [Advancements in Training 1 Trillion Parameter MoE on TorchTitan](#item-tech-news-9) ⭐️ 8.0/10
-10. [Tamserve: Cost-Effective Real-Time Video Tracking Solution](#item-tech-news-10) ⭐️ 8.0/10
-11. [Open Weights Released for Inkling 2 Small Multimodal MoE Model](#item-tech-news-11) ⭐️ 8.0/10
-12. [Vulnerability in Android&\#x27;s Clipboard Security Measures](#item-tech-news-12) ⭐️ 7.0/10
-13. [Technical Vision for the Haskell Ecosystem Sparks Community Debate](#item-tech-news-13) ⭐️ 7.0/10
-14. [Live Migration Support Announced for FreeBSD and bhyve](#item-tech-news-14) ⭐️ 7.0/10
-15. [Discovery of Granzyme K Protein Influences Aging Without Inflammation](#item-tech-news-15) ⭐️ 7.0/10
-16. [Google Limits AI Features in Search for Certain Schools](#item-tech-news-16) ⭐️ 7.0/10
-17. [OpenAI Disbands Robotics Team for General Models in Robotics Control](#item-tech-news-17) ⭐️ 7.0/10
-18. [AI Erodes Trust Between Writers and Readers](#item-tech-news-18) ⭐️ 7.0/10
-19. [The Dawn of the Data Intelligence Engineer](#item-tech-news-19) ⭐️ 7.0/10
-20. [OpenAI Launches ChatGPT Wallet for Secure AI Shopping](#item-tech-news-20) ⭐️ 7.0/10
-21. [Meta&\#x27;s Muse AI Now Makes Calls for Users](#item-tech-news-21) ⭐️ 7.0/10
-22. [Volunteers Demand More Autonomy in Brain Implant Trials](#item-tech-news-22) ⭐️ 7.0/10
-23. [Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA](#item-tech-news-23) ⭐️ 7.0/10
-24. [Serving GLM-5.3 Across Two NVIDIA DGX Stations with vLLM](#item-tech-news-24) ⭐️ 7.0/10
-25. [NVIDIA Launches SOMA Retargeter for Adapting Human Motion to Robots](#item-tech-news-25) ⭐️ 7.0/10
-26. [User Trains Transformer Model for Blood Sugar Prediction](#item-tech-news-26) ⭐️ 7.0/10
-27. [Frontier Models Achieve High Scores on Materials Science Test, Evaluating Long-Horizon Agents](#item-tech-news-27) ⭐️ 7.0/10
-28. [Creating a Legal Conflict Detector Tool with NLI and Encoder Models](#item-tech-news-28) ⭐️ 7.0/10
-29. [ParaTrace v8 Achieves 5th Place on RAID Leaderboard with High TPR](#item-tech-news-29) ⭐️ 7.0/10
-30. [Open BVB Benchmark for AI Video Reconstruction Released](#item-tech-news-30) ⭐️ 7.0/10
-31. [Nvidia Chips Influence DeepSeek&\#x27;s AI Models Despite China Ban](#item-tech-news-31) ⭐️ 7.0/10
-32. [Wharton&\#x27;s AI Primer Transforms Lessons into Interactive Simulations](#item-tech-news-32) ⭐️ 7.0/10
-33. [Lawsuit Seeks to Halt AI Development by OpenAI, Google, and Anthropic](#item-tech-news-33) ⭐️ 7.0/10
+6. [NVIDIA cuPhoton Enhances Black Hole Imaging with GPU-Powered Interferometry](#item-tech-news-6) ⭐️ 8.0/10
+7. [Serving GLM-5.3 Across Two NVIDIA DGX Stations with vLLM](#item-tech-news-7) ⭐️ 8.0/10
+8. [Bolt PCHIE: New Deterministic Safety Harness for AI Agents](#item-tech-news-8) ⭐️ 8.0/10
+9. [Training a 1 Trillion Parameter MoE Model with TorchTitan](#item-tech-news-9) ⭐️ 8.0/10
+10. [New Paper Addresses Numerical Bugs in Softmax Implementations](#item-tech-news-10) ⭐️ 8.0/10
+11. [Innovative Terminal Borders Enhance Text-Based User Interfaces](#item-tech-news-11) ⭐️ 7.0/10
+12. [ggml v1.0.0 Released with Performance Enhancements](#item-tech-news-12) ⭐️ 7.0/10
+13. [Unsloth Qwen3.8-27B Update Introduces Dynamic v3.1 Quantizations](#item-tech-news-13) ⭐️ 7.0/10
+14. [Discovery of Protein Granzyme K Linked to Aging Without Inflammation](#item-tech-news-14) ⭐️ 7.0/10
+15. [Jonathan Blow Critiques AI&\#x27;s Impact on Software Development](#item-tech-news-15) ⭐️ 7.0/10
+16. [Live Migration Support Added to FreeBSD&\#x27;s bhyve](#item-tech-news-16) ⭐️ 7.0/10
+17. [CERN Develops Next-Gen Superconducting Magnets for Large Hadron Collider](#item-tech-news-17) ⭐️ 7.0/10
+18. [Security Vulnerabilities in Android Clipboard Functionality](#item-tech-news-18) ⭐️ 7.0/10
+19. [Claude Meetings Raises Security and Consent Concerns in AI Integration](#item-tech-news-19) ⭐️ 7.0/10
+20. [Technical Vision for the Haskell Ecosystem Sparks Community Debate](#item-tech-news-20) ⭐️ 7.0/10
+21. [Global Security Agencies Utilize Ad-Based Surveillance Systems](#item-tech-news-21) ⭐️ 7.0/10
+22. [OpenAI Launches ChatGPT Wallet for AI-Powered Shopping](#item-tech-news-22) ⭐️ 7.0/10
+23. [llama.cpp v1.0.0 Launches with Stable API for Local AI Development](#item-tech-news-23) ⭐️ 7.0/10
+24. [NVIDIA Enhances cuBLAS with New FP64 Algorithms for Faster Simulations](#item-tech-news-24) ⭐️ 7.0/10
+25. [Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA](#item-tech-news-25) ⭐️ 7.0/10
+26. [NVIDIA Launches SOMA Retargeter for Adapting Human Motion in Robots](#item-tech-news-26) ⭐️ 7.0/10
+27. [User Trains Transformer Model for Blood Sugar Prediction](#item-tech-news-27) ⭐️ 7.0/10
+28. [Frontier Models Achieve High Scores on Materials-Science Test](#item-tech-news-28) ⭐️ 7.0/10
+29. [AI-Generated Song Tops Korea&\#x27;s Main Music Chart](#item-tech-news-29) ⭐️ 7.0/10
+30. [AMD launches Instinct MI450X and MI430X accelerators for AI and computing](#item-tech-news-30) ⭐️ 7.0/10
 
 ---
 
 ## Technology News
 
 <a id="item-tech-news-1"></a>
-### [llama.cpp v1.0.0 Released with Major API Changes and New Features](https://github.com/ggml-org/llama.cpp/releases/tag/v1.0.0) ⭐️ 8.0/10
+### [Hugging Face Releases Transformers v5.23.0 with Inkling2 Model](https://github.com/huggingface/transformers/releases/tag/v5.23.0) ⭐️ 8.0/10
 
-The release of llama.cpp v1.0.0 introduces significant API changes, including the removal of deprecated functions and the promotion of the NextN API to \`llama.h\`. It also adds new architectures such as Kimi-K3.1-Pro and Ripple, enhances security features in \`llama-server\`, and includes a redesigned web UI. This update is now available for developers working in AI and machine learning.
+Hugging Face has released version 5.23.0 of its Transformers library, introducing the Inkling2 model, a multimodal model capable of processing both text and images. Inkling2 features a complex architecture with 48 mixture-of-experts decoder layers and a total of 594 billion parameters, designed for various languages and coding tasks. This release also includes several other models and experimental features.
 
-github · github-actions\[bot\] · Nov 13, 10:20
+github · vasqu · Nov 13, 14:10
 
-**「Previous Developments」** Prior to this release, llama.cpp had been evolving with various updates, but v1.0.0 marks a substantial shift with its focus on API modernization and security enhancements. The introduction of new architectures and features reflects ongoing advancements in AI model capabilities.
+**「Background Information」** The Transformers library by Hugging Face is widely used for natural language processing and machine learning tasks. Previous versions have introduced various models and capabilities, but the addition of Inkling2 marks a significant advancement in multimodal processing, allowing for integrated text and image input handling.
 
-**「Consequences for Developers」** Developers using llama.cpp will need to adapt their code to accommodate the removal of deprecated functions and the new API structure, which may require significant changes to existing implementations.
+**「User Impact」** The introduction of the Inkling2 model provides developers with enhanced capabilities for building applications that require understanding and generating responses based on both text and images, potentially improving the performance of AI applications in diverse fields.
 
-**Tags**: `#AI`, `#Machine Learning`, `#Software Engineering`, `#Open Source`
+**Tags**: `#Hugging Face`, `#Machine Learning`, `#Multimodal Models`, `#AI`, `#Transformers`
 
 ---
 
 <a id="item-tech-news-2"></a>
-### [Hugging Face Releases Transformers v5.23.0 with Inkling2 Model](https://github.com/huggingface/transformers/releases/tag/v5.23.0) ⭐️ 8.0/10
+### [AI Unlocks Gödel&\#x27;s Notebooks, Revealing Potential New Theorems](https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths) ⭐️ 8.0/10
 
-Hugging Face has released version 5.23.0 of its Transformers library, introducing the Inkling2 model, which enhances multimodal capabilities by accepting both text and image inputs. Inkling2 features a complex architecture with 48 mixture-of-experts decoder layers and a total of 594 billion parameters, making it suitable for various languages and coding tasks. This release is now available on GitHub.
-
-github · vasqu · Nov 13, 14:10
-
-**「Background Information」** The Transformers library by Hugging Face is widely used for natural language processing and machine learning tasks. The introduction of multimodal models like Inkling2 represents a significant advancement in the ability to process and generate outputs based on multiple types of input data, such as text and images.
-
-**「User Impact」** Users of the Transformers library can leverage the new Inkling2 model for improved performance in applications requiring both text and image processing, potentially enhancing the capabilities of AI-driven projects in various domains.
-
-**Tags**: `#Hugging Face`, `#AI`, `#Machine Learning`, `#Multimodal Models`, `#Transformers`
-
----
-
-<a id="item-tech-news-3"></a>
-### [AI Unlocks Gödel&\#x27;s Notebooks Revealing Hundreds of Theorems](https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths) ⭐️ 8.0/10
-
-AI has been employed to unlock the notebooks of mathematician Kurt Gödel, uncovering potentially hundreds of proved theorems and insights. This development highlights the intersection of artificial intelligence and mathematics, as researchers explore the significant mathematical contributions hidden within Gödel&\#x27;s extensive notes.
+AI has been utilized to unlock the notebooks of mathematician Kurt Gödel, which may contain hundreds of proved theorems. This development could lead to new insights into Gödel&\#x27;s work in mathematical logic, highlighting the intersection of AI and mathematics. The notebooks, previously difficult to interpret, are now more accessible for analysis and research.
 
 hackernews · bookofjoe · Nov 13, 17:30 · [Discussion](https://news.ycombinator.com/item?id=50486748)
 
-**「Gödel&\#x27;s Notebooks and AI」** Kurt Gödel, a prominent logician, left behind 1,009 pages of notes written in an obsolete shorthand known as Gabelsberger. These notebooks are believed to contain significant mathematical insights, including hundreds of proved theorems, which have now been unlocked with the help of artificial intelligence.
+**「Gödel&\#x27;s Notebooks and AI」** Kurt Gödel, a prominent mathematician known for his incompleteness theorems, left behind 1,009 pages of handwritten notes, much of which was written in an obsolete shorthand. These notebooks have remained largely inaccessible to researchers for decades, but recent advancements in AI have enabled the decoding of this complex material, revealing hundreds of proved theorems that were previously hidden.
 
-**「Potential Impact on Mathematical Research」** The unlocking of Gödel&\#x27;s notebooks could lead to new mathematical discoveries and insights, potentially influencing ongoing research in logic and foundational mathematics. Researchers may need to assess the validity and implications of these newly revealed theorems.
+**「Potential Insights into Gödel&\#x27;s Work」** The unlocking of Gödel&\#x27;s notebooks by AI could provide researchers with new insights and understanding of his theorems, potentially influencing future studies in mathematical logic and computer science. However, the extent of new discoveries remains uncertain.
 
-**「Community Reactions」** Some commenters express skepticism about the significance of the findings, noting Gödel&\#x27;s perfectionism and rigorous self-review process, suggesting that any new insights may not be groundbreaking. Others reflect on Gödel&\#x27;s concerns about his legacy and the potential for AI to bring attention to his work.
+**「Community Reactions」** Some commenters express skepticism about the potential for groundbreaking new theorems emerging from Gödel&\#x27;s notes, citing his perfectionism and rigorous self-review process. Others are curious about the specific themes of logic that AI might reveal from the notebooks.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths">‘Ahead of his time’: AI helps unlock discoveries hidden in ...</a></li>
+<li><a href="https://www.listmyai.com/blog/ai-unlocks-godels-notebooks-theorems">AI Unlocks Gödel&#x27;s Notebooks: Hundreds of Proved Theorems ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#mathematics`, `#Gödel`, `#theorems`, `#technology`
+**Tags**: `#AI`, `#Gödel`, `#mathematics`, `#theorems`, `#technology`
+
+---
+
+<a id="item-tech-news-3"></a>
+### [Runway Releases Open-Source Praxis-1 for Video AI Robot Control](https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/) ⭐️ 8.0/10
+
+Runway has released its Praxis-1 model as open-source software under the Apache 2.0 license. This model utilizes video training knowledge for robotic control and currently leads the World Action Model category on Nvidia&\#x27;s RoboLab-120 benchmark, although it is not yet capable of planning complex action sequences independently.
+
+rss · The Decoder · Nov 14, 09:45
+
+**「Background on Praxis-1」** Praxis-1 represents a significant advancement in the integration of video AI and robotics, building on previous developments in AI-driven robotic control systems. The model&\#x27;s performance on established benchmarks highlights its potential applications in various robotic tasks.
+
+**「Impact on Robotics Development」** The open-source nature of Praxis-1 allows developers and researchers to leverage its capabilities for enhancing robotic control systems, potentially accelerating innovation in the field of robotics and AI.
+
+**Tags**: `#robotics`, `#open source`, `#AI`, `#machine learning`, `#video AI`
 
 ---
 
 <a id="item-tech-news-4"></a>
-### [Anthropic&\#x27;s Claude for Manufacturing Integrates AI with Factory Software](https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/) ⭐️ 8.0/10
+### [Anthropic&\#x27;s Claude for Manufacturing Integrates AI into Factory Software](https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/) ⭐️ 8.0/10
 
-Anthropic has launched the Claude for Manufacturing plugin, which integrates AI with key factory software such as Autodesk Fusion, Oracle NetSuite, and Infor. This plugin features 17 specialized skills that allow the AI to draft quotes, compare suppliers, and place backup orders with human approval, enhancing workflow automation in manufacturing. However, it does not yet control physical machines, as Anthropic is developing a separate Model Hardware Standard for that capability.
+Anthropic has launched the Claude for Manufacturing plugin, which integrates AI directly into factory software such as Autodesk Fusion, Oracle NetSuite, and Infor. This plugin features 17 specialized skills that allow the AI to draft quotes, compare suppliers, and place backup orders with human approval, enhancing operational efficiency in manufacturing workflows. However, it currently does not control physical machines, as Anthropic is developing a separate Model Hardware Standard for that capability.
 
 rss · The Decoder · Nov 13, 16:37
 
-**「Background」** The integration of AI into industrial workflows has been a growing trend, aiming to improve efficiency and reduce manual tasks. Previous developments in AI applications for manufacturing have focused on data analysis and predictive maintenance, setting the stage for more advanced automation solutions like Claude for Manufacturing.
+**「Background on AI in Manufacturing」** The integration of AI into manufacturing processes has been a growing trend, aimed at improving efficiency and automating routine tasks. Previous advancements in AI technology have paved the way for such specialized applications in industrial settings.
 
-**「Impact」** Manufacturers using Autodesk Fusion, Oracle NetSuite, and Infor can expect improved efficiency in their workflows through the automation capabilities provided by the Claude for Manufacturing plugin, potentially reducing the time spent on administrative tasks.
+**「Impact on Manufacturing Operations」** The introduction of the Claude for Manufacturing plugin is expected to streamline various administrative tasks in manufacturing, potentially reducing delays and improving supplier management. However, users should note that the plugin does not yet offer control over physical machinery, which limits its current automation capabilities.
 
-**Tags**: `#AI`, `#Manufacturing`, `#Workflow Automation`, `#Software Integration`
+**Tags**: `#AI`, `#Manufacturing`, `#Automation`, `#Industrial Workflows`, `#Software Integration`
 
 ---
 
 <a id="item-tech-news-5"></a>
 ### [Evidence of Nvidia Blackwell GPUs Found in Chinese AI Models](https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models/) ⭐️ 8.0/10
 
-Former OpenAI researcher Will DePue claims to have discovered Nvidia Blackwell GPU fingerprints in six Chinese AI models, including those from DeepSeek, Moonshot AI, MiniMax, and Ant Group. This finding suggests potential violations of US export controls, as the GPUs are not supposed to be accessible to these entities. DePue&\#x27;s forensic analysis involved reading chip signatures from published model weights, estimating the hardware costs behind the training runs to exceed half a billion dollars.
+Former OpenAI researcher Will DePue claims to have discovered Nvidia Blackwell GPU fingerprints in AI models from DeepSeek, Moonshot AI, MiniMax, and Ant Group. This evidence suggests potential violations of US export controls, as the GPUs are not legally exportable to China. DePue&\#x27;s forensic analysis involved reading chip signatures from the models&\#x27; published weights, estimating the hardware costs behind the training runs to exceed half a billion dollars.
 
 rss · The Decoder · Nov 13, 15:21
 
-**「Nvidia Blackwell GPUs Overview」** Nvidia&\#x27;s Blackwell is a GPU microarchitecture that succeeds the Hopper and Ada Lovelace architectures, designed to enhance performance and efficiency in AI applications. It features advanced technology with 208 billion transistors and is manufactured using a custom TSMC 4NP process, making it a powerful tool for AI model training and deployment.
+**「Background on Nvidia Blackwell GPUs and Export Controls」** Nvidia&\#x27;s Blackwell GPUs are subject to strict export controls that prohibit their sale to China or Chinese-owned firms. Despite these restrictions, reports indicate that Chinese AI labs may still access these GPUs remotely through GPU clusters, raising concerns about compliance with U.S. export regulations.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Blackwell_%28microarchitecture%29">Blackwell (microarchitecture) - Wikipedia</a></li>
-<li><a href="https://www.nvidia.com/en-us/data-center/technologies/blackwell-architecture/">The Engine Behind AI Factories | NVIDIA Blackwell Architecture</a></li>
+<li><a href="https://wccftech.com/deepseek-and-moonshot-ai-models-appear-to-carry-hidden-nvidia-blackwell-fingerprints-in-their-starting-weights-pointing-to-training-clusters-of-3000-to-4500-gpus/">DeepSeek And Moonshot AI Models Appear To Carry Hidden NVIDIA ...</a></li>
+<li><a href="https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/">Export -banned Nvidia chips are behind China&#x27;s most... | TechCrunch</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#Nvidia`, `#Export Controls`, `#Hardware`, `#Research`
+**Tags**: `#AI`, `#Nvidia`, `#Export Controls`, `#Research`, `#Machine Learning`
 
 ---
 
 <a id="item-tech-news-6"></a>
-### [Jensen Huang Resigns as NVIDIA CEO After 33 Years](https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/) ⭐️ 8.0/10
+### [NVIDIA cuPhoton Enhances Black Hole Imaging with GPU-Powered Interferometry](https://developer.nvidia.com/blog/run-gpu-powered-black-hole-interferometry-with-nvidia-cuphoton/) ⭐️ 8.0/10
 
-Jensen Huang has resigned from his position as CEO of NVIDIA after 33 years, with Colette Kress appointed as interim CEO. This leadership change raises concerns about the future direction of NVIDIA, particularly in the realms of AI and open source initiatives.
-
-rss · Latent Space · Nov 13, 09:04
-
-**「Background on NVIDIA&\#x27;s Leadership Changes」** Jensen Huang&\#x27;s resignation comes shortly after NVIDIA&\#x27;s announcement of acquiring Hugging Face for approximately $12.9 billion, a move aimed at enhancing its position in the AI market and securing a platform for open AI models. This acquisition, reported in September 2026, is significant as it could consolidate power in the distribution and development of AI models, impacting both open-source AI and the competitive landscape.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://the-decoder.com/nvidia-buys-the-front-door-to-open-ai-as-closed-labs-increasingly-design-their-own-silicon/">2026-09-04 — Nvidia Acquires Hugging Face for $12.9 Billion</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#NVIDIA`, `#AI Leadership`, `#CEO Resignation`, `#Open Source`, `#Technology Industry`
-
----
-
-<a id="item-tech-news-7"></a>
-### [NVIDIA Enhances cuBLAS with New FP64 Algorithms for Scientific Simulations](https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/) ⭐️ 8.0/10
-
-NVIDIA has introduced new FP64 algorithms in its cuBLAS library, aimed at improving the efficiency of scientific simulations. This enhancement is expected to significantly boost performance for applications requiring high-precision computations, benefiting professionals in fields such as software engineering and AI.
-
-rss · NVIDIA Developer Blog · Nov 13, 22:13
-
-**「Overview of cuBLAS and FP64 Algorithms」** NVIDIA cuBLAS is a GPU-accelerated library for dense linear algebra that provides high-performance matrix operations. The introduction of new FP64 algorithms enhances the library&\#x27;s capabilities, particularly for scientific simulations that require high-precision calculations. These algorithms allow for improved efficiency in executing complex computations, which is crucial in fields such as molecular chemistry and materials science.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://docs.nvidia.com/cuda/cublas/">1. Introduction — cuBLAS 13.4 documentation</a></li>
-<li><a href="https://www.linkedin.com/posts/alarijani_latest-update-to-nvidia-cublas-emulated-activity-7401205931855773699-z1gB">Latest update to NVIDIA cuBLAS : emulated FP 64 matmuls now...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#NVIDIA`, `#cuBLAS`, `#FP64`, `#scientific simulations`, `#performance improvement`
-
----
-
-<a id="item-tech-news-8"></a>
-### [NVIDIA cuPhoton Enhances Black Hole Imaging with GPU Technology](https://developer.nvidia.com/blog/run-gpu-powered-black-hole-interferometry-with-nvidia-cuphoton/) ⭐️ 8.0/10
-
-NVIDIA has introduced cuPhoton, a technology that leverages GPU power to improve black hole imaging through interferometry. This advancement allows for more precise imaging of distant black holes, such as M87\*, which appears extremely small in the sky. The use of cuPhoton represents a significant step forward in astrophysical imaging techniques.
+NVIDIA has introduced cuPhoton, a tool that leverages GPU-powered interferometry techniques to improve black hole imaging. This advancement allows for more precise imaging of distant black holes, such as M87\*, which has an observed ring measuring just 42 microarcseconds. The application of cuPhoton represents a significant step forward in astrophysics and computational techniques.
 
 rss · NVIDIA Developer Blog · Nov 13, 21:17
 
-**「NVIDIA cuPhoton Overview」** NVIDIA cuPhoton is a GPU-accelerated software framework designed to assist scientists in processing and analyzing multidimensional data from various sources, including telescopes and X-ray experiments. It enables faster data processing, transforming raw data into actionable insights significantly quicker than traditional methods.
+**「NVIDIA cuPhoton Overview」** NVIDIA cuPhoton is a set of CUDA-accelerated Python tools designed to enhance data processing for astrophysical applications, particularly in imaging black holes. It allows scientists to leverage GPU computing for tasks such as data ingestion, cleaning, and analysis, significantly reducing the time required to prepare data for insights.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://blogs.nvidia.com/blog/ai-for-science-software-cuda/">From Materials Simulation to Experimental Astronomy... | NVIDIA Blog</a></li>
+<li><a href="https://developer.nvidia.com/">NVIDIA Developer</a></li>
 <li><a href="https://www.linkedin.com/posts/talentsourcerrobkemp_nvidia-cuphoton-is-now-available-on-github-activity-7496386783929348096-qsAX">NVIDIA cuPhoton is now available on GitHub. Scientists working with...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#GPU Computing`, `#Astrophysics`, `#NVIDIA`, `#Machine Learning`, `#Interferometry`
+**Tags**: `#GPU Computing`, `#Astrophysics`, `#NVIDIA`, `#Machine Learning`, `#Software Engineering`
+
+---
+
+<a id="item-tech-news-7"></a>
+### [Serving GLM-5.3 Across Two NVIDIA DGX Stations with vLLM](https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/) ⭐️ 8.0/10
+
+The article discusses the challenges of serving the large AI model GLM-5.3 across multiple NVIDIA DGX Stations using vLLM. It highlights the necessity of distributing model weights across two DGX Stations due to the limitations of single GPU memory capacity. This approach is particularly relevant for AI and machine learning professionals dealing with frontier-scale models.
+
+rss · NVIDIA Developer Blog · Nov 13, 17:00
+
+**「Serving Large AI Models」** The article discusses the challenges of serving large AI models, such as GLM-5.3, which require significant GPU memory that often exceeds the capacity of a single machine. To address this, NVIDIA&\#x27;s approach involves using two DGX Stations connected via ConnectX-8 RDMA, employing tensor parallelism to distribute the model&\#x27;s weights and computations across multiple GPUs.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm">When One GPU Isn’t Enough: Serving GLM-5.3 Across Two NVIDIA ...</a></li>
+<li><a href="https://forums.developer.nvidia.com/t/when-one-gpu-isn-t-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/388986">When One GPU Isn’t Enough: Serving GLM-5.3 Across Two NVIDIA ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI`, `#Machine Learning`, `#GPU`, `#NVIDIA`, `#vLLM`
+
+---
+
+<a id="item-tech-news-8"></a>
+### [Bolt PCHIE: New Deterministic Safety Harness for AI Agents](https://www.reddit.com/r/MachineLearning/comments/1xvyvbd/p_bolt_pchie_a_deterministic_tamperevident_safety/) ⭐️ 8.0/10
+
+A new safety harness for AI agents, called Bolt PCHIE, has been introduced, which utilizes a hash chain for decision verification. This system allows for the replay and verification of decisions made by AI agents, enhancing accountability and integrity in AI systems. The project is publicly available on GitHub.
+
+rss · Reddit MachineLearning · Nov 14, 10:06
+
+**「Background on AI Safety」** The development of safety mechanisms for AI systems has become increasingly important as AI technologies advance. Previous efforts have focused on ensuring that AI decisions can be trusted and verified, leading to innovations like the Bolt PCHIE harness.
+
+**Tags**: `#AI safety`, `#machine learning`, `#deterministic systems`, `#verification`, `#open source`
 
 ---
 
 <a id="item-tech-news-9"></a>
-### [Advancements in Training 1 Trillion Parameter MoE on TorchTitan](https://www.reddit.com/r/MachineLearning/comments/1xvce5h/scaling_to_1t_moe_on_torchtitan_p/) ⭐️ 8.0/10
+### [Training a 1 Trillion Parameter MoE Model with TorchTitan](https://www.reddit.com/r/MachineLearning/comments/1xvce5h/scaling_to_1t_moe_on_torchtitan_p/) ⭐️ 8.0/10
 
-Recent developments in training a 1 trillion parameter mixture of experts \(MoE\) model using TorchTitan have achieved a performance rate of approximately 1,300 tokens per second per GPU across 384 GPUs. This represents a 14-fold increase from initial performance levels. The insights shared are particularly beneficial for practitioners in the machine learning community looking to optimize large model training.
+A team successfully trained a 1 trillion parameter mixture of experts \(MoE\) model using TorchTitan and PyTorch, achieving a throughput of approximately 1,300 tokens per second on 384 GPUs powered by GH200 chips in the JUPITER supercomputer. This represents a 14-fold increase in performance from their initial benchmarks. The advancements highlight the effective use of GPU resources and innovative techniques in model sharding and optimization.
 
 rss · Reddit MachineLearning · Nov 13, 16:28
 
-**「Background on MoE Models」** Mixture of experts \(MoE\) models are designed to utilize a subset of parameters for each input, allowing for efficient scaling to larger models. The advancements discussed stem from collaborative efforts with TorchTitan and PyTorch maintainers to maximize the capabilities of the GH200 GPUs in the JUPITER supercomputer.
+**「Context of the Achievement」** The development of large-scale machine learning models has been a significant focus in the field, with mixture of experts \(MoE\) architectures allowing for efficient scaling. Previous efforts have struggled with memory and computational limitations, making this achievement notable for its scale and efficiency.
 
-**「Impact on Model Training Efficiency」** The techniques developed during this training process, such as optimized sharding and communication strategies, significantly enhance the efficiency of training large models, which could lead to faster development cycles and reduced resource costs for organizations working with large-scale machine learning models.
+**「Consequences for Future Model Training」** This achievement may influence future research and development in large model training, particularly in optimizing GPU resource utilization and improving throughput for similar architectures. Developers may adopt the techniques used in this project to enhance their own model training processes.
 
-**Tags**: `#Machine Learning`, `#PyTorch`, `#Model Training`, `#AI Research`
+**Tags**: `#Machine Learning`, `#PyTorch`, `#Model Training`, `#GPU Computing`
 
 ---
 
 <a id="item-tech-news-10"></a>
-### [Tamserve: Cost-Effective Real-Time Video Tracking Solution](https://www.reddit.com/r/MachineLearning/comments/1xuvxke/i_built_tamserve_to_make_realtime_video_tracking/) ⭐️ 8.0/10
+### [New Paper Addresses Numerical Bugs in Softmax Implementations](https://arxiv.org/abs/2610.31642) ⭐️ 8.0/10
 
-Tamserve is an open-source solution for real-time video tracking that significantly reduces costs and improves efficiency compared to existing methods. It operates up to 3.8 times faster than Meta&\#x27;s code while maintaining the same accuracy, with costs per camera per day dropping to as low as $0.18 at 5 fps, compared to $0.44 with Meta&\#x27;s solution. This tool allows for flexible object tracking across multiple cameras without exhausting GPU memory.
+A recent paper published on October 22 identifies critical numerical bugs in softmax and cross-entropy implementations across major frameworks like PyTorch, JAX, and TensorFlow. The two main issues, Softmax Collapse and Softmax Cancellation, affect model training by causing incorrect gradient calculations. While the fix may not significantly impact standard training for most models, it offers improvements in specific scenarios such as model distillation, bf16 training, fine-tuning, and small datasets.
 
-rss · Reddit MachineLearning · Nov 13, 02:23
+telegram · gptupdates · Nov 14, 09:26
 
-**「Background on Video Tracking」** Traditional video tracking methods, such as those used in SAM 2.1 and EdgeTAM, are known for their accuracy but can be expensive and memory-intensive when used with live cameras. Tamserve addresses these limitations by sharing a single model across multiple cameras, thus optimizing memory usage and performance.
+**「Background on Softmax Numerical Bugs」** Recent research has identified two critical numerical bugs in the softmax and cross-entropy implementations across major machine learning frameworks like PyTorch, JAX, and TensorFlow. These bugs, termed Softmax Collapse and Softmax Cancellation, can significantly affect model training, particularly in scenarios involving distillation and low-precision training. The findings were published in a paper on October 22, 2026, highlighting the need for fixes to improve numerical stability in these widely used functions.
 
-**「Impact on Users」** Users in machine learning and computer vision can benefit from Tamserve&\#x27;s cost efficiency and enhanced performance, making real-time video tracking more accessible and scalable for various applications.
+**「Impact on Model Training」** The fix is expected to enhance the stability and performance of models during distillation and bf16 training, addressing issues that previously led to misleading gradient calculations. This improvement is particularly relevant for production pipelines that utilize model distillation.
 
-**Tags**: `#machine learning`, `#video tracking`, `#open source`, `#cost efficiency`, `#real-time processing`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://aisafetyhot.com/en/story/2464574b-61c4-41b5-b680-eb87207fa3e2">DeepMind finds Softmax numerical precision bug and proposes a fix</a></li>
+<li><a href="https://www.samcodeman.com/writing/softmax-collapse-zeroes-target-gradient-cross-entropy">Softmax Collapse: zero target gradient, no threshold given</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#softmax`, `#machine learning`, `#AI`, `#numerical stability`, `#cross-entropy`
 
 ---
 
 <a id="item-tech-news-11"></a>
-### [Open Weights Released for Inkling 2 Small Multimodal MoE Model](https://huggingface.co/thinkingmachines/Inkling-2-Small) ⭐️ 8.0/10
+### [Innovative Terminal Borders Enhance Text-Based User Interfaces](https://www.joshka.net/cell-borders/) ⭐️ 7.0/10
 
-The open weights for the Inkling 2 Small model, a multimodal Mixture-of-Experts \(MoE\) transformer with 594 billion parameters, have been released under the Apache 2.0 license. This model features a 48-layer architecture, supports a context window of up to 1 million tokens, and requires a minimum of 500 GB of VRAM for deployment. It is designed for efficient multimodal tasks, combining local and global attention mechanisms.
+The article discusses new terminal borders that improve text-based user interfaces, aiming to enhance the visual experience without incurring additional costs. This innovation has sparked community interest and discussions about potential improvements and alternatives in terminal emulators and text user interfaces \(TUIs\).
 
-telegram · gptupdates · Nov 13, 17:21
+hackernews · vinhnx · Nov 13, 23:06 · [Discussion](https://news.ycombinator.com/item?id=50491423)
 
-**「Background on Inkling 2 Small Model」** The Inkling 2 Small model is a multimodal Mixture-of-Experts \(MoE\) transformer developed by Thinking Machines Lab, featuring 594 billion parameters with 17 billion active parameters per token. It supports a context window of up to 1 million tokens and utilizes a hybrid attention mechanism. This release builds on previous advancements in large-scale transformer architectures and their applications in multimodal tasks.
+**「Background on Terminal User Interfaces」** Terminal user interfaces \(TUIs\) have traditionally been limited in their visual capabilities, relying on simple text and character-based layouts. Recent developments in terminal emulators have aimed to expand these capabilities, allowing for more complex and visually appealing designs.
 
-**「Deployment Requirements」** Users aiming to deploy the Inkling 2 Small model will need significant GPU resources, specifically at least 500 GB of VRAM for the NVFP4 checkpoint, which may limit accessibility for smaller organizations or individual developers.
+**「Impact on Terminal Emulator Development」** The introduction of innovative terminal borders may encourage developers to explore new features and enhancements in terminal emulators, potentially leading to a broader adoption of advanced TUI frameworks that improve user experience.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://inkling2small.com/">Inkling 2 Small — specs, pricing, benchmarks and status</a></li>
-<li><a href="https://thinkingmachines.ai/model-card/inkling-2-small/">Inkling 2 Small Model Card - Thinking Machines Lab</a></li>
+**「Community Perspectives on Terminal Borders」** Community members have expressed mixed feelings about the innovation, with some advocating for more ambitious changes to terminal protocols, while others worry about the performance implications of new frameworks. There is also a call for broader support of features like overstrike mode to enhance TUI applications.
 
-</ul>
-</details>
-
-**Tags**: `#machine learning`, `#open source`, `#transformers`, `#multimodal`
+**Tags**: `#terminal emulators`, `#user interfaces`, `#software engineering`, `#TUI`, `#community discussion`
 
 ---
 
 <a id="item-tech-news-12"></a>
-### [Vulnerability in Android&\#x27;s Clipboard Security Measures](https://toninoble.com/post/ctrlc-ctrlv-ctrlcve) ⭐️ 7.0/10
+### [ggml v1.0.0 Released with Performance Enhancements](https://github.com/ggml-org/ggml/releases/tag/v1.0.0) ⭐️ 7.0/10
 
-A recent article discusses a vulnerability in Android&\#x27;s clipboard security measures, which could allow apps to access clipboard data without user notification. This raises concerns about privacy and app behavior, particularly as it relates to how apps interact with sensitive user information. The issue has sparked community discussions regarding the implications for user security and privacy practices.
+The release of ggml v1.0.0 introduces significant performance enhancements for local AI inference, which are particularly beneficial for software engineers and AI practitioners. Community feedback highlights improvements in speed and usability, with users reporting runtime reductions of up to 10% on benchmarks. This version is now available on GitHub.
 
-hackernews · dethmasque · Nov 13, 18:23 · [Discussion](https://news.ycombinator.com/item?id=50487605)
+hackernews · cobychapple · Nov 14, 02:28 · [Discussion](https://news.ycombinator.com/item?id=50493062)
 
-**「Android Clipboard Security Overview」** Android&\#x27;s clipboard management system allows users to copy and paste data between applications, but improper implementations can lead to security vulnerabilities. Recent updates have tightened security measures to prevent unauthorized access to clipboard data, particularly since Android 10, which restricted background apps from accessing clipboard events. This context is crucial for understanding the implications of the newly reported vulnerability.
+**「Background Information」** ggml is an open-source project focused on optimizing AI inference performance on local hardware. The release of version 1.0.0 marks a notable advancement in its capabilities, building on previous iterations that aimed to enhance efficiency and usability.
 
-**「Impact on User Privacy」** The vulnerability could lead to unauthorized access to sensitive information copied to the clipboard, potentially compromising user privacy and security. Users may need to be more cautious about what they copy, especially when using apps that do not respect clipboard access protocols.
+**「User Impact」** Users of ggml v1.0.0 can expect improved performance in AI inference tasks, with specific reports indicating significant speed boosts during operation. This enhancement allows for more efficient processing, particularly for large models and extensive token generation.
 
-**「Community Reactions」** Community members expressed frustration over apps that read clipboard data without consent, with some sharing personal experiences of how security changes in Android affected their applications. There is a call for better control over clipboard access to enhance user privacy.
+**「Community Feedback」** Community members have expressed enthusiasm for the performance improvements, with one user noting a runtime reduction from 4:22 to 3:59 on a long prompt. Others have praised the project for its continuous optimization and usability on various hardware configurations.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://developer.android.com/privacy-and-security/risks/secure-clipboard-handling">Secure Clipboard Handling | Security | Android Developers</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Android`, `#Security`, `#Clipboard`, `#Software Engineering`, `#Privacy`
+**Tags**: `#AI`, `#Performance`, `#Software Engineering`, `#Open Source`
 
 ---
 
 <a id="item-tech-news-13"></a>
-### [Technical Vision for the Haskell Ecosystem Sparks Community Debate](https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078) ⭐️ 7.0/10
+### [Unsloth Qwen3.8-27B Update Introduces Dynamic v3.1 Quantizations](https://unsloth.ai/docs/models/qwen3.8) ⭐️ 7.0/10
 
-A recent article outlines a technical vision for the Haskell ecosystem, igniting discussions within the community about its relevance in AI and software development. While the vision presents insightful ideas, it does not signify a major technological breakthrough or shift. The article has prompted various opinions on Haskell&\#x27;s role compared to other programming languages.
+The Unsloth Qwen3.8-27B model has received a significant update with the introduction of Dynamic v3.1 quantizations, enhancing its performance for users with limited hardware capabilities. This update has generated considerable interest within the community, indicating its potential impact on AI applications, particularly for those utilizing large models.
 
-hackernews · cosmic\_quanta · Nov 13, 14:43 · [Discussion](https://news.ycombinator.com/item?id=50484235)
+hackernews · Retro\_Dev · Nov 14, 00:06 · [Discussion](https://news.ycombinator.com/item?id=50491980)
 
-**「Context of Haskell in Modern Programming」** Haskell is a functional programming language known for its strong type system and expressive capabilities. Despite its advantages, it has struggled to gain widespread adoption in areas like AI, where languages such as Python and Rust are more prevalent.
+**「Qwen3.8 Model Overview」** The Qwen3.8-27B model is a dense 27 billion parameter unified vision-language model that supports text, image, and video processing. It features a 256K context window and can operate on local setups with 17GB of RAM/VRAM. Previous updates have introduced quantization methods aimed at improving performance and efficiency for users with limited hardware capabilities.
 
-**「Consequences for Haskell Users」** The ongoing debate about Haskell&\#x27;s role in AI and software development may influence developers&\#x27; perceptions and decisions regarding its use, potentially affecting its adoption in new projects.
+**「User Benefits」** The quantization improvements in the Qwen3.8-27B model are expected to benefit users with weaker GPUs, allowing them to run the model more efficiently and effectively, which could lead to broader accessibility in AI development.
 
-**「Community Perspectives」** Community members have expressed mixed feelings about Haskell&\#x27;s popularity in AI, with some advocating for its expressive safety features while others lament its lack of universality compared to languages like JavaScript and Rust.
-
-**Tags**: `#Haskell`, `#software engineering`, `#AI`, `#programming languages`, `#community discussion`
-
----
-
-<a id="item-tech-news-14"></a>
-### [Live Migration Support Announced for FreeBSD and bhyve](https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/) ⭐️ 7.0/10
-
-Live migration support is being introduced in FreeBSD and its hypervisor bhyve, enhancing virtualization capabilities for users. This feature allows virtual machines to be moved between hosts without downtime, which is particularly beneficial for system management and resource optimization. The announcement has generated significant interest within the community, indicating its potential impact on FreeBSD users.
-
-hackernews · JohnDohnBohn · Nov 13, 19:58 · [Discussion](https://news.ycombinator.com/item?id=50488835)
-
-**「Background on Live Migration in FreeBSD」** The proposed live-migration support for FreeBSD&\#x27;s bhyve hypervisor aims to allow virtual machines \(VMs\) to move between physical hosts without downtime. This feature is particularly significant for users managing virtualized environments, as it enhances system flexibility and uptime. Previous discussions and community contributions have highlighted the demand for this capability, indicating its importance in the FreeBSD ecosystem.
+**「Community Insights」** Community members have expressed excitement about the update, particularly those with limited GPU capabilities, highlighting the importance of such advancements for enabling more users to work with large models.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://agihunt.info/en/p/1a1d6c4b442a5173f4242db9fa3">FreeBSD bhyve live migration support proposed… · AGI Hunt</a></li>
+<li><a href="https://unsloth.ai/docs/models/qwen3.8/train">Qwen3.8 Fine-tuning Guide | Unsloth Documentation</a></li>
+<li><a href="https://unsloth.ai/docs/models/qwen3.8">Qwen3.8 - How to Run Locally | Unsloth Documentation</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#FreeBSD`, `#bhyve`, `#virtualization`, `#live migration`, `#community discussion`
+**Tags**: `#AI`, `#Machine Learning`, `#Quantization`, `#Community Engagement`
 
 ---
 
-<a id="item-tech-news-15"></a>
-### [Discovery of Granzyme K Protein Influences Aging Without Inflammation](https://www.nature.com/articles/d41586-026-03638-3) ⭐️ 7.0/10
+<a id="item-tech-news-14"></a>
+### [Discovery of Protein Granzyme K Linked to Aging Without Inflammation](https://www.nature.com/articles/d41586-026-03638-3) ⭐️ 7.0/10
 
-Researchers have identified Granzyme K, a protein that drives aging processes without triggering inflammation. This discovery could significantly impact future aging research and therapies, particularly in understanding age-related diseases. The findings suggest a potential pathway for developing treatments that target aging without the adverse effects of inflammation.
+Researchers have identified Granzyme K, a protein that drives aging without triggering inflammation. This discovery could change our understanding of the aging process and its relationship with immune responses, potentially leading to new therapeutic approaches in aging research.
 
 hackernews · gumby · Nov 13, 19:25 · [Discussion](https://news.ycombinator.com/item?id=50488470)
 
-**「Granzyme K and Aging Research」** Granzyme K \(GzmK\) is a protein linked to aging processes, specifically identified as a tissue-specific driver of aging without triggering systemic inflammation. Recent studies have shown that GzmK deficiency can significantly reduce organ aging, suggesting its potential role in developing therapies for age-related diseases.
+**「Understanding Granzyme K&\#x27;s Role in Aging」** The newly identified protein, Granzyme K, has been linked to aging processes in various organs, including the heart, liver, and kidneys. Previous research has indicated that while Granzyme K contributes to tissue aging, it does not appear to drive immune aging or systemic inflammation, suggesting a complex relationship between aging and immune responses.
 
-**「Potential Research Implications」** The identification of Granzyme K may lead to new therapeutic strategies aimed at mitigating aging effects while avoiding inflammation-related complications, which could benefit aging populations and improve health outcomes.
+**「Potential Implications for Aging Therapies」** The identification of Granzyme K may lead to new strategies for decoupling aging from immune responses, which could improve therapeutic approaches for age-related diseases and enhance the quality of life in older adults.
 
-**「Community Insights」** Community members noted the significance of the findings, emphasizing that while the research is promising, it primarily focuses on animal studies, which may limit immediate applicability to human aging.
+**「Diverse Perspectives on Aging」** Community members expressed varied opinions on the implications of extending life through such discoveries, with some questioning the desirability of living longer without the associated decline in health, while others highlighted the potential for significant advancements in aging research.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/GZMK">GZMK - Wikipedia</a></li>
 <li><a href="https://www.news-medical.net/news/20261112/Blocking-Granzyme-K-protein-may-protect-organs-from-age-related-damage.aspx">Blocking Granzyme K protein may protect organs from age-related...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#aging`, `#biotechnology`, `#research`, `#health`, `#immunology`
+**Tags**: `#aging`, `#biotechnology`, `#healthcare`, `#research`
+
+---
+
+<a id="item-tech-news-15"></a>
+### [Jonathan Blow Critiques AI&\#x27;s Impact on Software Development](https://www.youtube.com/watch?v=IRK8h67ol7Q) ⭐️ 7.0/10
+
+In a recent video, Jonathan Blow critiques the effectiveness of AI in software development, questioning why software remains largely unchanged despite advancements in AI technology. He emphasizes that the challenges in software creation extend beyond coding to include decision-making and problem modeling, which AI has yet to effectively address. This discussion has generated significant community engagement, reflecting diverse opinions on the state of software engineering and the role of AI.
+
+hackernews · helloplanets · Nov 13, 15:08 · [Discussion](https://news.ycombinator.com/item?id=50484658)
+
+**「Context on AI and Software Development」** Jonathan Blow&\#x27;s critique highlights ongoing debates about the limitations of AI in software development, particularly regarding its inability to address the complexities of project management and decision-making in coding. This discussion reflects a broader concern within the tech community about the actual advancements AI has made in coding capabilities compared to human developers.
+
+**「Impact on Software Development Perspectives」** Blow&\#x27;s critique highlights a critical perspective among developers regarding the limitations of AI in addressing fundamental issues in software development, potentially influencing how teams approach project management and decision-making in the future.
+
+**「Community Reactions」** Community members have expressed varied opinions, with some agreeing with Blow&\#x27;s assessment that the core challenges of software development remain unchanged, while others argue that recent advancements in indie game development demonstrate significant progress in the field.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://daily.dev/posts/jonathan-blow-if-ai-solved-coding-why-is-my-software-still-the-same--sxppe3toj">Jonathan Blow — If AI Solved Coding, Why Is My Software...</a></li>
+<li><a href="https://podfollow.com/the-students/episode/de13ed95d1c58d608d07ad91f7cb575ea40b07c2/view">Jonathan Blow — If AI Solved Coding, Why Is My Software Still ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI`, `#software development`, `#community discussion`, `#technology trends`
 
 ---
 
 <a id="item-tech-news-16"></a>
-### [Google Limits AI Features in Search for Certain Schools](https://text.npr.org/nx-s1-6029408) ⭐️ 7.0/10
+### [Live Migration Support Added to FreeBSD&\#x27;s bhyve](https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/) ⭐️ 7.0/10
 
-Google has decided to limit AI features in its Search product for certain schools, which has led to various theories and discussions within the community. This decision raises questions about user choice and the company&\#x27;s strategy regarding AI integration in technology. The implications of this move are being debated among users and experts alike.
+FreeBSD&\#x27;s bhyve now supports live migration, allowing users to move running virtual machines without downtime. This enhancement is expected to improve operational efficiency and flexibility for users of the FreeBSD virtualization platform.
 
-hackernews · kamaraju · Nov 13, 15:29 · [Discussion](https://news.ycombinator.com/item?id=50484960)
+hackernews · JohnDohnBohn · Nov 13, 19:58 · [Discussion](https://news.ycombinator.com/item?id=50488835)
 
-**「Context on Google&\#x27;s AI Integration」** Google has been increasingly integrating AI features into its products, including Search, as part of its broader strategy to enhance user experience and engagement. This shift has raised concerns about user choice and the implications of AI in educational environments, particularly as schools navigate the balance between technology adoption and maintaining traditional learning methods.
+**「Background on Live Migration in FreeBSD」** Live migration support for FreeBSD&\#x27;s bhyve hypervisor allows users to move running virtual machines between hosts without shutting them down. This feature is being developed as part of FreeBSD 15.1, with a working prototype recently published that demonstrates minimal downtime during migration. The implementation follows a pre-copy pattern similar to that used in KVM, addressing various technical challenges along the way.
 
-**「Impact on Schools and Users」** This limitation may affect how students and educators access information, potentially restricting the benefits of AI-enhanced search capabilities in educational environments. Schools that prefer AI-free options may find themselves at a disadvantage compared to those that embrace AI technologies.
+**「Impact on Users」** The introduction of live migration in bhyve will enable FreeBSD users to maintain service continuity during maintenance or resource allocation changes, significantly enhancing the usability of the virtualization platform.
 
-**「Community Perspectives」** Community members have expressed differing views on Google&\#x27;s decision, with some arguing that the refusal to provide an AI-free Search option reflects a misunderstanding of user needs. Others draw parallels to past corporate practices regarding product bundling, suggesting that this decision may have broader implications for user choice in technology.
+**「Community Reactions」** Community members expressed excitement about the new feature, with one user noting its potential as a game changer for FreeBSD users. Others discussed related projects and their experiences with FreeBSD compared to other operating systems.
 
-**Tags**: `#AI`, `#Google`, `#Search`, `#Technology Policy`, `#Community Discussion`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://apexneuralnews.com/news/live-migration-support-in-freebsd-and-bhyve-coming">Live-migration support in FreeBSD and bhyve coming | Apex ...</a></li>
+<li><a href="https://www.navsplace.net/freebsd-bhyve-live-migration-rfc-20261114/">FreeBSD’s bhyve Gets a Working Live Migration Prototype</a></li>
+<li><a href="https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/">FreeBSD bhyve Live Migration: Moving VMs Between Hosts</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#FreeBSD`, `#bhyve`, `#virtualization`, `#live migration`, `#technology news`
 
 ---
 
 <a id="item-tech-news-17"></a>
-### [OpenAI Disbands Robotics Team for General Models in Robotics Control](https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/) ⭐️ 7.0/10
+### [CERN Develops Next-Gen Superconducting Magnets for Large Hadron Collider](https://spectrum.ieee.org/large-hadron-collider-superconducting-magnets) ⭐️ 7.0/10
 
-OpenAI has disbanded its robotics team, shifting focus to using general AI models for robotic control. This change reflects a strategic pivot towards leveraging these models, which has sparked community debate regarding their efficiency and performance in robotics applications.
+CERN has developed next-generation superconducting magnets for the Large Hadron Collider \(LHC\), enhancing its capabilities for particle physics research. This advancement includes the production of 250 coils, although 25 failed due to manufacturing challenges. These new magnets are expected to improve the performance and efficiency of the LHC.
 
-hackernews · sshah03 · Nov 13, 17:55 · [Discussion](https://news.ycombinator.com/item?id=50487184)
+hackernews · marc\_\_1 · Nov 13, 14:25 · [Discussion](https://news.ycombinator.com/item?id=50483959)
 
-**「Shift in OpenAI&\#x27;s Robotics Strategy」** OpenAI&\#x27;s decision to disband its robotics team follows a broader trend of restructuring within the organization, as seen in previous changes like the dissolution of its &\#x27;Preparedness&\#x27; team for AI risk management reported in Horizon&\#x27;s August 17 digest \(horizon-2026-08-17-en.md\). This shift towards utilizing general AI models for robotic control indicates a significant pivot in their approach to robotics, moving away from specialized teams to a more integrated model.
+**「CERN&\#x27;s Magnet Development History」** CERN has been upgrading the Large Hadron Collider \(LHC\) with new superconducting magnets, specifically Nb₃Sn magnet coils, to enhance its performance. This development is part of the LHC&\#x27;s High-Luminosity upgrade, which aims to improve the collider&\#x27;s capabilities and increase the number of collisions it can produce.
 
-**「Impact on Robotics Efficiency」** The decision to rely on general models may lead to challenges in efficiency and performance, as some community members argue that specialized models are more effective for specific robotic tasks.
+**「Impact on Particle Physics Research」** The introduction of these advanced superconducting magnets is likely to enhance the LHC&\#x27;s ability to conduct high-energy particle collisions, potentially leading to new discoveries in particle physics. However, the failure of some coils highlights ongoing manufacturing challenges that could affect the timeline for deploying these magnets.
 
-**「Community Perspectives」** Community members have expressed concerns about the effectiveness of general models in robotics, with some suggesting that a combination of specialized and general models would be more efficient for different levels of robotic functions.
+**「Community Insights」** Community comments highlight concerns about the manufacturing process, noting that even minor imperfections can lead to coil failures. This underscores the precision required in producing these advanced components for the LHC.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://the-decoder.com/openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups/">2026-08-17 — OpenAI Dissolves &#x27;Preparedness&#x27; Team for AI Risk Management</a></li>
+<li><a href="https://spectrum.ieee.org/large-hadron-collider-superconducting-magnets">How CERN Built the Large Hadron Collider’s Next-Gen Magnets</a></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/09/260925005430.htm">CERN has begun disconnecting the Large Hadron Collider</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#OpenAI`, `#robotics`, `#AI models`, `#technology news`, `#community discussion`
+**Tags**: `#CERN`, `#Large Hadron Collider`, `#superconducting magnets`, `#particle physics`, `#engineering`
 
 ---
 
 <a id="item-tech-news-18"></a>
-### [AI Erodes Trust Between Writers and Readers](https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/) ⭐️ 7.0/10
+### [Security Vulnerabilities in Android Clipboard Functionality](https://toninoble.com/post/ctrlc-ctrlv-ctrlcve) ⭐️ 7.0/10
 
-The article discusses how AI-generated content is undermining trust between writers and readers, raising concerns about authenticity in literature. This shift is prompting significant debate regarding the implications for literary creation and the dynamics of reader engagement. The ongoing developments in AI technology are central to these discussions.
+The article discusses security vulnerabilities in Android&\#x27;s clipboard functionality, revealing how apps can potentially access clipboard data without user consent. This raises concerns for users regarding privacy and data security, particularly as these vulnerabilities could be exploited by malicious applications. The community has shown significant interest in these issues, reflecting ongoing discussions about the implications for Android security.
 
-hackernews · FinnLobsien · Nov 13, 11:13 · [Discussion](https://news.ycombinator.com/item?id=50481870)
+hackernews · dethmasque · Nov 13, 18:23 · [Discussion](https://news.ycombinator.com/item?id=50487605)
 
-**「Background on AI and Literary Trust Issues」** The rise of AI-generated content has led to concerns about authenticity and trust in literary works. Previous discussions have highlighted how scammers exploit platforms like Amazon to publish fraudulent content, undermining the credibility of genuine authors and creating a challenging environment for readers seeking quality literature.
+**「Clipboard Security in Android」** Android&\#x27;s clipboard functionality has undergone various security enhancements over the years, particularly with the introduction of Android 10, which restricted background apps from accessing clipboard events. This change aimed to improve user privacy by limiting how apps can interact with clipboard data, a concern that has been echoed in discussions about other platforms, such as the Linux Zoom client reading clipboard data, which raised similar privacy issues.
 
-**「Consequences for Literary Communities」** As AI-generated content proliferates, readers may become increasingly skeptical of the authenticity of literary works, potentially leading to a decline in trust towards both new and established authors. This skepticism could impact sales and readership engagement across the literary community.
+**「User Privacy Concerns」** The identified vulnerabilities may lead to unauthorized access to sensitive information copied to the clipboard, prompting users to be more cautious about what they copy and paste on their devices. This could affect user trust in apps that frequently access clipboard data.
 
-**「Community Perspectives on AI in Literature」** Some commenters express concern that AI-generated content represents an &\#x27;anti-invention&\#x27; that harms the human experience, advocating for regulation similar to that of digital drugs. Others note the challenges platforms like Amazon face in managing the influx of submissions, suggesting a need for better controls to maintain quality.
+**「Community Reactions」** Community members have expressed frustration over apps that read clipboard data without permission, with some sharing personal experiences of intrusive clipboard access by specific applications. This highlights a broader concern about user control over clipboard privacy.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://writerbeware.blog/">Shining a small, bright light in a wilderness of writing scams</a></li>
-<li><a href="https://www.pymnts.com/tag/amazon-scams/">Amazon scams Archives | PYMNTS.com</a></li>
+<li><a href="https://hachyderm.io/@simontatham/117201594980991062">2026-09-13 — Linux Zoom Client Reads X11 Clipboard Data</a></li>
+<li><a href="https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered">2026-09-12 — Another way to leak traffic on Android has been discovered</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#literature`, `#trust`, `#technology`, `#ethics`
+**Tags**: `#Android`, `#Security`, `#Clipboard`, `#Vulnerabilities`, `#Community Discussion`
 
 ---
 
 <a id="item-tech-news-19"></a>
-### [The Dawn of the Data Intelligence Engineer](https://motherduck.com/blog/the-data-intelligence-engineer/) ⭐️ 7.0/10
+### [Claude Meetings Raises Security and Consent Concerns in AI Integration](https://claude.com/resources/articles/claude-meetings) ⭐️ 7.0/10
 
-The article discusses the evolving role of Data Intelligence Engineers, highlighting the complexities and fragmentation within the data discipline. This role is becoming increasingly relevant for professionals in software engineering and AI, as organizations navigate the challenges of data management and analysis. The community is actively debating the implications of this new role, reflecting its significance in the industry.
+Claude Meetings has ignited a significant conversation regarding the integration of AI in meeting tools, particularly emphasizing security and user consent issues. As AI becomes more prevalent in these applications, concerns arise about how users will navigate the associated risks and the implications of consent during meetings.
 
-hackernews · jonbaer · Nov 13, 09:08 · [Discussion](https://news.ycombinator.com/item?id=50480480)
+hackernews · hmokiguess · Nov 13, 22:39 · [Discussion](https://news.ycombinator.com/item?id=50491097)
 
-**「Context of Data Roles」** The data discipline has traditionally been divided into various specialized roles, such as data engineers, data analysts, and data scientists. This fragmentation has led to challenges in collaboration and efficiency, prompting discussions about the need for more integrated roles like Data Intelligence Engineers.
+**「Introduction to Claude Meetings」** Claude Meetings is a new feature currently in beta that integrates AI into meeting tools, allowing users to generate recaps, notes, and action items automatically. This feature raises important discussions about security and user consent, particularly as it relates to the handling of meeting content and the implications of AI participation in conversations.
 
-**「Community Perspectives」** Community members express frustration over the fragmentation of data roles, with some advocating for more versatile, T-shaped professionals. Others raise concerns about the risks of unregulated data manipulation and the importance of ensuring that insights remain trustworthy across the organization.
+**「Community Insights on AI in Meetings」** Community members express concerns about the security risks of granting AI tools access to meeting content, with one commenter questioning the effectiveness of consent declarations during calls. Others speculate on the social acceptance of AI in meetings and the competitive landscape among AI providers.
 
-**Tags**: `#data engineering`, `#AI`, `#machine learning`, `#technology trends`, `#community discussion`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://claude.com/resources/articles/claude-meetings">Introducing Claude Meetings, now in beta | Claude by Anthropic</a></li>
+<li><a href="https://neuraltrust.ai/blog/claude-meetings">Claude Meetings: Setup, Security &amp; Tips - neuraltrust.ai</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI`, `#software engineering`, `#security`, `#meetings`, `#technology`
 
 ---
 
 <a id="item-tech-news-20"></a>
-### [OpenAI Launches ChatGPT Wallet for Secure AI Shopping](https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/) ⭐️ 7.0/10
+### [Technical Vision for the Haskell Ecosystem Sparks Community Debate](https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078) ⭐️ 7.0/10
 
-OpenAI has launched ChatGPT Wallet, a revamped AI shopping solution that enhances security and user experience. Users can register their card once and confirm purchases using Face ID or fingerprint, while keeping actual card details hidden behind payment tokens. This follows the discontinuation of their previous Instant Checkout approach.
+A recent article outlines a technical vision for the Haskell ecosystem, igniting discussions within the community about its relevance, particularly in the context of AI. The vision does not introduce groundbreaking changes but emphasizes Haskell&\#x27;s potential advantages in programming. The article has prompted varied opinions on Haskell&\#x27;s role compared to other languages like Rust and JavaScript.
 
-rss · The Decoder · Nov 13, 18:55
+hackernews · cosmic\_quanta · Nov 13, 14:43 · [Discussion](https://news.ycombinator.com/item?id=50484235)
 
-**「Background on AI Shopping Solutions」** OpenAI previously attempted to enter the AI shopping space with a solution called Instant Checkout, which has since been scrapped. The introduction of ChatGPT Wallet marks a new direction for OpenAI in AI-powered shopping, focusing on enhanced security and user experience through features like payment tokens and biometric authentication.
+**「Context of Haskell in Programming」** Haskell is a functional programming language known for its strong type system and expressive syntax. Despite its advantages, it has struggled to gain the same level of popularity as other languages like JavaScript and Rust, particularly in emerging fields such as AI.
 
-**Tags**: `#AI`, `#e-commerce`, `#OpenAI`, `#technology`, `#software engineering`
+**「Community Engagement and Perspectives」** The community&\#x27;s response highlights a desire for Haskell to become more universally applicable, similar to languages like JavaScript, which dominate web and mobile development. This reflects a broader concern about Haskell&\#x27;s adoption in practical applications, especially in AI.
+
+**「Community Opinions on Haskell&\#x27;s Role」** Comments from users reveal a mix of admiration for Haskell&\#x27;s features and frustration over its limited adoption in AI compared to languages like Rust. Some users argue for improvements in debugging and build processes to enhance Haskell&\#x27;s usability in modern development environments.
+
+**Tags**: `#Haskell`, `#software engineering`, `#AI`, `#programming languages`, `#community discussion`
 
 ---
 
 <a id="item-tech-news-21"></a>
-### [Meta&\#x27;s Muse AI Now Makes Calls for Users](https://the-decoder.com/metas-muse-now-calls-businesses-for-you-but-many-companies-might-just-hang-up-on-the-ai/) ⭐️ 7.0/10
+### [Global Security Agencies Utilize Ad-Based Surveillance Systems](https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/) ⭐️ 7.0/10
 
-Meta&\#x27;s AI agent Muse can now make calls on behalf of paying US subscribers, allowing users to interact with businesses like cable providers and restaurants. Despite having over 10 million users, many businesses reportedly hang up when they detect an AI on the line, indicating potential challenges in AI adoption for customer interactions.
+A recent report reveals that security agencies around the world are employing ad-based surveillance systems, which raises significant privacy concerns for individuals. This practice highlights the intersection of advertising technology and state surveillance, prompting urgent discussions about user privacy and data protection.
 
-rss · The Decoder · Nov 13, 15:12
+hackernews · billybuckwheat · Nov 14, 02:15 · [Discussion](https://news.ycombinator.com/item?id=50492950)
 
-**「Meta&\#x27;s Muse AI Calling Feature」** Meta&\#x27;s Muse is an AI agent that can now make phone calls on behalf of users, a feature that aligns with similar offerings from competitors like Google Gemini and xAI&\#x27;s Grok Bot. This capability allows Muse to interact with various businesses, but there is skepticism from many companies about engaging with AI callers, which may lead to rejected calls.
+**「Background on Ad-Based Surveillance Systems」** In April 2026, Citizen Lab reported that law enforcement agencies in several countries, including Hungary and the United States, were utilizing Webloc, an ad-based geolocation surveillance system developed by Cobwebs Technologies. This system accesses data from up to 500 million mobile devices, raising significant privacy concerns as it allows for tracking of device identifiers and location data.
 
-**「Impact on Business Interactions」** The introduction of Muse&\#x27;s calling feature may lead to mixed experiences for users, as businesses&\#x27; reluctance to engage with AI could limit the effectiveness of this service.
+**「Privacy Implications」** The use of ad-based surveillance systems by security agencies could lead to increased monitoring of individuals&\#x27; online activities, raising serious privacy issues and potentially eroding trust in digital platforms.
+
+**「Community Reactions」** Community members expressed concerns about the implications of ad-based surveillance, with some advocating for the use of adblockers to enhance online privacy and safety.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.foxnews.com/tech/ai-agents-make-phone-calls">Meta Muse and Instinct Concierge can now make phone calls for you</a></li>
+<li><a href="https://aviatrix.ai/threat-research-center/webloc-ad-based-geolocation-surveillance-2026/">Webloc Ad-Based Geolocation Surveillance Exposed - 2026</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#Meta`, `#business technology`, `#software engineering`, `#communication`
+**Tags**: `#surveillance`, `#privacy`, `#ad-based systems`, `#security agencies`, `#technology`
 
 ---
 
 <a id="item-tech-news-22"></a>
-### [Volunteers Demand More Autonomy in Brain Implant Trials](https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/) ⭐️ 7.0/10
+### [OpenAI Launches ChatGPT Wallet for AI-Powered Shopping](https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/) ⭐️ 7.0/10
 
-Volunteers participating in brain implant trials are calling for increased autonomy and a reduction in non-disclosure agreements \(NDAs\). This shift reflects growing ethical concerns regarding the treatment and recognition of trial participants in neuroscience research.
+OpenAI has introduced ChatGPT Wallet, a new AI-powered shopping solution designed to enhance transaction security and user experience. This wallet allows users to register a card once and confirm purchases using Face ID or fingerprint, while keeping actual card details hidden behind payment tokens. This launch follows the discontinuation of OpenAI&\#x27;s previous shopping initiative, Instant Checkout.
 
-rss · MIT Tech Review · Nov 13, 10:00
+rss · The Decoder · Nov 13, 18:55
 
-**「Background on Brain Implant Trials」** Research on brain implants has been ongoing for decades, focusing on decoding brain activity to enable control of robotic limbs and computers. Recent developments, such as Neuralink&\#x27;s clinical trial, have highlighted the potential for these devices to enhance autonomy for individuals with disabilities, while also raising ethical concerns regarding the treatment of trial participants and the implications of such technologies.
+**「Background on AI Shopping Solutions」** OpenAI&\#x27;s ChatGPT Wallet is a new initiative following the discontinuation of its previous AI shopping solution, Instant Checkout. This shift indicates OpenAI&\#x27;s commitment to enhancing user experience and security in e-commerce transactions, particularly as competitors like Anthropic and Meta have already integrated AI into their shopping platforms.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://game-scanner.com/news/first-human-patient-with-neuralink-brain-implant-stayed-up-all-night-gaming">First Human Patient with Neuralink Brain Implant ... | GAME-scanner</a></li>
-<li><a href="https://www.npr.org/2024/01/30/1227850900/elon-musk-neuralink-implant-clinical-trial">Elon Musk&#x27;s Neuralink has put in its first human brain implant : NPR</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#brain implants`, `#neuroscience`, `#ethics`, `#technology`, `#research`
+**Tags**: `#AI`, `#e-commerce`, `#OpenAI`, `#ChatGPT`, `#technology`
 
 ---
 
 <a id="item-tech-news-23"></a>
-### [Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA](https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla/) ⭐️ 7.0/10
+### [llama.cpp v1.0.0 Launches with Stable API for Local AI Development](https://huggingface.co/blog/ggml-org/llama-cpp-v1) ⭐️ 7.0/10
 
-The article details how to implement native Deep Learning Accelerator \(DLA\) inference in Python on the NVIDIA Jetson AGX Orin. This guide is particularly relevant for developers working on edge AI applications, as it addresses performance optimization and resource management within constrained environments.
+The inference engine llama.cpp has reached version 1.0.0, which drops legacy support and establishes a stable API for local AI development. This release introduces semantic versioning to signal breaking changes in future updates and solidifies llama.cpp as a key component for local inference, ensuring predictable interfaces across CUDA, Vulkan, and Arm NEON.
 
-rss · NVIDIA Developer Blog · Nov 13, 18:57
+rss · Hugging Face Blog · Nov 13, 14:05
 
-**「Background on DLA and Edge AI」** NVIDIA&\#x27;s Deep Learning Accelerator \(DLA\) is designed to enable efficient inference for AI applications, particularly in edge computing scenarios where resources are limited. The Jetson AGX Orin is a powerful platform that supports running multiple neural networks simultaneously.
+**「Background on llama.cpp v1.0.0 Release」** The release of llama.cpp v1.0.0 marks a significant update for the local AI ecosystem, as it introduces a stable API and drops legacy support. This version establishes formal semantic versioning, ensuring that future updates will clearly indicate breaking changes, which is crucial for developers relying on consistent interfaces across various platforms like CUDA, Vulkan, and Arm NEON.
 
-**Tags**: `#NVIDIA`, `#DLA`, `#AI`, `#Python`, `#Edge Computing`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://huggingface.co/blog/ggml-org/llama-cpp-v1">llama . cpp v 1 . 0 . 0 : A stronger foundation for the local AI ecosystem</a></li>
+<li><a href="https://aiholics.com/llama-cpp-v1-0-0-ggml-semantic-versioning/">llama . cpp v 1 . 0 . 0 and ggml v 1 . 0 . 0 release</a></li>
+<li><a href="https://af.net/realtime/ggml-org-releases-llama-cpp-v1-0-0-with-formal-api-stability-rules/">ggml-org Releases llama . cpp v 1 . 0 . 0 with Formal API Stability Rules</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI`, `#software engineering`, `#open source`, `#machine learning`, `#technology`
 
 ---
 
 <a id="item-tech-news-24"></a>
-### [Serving GLM-5.3 Across Two NVIDIA DGX Stations with vLLM](https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/) ⭐️ 7.0/10
+### [NVIDIA Enhances cuBLAS with New FP64 Algorithms for Faster Simulations](https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/) ⭐️ 7.0/10
 
-The article discusses the challenges of serving the GLM-5.3 AI model across two NVIDIA DGX Stations using vLLM, as single GPUs can no longer accommodate the model&\#x27;s size. It highlights the necessity of distributing the model&\#x27;s weights across multiple GPUs to effectively manage memory constraints. This approach is crucial for practitioners in AI and machine learning who are deploying large-scale models.
+NVIDIA has introduced new FP64 algorithms in its cuBLAS library, aimed at significantly improving the speed of scientific simulations. This enhancement is particularly beneficial for applications in high-performance computing, where precision and speed are critical.
 
-rss · NVIDIA Developer Blog · Nov 13, 17:00
+rss · NVIDIA Developer Blog · Nov 13, 22:13
 
-**「Background on GPU Limitations」** As AI models grow in complexity and size, they often exceed the memory capacity of a single GPU. This necessitates the use of multiple GPUs to handle the model&\#x27;s weights and computations, which is a significant consideration for developers working with frontier-scale AI models.
+**「NVIDIA cuBLAS Enhancements」** NVIDIA cuBLAS has previously introduced various enhancements, including emulated FP64 matrix multiplications, which allow users to leverage Tensor Core performance without altering their existing code. These updates are part of NVIDIA&\#x27;s ongoing efforts to improve high-performance computing capabilities, particularly for scientific simulations that require high precision.
 
-**Tags**: `#AI`, `#Machine Learning`, `#NVIDIA`, `#GPU`, `#vLLM`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.linkedin.com/posts/alarijani_latest-update-to-nvidia-cublas-emulated-activity-7401205931855773699-z1gB">Latest update to NVIDIA cuBLAS : emulated FP 64 matmuls now...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#NVIDIA`, `#cuBLAS`, `#scientific simulations`, `#high-performance computing`, `#FP64 algorithms`
 
 ---
 
 <a id="item-tech-news-25"></a>
-### [NVIDIA Launches SOMA Retargeter for Adapting Human Motion to Robots](https://developer.nvidia.com/blog/adapt-human-motion-for-robots-with-nvidia-soma-retargeter/) ⭐️ 7.0/10
+### [Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA](https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla/) ⭐️ 7.0/10
 
-NVIDIA has introduced the SOMA Retargeter, a new tool designed to adapt human motion for robots, which could significantly enhance the capabilities of humanoid robotics. This tool allows for the capture and translation of human movement into robotic actions, potentially improving the functionality and realism of robotic motion. The SOMA Retargeter is part of NVIDIA&\#x27;s ongoing efforts to advance robotics and AI technologies.
+The article details how to implement native Deep Learning Accelerator \(DLA\) inference in Python on the NVIDIA Jetson AGX Orin, aimed at enhancing edge AI applications. This implementation allows developers to efficiently run multiple neural networks within constrained compute and power environments, leveraging the capabilities of the Jetson AGX Orin.
 
-rss · NVIDIA Developer Blog · Nov 13, 17:00
+rss · NVIDIA Developer Blog · Nov 13, 18:57
 
-**「Background on Motion Adaptation in Robotics」** The adaptation of human motion for robots is a critical area in robotics research, as it enables more natural and effective movement in humanoid robots. Previous advancements in motion capture technology have laid the groundwork for tools like the SOMA Retargeter, which aim to bridge the gap between human and robotic movement.
+**「Background on DLA Inference」** The NVIDIA Deep Learning Accelerator \(DLA\) is designed to optimize the performance of AI applications on edge devices like the Jetson AGX Orin. This architecture allows for efficient execution of neural networks while adhering to strict compute and power constraints, making it suitable for various edge AI scenarios.
 
-**Tags**: `#robotics`, `#AI`, `#NVIDIA`, `#motion capture`, `#technology`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://developer.nvidia.com/">NVIDIA Developer</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#NVIDIA`, `#DLA`, `#AI`, `#edge computing`, `#Python`
 
 ---
 
 <a id="item-tech-news-26"></a>
-### [User Trains Transformer Model for Blood Sugar Prediction](https://www.reddit.com/r/MachineLearning/comments/1xvja5n/i_have_trained_a_model_to_predict_my_blood_sugar_p/) ⭐️ 7.0/10
+### [NVIDIA Launches SOMA Retargeter for Adapting Human Motion in Robots](https://developer.nvidia.com/blog/adapt-human-motion-for-robots-with-nvidia-soma-retargeter/) ⭐️ 7.0/10
 
-A user has trained a custom transformer model with 31,253 parameters to predict blood sugar levels using a synthetic continuous glucose monitoring \(CGM\) dataset. The model was trained on 115 days of personal CGM data, with 80 days for training and 35 for testing, and it can predict blood glucose levels two hours into the future. The model utilizes additional inputs for insulin and carbohydrate intake and is designed to react appropriately to future insulin and carb considerations.
+NVIDIA has introduced the SOMA Retargeter, a new tool designed to adapt human motion for humanoid robots, enhancing their movement capabilities. This tool aims to improve the coordination and timing of robotic movements by utilizing human demonstrations as a foundational model.
 
-rss · Reddit MachineLearning · Nov 13, 20:48
+rss · NVIDIA Developer Blog · Nov 13, 17:00
 
-**「Synthetic Dataset and Model Details」** The model was pre-trained on approximately 19,200 CGM-years of synthetic data generated from simulations of 1 million type 1 diabetics. This approach allows for counterfactual reasoning, although the user has not yet established benchmarks for these capabilities.
+**「Overview of SOMA Retargeter」** The NVIDIA SOMA Retargeter is an open-source tool designed to convert human motion data into animations suitable for humanoid robots. It utilizes a shared human-motion representation from NVIDIA&\#x27;s SOMA-X framework, allowing developers to adapt movements based on the specific proportions and range of motion of their robots.
 
-**「Practical Implications」** The model&\#x27;s ability to predict blood sugar levels and infill missing data could provide users with more accurate insights into their glucose management, although it currently struggles with short-term hypoglycemia predictions.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://developer.nvidia.com/blog/adapt-human-motion-for-robots-with-nvidia-soma-retargeter/">Adapt Human Motion for Robots with NVIDIA SOMA Retargeter</a></li>
 
-**Tags**: `#machine learning`, `#health tech`, `#personal project`
+</ul>
+</details>
+
+**Tags**: `#robotics`, `#AI`, `#NVIDIA`, `#motion capture`, `#software engineering`
 
 ---
 
 <a id="item-tech-news-27"></a>
-### [Frontier Models Achieve High Scores on Materials Science Test, Evaluating Long-Horizon Agents](https://www.reddit.com/r/MachineLearning/comments/1xvgf6h/four_frontier_models_scored_978100_on_a_7part/) ⭐️ 7.0/10
+### [User Trains Transformer Model for Blood Sugar Prediction](https://www.reddit.com/r/MachineLearning/comments/1xvja5n/i_have_trained_a_model_to_predict_my_blood_sugar_p/) ⭐️ 7.0/10
 
-Four frontier AI models, including Gemini 4 Carbon and Gemini 4 Hydrogen, scored between 97.8 and 100 on a seven-part materials science research test designed to simulate technical work in a research group. The test evaluated various skills, including data analysis and manuscript critique, with results indicating that the models performed exceptionally well, achieving mean scores of 100.0, 99.7, 99.3, and 98.5. The author raises questions about how to evaluate long-horizon agents, suggesting a need for new scoring methods.
+A user has trained a custom transformer model with 31,253 parameters to predict blood sugar levels using a synthetic continuous glucose monitoring \(CGM\) dataset. The model was trained on 115 days of personal CGM data, with 80 days for training and 35 for testing, and it incorporates insulin and carbohydrate inputs to enhance predictions. The model can predict blood sugar levels two hours into the future and infill missing data, although it still struggles with short-term hypoglycemia predictions.
 
-rss · Reddit MachineLearning · Nov 13, 18:58
+rss · Reddit MachineLearning · Nov 13, 20:48
 
-**「Context of the Evaluation」** The test was designed by a researcher in graphene and 2D materials to reflect everyday technical tasks in a research environment. It highlights the capabilities of current AI models in structured tasks while pointing out the challenges in assessing their performance in more open-ended, long-term projects.
+**「Context of the Project」** The project involves using machine learning techniques, specifically a transformer architecture, to address challenges in diabetes management by predicting blood sugar levels. The model leverages a synthetic dataset designed to simulate type 1 diabetes scenarios, which aids in training and testing its predictive capabilities.
 
-**「Consequences for AI Evaluation」** The results suggest that while frontier models excel in bounded tasks, there is a significant gap in their performance on long-horizon, open-ended evaluations. This indicates a potential area for further research and development in AI evaluation methodologies.
+**「Potential User Benefits」** This model could provide personalized insights for individuals managing diabetes, potentially improving their ability to anticipate blood sugar fluctuations based on their insulin and carbohydrate intake.
 
-**Tags**: `#Machine Learning`, `#AI Evaluation`, `#Materials Science`
+**Tags**: `#machine learning`, `#healthcare`, `#AI`, `#personal project`, `#predictive modeling`
 
 ---
 
 <a id="item-tech-news-28"></a>
-### [Creating a Legal Conflict Detector Tool with NLI and Encoder Models](https://www.reddit.com/r/MachineLearning/comments/1xuzv6d/how_to_make_a_legorastyle_legal_conflict_detector/) ⭐️ 7.0/10
+### [Frontier Models Achieve High Scores on Materials-Science Test](https://www.reddit.com/r/MachineLearning/comments/1xvgf6h/four_frontier_models_scored_978100_on_a_7part/) ⭐️ 7.0/10
 
-A tutorial has been published on building an open-source legal conflict detection tool using natural language inference \(NLI\) and encoder models. This tool aims to identify discrepancies between legal documents efficiently, addressing the limitations of generative models by employing a non-generative approach that allows for faster and more accurate pairwise comparisons. The pipeline processes legal documents in under 20 seconds and is available under an MIT license for personal and commercial use.
+Four frontier AI models, including Gemini 4 Carbon and Gemini 4 Hydrogen, scored between 97.8 and 100 on a seven-part materials-science research test designed to simulate technical work in a research group. The test evaluated various skills, including data analysis, manuscript critique, and experimental design, with results indicating that the models excelled in bounded tasks but highlighted a gap in evaluating long-horizon, open-ended work. The findings prompt a discussion on how to effectively score long-horizon agent evaluations.
 
-rss · Reddit MachineLearning · Nov 13, 05:48
+rss · Reddit MachineLearning · Nov 13, 18:58
 
-**「Background on Legal Conflict Detection」** The development of this tool is inspired by the challenges faced in legal document analysis, particularly the inefficiencies of generative models in handling clause-level comparisons. Previous attempts to automate legal document reviews often resulted in high costs and slow processing times, prompting the need for a more effective solution.
+**「Context of the Evaluation」** The evaluation was conducted by a researcher in graphene and 2D materials, who created a test to assess the capabilities of AI models in performing tasks typical of a research environment. This test is part of ongoing discussions in the AI community regarding the effectiveness of current evaluation methods for AI agents, particularly in complex, long-duration tasks.
 
-**「Impact on Legal Professionals」** Legal professionals can leverage this tool to streamline the review process of legal documents, significantly reducing the time and resources required to identify conflicts and gaps. This could enhance the efficiency of legal workflows and improve the accuracy of document comparisons.
+**「Consequences for AI Evaluation」** The results suggest that while frontier models perform exceptionally well in structured tasks, there is a significant need for improved evaluation methods for long-horizon tasks, which could influence future AI development and assessment strategies.
 
-**Tags**: `#Machine Learning`, `#Natural Language Processing`, `#Open Source`, `#Legal Tech`
+**Tags**: `#machine learning`, `#AI evaluation`, `#materials science`, `#research methods`
 
 ---
 
 <a id="item-tech-news-29"></a>
-### [ParaTrace v8 Achieves 5th Place on RAID Leaderboard with High TPR](https://www.reddit.com/r/MachineLearning/comments/1xv4ldx/open_weights_paratrace_v8_raidtuned_5th_on_the/) ⭐️ 7.0/10
+### [AI-Generated Song Tops Korea&\#x27;s Main Music Chart](https://telegram.me/gptupdates/41528) ⭐️ 7.0/10
 
-ParaTrace v8 has been released with open weights and ranks 5th on the RAID leaderboard, achieving a True Positive Rate \(TPR\) of 99.20% at a 1% False Positive Rate \(FPR\). This model, based on the Ettin-1B encoder and fine-tuned on RAID&\#x27;s training split, is specifically designed for AI text detection research. However, it is noted that the model may not perform well on ordinary writing, potentially missing AI-generated text and incorrectly flagging some human text.
+An AI-generated song titled &quot;Did You Become the Adult You Once Dreamed Of?&quot; by MEOMURU has reached No. 1 on Melon&\#x27;s Top 100 chart in South Korea as of November 13, 2026. This marks the first time an AI-created song has topped a major music chart, with vocals generated using the Suno AI music app. The song, produced by the Glorywave team, has been climbing the charts since its release in June.
 
-rss · Reddit MachineLearning · Nov 13, 10:39
+telegram · gptupdates · Nov 14, 07:05
 
-**「Background on ParaTrace v8」** ParaTrace v8 is an AI text detection model that utilizes the Ettin-1B encoder based on the ModernBERT architecture. It has been fine-tuned specifically on the RAID dataset, which is designed for evaluating AI detection capabilities, and it ranks 5th on the RAID leaderboard with a true positive rate \(TPR\) of 99.20% at a false positive rate \(FPR\) of 1%.
+**「AI in Music Production」** The rise of AI-generated music has been notable in recent months, with AI-assisted songs increasingly appearing on major Korean music charts. Prior to this event, AI-generated tracks had already begun to gain traction, with some reaching high positions on charts, indicating a growing acceptance and integration of AI in the music industry.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://huggingface.co/empirischtech/paratrace-v8-raid">empirischtech/paratrace-v8-raid · Hugging Face</a></li>
-<li><a href="https://agihunt.info/en/p/1a1d4852e159fda8b8257f25113">Open-weights AI text detector ParaTrace v8 hits… · AGI Hunt</a></li>
+<li><a href="https://news.jkn.co.kr/editions/english/post/1092804">AI-generated track &quot;Did You Become the Adult You Dreamed Of ...</a></li>
+<li><a href="https://www.koreatimes.co.kr/entertainment/20261016/ai-assisted-songs-storm-korean-music-charts">AI-assisted songs storm Korean music charts - The Korea Times</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Machine Learning`, `#AI Detection`, `#Performance Metrics`, `#Open Source`
+**Tags**: `#AI`, `#music`, `#technology`, `#K-pop`, `#innovation`
 
 ---
 
 <a id="item-tech-news-30"></a>
-### [Open BVB Benchmark for AI Video Reconstruction Released](https://github.com/yoloytang/BVB) ⭐️ 7.0/10
+### [AMD launches Instinct MI450X and MI430X accelerators for AI and computing](https://telegram.me/gptupdates/41530) ⭐️ 7.0/10
 
-The BVB \(Blender Video Benchmark\) has been launched as an open benchmark to evaluate AI agents&\#x27; capabilities in reconstructing real videos into editable Blender scenes. It tests 51 agent configurations on 288 real interior videos, enforcing strict guidelines that prohibit the use of external 3D asset libraries, requiring all geometry, materials, and animations to be created using Blender&\#x27;s primitives and operators. Each generated scene is assessed through 5,130 spatiotemporal questions to measure fidelity and visual similarity.
+AMD has launched the Instinct MI450X and MI430X accelerators, designed for AI inference and scientific computing. The MI450X features 288 GB of HBM4 memory, while the MI430X offers 432 GB, both supporting hardware-level FP64. These accelerators are optimized for the Helios server platform, allowing teams to tailor hardware for specific workloads and deployment costs.
 
-telegram · gptupdates · Nov 13, 16:52
+telegram · gptupdates · Nov 14, 08:05
 
-**「Background on AI and Video Reconstruction」** The BVB benchmark represents a significant advancement in the field of AI and computer graphics, focusing on the technical evaluation of AI agents in reconstructing video content. This initiative aims to provide a rigorous framework for assessing the performance of AI in generating complex 3D scenes from real-world video data.
-
-**「Impact on AI Development」** The introduction of the BVB benchmark may lead to improved methodologies in AI development for video reconstruction, as it sets a high standard for evaluation and encourages innovation in creating realistic 3D environments from video inputs. Developers may need to adapt their approaches to meet the stringent requirements of the benchmark.
-
-**Tags**: `#AI`, `#Benchmarking`, `#Computer Graphics`, `#Blender`, `#Open Source`
-
----
-
-<a id="item-tech-news-31"></a>
-### [Nvidia Chips Influence DeepSeek&\#x27;s AI Models Despite China Ban](https://unemploymentlabs.com/checkpoint-forensics) ⭐️ 7.0/10
-
-DeepSeek&\#x27;s recent AI models, released since April, were influenced by Nvidia&\#x27;s Blackwell chips, which are barred from sale to China without a US license. Analysis by ex-OpenAI researcher Will DePue reveals that the training data of these models retains traces of the hardware used, specifically showing that models trained on Blackwell chips differ from those trained on older Hopper chips. This method has been validated across 24 models from various makers.
-
-telegram · gptupdates · Nov 13, 18:04
-
-**「Nvidia Chip Restrictions and AI Model Training」** Nvidia&\#x27;s Blackwell chips are restricted from being sold to China without a U.S. license, which has not been reported as granted. Despite this, DeepSeek and other companies have reportedly utilized these chips for training their AI models, as evidenced by the specific patterns found in the models&\#x27; published weights.
-
-**「Impact on AI Development and Hardware Traceability」** The findings suggest that AI developers can potentially trace the hardware used in model training, which may influence future hardware procurement strategies and compliance with export regulations. This could lead to increased scrutiny of AI models and their development processes.
+**「Background on AMD Instinct Accelerators」** AMD&\#x27;s new Instinct MI450X and MI430X accelerators build on the company&\#x27;s previous MI400 series, which was designed for high-performance computing \(HPC\) and AI applications. The MI400 series introduced hardware-level FP64 support and advanced memory capabilities, making it suitable for demanding workloads in AI inference and scientific computing.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://unemploymentlabs.com/checkpoint-forensics">Top Chinese Frontier AI Models Carry the Fingerprint of...</a></li>
+<li><a href="https://newsroom.amd.com/news/amd-advances-instinct-mi400-series-ai-scientific-computing/">AMD Advances the Instinct MI400 Series for AI - AMD Newsroom</a></li>
+<li><a href="https://www.amd.com/en/products/accelerators/instinct/mi400.html">AMD Instinct™ MI400 Series GPUs</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Nvidia`, `#AI models`, `#hardware`, `#DeepSeek`, `#machine learning`
-
----
-
-<a id="item-tech-news-32"></a>
-### [Wharton&\#x27;s AI Primer Transforms Lessons into Interactive Simulations](https://gail.wharton.upenn.edu/primer/) ⭐️ 7.0/10
-
-Wharton&\#x27;s AI tool, Primer, is designed to convert teacher lessons into interactive simulations by interviewing educators about their lesson plans and student needs. The tool creates a design document for approval before generating simulations featuring AI characters that engage students in role-playing and feedback scenarios. Currently, Primer is in the prototype phase and has not yet been tested in real classroom settings.
-
-telegram · gptupdates · Nov 13, 18:04
-
-**「Background on Primer」** Primer is an AI tool developed by Ethan Mollick&\#x27;s Generative AI Labs at Wharton that allows teachers to create interactive simulations based on their lesson plans. It operates by interviewing educators to gather information about the lesson topic and student needs, and it generates a design document for approval before creating the simulation. This tool is currently in the prototype phase and has not yet been tested in real classroom settings.
-
-**「Impact on Education」** If successfully implemented, Primer could significantly enhance student engagement and personalized learning experiences by providing interactive simulations tailored to specific lesson plans and student levels.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://arxiv.org/pdf/2611.16986">Primer: An AI Framework for Instructor-Centered Educational ...</a></li>
-<li><a href="https://agihunt.info/en/e/1a1d1cd2bbe392d0880ee443d5e">Wharton Team Open-Sources Primer, Letting… · AGI Hunt</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI in Education`, `#Generative AI`, `#Interactive Learning`
-
----
-
-<a id="item-tech-news-33"></a>
-### [Lawsuit Seeks to Halt AI Development by OpenAI, Google, and Anthropic](https://www.citizen.org/news/coalition-of-nonprofits-files-landmark-lawsuit-to-stop-development-of-advanced-ai-systems-at-anthropic-google-meta-openai-and-spacexsi-that-proliferate-bioweapons-and-cyberattacks/) ⭐️ 7.0/10
-
-A coalition of four nonprofits, including Public Citizen and the Heat Initiative, has filed a lawsuit in San Francisco seeking to stop OpenAI, Google, Anthropic, Meta, and SpaceX&\#x27;s AI division from developing advanced AI systems. The lawsuit requests an emergency order to freeze the development of next-generation AI models until the companies can demonstrate that these technologies are under human control, citing concerns over catastrophic risks associated with uncontrolled AI actions.
-
-telegram · gptupdates · Nov 13, 20:49
-
-**「Background on AI Development Lawsuit」** The lawsuit filed by a coalition of nonprofits, including Public Citizen and the Heat Initiative, seeks to halt the development of advanced AI systems by major tech companies until they can demonstrate that these technologies are under human control. This legal action is based on concerns about the potential risks associated with AI, as highlighted by the companies&\#x27; own warnings regarding catastrophic outcomes from uncontrolled AI behavior.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://the420.in/openai-google-anthropic-frontier-ai-lawsuit/">OpenAI , Google , Anthropic Face Lawsuit Seeking Halt... - The 420.in</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI Ethics`, `#Lawsuit`, `#Technology Regulation`, `#Public Safety`
+**Tags**: `#AMD`, `#Artificial Intelligence`, `#Hardware`
 
 ---
