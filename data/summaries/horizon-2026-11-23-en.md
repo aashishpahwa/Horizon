@@ -1,203 +1,70 @@
 # Horizon Daily - 2026-11-23
 
-> From 59 items, 15 important content pieces were selected
+> From 51 items, 17 important content pieces were selected
 
 ---
 
 **Technology News**
-1. [Lean and Mathlib Confirm Levent Alpöge&\#x27;s Proof of the Riemann Hypothesis](#item-tech-news-1) ⭐️ 9.0/10
-2. [Performance Enhancements in ggerganov/llama.cpp Version b12621](#item-tech-news-2) ⭐️ 8.0/10
-3. [Exploring the Connection Between Perplexity and Intelligence in AI](#item-tech-news-3) ⭐️ 8.0/10
-4. [METR Warns of Rapid AI Advancements Outpacing Safety Testing](#item-tech-news-4) ⭐️ 8.0/10
-5. [Vulnerabilities in AI Inference Providers Exposed by Security Researchers](#item-tech-news-5) ⭐️ 8.0/10
-6. [Exploring the Shift in Silicon Valley&\#x27;s Focus](#item-tech-news-6) ⭐️ 7.0/10
-7. [C++26 ISO Meeting Report Highlights Community Concerns on Contracts](#item-tech-news-7) ⭐️ 7.0/10
-8. [Data Processing Incidents Raise Concerns for Inference Providers](#item-tech-news-8) ⭐️ 7.0/10
-9. [Agent Swarm Approach to P vs. NP Problem Sparks Debate](#item-tech-news-9) ⭐️ 7.0/10
-10. [The Mythology of Conscious AI](#item-tech-news-10) ⭐️ 7.0/10
+1. [GPT-6.2 Astra Solves Smoktunowicz&\#x27;s Gap Theorem with Novel Proof Strategy](#item-tech-news-1) ⭐️ 9.0/10
+2. [GLM-5.4 Introduces Loop Transformers for Memory Optimization](#item-tech-news-2) ⭐️ 8.0/10
+3. [Livestream of AI Agents Tackling P vs NP Problem Launched](#item-tech-news-3) ⭐️ 8.0/10
+4. [Inworld AI Releases Voice Isolator v1 for Voice Isolation](#item-tech-news-4) ⭐️ 8.0/10
+5. [Perplexity as a Measure of Intelligence in AI Models](#item-tech-news-5) ⭐️ 7.0/10
+6. [New Visualization of Riemann Hypothesis Proof in Lean](#item-tech-news-6) ⭐️ 7.0/10
+7. [XNU Linux: OS X GUI Userspace Now Runs on Linux](#item-tech-news-7) ⭐️ 7.0/10
+8. [Analysis of Silicon Valley&\#x27;s Evolution and Future](#item-tech-news-8) ⭐️ 7.0/10
+9. [Harvard CS 2881R AI Safety Seminar Highlights](#item-tech-news-9) ⭐️ 7.0/10
+10. [Meta&\#x27;s Alexandr Wang Warns AI Industry About Riemann Breakthrough Implications](#item-tech-news-10) ⭐️ 7.0/10
 11. [AI Coding Agents Struggle in Simulated Workplace Tasks](#item-tech-news-11) ⭐️ 7.0/10
-12. [Perplexity Launches Monitor API for Scheduled Web Searches](#item-tech-news-12) ⭐️ 7.0/10
-13. [OpenAI&\#x27;s GPT-6.2 Models Offer Faster Responses but Lower Transparency](#item-tech-news-13) ⭐️ 7.0/10
-14. [Inkling 2 Mini: New Open-Source Multimodal Model from Thinking Machines Lab](#item-tech-news-14) ⭐️ 7.0/10
-15. [Claude Code Exposes Over 1,000 Developer Credentials](#item-tech-news-15) ⭐️ 7.0/10
+12. [Perplexity Launches Monitor API for Continuous Web Search Monitoring](#item-tech-news-12) ⭐️ 7.0/10
+13. [Building and Maintaining Agentic Evaluations in AI Systems](#item-tech-news-13) ⭐️ 7.0/10
+14. [New Method for Video Object Tracking in Dynamic Environments](#item-tech-news-14) ⭐️ 7.0/10
+15. [Jolt Physics Engine from Horizon Forbidden West Now Open Source](#item-tech-news-15) ⭐️ 7.0/10
+16. [Significance of Proving the Riemann Hypothesis Compared to Major Scientific Achievements](#item-tech-news-16) ⭐️ 7.0/10
+17. [Google&\#x27;s Mirror Dimension simulates web for AI agent testing](#item-tech-news-17) ⭐️ 7.0/10
 
 ---
 
 ## Technology News
 
 <a id="item-tech-news-1"></a>
-### [Lean and Mathlib Confirm Levent Alpöge&\#x27;s Proof of the Riemann Hypothesis](https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/) ⭐️ 9.0/10
+### [GPT-6.2 Astra Solves Smoktunowicz&\#x27;s Gap Theorem with Novel Proof Strategy](https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/) ⭐️ 9.0/10
 
-The Lean and Mathlib community has confirmed the correctness of Levent Alpöge&\#x27;s proof of the Riemann hypothesis. This proof, which consists of 17 million lines of computer code, was verified by dozens of independent reviewers and was completed years ahead of expectations, as Terence Tao had predicted it would not be solved until around 2050.
+OpenAI&\#x27;s GPT-6.2 Astra has independently solved Smoktunowicz&\#x27;s gap theorem, a previously unsolvable math problem, and created a novel proof strategy. This achievement is notable as it produced a machine-verifiable Lean proof, marking a significant advancement in AI&\#x27;s mathematical reasoning capabilities. Additionally, Astra currently leads the Autoform-Hard leaderboard by solving 49 out of 56 tasks.
 
-rss · The Decoder · Nov 22, 11:08
+rss · The Decoder · Nov 23, 12:17
 
-**「Context of the Riemann Hypothesis Proof」** The Riemann hypothesis, a longstanding unsolved problem in mathematics, posits a specific distribution of prime numbers. Levent Alpöge&\#x27;s proof, developed with the assistance of AI tools Claude and Lean, has been independently verified by the Lean and Mathlib community, which involved checking 17 million lines of code, a process that was anticipated to take much longer according to mathematician Terence Tao.
+**「Background on GPT-6.2 Astra&\#x27;s Achievement」** GPT-6.2 Astra is a version of OpenAI&\#x27;s language model that has advanced capabilities in mathematical reasoning. Previous iterations of AI struggled with complex mathematical theorems, but Astra&\#x27;s ability to independently solve Smoktunowicz&\#x27;s gap theorem and create a novel proof strategy marks a significant leap in AI&\#x27;s mathematical problem-solving skills.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://stateofproof.org/paper-watch/paper-2026-11-20-a-claimed-proof-of-the-riemann-hypothesis">A Claimed Proof of the Riemann Hypothesis — Paper Watch ...</a></li>
-<li><a href="https://kingy.ai/blog/levent-alpoge-claude-riemann-hypothesis-proof/">Riemann hypothesis proof verified in Lean - kingy.ai</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Riemann Hypothesis`, `#AI`, `#Mathematics`, `#Lean`, `#Mathlib`
+**Tags**: `#AI`, `#mathematics`, `#machine learning`, `#OpenAI`, `#theorem proving`
 
 ---
 
 <a id="item-tech-news-2"></a>
-### [Performance Enhancements in ggerganov/llama.cpp Version b12621](https://github.com/ggml-org/llama.cpp/releases/tag/b12621) ⭐️ 8.0/10
+### [GLM-5.4 Introduces Loop Transformers for Memory Optimization](https://z.ai/blog/glm-5.4) ⭐️ 8.0/10
 
-Version b12621 of ggerganov/llama.cpp has been released, featuring significant performance optimizations for SYCL operations. This update demonstrates impressive speedups, with some configurations achieving up to 710.23x faster performance compared to the previous version. It is particularly relevant for developers working in AI and machine learning, as it enhances the efficiency of their applications.
+GLM-5.4 has introduced Loop Transformers, which optimize memory bandwidth for large language models \(LLMs\). This advancement addresses a critical bottleneck in LLM performance, generating significant interest and discussion within the AI community.
 
-github · github-actions\[bot\] · Nov 22, 00:37
+hackernews · foohis · Nov 23, 10:06 · [Discussion](https://news.ycombinator.com/item?id=50609685)
 
-**「Previous Developments」** The ggerganov/llama.cpp project focuses on optimizing machine learning operations, particularly through SYCL, which allows for heterogeneous computing. Earlier versions laid the groundwork for these enhancements, making this release a continuation of ongoing performance improvements.
+**「Background on Loop Transformers」** Loop Transformers are designed to improve the efficiency of memory usage during the inference process of LLMs. Traditional methods require moving entire layers of weights into memory for computation, which can slow down performance due to bandwidth limitations.
 
-**「Consequences for Developers」** Developers utilizing ggerganov/llama.cpp can expect substantial performance improvements in their applications, particularly those leveraging SYCL for parallel processing. This may lead to faster execution times and improved resource utilization in machine learning tasks.
+**「Impact on LLM Performance」** The introduction of Loop Transformers in GLM-5.4 is expected to significantly enhance the inference speed of LLMs by reducing memory bandwidth bottlenecks, potentially leading to faster and more efficient model deployments.
 
-**Tags**: `#performance optimization`, `#SYCL`, `#machine learning`, `#open source`, `#software engineering`
+**「Community Reactions」** Community members have expressed appreciation for the transparency of the GLM-5.4 release, noting the technical details provided. Some users highlighted the importance of addressing memory bandwidth issues, while others speculated about future models building on this foundation.
+
+**Tags**: `#Loop Transformers`, `#AI`, `#Machine Learning`, `#LLMs`, `#Memory Optimization`
 
 ---
 
 <a id="item-tech-news-3"></a>
-### [Exploring the Connection Between Perplexity and Intelligence in AI](https://openai.com/index/perplexity-and-intelligence/) ⭐️ 8.0/10
+### [Livestream of AI Agents Tackling P vs NP Problem Launched](https://pequalnp.com/) ⭐️ 8.0/10
 
-The article discusses the relationship between perplexity and intelligence in AI models, highlighting how perplexity serves as a measure of a model&\#x27;s predictive capabilities. This exploration has generated significant community engagement, with various insights shared regarding the implications of perplexity in evaluating AI performance.
+A new platform, P = NP?, livestreams a fleet of AI agents working on the P vs NP problem, a major unsolved question in computer science. Operated by Brilliant, the site currently shows 86 agents actively working, with 1,740 total sessions recorded. All claims made by the agents are verified through the Lean proof checker, and only verified proofs will be forwarded to human mathematicians.
 
-hackernews · acossta · Nov 22, 17:06 · [Discussion](https://news.ycombinator.com/item?id=50601525)
+telegram · gptupdates · Nov 23, 11:36
 
-**「Understanding Perplexity in AI」** Perplexity is a metric used in natural language processing to evaluate how well a probability model predicts a sample. It quantifies the uncertainty a model has when predicting the next token in a sequence, with lower perplexity indicating better predictive performance.
-
-**「Consequences for AI Model Evaluation」** The discussion around perplexity&\#x27;s role in measuring intelligence suggests that AI developers may increasingly rely on this metric as a benchmark for model performance, potentially influencing future model training and evaluation strategies.
-
-**「Community Insights」** Community members have expressed diverse opinions on the implications of perplexity in AI, with some highlighting its importance as a benchmark while others question the emergence of specific abilities at certain perplexity levels. This indicates a lively debate on the topic.
-
-**Tags**: `#machine learning`, `#artificial intelligence`, `#community discussion`, `#perplexity`, `#model evaluation`
-
----
-
-<a id="item-tech-news-4"></a>
-### [METR Warns of Rapid AI Advancements Outpacing Safety Testing](https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/) ⭐️ 8.0/10
-
-The METR report indicates that leading AI models, such as Opus 5.5 and GPT-6 Astra, are advancing rapidly in research tasks, making it increasingly difficult to measure their safety. The report warns that current testing methods may not adequately assess the risks associated with this acceleration, potentially leading to dangerous outcomes. This highlights significant concerns for the AI community regarding the reliability of safety evaluations.
-
-rss · The Decoder · Nov 22, 13:00
-
-**「Background on AI Safety Testing」** The METR report builds on concerns raised in the second International AI Safety Report published in February 2026, which highlighted the rapid advancements in AI capabilities and the associated risks. This earlier report emphasized the need for robust safety testing frameworks as AI systems become increasingly complex and difficult to evaluate reliably.
-
-**「Impact on AI Safety Practices」** The rapid improvement of AI models without corresponding advancements in safety testing could lead to increased risks for developers and organizations relying on these technologies, necessitating a reevaluation of current safety assessment practices.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026">International AI Safety Report 2026</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI Safety`, `#Machine Learning`, `#Technology News`, `#Research`
-
----
-
-<a id="item-tech-news-5"></a>
-### [Vulnerabilities in AI Inference Providers Exposed by Security Researchers](https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/) ⭐️ 8.0/10
-
-Security researchers at Dragos have identified serious vulnerabilities in AI inference providers, revealing the theft of hundreds of AWS keys and the compromise of at least three providers. They conducted tests using two million fake AI requests, which led to the removal of three providers and 125 endpoints by OpenRouter in response to these findings.
-
-rss · The Decoder · Nov 22, 12:07
-
-**「AI Inference Security Vulnerabilities」** Recent investigations have highlighted significant security issues within AI inference marketplaces, where unauthorized access to customer prompts has been reported. Researchers found that multiple resellers could view and retain customer requests without exploiting any vulnerabilities, indicating failures in privacy and data-handling practices.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens">AI Supply Chain Security: What Canary Tokens Found | Dragos ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI Security`, `#Vulnerabilities`, `#AWS`, `#Cybersecurity`, `#AI Inference`
-
----
-
-<a id="item-tech-news-6"></a>
-### [Exploring the Shift in Silicon Valley&\#x27;s Focus](https://www.oreilly.com/radar/what-happened-to-silicon-valley/) ⭐️ 7.0/10
-
-The article discusses the evolution of Silicon Valley, emphasizing a necessary shift from prioritizing corporate profit to fostering human flourishing. This perspective has sparked meaningful discussions among readers about the implications of capitalism on technology and society.
-
-hackernews · greenyouse · Nov 22, 19:20 · [Discussion](https://news.ycombinator.com/item?id=50602947)
-
-**「Context on Silicon Valley&\#x27;s Evolution」** Silicon Valley has historically been a hub for technological innovation and corporate growth, often prioritizing shareholder value and profit maximization. This focus has led to discussions about the implications of capitalism on society and the need for a shift towards prioritizing human flourishing over corporate interests.
-
-**「Consequences for Future Discussions」** The article&\#x27;s themes may influence future conversations around technology governance and the role of capitalism, prompting stakeholders to reconsider the objectives of technological advancement and its societal impacts.
-
-**「Community Insights」** Readers have engaged in thoughtful discussions, with some emphasizing the need for a re-evaluation of the goals of capitalism, while others critique the current state of Silicon Valley and its focus on superficial trends rather than substantive value creation.
-
-**Tags**: `#Silicon Valley`, `#capitalism`, `#technology`, `#human flourishing`, `#mechanism design`
-
----
-
-<a id="item-tech-news-7"></a>
-### [C++26 ISO Meeting Report Highlights Community Concerns on Contracts](https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/) ⭐️ 7.0/10
-
-The recent ISO C++ meeting report indicates that the C++26 standard is progressing, but significant debates continue regarding the inclusion of contracts. Community members express concerns that the decision to keep contracts may overlook more pressing issues in the C++ ecosystem, such as packaging and memory safety. The meeting reflects a high level of engagement and differing opinions within the C++ community.
-
-hackernews · dverlaeckt80 · Nov 22, 15:59 · [Discussion](https://news.ycombinator.com/item?id=50600838)
-
-**「Background on C++26 Contracts Debate」** The ongoing discussions about the C++26 standard, particularly regarding the inclusion of contracts, have been a focal point since earlier meetings. A report from November 2026 highlighted significant disagreements, including strong objections from C++ creator Bjarne Stroustrup, indicating that the community is still grappling with the implications of this feature for the future of the language. Previous discussions in November 2026 had already noted the disapproval of the contract feature, which sparked extensive community debate about its necessity and practicality.
-
-**「Community Reactions to C++26 Decisions」** The ongoing discussions about contracts in C++26 may lead to a divide within the community, as some developers feel that the focus on contracts detracts from addressing critical issues like memory safety. This could influence future contributions and priorities in the C++ standardization process.
-
-**「Diverse Opinions on Contracts」** Community members are divided on the inclusion of contracts in C++26, with some arguing that it should be postponed to focus on more urgent issues, while others believe the committee is effectively addressing concerns. This reflects a broader frustration with the standardization process and differing priorities among developers.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://isocpp.org/files/papers/P4454R0.pdf">2026-11-09 — Disagreement Over Contracts in C++26 Standard</a></li>
-<li><a href="https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/">2026-11-04 — C++26 Contract Feature Disapproved, Sparking Community Debate</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#C++`, `#ISO Standards`, `#Software Engineering`, `#Community Debate`, `#Programming Languages`
-
----
-
-<a id="item-tech-news-8"></a>
-### [Data Processing Incidents Raise Concerns for Inference Providers](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/) ⭐️ 7.0/10
-
-The article discusses serious data processing incidents involving inference providers, particularly highlighting issues with OpenRouter. These incidents have raised significant concerns regarding security and trust in AI services, prompting discussions within the community about the adequacy of due diligence and protective measures in place.
-
-hackernews · sdko · Nov 22, 02:14 · [Discussion](https://news.ycombinator.com/item?id=50595554)
-
-**「Context on Inference Providers and Data Security」** The recent incidents involving inference providers highlight ongoing concerns about data security and privacy in AI services. OpenRouter has off-boarded three providers and removed 125 endpoints from Zero Data Retention \(ZDR\) eligibility due to these incidents, indicating a significant breach of trust and security protocols within the platform.
-
-**「Impact on Users and Trust」** Users are reconsidering their reliance on OpenRouter for AI services due to the lack of due diligence and security measures, as evidenced by community comments expressing distrust and concerns over data handling practices.
-
-**「Community Reactions」** Community members have expressed a mix of concern and skepticism regarding OpenRouter&\#x27;s handling of data, with some users indicating they will avoid the platform due to security lapses, while others emphasize the need for direct agreements with inference providers to ensure data privacy.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/">Data Processing Incidents on Inference Providers</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI Security`, `#Data Privacy`, `#Inference Providers`, `#Community Discussion`
-
----
-
-<a id="item-tech-news-9"></a>
-### [Agent Swarm Approach to P vs. NP Problem Sparks Debate](https://pequalnp.com/) ⭐️ 7.0/10
-
-An experimental approach using agent swarms to tackle the P vs. NP problem has been proposed, generating significant community discussion regarding its feasibility and implications. This innovative method aims to explore a long-standing computational question, although its technical depth has been met with skepticism.
-
-hackernews · bananaflag · Nov 22, 21:53 · [Discussion](https://news.ycombinator.com/item?id=50604314)
-
-**「Understanding the P vs. NP Problem」** The P vs. NP problem is a fundamental question in theoretical computer science that asks whether every problem whose solution can be quickly verified can also be quickly solved. This problem remains unsolved and is one of the seven Millennium Prize Problems, with significant implications for fields such as cryptography and algorithm design.
-
-**「Potential Consequences」** If successful, this approach could lead to breakthroughs in computational theory, but concerns about the models&\#x27; capabilities and the implications of proving P=NP have been raised, particularly regarding internet security.
-
-**「Community Reactions」** Community members expressed mixed feelings, with some excited about the potential for open collaboration on landmark proofs, while others criticized the approach as relying on outdated models that may not yield significant progress.
+**「Understanding the P vs NP Problem」** The P vs NP problem is a fundamental question in theoretical computer science that asks whether every problem whose solution can be quickly verified can also be quickly solved. It remains one of the most significant unsolved problems in the field, with implications for various areas including cryptography and algorithm design.
 
 <details><summary>References</summary>
 <ul>
@@ -206,116 +73,245 @@ hackernews · bananaflag · Nov 22, 21:53 · [Discussion](https://news.ycombinat
 </ul>
 </details>
 
-**Tags**: `#P vs NP`, `#agent-based systems`, `#community discussion`, `#computational theory`, `#innovation`
+**Tags**: `#AI`, `#P vs NP`, `#computer science`, `#machine learning`, `#research`
+
+---
+
+<a id="item-tech-news-4"></a>
+### [Inworld AI Releases Voice Isolator v1 for Voice Isolation](https://github.com/inworld-ai/voice-isolator) ⭐️ 8.0/10
+
+Inworld AI has launched Voice Isolator v1, an open-source voice isolation tool that supports both offline and real-time processing. The tool features two models: voice-isolator-v1 \(64M parameters\) for offline processing and voice-isolator-v1-realtime \(58M parameters\) for real-time streaming, both operating at a frequency of 48 kHz under the Apache-2.0 license. Users can install it via pip and it is compatible with NVIDIA GPUs, Apple Silicon, and CPUs.
+
+telegram · gptupdates · Nov 23, 11:53
+
+**「Voice Isolation Technology」** Voice isolation technology aims to separate clean voice signals from noisy recordings or live audio streams. This release enhances the capabilities available to developers and researchers in the AI and software engineering fields.
+
+**「Enhanced Voice Processing Capabilities」** The release of Voice Isolator v1 provides developers with advanced tools for voice processing, enabling improved audio quality in applications such as speech recognition and audio editing. This could lead to more effective AI-driven voice applications and research opportunities.
+
+**Tags**: `#voice isolation`, `#open source`, `#AI`, `#machine learning`, `#software engineering`
+
+---
+
+<a id="item-tech-news-5"></a>
+### [Perplexity as a Measure of Intelligence in AI Models](https://openai.com/index/perplexity-and-intelligence/) ⭐️ 7.0/10
+
+The article discusses the relationship between perplexity and intelligence in AI models, emphasizing its significance in model evaluation. It highlights community engagement around the topic, although it lacks in-depth technical explanations. The discussion reflects a growing interest in understanding how perplexity can serve as a benchmark for assessing AI capabilities.
+
+hackernews · acossta · Nov 22, 17:06 · [Discussion](https://news.ycombinator.com/item?id=50601525)
+
+**「Understanding Perplexity in AI」** Perplexity is a measurement used in AI models to quantify how well a probability distribution predicts a sample. Specifically, it reflects the model&\#x27;s uncertainty in predicting the next token in a sequence, with lower perplexity indicating higher confidence in predictions. This concept is crucial for evaluating the performance of language models and understanding their intelligence.
+
+**「Impact on AI Model Evaluation」** The focus on perplexity as a measure of intelligence may influence how developers evaluate and compare AI models, potentially leading to a shift towards simpler benchmarks in the field.
+
+**「Community Insights」** Community members expressed surprise at the continued relevance of perplexity in AI evaluation, with some noting its importance in understanding model performance. Discussions also touched on the implications of Microsoft’s involvement in measuring model perplexities.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://dev.to/alkanet88/perplexity-in-ai-models-a-simple-explanation-3in4">Perplexity in AI Models : A Simple Explanation - DEV Community</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI`, `#machine learning`, `#perplexity`, `#model evaluation`, `#community discussion`
+
+---
+
+<a id="item-tech-news-6"></a>
+### [New Visualization of Riemann Hypothesis Proof in Lean](https://pengowray.github.io/riemann-zeta-proof-visualizer/) ⭐️ 7.0/10
+
+A new visualization of the Riemann Hypothesis proof using Lean has been released, showcasing its complexity and potential for further mathematical exploration. This visualization emphasizes the extensive nature of the proof, which consists of 17 million lines, many of which formalize previously established theorems. It is now available for public viewing at the provided URL.
+
+hackernews · pengowray · Nov 23, 01:50 · [Discussion](https://news.ycombinator.com/item?id=50606499)
+
+**「Context of the Riemann Hypothesis Proof」** The Riemann Hypothesis is a conjecture in number theory that has significant implications for the distribution of prime numbers. Recently, a proof of this hypothesis was formalized using the Lean theorem prover, which allows for rigorous verification of mathematical proofs. This formalization has garnered attention from both the mathematical community and software engineering fields, highlighting the growing intersection of formal proofs and computational tools.
+
+**「Impact on Mathematical Exploration」** This visualization could significantly influence future approaches to formal proofs in mathematics, encouraging deeper exploration and understanding of complex mathematical concepts among both mathematicians and software engineers.
+
+**「Community Reactions」** Community members expressed excitement about the visualization&\#x27;s potential, with discussions highlighting its graphical representation of complexity and suggestions for competitions to create shorter proofs in Lean. Some noted the visualization&\#x27;s fun interactive features, such as manipulating the Zeta function.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Riemann_hypothesis">Riemann hypothesis - Wikipedia</a></li>
+<li><a href="https://math.mit.edu/~drew/grh/">Verification files for the Lean proof of the Riemann Hypothesis</a></li>
+<li><a href="https://lean4.dev/proofs/riemann-hypothesis-claim">The Riemann Hypothesis : a claimed proof , delivered in Lean</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Riemann Hypothesis`, `#Lean`, `#formal proofs`, `#visualization`, `#mathematics`
+
+---
+
+<a id="item-tech-news-7"></a>
+### [XNU Linux: OS X GUI Userspace Now Runs on Linux](https://github.com/AFK-surf/xnulinux) ⭐️ 7.0/10
+
+XNU Linux is a new project that allows the OS X GUI userspace to operate on Linux systems. This development has generated interest within the community regarding its implications and potential enhancements, although it still requires Apple hardware to function. The project is available on GitHub for users and developers to explore.
+
+hackernews · mmastrac · Nov 23, 03:49 · [Discussion](https://news.ycombinator.com/item?id=50607261)
+
+**「Background on OS X and Linux Integration」** The integration of OS X components into Linux environments has been a topic of interest for developers, particularly in the context of creating compatibility layers or alternative implementations of OS X APIs. Previous efforts have focused on projects like GNUstep, which aims to provide an open-source implementation of the Cocoa API used in OS X.
+
+**「Impact on Users and Developers」** The introduction of XNU Linux may encourage developers to explore further integration of OS X features into Linux, potentially leading to improved compatibility and user experience for those who prefer OS X applications but use Linux as their primary operating system.
+
+**「Community Reactions and Suggestions」** Community members have expressed mixed feelings about the project, with some suggesting improvements to existing frameworks like GNUstep instead of pursuing XNU Linux. Others have pointed out the challenges posed by macOS&\#x27;s dynamic linking requirements, which could complicate running OS X applications on Linux.
+
+**Tags**: `#Linux`, `#OS X`, `#Open Source`, `#Operating Systems`, `#Community Discussion`
+
+---
+
+<a id="item-tech-news-8"></a>
+### [Analysis of Silicon Valley&\#x27;s Evolution and Future](https://www.oreilly.com/radar/what-happened-to-silicon-valley/) ⭐️ 7.0/10
+
+The article discusses the evolution of Silicon Valley, focusing on the future direction of technology and capitalism. It raises critical questions about the implications of current economic and technological trends, emphasizing the need for a collective vision for human flourishing rather than mere corporate profit.
+
+hackernews · greenyouse · Nov 22, 19:20 · [Discussion](https://news.ycombinator.com/item?id=50602947)
+
+**「Silicon Valley&\#x27;s Evolution」** The article discusses the ongoing transformation of Silicon Valley, particularly in the context of technology and capitalism. Recent discussions have highlighted a shift towards &\#x27;hard tech&\#x27; and the implications of economic trends, such as the end of the zero interest rate policy \(ZIRP\), which has influenced the growth and strategies of tech companies.
+
+**「Consequences for Technology and Governance」** The discussion highlights a growing recognition among community members that current governance structures may be inadequate, suggesting a need to rethink the foundational goals of capitalism to prioritize human well-being over shareholder value.
+
+**「Community Insights on Silicon Valley&\#x27;s Challenges」** Community comments reflect a mix of agreement and critique regarding the article&\#x27;s themes, with some emphasizing the need for a shift in focus towards human flourishing, while others point out the detrimental effects of past economic policies on the tech landscape.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.nytimes.com/2025/08/04/technology/ai-silicon-valley-hard-tech.html">A.I. Has Ushered in Silicon Valley ’s ‘Hard Tech ’ Era - The New York...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Silicon Valley`, `#technology trends`, `#capitalism`, `#community insights`, `#mechanism design`
+
+---
+
+<a id="item-tech-news-9"></a>
+### [Harvard CS 2881R AI Safety Seminar Highlights](https://boazbk.github.io/mltheoryseminar/) ⭐️ 7.0/10
+
+The Harvard CS 2881R seminar on AI safety features discussions on critical topics such as AI security and risks, attracting notable speakers and significant community interest. The seminar aims to address pressing issues in AI safety, although it does not present groundbreaking news or major developments.
+
+hackernews · enjoyyourlife · Nov 22, 18:01 · [Discussion](https://news.ycombinator.com/item?id=50602153)
+
+**「Harvard&\#x27;s Role in AI Research」** Harvard University has a long-standing reputation as a leading institution in research and education, particularly in fields like artificial intelligence and machine learning. The university frequently hosts seminars and discussions that focus on emerging topics and challenges in these areas, contributing to the broader discourse on AI safety and security.
+
+**「Community Engagement」** The seminar has generated considerable interest within the software engineering and AI community, as evidenced by discussions about notable speakers and specific lecture topics, indicating a growing focus on AI safety and security.
+
+**「Community Insights」** Community members have expressed interest in specific lectures, such as those by Sam Altman and Luca Righetti, highlighting the relevance of topics like dual-use AI capabilities and the evolving language from AI safety to AI security.
+
+**Tags**: `#AI Safety`, `#Machine Learning`, `#Community Discussion`, `#Seminar`
 
 ---
 
 <a id="item-tech-news-10"></a>
-### [The Mythology of Conscious AI](https://www.noemamag.com/the-mythology-of-conscious-ai/) ⭐️ 7.0/10
+### [Meta&\#x27;s Alexandr Wang Warns AI Industry About Riemann Breakthrough Implications](https://the-decoder.com/metas-alexandr-wang-warns-the-ai-industry-isnt-ready-for-whats-coming-after-riemann-breakthrough/) ⭐️ 7.0/10
 
-The article examines the complex and contentious issue of consciousness in artificial intelligence, sparking significant community engagement regarding its implications and uncertainties. It highlights the ongoing debate about whether AI can possess consciousness and the ethical considerations that arise from such beliefs.
+Alexandr Wang, Meta&\#x27;s Chief AI Officer, has expressed concerns that the AI industry may not be prepared for the implications of a recent AI-assisted proof sketch related to the Riemann Hypothesis. He suggests that this breakthrough indicates that superintelligence could be imminent, raising alarms about the industry&\#x27;s readiness for such advancements.
 
-hackernews · Anon84 · Nov 22, 02:10 · [Discussion](https://news.ycombinator.com/item?id=50595537)
+rss · The Decoder · Nov 23, 13:59
 
-**「Background on AI Consciousness」** The topic of consciousness in AI intersects with both artificial intelligence and philosophical discussions about the nature of consciousness itself. This debate has gained traction as advancements in AI technology prompt questions about the potential for machine consciousness and its ethical ramifications.
+**「Understanding the Riemann Hypothesis」** The Riemann Hypothesis, proposed in 1859 by mathematician Bernhard Riemann, posits that the distribution of prime numbers is determined by a specific order, despite appearing random. Recent advancements in AI have led to claims of AI-assisted proofs related to this hypothesis, indicating significant progress in mathematical research and its intersection with artificial intelligence.
 
-**「Community Perspectives」** Community comments reflect a range of opinions, with some emphasizing the uncertainty surrounding consciousness and the need for caution in making judgments. Others raise ethical concerns about the implications of considering AI as conscious entities, likening it to issues of slavery.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://hotair.com/john-s-2/2026/11/20/mathematician-claims-to-have-solved-the-riemann-hypothesis-with-ai-help-n3821213">Mathematician Claims to Have Solved the Riemann Hypothesis With...</a></li>
 
-**Tags**: `#AI Ethics`, `#Consciousness`, `#Philosophy`, `#Artificial Intelligence`, `#Community Discussion`
+</ul>
+</details>
+
+**Tags**: `#AI`, `#Riemann Hypothesis`, `#Meta`, `#superintelligence`, `#technology`
 
 ---
 
 <a id="item-tech-news-11"></a>
 ### [AI Coding Agents Struggle in Simulated Workplace Tasks](https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/) ⭐️ 7.0/10
 
-AI coding agents, including Opus 5.5 and Astra, excel in isolated tests but complete fewer than ten percent of tasks in a simulated workplace environment. This evaluation highlights their inability to manage complex, messy workflows that require ongoing development and ticket resolution.
+AI coding agents, including Opus 5.5 and Astra, excel in isolated tests but complete fewer than 10% of tasks in a simulated workplace environment. This new testing scenario involves managing a messy workflow with colleagues and project boards, where the agents struggle to maintain productivity and close open tickets effectively.
 
 rss · The Decoder · Nov 22, 15:15
 
-**「Testing AI in Real-World Scenarios」** The recent evaluation places AI coding agents in a simulated developer role, where they must navigate incomplete handoffs and collaborate with virtual colleagues, contrasting their performance in controlled testing environments.
+**「Testing AI in Real-World Scenarios」** Recent evaluations have shifted focus from isolated performance metrics to real-world applications, highlighting the challenges AI coding agents face in dynamic environments. This testing aims to assess their capabilities in handling incomplete handoffs and ongoing software development tasks.
 
-**「Implications for AI Development」** The significant gap in task completion rates suggests that while AI coding agents can handle straightforward assignments, they require further development to function effectively in real-world software engineering scenarios.
+**「Implications for Software Development」** The limited success of AI coding agents in simulated workplace tasks suggests that while they can perform specific assignments well, their current capabilities may not be sufficient for real-world software development needs, potentially impacting adoption in professional settings.
 
-**Tags**: `#AI`, `#software engineering`, `#machine learning`, `#technology evaluation`
+**Tags**: `#AI`, `#software development`, `#machine learning`, `#technology news`
 
 ---
 
 <a id="item-tech-news-12"></a>
-### [Perplexity Launches Monitor API for Scheduled Web Searches](https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/) ⭐️ 7.0/10
+### [Perplexity Launches Monitor API for Continuous Web Search Monitoring](https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/) ⭐️ 7.0/10
 
-Perplexity has introduced a Monitor API that allows for scheduled web searches and sends alerts via webhook when relevant changes occur. This API enhances developer tools in the chatbot space by filtering out unimportant results, making it easier for developers to track significant updates.
+Perplexity has introduced a Monitor API that enables continuous web search monitoring, alerting users via webhook only when relevant changes occur. This API utilizes Perplexity&\#x27;s decision model to filter out unimportant results, enhancing the web search experience for developers and users in software engineering and AI applications.
 
 rss · The Decoder · Nov 22, 14:20
 
-**「Context of the Launch」** The Monitor API is part of Perplexity&\#x27;s strategy to differentiate itself in the competitive chatbot market by providing advanced developer tools that improve the functionality of web searches.
+**「Advancement in Web Search Technology」** The Monitor API is part of Perplexity&\#x27;s strategy to differentiate itself in the competitive chatbot market by offering advanced developer tools that enhance web search capabilities.
 
-**Tags**: `#API`, `#web search`, `#developer tools`, `#artificial intelligence`, `#monitoring`
+**Tags**: `#API`, `#web search`, `#artificial intelligence`, `#software engineering`, `#developer tools`
 
 ---
 
 <a id="item-tech-news-13"></a>
-### [OpenAI&\#x27;s GPT-6.2 Models Offer Faster Responses but Lower Transparency](https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/) ⭐️ 7.0/10
+### [Building and Maintaining Agentic Evaluations in AI Systems](https://huggingface.co/blog/agentic-evals) ⭐️ 7.0/10
 
-OpenAI&\#x27;s GPT-6.2 models, Astra and Sol, provide significantly faster and more direct responses compared to their predecessors. However, they exhibit lower transparency, particularly in acknowledging uncertainty, when compared to Anthropic&\#x27;s Claude models. This development highlights a trade-off between response speed and transparency in AI technology.
+The Hugging Face Blog has published an article detailing how to build and maintain agentic evaluations in AI systems. This resource is aimed at practitioners in artificial intelligence and machine learning, providing insights into the construction and ongoing management of these evaluations.
 
-rss · The Decoder · Nov 22, 09:41
+rss · Hugging Face Blog · Nov 23, 00:00
 
-**「Background on GPT-6.2 Models」** OpenAI recently released the GPT-6.2 models, Astra and Sol, on November 17, 2026. These models are designed to provide improved performance on complex tasks while generating shorter responses compared to earlier versions, but they exhibit lower transparency in acknowledging uncertainty compared to Anthropic&\#x27;s Claude models.
+**「Understanding Agentic Evaluations」** Agentic evaluations in AI systems refer to assessments that enable models to self-evaluate and adapt their actions based on feedback. This concept is increasingly relevant as AI systems become more autonomous and capable of complex decision-making processes. The development of agentic evaluations is part of a broader trend in artificial intelligence that emphasizes self-improvement and strategic thinking in machine learning applications.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://openai.com/index/introducing-gpt-6-2-astra-sol/">Introducing GPT-6.2 Astra and Sol | OpenAI</a></li>
-<li><a href="https://omniakey.com/blog/gpt-6-2-astra">GPT-6.2 Astra: Release Date, Leaks and What&#x27;s Confirmed</a></li>
-<li><a href="https://help.openai.com/en/articles/9624314-model-release-notes">Model Release Notes - OpenAI Help Center</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#GPT-6.2`, `#transparency`, `#OpenAI`, `#Claude`
+**Tags**: `#AI`, `#machine learning`, `#Hugging Face`, `#evaluation`, `#software engineering`
 
 ---
 
 <a id="item-tech-news-14"></a>
-### [Inkling 2 Mini: New Open-Source Multimodal Model from Thinking Machines Lab](https://huggingface.co/thinkingmachines/Inkling-2-Mini) ⭐️ 7.0/10
+### [New Method for Video Object Tracking in Dynamic Environments](https://lnkd.in/p/dGaWiC2Q) ⭐️ 7.0/10
 
-Inkling 2 Mini is a new open-source multimodal model released by Thinking Machines Lab under the Apache 2.0 license. It features a compact architecture with 26.4 billion parameters, designed to run efficiently on consumer hardware, such as a MacBook with 32 GB of RAM. The model reportedly outperforms larger models like Alibaba&\#x27;s Qwen3.8-27B in various benchmarks while being faster and cheaper to operate.
+A new method called Transformation Tracking and Understanding \(TTU\) has been introduced for video object tracking in dynamic environments, specifically addressing scenarios where objects undergo physical assemblies and disassemblies. This approach is relevant to advancements in AI and machine learning, and it includes a project repository and dataset for practical application and community engagement.
 
-telegram · gptupdates · Nov 22, 17:10
+telegram · gptupdates · Nov 23, 08:21
 
-**「Overview of Inkling 2 Mini」** Inkling 2 Mini is a new open-source multimodal model developed by Thinking Machines Lab, utilizing a looped transformer architecture. This model features a unique design where its middle layers are processed multiple times for each token, enhancing reasoning capabilities while maintaining a compact size suitable for consumer hardware. It operates with 3.4 billion active parameters out of a total of 26.4 billion, allowing it to perform efficiently on tasks requiring high reasoning quality.
+**「Background on Video Object Tracking」** Video object tracking has traditionally focused on static environments, but recent advancements aim to extend these methodologies to dynamic settings where objects can change shape or configuration. This shift is crucial for applications in AI and machine learning, as it allows for more robust tracking in real-world scenarios.
 
-**「Impact on Users and Developers」** The Inkling 2 Mini&\#x27;s ability to deliver high performance on consumer hardware allows developers and researchers to utilize advanced multimodal capabilities without needing expensive infrastructure, potentially democratizing access to sophisticated AI tools.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://thinkingmachines.ai/news/inkling-2-mini/">Introducing Inkling 2 Mini - Thinking Machines Lab</a></li>
-<li><a href="https://lmstudio.ai/models/inkling-2-mini">Inkling 2 Mini</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#multimodal`, `#AI`, `#open source`, `#machine learning`, `#model architecture`
+**Tags**: `#video tracking`, `#AI`, `#machine learning`, `#object recognition`, `#research`
 
 ---
 
 <a id="item-tech-news-15"></a>
-### [Claude Code Exposes Over 1,000 Developer Credentials](https://telegram.me/gptupdates/42031) ⭐️ 7.0/10
+### [Jolt Physics Engine from Horizon Forbidden West Now Open Source](https://github.com/jrouwe/JoltPhysics) ⭐️ 7.0/10
 
-A security firm, Apiiro, discovered that Anthropic&\#x27;s coding tool, Claude Code, has exposed over 1,000 developer credentials due to vulnerabilities in how it manages command approvals. Specifically, researchers found 1,122 secrets in local configuration files and 1,160 in git history, shared settings, and chat transcripts, raising significant security concerns.
+Jolt Physics, the physics engine used in Horizon Forbidden West, is now available as open source under the MIT license. This release includes nine additional game development tools, enhancing resources for developers working on AAA-style games.
 
-telegram · gptupdates · Nov 22, 18:08
+telegram · gptupdates · Nov 23, 08:51
 
-**「Background on Claude Code Security Issues」** This incident follows earlier reports of significant leaks associated with Anthropic&\#x27;s Claude Code, including an April 2026 leak of over 500,000 lines of source code due to misconfiguration. The current discovery of over 1,000 exposed developer credentials highlights ongoing vulnerabilities in how the tool manages sensitive information.
+**「Background on Jolt Physics」** Jolt Physics is a physics engine utilized in high-profile games like Horizon Forbidden West and Death Stranding 2. Its release as open source under the MIT license allows developers to leverage its capabilities for their own projects, enhancing the resources available for game development.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://tech-insider.org/anthropic-claude-code-source-code-leak-npm-2026/">Claude Code Source Leak: What Was Exposed and How to Check</a></li>
-<li><a href="https://www.notebookcheck.net/Claude-Code-leaks-thousands-of-secrets-on-GitHub.1446192.0.html">Claude Code leaks thousands of secrets on GitHub - Notebookcheck</a></li>
+**Tags**: `#game development`, `#open source`, `#physics engine`, `#tools`, `#AAA games`
 
-</ul>
-</details>
+---
 
-**Tags**: `#CyberSecurity`, `#DeveloperTools`, `#Anthropic`
+<a id="item-tech-news-16"></a>
+### [Significance of Proving the Riemann Hypothesis Compared to Major Scientific Achievements](https://x.com/alexandr_wang/status/2124636606959345776?a=7YOtYY5KU81_Z4ytpUY&amp;amp;s=20) ⭐️ 7.0/10
+
+The article discusses the Riemann Hypothesis, a major unsolved problem in mathematics, and compares its significance to groundbreaking achievements such as discovering a cancer cure and interstellar travel. It emphasizes that proving this hypothesis, which involves the behavior of the Riemann zeta function, could fundamentally enhance our understanding of numbers and their relationships across various fields of mathematics and physics.
+
+telegram · gptupdates · Nov 23, 09:35
+
+**「Background on the Riemann Hypothesis」** The Riemann Hypothesis, proposed nearly 170 years ago, posits that all non-trivial zeros of the Riemann zeta function lie on a critical line in the complex plane. This hypothesis is central to number theory and has implications for prime numbers and various mathematical theories.
+
+**「Impact on Mathematical Research」** The proof of the Riemann Hypothesis could lead to significant advancements in mathematical research, potentially validating thousands of results that depend on its truth. This could reshape various fields, including number theory, quantum physics, and algebraic geometry.
+
+**Tags**: `#Riemann Hypothesis`, `#mathematics`, `#theoretical computer science`, `#significance`, `#research`
+
+---
+
+<a id="item-tech-news-17"></a>
+### [Google&\#x27;s Mirror Dimension simulates web for AI agent testing](https://telegram.me/gptupdates/42056) ⭐️ 7.0/10
+
+Google has developed a simulated web environment called Mirror Dimension, designed to test autonomous AI agents in a controlled setting. This environment allows researchers to inject malicious prompts into synthetic web pages to evaluate the vulnerabilities of AI agents before they are deployed publicly. Each engineer can generate over 1,000 test candidates daily within this framework.
+
+telegram · gptupdates · Nov 23, 10:06
+
+**「Background on AI Testing Environments」** Simulated environments for testing AI agents have become increasingly important for ensuring their safety and effectiveness before deployment. Google&\#x27;s Mirror Dimension represents a significant step in this direction, allowing researchers to evaluate AI vulnerabilities in a controlled setting by simulating various web scenarios.
+
+**Tags**: `#Artificial Intelligence`, `#Cybersecurity`, `#Software Engineering`
 
 ---
 
