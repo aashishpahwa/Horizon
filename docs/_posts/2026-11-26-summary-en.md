@@ -5,300 +5,280 @@ date: 2026-11-26
 lang: en
 ---
 
-> From 85 items, 26 important content pieces were selected
+> From 66 items, 25 important content pieces were selected
 
 ---
 
 **Technology News**
-1. [Matrix Multiplication Exponent Established as Nine Fourths](#item-tech-news-1) ⭐️ 9.0/10
-2. [AI Verifies Proof of Riemann Hypothesis in Lean Language](#item-tech-news-2) ⭐️ 9.0/10
+1. [New Algebraic Quantization Approach to Gravity Proposed](#item-tech-news-1) ⭐️ 9.0/10
+2. [1Password Security Incident Raises Concerns Over SaaS Security Practices](#item-tech-news-2) ⭐️ 8.0/10
 3. [Significant Reduction in GRH Lean Verification Proof Size](#item-tech-news-3) ⭐️ 8.0/10
-4. [1Password Security Incident Raises Concerns Over SaaS Security Practices](#item-tech-news-4) ⭐️ 8.0/10
-5. [Advancements in Matrix Multiplication Exponent Spark Community Debate](#item-tech-news-5) ⭐️ 8.0/10
-6. [Google releases Cogentic papers on integer factorization and discrete logs](#item-tech-news-6) ⭐️ 8.0/10
-7. [Critical Pre-auth Remote Root Vulnerability in Linux NFS Server](#item-tech-news-7) ⭐️ 8.0/10
-8. [Bypassing iOS Safari&\#x27;s 60 FPS Limit for Enhanced Web Apps](#item-tech-news-8) ⭐️ 8.0/10
-9. [Cyber Incidents at US Financial and Intelligence Agencies Raise Security Concerns](#item-tech-news-9) ⭐️ 8.0/10
-10. [MIT Researchers Enhance AI Climate Predictions with Unrealistic Training Data](#item-tech-news-10) ⭐️ 8.0/10
-11. [Optimize NVFP4 Attention on NVIDIA RTX Blackwell with Register Recycling](#item-tech-news-11) ⭐️ 8.0/10
-12. [Google Research Releases Six Papers on New Number Factorization Algorithm](#item-tech-news-12) ⭐️ 8.0/10
-13. [Release of ggerganov/llama.cpp b12709 with SVE Optimizations](#item-tech-news-13) ⭐️ 7.0/10
-14. [Concerns Over Slow Security Response Times in Ubuntu](#item-tech-news-14) ⭐️ 7.0/10
-15. [Clojure&\#x27;s Core Bugs Discovered Through Lean Verification](#item-tech-news-15) ⭐️ 7.0/10
-16. [Critique of Automated Proof-Solving in AI and Its Software Industry Impact](#item-tech-news-16) ⭐️ 7.0/10
-17. [PenGPT: A Generative Transformer for Handwriting and Sketches](#item-tech-news-17) ⭐️ 7.0/10
-18. [Security Vulnerability in US Treasury Subdomains Exposed](#item-tech-news-18) ⭐️ 7.0/10
-19. [US Chip Restrictions Impacting Chinese AI Labs&\#x27; Progress](#item-tech-news-19) ⭐️ 7.0/10
-20. [OpenAI Introduces &\#x27;Private Inference&\#x27; for Enhanced Data Privacy](#item-tech-news-20) ⭐️ 7.0/10
-21. [Deepmind Uses AI Agents for Gemini Experiments, Recursive Self-Improvement Still Elusive](#item-tech-news-21) ⭐️ 7.0/10
-22. [Anthropic Study Reveals Barriers to AI Adoption in the Workplace](#item-tech-news-22) ⭐️ 7.0/10
-23. [PrismML Compresses 54 GB Language Model to 5.9 GB Using Ternary Weights](#item-tech-news-23) ⭐️ 7.0/10
-24. [Ethical Boundaries for AI Agents Explored by Scientists](#item-tech-news-24) ⭐️ 7.0/10
-25. [Indic Voice Agent Developed with CUGA](#item-tech-news-25) ⭐️ 7.0/10
-26. [Rise of Looped Transformers in AI](#item-tech-news-26) ⭐️ 7.0/10
+4. [Long-standing NFS Vulnerability in Linux Kernel Exposed](#item-tech-news-4) ⭐️ 8.0/10
+5. [Google releases Cogentic papers on integer factorization and discrete logs](#item-tech-news-5) ⭐️ 8.0/10
+6. [Microsoft reveals ARTEX AI framework used by state-backed hackers for cyberattacks](#item-tech-news-6) ⭐️ 8.0/10
+7. [Nvidia Suspends Server Shipments to Southeast Asia Due to US Export Controls](#item-tech-news-7) ⭐️ 8.0/10
+8. [Next-Gen Bionic Hands Enable Users to Feel Pressure](#item-tech-news-8) ⭐️ 8.0/10
+9. [Optimize NVFP4 Attention on NVIDIA RTX Blackwell with Register Recycling](#item-tech-news-9) ⭐️ 8.0/10
+10. [The New York Times warns against Photoshop updates due to AI features](#item-tech-news-10) ⭐️ 7.0/10
+11. [Bare Metal Qwen Project Explores Direct Hardware Language Model Execution](#item-tech-news-11) ⭐️ 7.0/10
+12. [Minipg: PostgreSQL as a Single Executable](#item-tech-news-12) ⭐️ 7.0/10
+13. [Concerns Over Slow Ubuntu Security Response Times](#item-tech-news-13) ⭐️ 7.0/10
+14. [Deriving the Black-Scholes Model](#item-tech-news-14) ⭐️ 7.0/10
+15. [Qualcomm&\#x27;s Oryon 3 Chip Architecture Gains Attention](#item-tech-news-15) ⭐️ 7.0/10
+16. [Polynomial Hirsch Conjecture Proven False](#item-tech-news-16) ⭐️ 7.0/10
+17. [Unreported Bugs Found in Clojure&\#x27;s Core Using Lean Verification](#item-tech-news-17) ⭐️ 7.0/10
+18. [Advancement in Unconditional Integer Factorization for Cryptography](#item-tech-news-18) ⭐️ 7.0/10
+19. [Scott Aaronson&\#x27;s Insights on Complexity Theory](#item-tech-news-19) ⭐️ 7.0/10
+20. [US Chip Restrictions Impacting Chinese AI Development](#item-tech-news-20) ⭐️ 7.0/10
+21. [OpenAI Introduces &\#x27;Private Inference&\#x27; for Enhanced Data Privacy](#item-tech-news-21) ⭐️ 7.0/10
+22. [Enhancements in Nemotron 3.5: Open Data and Faster Inference](#item-tech-news-22) ⭐️ 7.0/10
+23. [Guide to Building and Training Multi-Agent Systems](#item-tech-news-23) ⭐️ 7.0/10
+24. [Anthropic Releases 7 Free Repositories for Claude Code Setups](#item-tech-news-24) ⭐️ 7.0/10
+25. [Yandex DataLens Enhances AI Agents for Comprehensive Data Tasks](#item-tech-news-25) ⭐️ 7.0/10
 
 ---
 
 ## Technology News
 
 <a id="item-tech-news-1"></a>
-### [Matrix Multiplication Exponent Established as Nine Fourths](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf) ⭐️ 9.0/10
+### [New Algebraic Quantization Approach to Gravity Proposed](https://arxiv.org/abs/2611.34924) ⭐️ 9.0/10
 
-A new paper has established the matrix multiplication exponent as nine fourths, overturning previous conjectures that suggested it was two. This finding is expected to influence algorithmic research and has implications for various fields within computer science and artificial intelligence. The paper was published on November 24, 2026.
+A new algebraic quantization method for vacuum general relativity has been proposed, focusing on four-dimensional Lorentzian spacetimes. This approach addresses gravitational constraints on intersecting null cones and establishes a reduced phase space, potentially advancing the understanding of quantum gravity and bridging gaps between different theoretical frameworks.
 
-hackernews · E-Reverance · Nov 25, 01:19 · [Discussion](https://news.ycombinator.com/item?id=50637220)
+hackernews · hecmmm · Nov 26, 05:37 · [Discussion](https://news.ycombinator.com/item?id=50651863)
 
-**「Significance of Matrix Multiplication Exponent」** The matrix multiplication exponent is a critical concept in computational mathematics, representing the minimum number of scalar multiplications needed to multiply two matrices. Previous conjectures suggested this exponent could be as low as two, but the new paper establishes it as nine fourths, marking a significant shift in understanding that could influence algorithm design and efficiency in various computational fields.
+**「Background on Quantum Gravity」** Quantum gravity has long been a significant challenge in theoretical physics, aiming to reconcile general relativity, which describes gravity, with quantum mechanics. Previous attempts at quantizing gravity have often relied on perturbative methods, which may not capture the full complexity of gravitational interactions, particularly in strong fields or at very small scales.
 
-**Tags**: `#matrix multiplication`, `#algorithm`, `#mathematics`, `#OpenAI`, `#research`
+**「Potential Implications」** This new quantization method could significantly impact theoretical physics by providing a framework for understanding quantum gravity, which has been a longstanding challenge in the field.
+
+**「Community Reactions」** Community members have expressed excitement about the potential of this theory, with some noting its ambition as a first step towards a unified theory of quantum gravity, while others highlight the challenges of integrating it with existing theories like Yang-Mills.
+
+**Tags**: `#quantum gravity`, `#theoretical physics`, `#general relativity`, `#algebraic quantization`
 
 ---
 
 <a id="item-tech-news-2"></a>
-### [AI Verifies Proof of Riemann Hypothesis in Lean Language](https://telegram.me/gptupdates/42246) ⭐️ 9.0/10
+### [1Password Security Incident Raises Concerns Over SaaS Security Practices](https://1password.com/blog/update-on-nov-2026-security-incident) ⭐️ 8.0/10
 
-A proof of the Riemann hypothesis, a major unsolved problem in mathematics, has been verified by AI, marking a groundbreaking achievement. The proof consists of 17 million lines across 175,000 files and is written in Lean, a language designed for formal verification. This development represents a significant advancement in both mathematics and the application of AI technology.
+1Password experienced a security incident that has raised significant concerns regarding SaaS security practices and vulnerabilities in code deployment. The incident highlights the risks associated with malicious actors potentially pushing harmful code to production services, which could compromise user data and system integrity.
 
-telegram · gptupdates · Nov 25, 19:10
+hackernews · lxhrstn · Nov 25, 17:18 · [Discussion](https://news.ycombinator.com/item?id=50644817)
 
-**「Riemann Hypothesis and AI Verification」** The Riemann hypothesis is a longstanding unsolved problem in mathematics, concerning the distribution of prime numbers. Recently, a proof was generated using AI technology, specifically in the Lean programming language, which allows for formal verification of mathematical proofs. This proof, consisting of 17 million lines of code, has been verified by AI, marking a significant advancement in both mathematics and the application of AI in this field.
+**「Overview of the 1Password Security Incident」** On November 19, 2026, 1Password reported a security incident involving unauthorized access to a corporate GitHub account belonging to one of its employees. This breach allowed the attacker to access source code and potentially inject malicious code into backend services, although customer vaults remained secure throughout the incident.
+
+**「Impact on Users」** The incident has led to heightened anxiety among users regarding the safety of their encrypted vaults, with some users opting to maintain local-only vaults to mitigate risks associated with online services.
+
+**「Community Reactions」** Community members expressed concerns about the adequacy of 1Password&\#x27;s response, particularly regarding the potential for malicious code deployment and the lack of clarity about whether user data was compromised during the incident.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Alp%C3%B6ge&#x27;s_proof_of_the_Riemann_hypothesis">Alpöge&#x27;s proof of the Riemann hypothesis - Wikipedia</a></li>
-<li><a href="https://www.youtube.com/watch?v=Iy37hxgmpdU">The Riemann Hypothesis Proof , Explained... - YouTube</a></li>
+<li><a href="https://raylabs.app/articles/1password-security-breach-november-2026-explained/">1Password Security Breach November 2026 : What Happened</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Riemann hypothesis`, `#AI`, `#mathematics`, `#formal verification`, `#Lean`
+**Tags**: `#security`, `#SaaS`, `#software engineering`, `#community discussion`
 
 ---
 
 <a id="item-tech-news-3"></a>
 ### [Significant Reduction in GRH Lean Verification Proof Size](https://github.com/lsernau/grh-lean) ⭐️ 8.0/10
 
-The GRH Lean verification proof has been drastically reduced from 17 million lines to just 76,000 lines, enhancing its readability and accessibility for users. This major reduction is expected to facilitate better understanding and management of the proof, which is crucial for software engineering and AI systems.
+The GRH Lean verification proof has been drastically reduced from 17 million lines to just 76,000 lines, significantly enhancing its readability and accessibility for the community. This change is expected to improve the understanding and application of the proof in software engineering and AI systems.
 
 hackernews · nb-t · Nov 25, 21:48 · [Discussion](https://news.ycombinator.com/item?id=50648050)
 
-**「Context of the Development」** Lean is a proof assistant used for formal verification in software engineering and AI. The previous version of the GRH Lean verification was excessively large, making it difficult for users to engage with and understand the proof.
+**「Context of GRH Lean Verification」** The Generalized Riemann Hypothesis \(GRH\) proof was originally formalized in the Lean proof assistant, resulting in a massive 17 million lines of code. Recent efforts have significantly condensed this proof to approximately 76,000 lines, enhancing its readability and accessibility for the community. This reduction is part of ongoing work to improve the usability of formal proofs in software engineering and AI systems.
 
-**「Consequences for Users」** The significant reduction in proof size is likely to improve user engagement and comprehension, making it easier for developers and researchers to work with the Lean verification system.
+**「Impact on Community」** This reduction in proof size is likely to facilitate better comprehension and usability among developers and researchers, potentially accelerating advancements in related fields.
 
-**「Community Reactions」** Community members have expressed excitement about the improved readability of the proof, noting its clear documentation and structure, which should aid in understanding. However, some users have raised concerns about the complexity of the code and its accessibility for those unfamiliar with Lean.
+**「Community Reactions」** Community members have expressed enthusiasm about the improved readability of the proof, noting its clear documentation and the separation of known versus new mathematical concepts, which should aid in understanding.
 
-**Tags**: `#Lean`, `#verification`, `#software engineering`, `#AI`, `#community discussion`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Alp%C3%B6ge&#x27;s_proof_of_the_Riemann_hypothesis">Alpöge&#x27;s proof of the Riemann hypothesis - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Lean verification`, `#proof reduction`, `#software engineering`, `#AI systems`, `#community discussion`
 
 ---
 
 <a id="item-tech-news-4"></a>
-### [1Password Security Incident Raises Concerns Over SaaS Security Practices](https://1password.com/blog/update-on-nov-2026-security-incident) ⭐️ 8.0/10
+### [Long-standing NFS Vulnerability in Linux Kernel Exposed](https://opensec.in/blog/nfs2root-cve-2026-99362) ⭐️ 8.0/10
 
-The recent security incident involving 1Password has highlighted significant vulnerabilities in SaaS security practices, particularly concerning code deployment risks. This incident has sparked extensive discussions within the community about the implications for software engineering and security, emphasizing the need for improved mitigation strategies.
+A pre-auth remote root vulnerability, identified as CVE-2026-99362, has been discovered in the Linux kernel&\#x27;s NFS server, persisting for 12 years. This vulnerability poses significant risks to systems using NFS, prompting discussions on mitigation strategies among security professionals and software engineers.
 
-hackernews · lxhrstn · Nov 25, 17:18 · [Discussion](https://news.ycombinator.com/item?id=50644817)
+hackernews · dm · Nov 25, 20:35 · [Discussion](https://news.ycombinator.com/item?id=50647161)
 
-**「Overview of the 1Password Security Incident」** On November 25, 2026, 1Password disclosed a security incident where an attacker accessed internal systems using a compromised corporate GitHub account. This breach allowed the attacker to copy names, email addresses, and account details for a subset of customers, although customer vaults and their contents remained secure.
+**「Context of the Vulnerability」** The NFS \(Network File System\) is a protocol that allows file access over a network. This vulnerability highlights the importance of ongoing security assessments in long-standing software components, particularly in widely used systems like the Linux kernel.
 
-**「Impact on Users and Security Practices」** The incident raises concerns for users regarding the security of their data, prompting some, like longtime users, to revert to older, local-only versions of the software due to fears of potential vulnerabilities in online vaults.
+**「Consequences for Users」** Users of the affected NFS versions \(4.1 and 4.2\) may need to implement immediate mitigation strategies, such as disabling these protocols, to protect their systems from potential exploitation.
 
-**「Community Reactions」** Community members have expressed significant concern over the potential for malicious code to be pushed to production services, with calls for clearer communication from 1Password regarding the security of user data during the incident.
+**「Community Reactions」** Community members have shared various mitigation strategies, including using programmable firewalls and disabling vulnerable NFS versions, indicating a proactive approach to addressing the vulnerability.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://9to5mac.com/2026/11/25/1password-confirms-security-incident-heres-what-you-need-to-know/">1Password confirms security incident, here’s what you need to ...</a></li>
-<li><a href="https://applescoop.org/story/1password-security-incident-november-2026-what-was-exposed-what-to-do">1Password security incident: what was taken and what to do</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#security`, `#SaaS`, `#software engineering`, `#vulnerabilities`, `#community discussion`
+**Tags**: `#Linux`, `#Security`, `#NFS`, `#Vulnerability`, `#Community Discussion`
 
 ---
 
 <a id="item-tech-news-5"></a>
-### [Advancements in Matrix Multiplication Exponent Spark Community Debate](https://scottaaronson.blog/?p=10379) ⭐️ 8.0/10
+### [Google releases Cogentic papers on integer factorization and discrete logs](https://github.com/google-research/google-research/tree/master/cogentic_research_papers) ⭐️ 8.0/10
 
-Recent discussions highlight significant advancements in mathematics and computation, particularly regarding the matrix multiplication exponent, which has implications for theoretical computer science. The community is actively engaging with these developments, indicating their potential to reshape understanding in the field.
+Google has released a series of Cogentic research papers that detail advancements in integer factorization and discrete logarithms. These developments could have significant implications for cryptography and computational efficiency, generating considerable interest and discussion within the community.
 
-hackernews · Kotlopou · Nov 25, 19:11 · [Discussion](https://news.ycombinator.com/item?id=50646108)
+hackernews · rgwohlbold · Nov 25, 13:33 · [Discussion](https://news.ycombinator.com/item?id=50642086)
 
-**「Matrix Multiplication Exponent Developments」** Recent advancements have established that the matrix multiplication exponent is now proven to be 9/4, a significant update in theoretical computer science. This development builds on earlier work in the Lean proof assistant and has implications for various computational applications, including machine learning and computer graphics.
+**「Understanding Integer Factorization and Discrete Logarithms」** Integer factorization and discrete logarithms are foundational problems in number theory that underpin the security of many cryptographic systems. The difficulty of these problems is what makes encryption methods like RSA secure, as they rely on the assumption that factoring large integers or solving discrete logarithms is computationally infeasible.
 
-**「Impact on Theoretical Computer Science」** These advancements may lead to new methodologies in computation, potentially altering existing paradigms and prompting further research into related mathematical problems.
+**「Impact on Cryptography and Computational Efficiency」** The advancements presented in the Cogentic papers may influence future cryptographic methods and algorithms, potentially leading to more efficient computational techniques. This could prompt developers and researchers to reassess existing cryptographic systems in light of these new findings.
 
-**「Community Perspectives」** Community members express a mix of excitement and concern, with some questioning whether these advancements were inevitable due to prior developments in mathematics and computing, while others reflect on the broader implications for the future of mathematical inquiry.
+**「Community Reactions」** Community members have expressed excitement about the potential implications of these discoveries, with some suggesting that this release may be part of a larger trend in mathematical advancements. Others have noted the surprising nature of the results and the ongoing debate about their practical applications.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://github.com/openai/math/tree/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026">math/preprints/The-matrix-multiplication-exponent-is-nine ...</a></li>
-<li><a href="https://cryptobriefing.com/openai-matrix-multiplication-exponent-9-4/">OpenAI preprint claims the matrix multiplication exponent is ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#mathematics`, `#computation`, `#theoretical computer science`, `#AI`, `#community discussion`
+**Tags**: `#integer factorization`, `#discrete logarithms`, `#Google research`, `#cryptography`, `#algorithm development`
 
 ---
 
 <a id="item-tech-news-6"></a>
-### [Google releases Cogentic papers on integer factorization and discrete logs](https://github.com/google-research/google-research/tree/master/cogentic_research_papers) ⭐️ 8.0/10
+### [Microsoft reveals ARTEX AI framework used by state-backed hackers for cyberattacks](https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks/) ⭐️ 8.0/10
 
-Google has released a series of Cogentic research papers focusing on integer factorization, discrete logarithms, and other mathematical concepts. This release is significant for its implications in cryptography and computer science, particularly in the context of software engineering and AI advancements.
+Microsoft has disclosed that the ARTEX AI framework, operational since July 2026, is being utilized by state-backed hackers from China and North Korea to automate cyberattacks with minimal human intervention. The framework employs specialized agents to execute attacks, raising significant security concerns. Microsoft suggests using deception techniques, such as honeypots, as potential defenses against these evolving threats.
 
-hackernews · rgwohlbold · Nov 25, 13:33 · [Discussion](https://news.ycombinator.com/item?id=50642086)
+rss · The Decoder · Nov 26, 11:30
 
-**「Context on Cogentic Research Papers」** Google&\#x27;s Cogentic research papers focus on advanced mathematical concepts such as integer factorization and discrete logarithms, which are crucial for cryptography and computer science. These papers include significant findings like unconditional integer factorization and algorithms for discrete logarithms, which could impact the security landscape of cryptographic systems.
+**「Background on ARTEX AI Framework」** The ARTEX AI framework, which has been in use since July 2026, enables the automation of cyberattacks with minimal human intervention. It has been adopted by state-backed groups, particularly from China and North Korea, as well as criminal organizations, raising significant concerns about cybersecurity defenses against such advanced threats.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://github.com/google-research/google-research/tree/master/cogentic_research_papers">Google Releases Cogentic Papers on Integer Factorization ...</a></li>
-<li><a href="https://daily.dev/posts/google-releases-cogentic-papers-on-integer-factorization-discrete-logs-and-more-0lfmvr55g">Google Releases Cogentic Papers on Integer Factorization ...</a></li>
+**「Impact on cybersecurity practices」** The use of the ARTEX framework by state-backed hackers necessitates a reevaluation of current cybersecurity defenses, as traditional methods may be insufficient against AI-driven attacks that can learn and adapt.
 
-</ul>
-</details>
-
-**Tags**: `#Google`, `#mathematics`, `#cryptography`, `#AI`, `#research`
+**Tags**: `#cybersecurity`, `#AI`, `#automation`, `#hackers`, `#defense strategies`
 
 ---
 
 <a id="item-tech-news-7"></a>
-### [Critical Pre-auth Remote Root Vulnerability in Linux NFS Server](https://opensec.in/blog/nfs2root-cve-2026-99362) ⭐️ 8.0/10
+### [Nvidia Suspends Server Shipments to Southeast Asia Due to US Export Controls](https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/) ⭐️ 8.0/10
 
-A critical pre-auth remote root vulnerability has been identified in the Linux kernel&\#x27;s NFS server, designated as CVE-2026-99362. This vulnerability allows attackers to exploit the NFS server without authentication, raising significant security concerns for systems utilizing this service. The issue has sparked extensive technical discussions within the community regarding its implications and potential mitigations.
+Nvidia has halted server shipments to Malaysia, Singapore, Thailand, and Indonesia following new US export controls aimed at restricting Chinese cloud access. This suspension affects local data centers and cloud services, with partners like Dell and Supermicro instructed to cease shipments. The situation has led to significant disruptions, with reports of chaos among cloud executives and potential financial implications for Southeast Asian tech markets.
 
-hackernews · dm · Nov 25, 20:35 · [Discussion](https://news.ycombinator.com/item?id=50647161)
+rss · The Decoder · Nov 26, 11:21
 
-**「Understanding NFS Vulnerabilities」** The NFS \(Network File System\) server in the Linux kernel has been a target for vulnerabilities due to its widespread use in networked environments. Previous vulnerabilities have highlighted the risks associated with pre-authentication exploits, which allow attackers to gain unauthorized access without needing valid credentials.
+**「Background on Nvidia&\#x27;s Export Controls」** Nvidia&\#x27;s decision to halt server shipments to Malaysia, Singapore, Thailand, and Indonesia follows new US export controls aimed at restricting Chinese access to advanced AI computing resources. This move is part of a broader strategy by the US government to limit the proliferation of technology that could enhance China&\#x27;s capabilities in cloud computing and AI.
 
-**「Impact on Users」** The vulnerability poses a serious risk to users of the Linux NFS server, particularly those who may have exposed their systems to the internet. Although it appears that upstream patches have been released, the existence of such vulnerabilities highlights ongoing security challenges in maintaining safe configurations.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?syn-25a6b1a6=1">Nvidia halts chip shipments to south-east Asia</a></li>
 
-**「Community Reactions」** Community members have expressed a mix of concern and technical curiosity regarding the vulnerability. Some users noted that the vulnerability was already patched upstream, while others emphasized the importance of secure coding practices to prevent similar issues in the future.
+</ul>
+</details>
 
-**Tags**: `#Linux`, `#security`, `#vulnerability`, `#NFS`, `#exploit`
+**Tags**: `#Nvidia`, `#export controls`, `#cloud computing`, `#Southeast Asia`, `#technology news`
 
 ---
 
 <a id="item-tech-news-8"></a>
-### [Bypassing iOS Safari&\#x27;s 60 FPS Limit for Enhanced Web Apps](https://rida.dev/blog/bypassing-ios-safari-60-fps-limit) ⭐️ 8.0/10
+### [Next-Gen Bionic Hands Enable Users to Feel Pressure](https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/) ⭐️ 8.0/10
 
-A new method has been proposed to bypass the 60 FPS frame rate limit in iOS Safari, allowing web applications to deliver a performance level that closely resembles native apps. This technique could significantly enhance user experience by providing smoother animations and interactions. The approach leverages specific optimizations within the browser&\#x27;s rendering process.
+A new generation of bionic hands has been developed that allows users to feel pressure, significantly enhancing the functionality of prosthetics. This advancement enables users, like Avi Davidson, to handle delicate objects with greater precision, marking a notable step forward in prosthetic technology.
 
-hackernews · vinhnx · Nov 25, 03:04 · [Discussion](https://news.ycombinator.com/item?id=50637890)
+rss · MIT Tech Review · Nov 26, 09:59
 
-**「Understanding the Frame Rate Limit」** iOS Safari traditionally caps frame rates at 60 FPS to balance performance and battery life. This limitation has been a barrier for web developers aiming to create fluid, app-like experiences on the web. The new method discussed in the article seeks to overcome this restriction, potentially changing how web applications are developed for iOS.
+**「Background on Bionic Technology」** Previous prosthetic devices primarily focused on restoring basic functionality, often lacking sensory feedback. The integration of nerve connections in this new generation of bionic hands represents a significant evolution in the field, allowing for a more natural interaction with the environment.
 
-**「Potential User Experience Improvement」** If widely adopted, this bypass method could lead to web applications that feel significantly more responsive and engaging, similar to native applications. Developers may need to consider the implications on battery life and performance when implementing these techniques.
-
-**「Community Reactions」** Community members expressed excitement about the potential of this method, with some noting that it could bring web applications closer to native quality. However, there were also concerns about battery drain and the need for careful implementation to avoid performance issues.
-
-**Tags**: `#iOS`, `#Web Development`, `#Performance Optimization`, `#User Experience`
+**Tags**: `#bionic technology`, `#prosthetics`, `#human-computer interaction`, `#medical technology`
 
 ---
 
 <a id="item-tech-news-9"></a>
-### [Cyber Incidents at US Financial and Intelligence Agencies Raise Security Concerns](https://the-decoder.com/back-to-back-cyber-incidents-at-us-financial-investigators-and-spy-agencies-follow-a-string-of-federal-hacks-and-outages/) ⭐️ 8.0/10
-
-The US Financial Crimes Enforcement Network has taken its systems offline due to unauthorized access, while a separate breach involving the CIA, NGA, and ODNI is suspected to have utilized the AI defense tool Artex. These incidents highlight ongoing security vulnerabilities within US financial and intelligence agencies, raising alarms among the public already concerned about federal cybersecurity.
-
-rss · The Decoder · Nov 25, 13:07
-
-**「Recent Cybersecurity Incidents」** The recent cyber incidents at US financial and intelligence agencies are part of a broader trend of increasing vulnerabilities in federal cybersecurity. The AI tool Artex, which has been linked to these breaches, is an open-source penetration testing framework that has been exploited by threat actors to enhance their attack strategies. This highlights the dual-use nature of AI technologies in both defense and offense within cybersecurity.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/">What defenders need to know about ARTEX, the agentic AI ...</a></li>
-<li><a href="https://unit42.paloaltonetworks.com/artex-and-ai-powered-red-teaming-tools/">ARTEX and AI-Powered Red Teaming Tools: What Defenders Need ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#cybersecurity`, `#AI`, `#financial systems`, `#intelligence agencies`
-
----
-
-<a id="item-tech-news-10"></a>
-### [MIT Researchers Enhance AI Climate Predictions with Unrealistic Training Data](https://the-decoder.com/mit-team-discovers-that-unrealistic-training-data-makes-ai-climate-predictions-more-reliable/) ⭐️ 8.0/10
-
-MIT researchers have discovered that using deliberately unrealistic training data can enhance the reliability of AI climate predictions while significantly reducing training time from six to eight runs to just one. This method involves generating extreme scenarios of CO2 or methane fluctuations, which helps create more robust climate models.
-
-rss · The Decoder · Nov 25, 10:47
-
-**「Background on AI Climate Modeling」** Traditionally, AI climate models require multiple training runs to achieve reliable predictions. The use of outdated emulators has been a challenge in climate modeling, prompting researchers to seek more efficient training methods.
-
-**Tags**: `#AI`, `#climate modeling`, `#machine learning`, `#research`, `#environmental science`
-
----
-
-<a id="item-tech-news-11"></a>
 ### [Optimize NVFP4 Attention on NVIDIA RTX Blackwell with Register Recycling](https://developer.nvidia.com/blog/how-to-optimize-nvfp4-attention-on-nvidia-rtx-blackwell-through-register-recycling/) ⭐️ 8.0/10
 
-The article provides a technical guide for optimizing NVFP4 attention on NVIDIA&\#x27;s RTX Blackwell architecture, emphasizing the use of register recycling to improve performance in AI models. This optimization is particularly relevant for software engineers and AI practitioners facing computational challenges with large models.
+The article outlines methods for optimizing NVFP4 attention on NVIDIA&\#x27;s RTX Blackwell architecture, specifically through register recycling. This optimization aims to improve performance for software engineers and AI practitioners working with large models, addressing computational inefficiencies during inference.
 
 rss · NVIDIA Developer Blog · Nov 25, 19:30
 
-**「Background on NVFP4 Attention Optimization」** The article discusses optimizing NVFP4 attention on NVIDIA&\#x27;s RTX Blackwell architecture, specifically targeting performance improvements for AI models. It highlights the use of register recycling to reduce Tensor Core idle time, which can enhance computational efficiency significantly, achieving latency improvements of up to 1.64 times on the RTX PRO 6000 Blackwell.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://developer.nvidia.com/blog/how-to-optimize-nvfp4-attention-on-nvidia-rtx-blackwell-through-register-recycling/">How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell ...</a></li>
-
-</ul>
-</details>
+**「Understanding NVFP4 Attention」** NVFP4 attention is a mechanism used in AI models that can become a bottleneck, particularly with long sequences in foundation models. The RTX Blackwell architecture is designed to enhance performance in such demanding computational tasks.
 
 **Tags**: `#NVIDIA`, `#AI`, `#Optimization`, `#Machine Learning`, `#Software Engineering`
 
 ---
 
-<a id="item-tech-news-12"></a>
-### [Google Research Releases Six Papers on New Number Factorization Algorithm](https://github.com/google-research/google-research/tree/4a7bc8ab0bc7/cogentic_research_papers) ⭐️ 8.0/10
+<a id="item-tech-news-10"></a>
+### [The New York Times warns against Photoshop updates due to AI features](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features) ⭐️ 7.0/10
 
-Google Research has published six papers detailing a new algorithm for number factorization, which may enhance existing methods. This new approach, developed by the Cogentic team using the Gemini 4 framework, claims to improve the efficiency of factorization without relying on unproven assumptions that have historically underpinned the widely used number field sieve method. If validated, this would mark the first improvement in factorization efficiency since 1992.
+The New York Times has issued a warning to photographers advising them not to update Photoshop because of concerns that new AI features could compromise the authenticity of images. This caution highlights the potential implications of AI in photography, particularly regarding image credibility and the perception of manipulated content.
 
-telegram · gptupdates · Nov 25, 16:40
+hackernews · rmason · Nov 25, 21:18 · [Discussion](https://news.ycombinator.com/item?id=50647673)
 
-**「Background on Google&\#x27;s New Algorithm」** Google Research&\#x27;s recent release of six papers introduces a new algorithm for number factorization, which is a significant advancement in computational mathematics. This work builds on the long-standing method of the number field sieve, which has been used for factoring large numbers but relies on unproven assumptions regarding its speed. The new algorithm proposed by Cogentic, based on the Gemini 4 AI, aims to provide a faster worst-case bound for integer factoring without these assumptions.
+**「Concerns Over AI in Photography」** The warning from The New York Times highlights ongoing concerns about the authenticity of images edited with AI tools, particularly in professional photography. This follows a broader trend where the integration of AI features in creative software raises ethical questions regarding image manipulation and credibility in visual media.
+
+**「Impact on Photographers」** Photographers who rely on Photoshop for their work may face challenges in maintaining the authenticity of their images, which could affect their professional credibility and the trust of their audience. This warning suggests that updates could lead to unintended consequences in how images are perceived in the market.
+
+**「Community Reactions」** Community members have expressed concerns about the difficulty of distinguishing between AI-generated content and minor edits, emphasizing the potential damage to credibility for brands associated with AI. Some users also noted a growing social stigma against generative AI in creative fields.
+
+**Tags**: `#AI`, `#photography`, `#Photoshop`, `#technology ethics`, `#creative tools`
+
+---
+
+<a id="item-tech-news-11"></a>
+### [Bare Metal Qwen Project Explores Direct Hardware Language Model Execution](https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os) ⭐️ 7.0/10
+
+The &\#x27;Bare Metal Qwen&\#x27; project aims to run language models directly on hardware, potentially enhancing efficiency for smaller models. This approach could optimize performance by eliminating the overhead of traditional operating systems. The project is currently available on GitHub for exploration and experimentation.
+
+hackernews · miohtama · Nov 25, 22:15 · [Discussion](https://news.ycombinator.com/item?id=50648365)
+
+**「Background on Bare Metal Qwen」** The &\#x27;Bare Metal Qwen&\#x27; project is part of a broader exploration of running language models directly on hardware without an operating system, specifically targeting smaller models like Qwen 3-0.6B. This approach aims to enhance performance and efficiency by eliminating the overhead associated with traditional operating systems, as detailed in the project&\#x27;s GitHub repository.
+
+**「Impact on Language Model Efficiency」** If successful, this project could significantly improve the speed and efficiency of smaller language models, making them more viable for use in environments with limited computational resources. However, its applicability to larger models remains uncertain due to the minimal resource savings compared to the demands of frontier models.
+
+**「Community Reactions」** Community members expressed a mix of interest and skepticism regarding the project&\#x27;s feasibility. Some see potential benefits for smaller models, while others question the practicality of running larger models without an operating system, suggesting that alternative hardware solutions might be more effective.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.rdworldonline.com/google-cogentic-ai-integer-factoring-bounds-lean-proofs/">Google’s Gemini 4 agent claims six math proofs in a day ...</a></li>
-<li><a href="https://officechai.com/ai/googles-cogentic-ai-releases-six-math-papers-in-one-day-including-a-proven-fast-algorithm-for-factoring-numbers/">Google’s Cogentic AI Releases Six Math Papers In One Day ...</a></li>
+<li><a href="https://github.com/alesha-pro/llm.asm">alesha-pro/llm.asm: Qwen 3-0.6B inference (12 KB), bare - metal ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#algorithm`, `#Google Research`, `#number theory`, `#software engineering`
+**Tags**: `#bare metal`, `#language models`, `#performance optimization`, `#AI`, `#community discussion`
+
+---
+
+<a id="item-tech-news-12"></a>
+### [Minipg: PostgreSQL as a Single Executable](https://progrium.github.io/minipg/) ⭐️ 7.0/10
+
+Minipg introduces a method to deploy PostgreSQL as a single executable, which could streamline the setup process for small applications. This approach may appeal to developers looking for easier database management solutions without the overhead of traditional installations.
+
+hackernews · rguiscard · Nov 26, 03:00 · [Discussion](https://news.ycombinator.com/item?id=50650892)
+
+**「Overview of Minipg」** Minipg, released on November 20, 2026, is a tool that packages PostgreSQL 18 into a single executable file. This allows developers to run a full PostgreSQL server and client without the need for a separate daemon or Docker installation, simplifying deployment for small applications.
+
+**「Potential Use Cases for Developers」** This single executable format could make PostgreSQL a more attractive option for small self-hosted applications, potentially replacing lighter alternatives like SQLite in certain scenarios.
+
+**「Community Insights on Minipg」** Users have expressed that Minipg could be beneficial for small applications, with some suggesting it might serve as a better alternative to SQLite. Others noted its efficient use of resources, such as starting a shared background server only when needed.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://news.lavx.hu/article/minipg-runs-real-postgres-from-a-single-executable">miniPG Runs Real Postgres From a Single Executable</a></li>
+<li><a href="https://ecosistemastartup.com/minipg-postgresql-en-un-solo-ejecutable-sin-docker/">Minipg : PostgreSQL en un solo ejecutable, sin Docker</a></li>
+<li><a href="https://zeli.app/story/50650892">minipg turns PostgreSQL into a single · Hacker News | Zeli</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#PostgreSQL`, `#Software Engineering`, `#Deployment`, `#Database Management`
 
 ---
 
 <a id="item-tech-news-13"></a>
-### [Release of ggerganov/llama.cpp b12709 with SVE Optimizations](https://github.com/ggml-org/llama.cpp/releases/tag/b12709) ⭐️ 7.0/10
+### [Concerns Over Slow Ubuntu Security Response Times](https://www.openwall.com/lists/oss-security/2026/11/25/9) ⭐️ 7.0/10
 
-The ggerganov/llama.cpp project has released version b12709, which introduces SVE-optimized dot-product kernels specifically designed for ARM architectures. This update enhances performance in machine learning applications by optimizing the q5\_0 and q5\_1 dot-product paths using SVE technology.
-
-github · github-actions\[bot\] · Nov 25, 03:50
-
-**「Background Information」** SVE \(Scalable Vector Extension\) is an extension of the ARM architecture that allows for more efficient processing of vector operations, particularly beneficial in machine learning tasks. The previous versions of llama.cpp did not include these optimizations, making this release a significant improvement for developers targeting ARM platforms.
-
-**「Impact on Users」** Developers working on machine learning applications for ARM architectures can expect improved performance and efficiency with the new SVE optimizations in version b12709, which may lead to faster computation times and better resource utilization.
-
-**Tags**: `#optimization`, `#machine learning`, `#ARM`, `#SVE`, `#software engineering`
-
----
-
-<a id="item-tech-news-14"></a>
-### [Concerns Over Slow Security Response Times in Ubuntu](https://www.openwall.com/lists/oss-security/2026/11/25/9) ⭐️ 7.0/10
-
-The community has raised serious concerns regarding slow security response times in Ubuntu, which could impact system stability and security for its users. This discussion highlights the critical nature of timely security updates for a widely-used Linux distribution, emphasizing the need for improved response mechanisms.
+The Ubuntu community is expressing significant concerns regarding slow security response times, prompting some users and organizations to consider switching to alternative Linux distributions. This debate highlights the critical nature of timely security updates, especially for a widely-used distribution like Ubuntu, which is essential for many users&\#x27; and organizations&\#x27; operations.
 
 hackernews · gslin · Nov 25, 20:38 · [Discussion](https://news.ycombinator.com/item?id=50647181)
 
-**「Concerns Over Ubuntu&\#x27;s Security Response Times」** Recent discussions have highlighted ongoing issues with Ubuntu&\#x27;s security response times, particularly following the failure to patch a critical remote code execution vulnerability \(CVE-2026-98432\) for nearly three weeks, as reported in Horizon&\#x27;s November 3 digest. This delay has raised alarms among users who depend on Ubuntu for stability and security in their systems.
+**「Concerns Over Ubuntu&\#x27;s Security Response Times」** Recent discussions have highlighted ongoing issues with Ubuntu&\#x27;s security response times, particularly following a critical remote code execution vulnerability \(CVE-2026-98432\) that remained unpatched for nearly three weeks as of early November 2026. This delay has raised alarms among users and organizations that depend on Ubuntu for secure operations, prompting some to consider alternative distributions.
 
-**「Impact on Users and Organizations」** The slow security response times have led some organizations, such as the commenter from $DAYJOB, to switch from Ubuntu to Debian for their server images, indicating a loss of trust in Ubuntu&\#x27;s ability to maintain security effectively.
+**「Impact on User Trust and Practices」** As a result of these concerns, some organizations have already transitioned their server images from Ubuntu to Debian, indicating a potential loss of trust in Ubuntu&\#x27;s security management. This shift could lead to a broader trend of users seeking more reliable alternatives for their Linux distributions.
 
-**「Community Reactions」** Community members expressed frustration over the slow response times, with one user noting that they have shifted their server images to Debian due to these concerns. Others highlighted the risks associated with relying on security updates that may not be timely.
+**「Community Reactions」** Community members have voiced their frustrations, with one user noting their organization&\#x27;s shift from Ubuntu to Debian due to unacceptable security response times. Others have expressed confusion over the delays, emphasizing the importance of timely patches for maintaining trust in Ubuntu as a user-friendly distribution.
 
 <details><summary>References</summary>
 <ul>
@@ -307,225 +287,217 @@ hackernews · gslin · Nov 25, 20:38 · [Discussion](https://news.ycombinator.co
 </ul>
 </details>
 
-**Tags**: `#Ubuntu`, `#security`, `#Linux`, `#community discussion`, `#system administration`
+**Tags**: `#Ubuntu`, `#security`, `#Linux`, `#community`, `#software engineering`
+
+---
+
+<a id="item-tech-news-14"></a>
+### [Deriving the Black-Scholes Model](https://david.alvarezrosa.com/posts/deriving-black-scholes/) ⭐️ 7.0/10
+
+The article provides a detailed derivation of the Black-Scholes model, a key concept in financial engineering and quantitative finance. It has generated significant community discussion regarding its assumptions and implications, highlighting both technical nuances and critiques of the model.
+
+hackernews · meysamazad · Nov 25, 17:18 · [Discussion](https://news.ycombinator.com/item?id=50644814)
+
+**「Background on Black-Scholes」** The Black-Scholes model is a mathematical model used for pricing options, which relies on the assumption of constant volatility and a log-normal distribution of asset prices. It is foundational in the fields of financial modeling and stochastic calculus.
+
+**「Impact on Financial Modeling」** The article&\#x27;s exploration of the Black-Scholes model encourages practitioners and students in finance to critically evaluate its assumptions, particularly regarding volatility and market behavior, which may lead to the adoption of more complex models in practice.
+
+**「Community Insights」** Community members have engaged in meaningful discussions, with some expressing skepticism about the model&\#x27;s assumptions, such as constant volatility and the use of Brownian motion, while others reflect on their educational experiences with the derivation of the model.
+
+**Tags**: `#Black-Scholes`, `#stochastic calculus`, `#financial modeling`, `#option pricing`, `#community discussion`
 
 ---
 
 <a id="item-tech-news-15"></a>
-### [Clojure&\#x27;s Core Bugs Discovered Through Lean Verification](https://s.conao3.com/blog/2026/e4f733) ⭐️ 7.0/10
+### [Qualcomm&\#x27;s Oryon 3 Chip Architecture Gains Attention](https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top) ⭐️ 7.0/10
 
-An analysis revealed previously unreported bugs in Clojure&\#x27;s core by using Lean for verification. This highlights the significance of formal methods in enhancing software reliability and correctness. The findings underscore the need for rigorous testing in programming languages.
+Qualcomm&\#x27;s Oryon 3 chip architecture has sparked significant community interest regarding its potential impact on hardware and software compatibility. This advancement is generating discussions about its implications for Linux and other operating systems, although it may not be considered groundbreaking. The architecture&\#x27;s details and performance metrics have not been fully disclosed yet.
 
-hackernews · encyclopedism · Nov 25, 14:56 · [Discussion](https://news.ycombinator.com/item?id=50642939)
+hackernews · wmf · Nov 26, 03:43 · [Discussion](https://news.ycombinator.com/item?id=50651158)
 
-**「Clojure and Formal Verification」** Clojure is a functional programming language that emphasizes immutability and concurrency. The use of formal verification methods, such as Lean, allows for rigorous checking of software correctness, which can uncover bugs that traditional testing methods might miss. This approach is becoming increasingly relevant as software systems grow in complexity and the demand for reliability increases.
+**「Qualcomm&\#x27;s Oryon Architecture」** Qualcomm&\#x27;s Oryon architecture, now in its third generation with the Oryon 3, is designed to compete with x86-64 processors by delivering high CPU performance. The Oryon cores are characterized by their ability to run at frequencies of 4 GHz and beyond, inheriting design philosophies from both Apple&\#x27;s Firestorm and Qualcomm&\#x27;s earlier Kryo architecture.
 
-**「Impact on Clojure Users」** The discovery of these bugs may affect developers relying on Clojure for critical applications, prompting a review of their code and potentially leading to updates or patches to address the identified issues.
+**「Impact on Users and Developers」** The Oryon 3 architecture could lead to improved compatibility and performance for Linux users, particularly those seeking alternatives to Windows. Developers may need to adapt their software to leverage the new architecture effectively.
 
-**「Community Reactions」** Some community members expressed skepticism about the findings, noting specific issues that could have been caught through simpler type checking. Others highlighted the relevance of such verification work, especially for widely used systems like Clojure in production environments.
-
-**Tags**: `#Clojure`, `#Lean`, `#software verification`, `#bug discovery`, `#program correctness`
-
----
-
-<a id="item-tech-news-16"></a>
-### [Critique of Automated Proof-Solving in AI and Its Software Industry Impact](https://arxiv.org/abs/2611.31286) ⭐️ 7.0/10
-
-The paper critiques the role of automated proof-solving in AI, arguing that it may lead to detrimental consequences for the software industry. It highlights concerns about the quality and reliability of proofs generated by AI, suggesting that these may not align with traditional mathematical reasoning. The discussion has sparked significant community debate regarding the implications of AI on mathematical practices and the future of software development.
-
-hackernews · pseudohadamard · Nov 25, 08:23 · [Discussion](https://news.ycombinator.com/item?id=50639929)
-
-**「Context on Automated Proof-Solving」** Automated proof-solving has gained traction in AI, particularly with tools like Lean, a proof assistant based on advanced type theory. This technology aims to enhance the reliability and security of software systems by providing formal verification of code, as seen in applications like AlphaProof Code, which verifies security properties at the machine-code level. The ongoing debate centers around the implications of these advancements for mathematical reasoning and the software industry.
-
-**「Consequences for the Software Industry」** The critique raises concerns for software developers about the reliability of AI-generated proofs, which could affect the trustworthiness of automated systems in critical applications. This may lead to hesitance in adopting AI solutions for tasks that require high assurance, such as security and reliability in software engineering.
-
-**「Community Perspectives」** Community comments reflect a divide in opinion, with some arguing that AI&\#x27;s rapid advancements in generating proofs could lead to a significant shift in mathematical understanding, while others express skepticism about the quality of these proofs. Users like &\#x27;armchairhacker&\#x27; emphasize the practical benefits of automated proofs for reliability, contrasting with concerns raised by others about the potential pitfalls of relying on AI-generated results.
+**「Community Insights」** Community members expressed a desire for high-quality hardware that runs Linux, with some noting the importance of thorough technical analysis in understanding new architectures. There is also a call for comparisons between devices using Oryon 3 and existing products like MacBooks.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Lean_%28proof_assistant%29">Lean ( proof assistant) - Wikipedia</a></li>
-<li><a href="https://deepmind.google/documents/36/Formal_Verification_of_Signal_4.pdf">AlphaProof Code: Verifying Signal’s Security at</a></li>
-<li><a href="https://google-deepmind.github.io/code-verification/">AlphaProof Code: Verifying Signal’s Security at the Machine-Code Level</a></li>
+<li><a href="https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top">Qualcomm ’s Oryon 3 Reaches the Top - by Chester Lam</a></li>
+<li><a href="https://chipsandcheese.com/p/qualcomms-oryon-core-a-long-time-in-the-making">Qualcomm ’s Oryon Core: A Long Time in the Making</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#automated proofs`, `#software engineering`, `#community debate`, `#mathematics`
+**Tags**: `#Qualcomm`, `#Oryon 3`, `#chip architecture`, `#Linux`, `#hardware`
+
+---
+
+<a id="item-tech-news-16"></a>
+### [Polynomial Hirsch Conjecture Proven False](https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf) ⭐️ 7.0/10
+
+The polynomial Hirsch conjecture has been proven false, which affects the understanding of linear programming and optimization algorithms. This result indicates that there is no polynomial-time simplex algorithm, challenging previous assumptions about the efficiency of the simplex method in practice.
+
+hackernews · acossta · Nov 25, 17:34 · [Discussion](https://news.ycombinator.com/item?id=50644980)
+
+**「Understanding the Hirsch Conjecture」** The polynomial Hirsch conjecture is a refinement of the original Hirsch conjecture, which posited that the diameter of a polytope could be bounded by a polynomial function of its number of faces. The original conjecture was disproven in 2010, leading to ongoing discussions about the implications for linear programming and optimization algorithms. This recent finding further clarifies the limitations of polynomial bounds in this context.
+
+**「Impact on Optimization Algorithms」** This finding suggests that researchers and practitioners in linear programming may need to reconsider the theoretical foundations of optimization algorithms, potentially leading to new approaches or improvements in algorithm design.
+
+**「Community Reactions」** Community members expressed that this result feels like a continuation of previous work, with some noting that the original conjecture was disproven in 2010. There is a sense that while significant, this finding may not represent a groundbreaking shift in the field.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/">2026-09-19 — Exploration of a Proof for Conway&#x27;s Conjecture</a></li>
+<li><a href="https://the-decoder.com/openai-reportedly-closes-in-on-solving-the-hodge-conjecture-its-second-millennium-prize-problem/">2026-09-18 — OpenAI reportedly closes in on solving the Hodge conjecture</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#mathematics`, `#optimization`, `#linear programming`, `#Hirsch conjecture`, `#theoretical computer science`
 
 ---
 
 <a id="item-tech-news-17"></a>
-### [PenGPT: A Generative Transformer for Handwriting and Sketches](https://greydanus.github.io/2026/11/12/pengpt/) ⭐️ 7.0/10
+### [Unreported Bugs Found in Clojure&\#x27;s Core Using Lean Verification](https://s.conao3.com/blog/2026/e4f733) ⭐️ 7.0/10
 
-PenGPT is a newly introduced generative transformer model specifically designed for handwriting and sketches. It emphasizes the critical role of data quality in training AI models, suggesting that a focus on clean datasets can yield better results than complex architectures. This model is relevant for developers and researchers in the AI and machine learning fields.
+The article discusses the discovery of unreported bugs in Clojure&\#x27;s core library through the use of Lean verification. This finding has generated significant community interest and discussion regarding software correctness and reliability. The verification process highlights potential issues that may not have been previously documented.
 
-hackernews · smusamashah · Nov 25, 00:54 · [Discussion](https://news.ycombinator.com/item?id=50637056)
+hackernews · encyclopedism · Nov 25, 14:56 · [Discussion](https://news.ycombinator.com/item?id=50642939)
 
-**「Generative Transformers in AI」** Generative transformers are a class of AI models designed to create new content, such as text, images, or in this case, handwriting and sketches. Previous developments in this area have highlighted the importance of data quality in training these models, as seen in other projects that emphasize effective dataset construction over complex model architectures.
+**「Clojure and Lean Verification」** Clojure is a modern Lisp dialect that emphasizes functional programming and immutability. Lean is a proof assistant and programming language that allows for formal verification of mathematical proofs and software correctness. The use of Lean to verify Clojure&\#x27;s core indicates a growing interest in ensuring the reliability of programming languages through formal methods.
 
-**「Consequences for AI Development」** The emphasis on data quality over architectural complexity may encourage developers to prioritize dataset curation in their AI projects, potentially leading to more effective and efficient model training practices.
+**「Impact on Clojure Users」** The identification of these bugs may lead to increased scrutiny of Clojure&\#x27;s core functionality, prompting developers to address these issues and improve the overall reliability of the language. Users may need to be cautious when relying on certain core functions until these bugs are resolved.
 
-**「Community Insights」** Community members highlighted the importance of data quality in AI development, with one commenter reflecting on their tendency to overcomplicate solutions instead of focusing on clean data. The author also noted that their approach this time was to invest effort into data rather than complex model architectures.
+**「Community Reactions」** Community members have expressed mixed opinions, with some pointing out specific issues in the reported bugs and others emphasizing the importance of such verification efforts for widely-used languages like Clojure. There is a call for more rigorous testing and verification practices in the development community.
 
-**Tags**: `#AI`, `#Machine Learning`, `#Generative Models`, `#Data Quality`
+**Tags**: `#Clojure`, `#Lean`, `#Software Verification`, `#Programming Languages`, `#Bug Discovery`
 
 ---
 
 <a id="item-tech-news-18"></a>
-### [Security Vulnerability in US Treasury Subdomains Exposed](https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each) ⭐️ 7.0/10
+### [Advancement in Unconditional Integer Factorization for Cryptography](https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization) ⭐️ 7.0/10
 
-A security vulnerability has been identified in US Treasury subdomains, allowing attackers to take control of these domains for as little as $3. This issue highlights significant concerns regarding DNS records and HTTPS certificate provisioning, prompting extensive community discussion about the security practices of cloud providers.
+A recent article details a significant advancement in unconditional integer factorization, achieving subexponential time complexity. This development is particularly relevant to cryptography, although it confirms that RSA encryption remains secure against current threats. The findings suggest implications for cryptographic modeling but do not pose an immediate risk to existing public-key infrastructures.
 
-hackernews · negura · Nov 25, 04:27 · [Discussion](https://news.ycombinator.com/item?id=50638478)
+hackernews · \_alternator\_ · Nov 26, 04:59 · [Discussion](https://news.ycombinator.com/item?id=50651627)
 
-**「Understanding DNS and HTTPS Vulnerabilities」** The article highlights a security vulnerability related to the US Treasury subdomains, which can be exploited due to weaknesses in DNS records and HTTPS certificate provisioning. This issue underscores the importance of robust security practices in managing domain names and SSL certificates, particularly for government entities.
+**「Understanding Integer Factorization」** Integer factorization is the process of decomposing an integer into a product of smaller integers, specifically prime numbers. This problem is fundamental to cryptography, particularly in the security of RSA encryption, which relies on the difficulty of factoring large integers. Recent advancements in algorithms have aimed to improve the efficiency of this process, with some achieving subexponential time complexity.
 
-**「Impact on Security Practices」** The vulnerability raises serious concerns for organizations relying on cloud services, as it exposes potential weaknesses in DNS management and HTTPS certificate issuance, necessitating a reevaluation of security protocols to prevent domain takeovers.
+**「Impact on Cryptographic Security」** The advancement in integer factorization may influence future cryptographic modeling, as it reinforces existing assumptions about adversarial capabilities. However, current RSA encryption remains unaffected, allowing organizations to maintain their existing security protocols without immediate concern.
 
-**「Community Insights」** Community members expressed concerns about the implications of HTTPS certificate provisioning, with discussions on whether extended validation requirements should be implemented for government domains to enhance security.
+**「Community Reactions」** Community members expressed a mix of excitement and skepticism regarding the significance of the advancement. Some noted that similar factoring techniques have been known for decades, while others questioned the practical implications of the new findings.
 
-**Tags**: `#security`, `#DNS`, `#HTTPS`, `#vulnerability`, `#cloud computing`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Integer_factorization">Integer factorization - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#cryptography`, `#integer factorization`, `#security`, `#algorithm`, `#community discussion`
 
 ---
 
 <a id="item-tech-news-19"></a>
-### [US Chip Restrictions Impacting Chinese AI Labs&\#x27; Progress](https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/) ⭐️ 7.0/10
+### [Scott Aaronson&\#x27;s Insights on Complexity Theory](https://simonwillison.net/2026/Nov/25/scott-aaronson/) ⭐️ 7.0/10
+
+Scott Aaronson&\#x27;s recent reflections suggest that advancements in complexity theory will lead to a profound expansion of mathematical understanding, akin to historical scientific breakthroughs. He compares this evolution to the transformative moments of van Leeuwenhoek and Galileo, indicating that we are on the brink of uncovering a vast new realm of mathematical truths previously obscured.
+
+rss · Simon Willison · Nov 25, 23:26
+
+**「Context of Complexity Theory」** Complexity theory studies the resources required for solving computational problems, and it has significant implications for fields like computer science and artificial intelligence. Aaronson&\#x27;s insights build on ongoing research that seeks to deepen our understanding of these complexities and their mathematical foundations.
+
+**Tags**: `#complexity theory`, `#mathematics`, `#AI`, `#generative AI`
+
+---
+
+<a id="item-tech-news-20"></a>
+### [US Chip Restrictions Impacting Chinese AI Development](https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/) ⭐️ 7.0/10
 
 US chip-access restrictions and anti-distillation measures are reportedly slowing the progress of Chinese AI labs, including Deepseek, Moonshot AI, and Alibaba. Researchers at Deepseek estimate they are currently up to nine months behind US AI models, with the gap continuing to widen due to limited access to Nvidia hardware and other resources.
 
 rss · The Decoder · Nov 25, 20:51
 
-**「Impact of US Restrictions on Chinese AI Development」** Recent US chip-access restrictions and anti-distillation measures have been implemented to limit the capabilities of Chinese AI labs, such as Deepseek and Moonshot AI. These measures are reportedly causing significant delays in their research and development efforts, with estimates suggesting that these labs are now up to nine months behind their US counterparts.
+**「Background on US Chip Restrictions」** The US has implemented chip-access restrictions and anti-distillation measures aimed at limiting the technological capabilities of Chinese AI labs. These measures are part of broader geopolitical strategies to control the flow of advanced technology and maintain a competitive edge in AI development.
 
-**「Impact on AI Development」** The restrictions are likely to hinder the competitiveness of Chinese AI labs in the global market, potentially affecting their ability to innovate and develop advanced AI technologies.
+**「Impact on AI Labs」** The restrictions are significantly hindering the development capabilities of Chinese AI labs, potentially affecting their competitiveness in the global AI landscape and innovation pace.
 
-**Tags**: `#AI`, `#Geopolitics`, `#Chip Technology`, `#Research Impact`
-
----
-
-<a id="item-tech-news-20"></a>
-### [OpenAI Introduces &\#x27;Private Inference&\#x27; for Enhanced Data Privacy](https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/) ⭐️ 7.0/10
-
-OpenAI is testing a feature called &\#x27;Private Inference&\#x27; that allows companies to utilize its AI models without OpenAI accessing their data. This initiative aims to enhance trust among businesses, particularly for sensitive applications, by ensuring data privacy during model queries.
-
-rss · The Decoder · Nov 25, 18:22
-
-**「Background on Data Privacy in AI」** The introduction of &\#x27;Private Inference&\#x27; reflects a growing concern over data privacy in AI systems, as companies increasingly seek assurances that their sensitive information will remain confidential when using AI technologies.
-
-**Tags**: `#OpenAI`, `#Data Privacy`, `#AI Models`, `#Machine Learning`, `#Technology News`
+**Tags**: `#AI`, `#Geopolitics`, `#Chip Technology`, `#China`, `#US Policy`
 
 ---
 
 <a id="item-tech-news-21"></a>
-### [Deepmind Uses AI Agents for Gemini Experiments, Recursive Self-Improvement Still Elusive](https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/) ⭐️ 7.0/10
+### [OpenAI Introduces &\#x27;Private Inference&\#x27; for Enhanced Data Privacy](https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/) ⭐️ 7.0/10
 
-Google Deepmind has begun utilizing AI agents to autonomously run experiments for its upcoming Gemini models. Despite this advancement, research chief Koray Kavukcuoglu indicates that the lab is still far from achieving recursive self-improvement, a key goal in AI development. To ensure oversight, the internal thought processes of these AI agents are intentionally left untrained for review.
+OpenAI is launching a new feature called &\#x27;Private Inference&\#x27; that enables companies to utilize its AI models without OpenAI accessing their data. This feature aims to enhance privacy and security for organizations handling sensitive information, allowing them to trust OpenAI with their data processing needs.
 
-rss · The Decoder · Nov 25, 13:23
+rss · The Decoder · Nov 25, 18:22
 
-**「Background on AI Development」** The use of AI agents in experiments marks a significant step in Deepmind&\#x27;s research efforts, particularly in the context of developing advanced AI models like Gemini. Recursive self-improvement refers to the ability of an AI to enhance its own capabilities autonomously, a concept that remains a challenging goal in the field of artificial general intelligence \(AGI\).
+**「Background」** The introduction of &\#x27;Private Inference&\#x27; reflects a growing demand for privacy-focused AI solutions, particularly as companies increasingly rely on AI for sensitive tasks. This feature is part of OpenAI&\#x27;s efforts to address concerns about data security and user trust in AI technologies.
 
-**「Impact on AI Research」** The implementation of AI agents in Deepmind&\#x27;s experiments could streamline the research process and lead to faster iterations in model development. However, the ongoing challenges in achieving recursive self-improvement highlight the complexities involved in advancing AGI.
-
-**Tags**: `#AI`, `#Deepmind`, `#Gemini`, `#AGI`, `#Machine Learning`
+**Tags**: `#OpenAI`, `#AI Privacy`, `#Data Security`, `#Machine Learning`
 
 ---
 
 <a id="item-tech-news-22"></a>
-### [Anthropic Study Reveals Barriers to AI Adoption in the Workplace](https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/) ⭐️ 7.0/10
+### [Enhancements in Nemotron 3.5: Open Data and Faster Inference](https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin) ⭐️ 7.0/10
 
-A study by Anthropic examined nearly 300 AI deployments across 58 US companies and found that outdated company structures and employee resistance are significant barriers to AI adoption, rather than the tools themselves. Approximately 20% of these deployments fail to deliver any business value due to heavy review workloads and internal bottlenecks.
+The Hugging Face Blog article details improvements in the Nemotron 3.5 model, highlighting its use of open data, enhanced fine-tuning capabilities, and increased inference speeds. These advancements aim to make the model more efficient and accessible for developers and researchers in the AI and machine learning fields.
 
-rss · The Decoder · Nov 25, 13:14
+rss · Hugging Face Blog · Nov 26, 05:05
 
-**「Context on AI Adoption Challenges」** Anthropic&\#x27;s recent study analyzed nearly 300 AI deployments across 58 U.S. companies, revealing that significant barriers to AI adoption stem from outdated organizational structures and employee resistance rather than the technology itself. This builds on previous findings that highlight the complexities of integrating AI into existing business frameworks.
+**「Background on Nemotron 3.5」** The Nemotron 3.5 model is part of NVIDIA&\#x27;s family of open-source AI models designed for efficiency and accuracy in specialized AI applications. It utilizes a compact architecture that enhances document processing capabilities, enabling faster inference and improved data structuring for tasks like retrieval-augmented generation \(RAG\).
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.anthropic.com/research">Research \ Anthropic</a></li>
+<li><a href="https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin">Building on Nemotron 3 . 5 Parse: Open Data , Fine - Tuning , and Faster...</a></li>
+<li><a href="https://developer.nvidia.com/topics/ai/nemotron">Nemotron AI Models | NVIDIA Developer</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI adoption`, `#workplace challenges`, `#business value`, `#Anthropic study`
+**Tags**: `#AI`, `#Machine Learning`, `#Open Source`, `#NLP`
 
 ---
 
 <a id="item-tech-news-23"></a>
-### [PrismML Compresses 54 GB Language Model to 5.9 GB Using Ternary Weights](https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb/) ⭐️ 7.0/10
+### [Guide to Building and Training Multi-Agent Systems](https://huggingface.co/blog/training-swarms) ⭐️ 7.0/10
 
-PrismML has introduced Ternary Bonsai 2.5 27B, a language model that compresses a 54 GB model down to just 5.9 GB by limiting each weight to three possible values. This innovative approach aims to enhance model efficiency and deployment capabilities in AI applications.
+The Hugging Face Blog has published a comprehensive guide on building, training, and evaluating multi-agent systems, emphasizing their importance in AI development. This guide provides practical insights and methodologies for practitioners looking to implement these systems effectively.
 
-rss · The Decoder · Nov 25, 11:51
+rss · Hugging Face Blog · Nov 26, 00:00
 
-**「Advancements in Model Efficiency」** This release builds on previous efforts in model compression, where reducing the size of language models has been a key focus in AI research to improve deployment and performance.
+**「Background」** Multi-agent systems involve multiple interacting agents that can work collaboratively or competitively to achieve specific goals. This approach is increasingly relevant in AI and software engineering as it allows for more complex problem-solving and decision-making processes.
 
-**Tags**: `#AI`, `#machine learning`, `#language models`, `#model compression`, `#technology`
+**Tags**: `#multi-agent systems`, `#AI`, `#software engineering`, `#Hugging Face`, `#training`
 
 ---
 
 <a id="item-tech-news-24"></a>
-### [Ethical Boundaries for AI Agents Explored by Scientists](https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents) ⭐️ 7.0/10
+### [Anthropic Releases 7 Free Repositories for Claude Code Setups](https://github.com/anthropics/claude-code-playground) ⭐️ 7.0/10
 
-The article discusses the ethical boundaries that scientists are contemplating regarding AI agents. It highlights the significant and timely nature of these considerations within the field of artificial intelligence, emphasizing the need for careful deliberation as AI technology continues to evolve.
+Anthropic has released seven free repositories on GitHub for Claude Code setups, aimed at developers and researchers. These include resources such as the Claude Code Playground, skills for handling various file types, and tutorials for using the platform. The repositories are designed to enhance user experience and facilitate the development of AI applications, although they are not official products and may change over time.
 
-rss · Hugging Face Blog · Nov 25, 18:52
+telegram · gptupdates · Nov 26, 12:21
 
-**「Ethical considerations in AI development」** The discussion around ethical boundaries for AI agents is increasingly relevant as these technologies evolve. Recent literature highlights key ethical principles such as transparency, justice, and accountability that are essential in guiding the development and deployment of AI agents, particularly those capable of autonomous decision-making in real-world scenarios.
+**「Background on Claude Code」** Claude Code is a tool developed by Anthropic that allows users to create and manage AI applications. The release of these repositories provides practical resources for users to better utilize Claude Code&\#x27;s capabilities.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://link.springer.com/article/10.1007/s43681-026-01027-0">Ethical perspectives on AI Agents and Agentic AI - Springer</a></li>
-<li><a href="https://link.springer.com/chapter/10.1007/978-981-95-2909-4_17">Ethical Considerations in AI Agents | Springer Nature Link</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI Ethics`, `#Artificial Intelligence`, `#Hugging Face`, `#AI Agents`, `#Technology News`
+**Tags**: `#AI`, `#Open Source`, `#Software Engineering`, `#Machine Learning`
 
 ---
 
 <a id="item-tech-news-25"></a>
-### [Indic Voice Agent Developed with CUGA](https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga) ⭐️ 7.0/10
+### [Yandex DataLens Enhances AI Agents for Comprehensive Data Tasks](https://kod.ru/datalens-platform-ii-agenty) ⭐️ 7.0/10
 
-The article discusses the development of an Indic voice agent using CUGA, which enhances natural language processing capabilities for diverse language speakers. This advancement aims to improve accessibility and interaction for users who communicate in Indic languages, showcasing significant progress in AI technology.
+Yandex B2B Tech has updated its DataLens platform, enabling AI agents to automate tasks throughout the entire data workflow, from connecting data sources to creating dashboards. This enhancement allows agents to autonomously select connection methods, gather data, process it, and prepare visualizations, significantly reducing manual work by 2-3 times. Early access has been granted to over 50 companies, with a public SaaS release scheduled for December.
 
-rss · Hugging Face Blog · Nov 25, 10:22
+telegram · gptupdates · Nov 26, 12:51
 
-**「Background on CUGA and Indic Voice Agents」** IBM Research has developed an open-source framework called CUGA \(ConfigUrable Generalist Agent\) designed to facilitate the creation of voice agents that can interact in multiple languages. This framework aims to enhance accessibility for speakers of regional languages in India, allowing them to engage with digital content that is primarily available in English.
+**「Background on DataLens AI Agents」** Yandex B2B Tech&\#x27;s DataLens platform previously allowed for basic data analytics but has now integrated AI agents that automate the entire data processing workflow. This enhancement enables users to connect data sources, process data, and create visualizations with minimal manual intervention, significantly improving efficiency in analytics tasks.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.explainx.ai/blog/ibm-cuga-indic-voice-agent-farm-assistant-november-2026">IBM CUGA Indic Voice Agent: Build Multilingual RAG (2026 ...</a></li>
-<li><a href="https://judyailab.com/en/posts/ai-news-20261125-an-indic-voice-agent-with-cuga/">An Indic Voice Agent Built with CUGA | Judy AI Lab</a></li>
+**「Impact on Users」** The automation capabilities of AI agents in DataLens will streamline analytics workflows for data professionals, allowing for faster decision-making and reduced manual data preparation efforts.
 
-</ul>
-</details>
-
-**Tags**: `#AI`, `#Natural Language Processing`, `#Voice Technology`, `#Software Engineering`
-
----
-
-<a id="item-tech-news-26"></a>
-### [Rise of Looped Transformers in AI](https://www.reddit.com/r/LocalLLaMA/comments/1wz00vv/microsoft_confirms_openai_has_been_using_looped/) ⭐️ 7.0/10
-
-This year has seen significant advancements in looped transformers, with models like GPT-6 and others adopting this architecture. Recent research, including the Loopback Transformer and OrbitLM, demonstrates that looped models can achieve higher accuracy while being more memory-efficient compared to traditional dense models. Notably, LoopLM improved accuracy on the GSM8K dataset by 14.2 points over its non-looped counterpart.
-
-telegram · gptupdates · Nov 25, 21:11
-
-**「Understanding Looped Transformers」** Looped transformers are a recent advancement in AI that optimize model performance by applying shared transformer blocks multiple times, allowing for deeper reasoning without a proportional increase in parameters. This approach has gained traction in various models, including GPT-6 and others, as researchers explore ways to enhance efficiency and effectiveness in language processing tasks.
-
-**「Impact on AI Development」** The emergence of looped transformers allows for training on massive datasets with reduced computational costs, making advanced AI models more accessible. This shift could lead to broader adoption of AI technologies in environments with limited resources.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://arxiv.org/abs/2609.37379">[2609.37379] Looped Transformers as Optimizers - arXiv.org</a></li>
-<li><a href="https://arxiv.org/abs/2607.13491">[2607.13491] DeepLoop: Depth Scaling for Looped Transformers</a></li>
-<li><a href="https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and">GPT-6 Astra, Looped Transformers, and Hidden Reasoning</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#Machine Learning`, `#Transformers`, `#Research`, `#Software Engineering`
+**Tags**: `#AI`, `#Data Analytics`, `#Software Engineering`, `#Automation`
 
 ---
