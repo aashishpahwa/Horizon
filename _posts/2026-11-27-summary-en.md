@@ -5,38 +5,41 @@ date: 2026-11-27
 lang: en
 ---
 
-> From 82 items, 14 important content pieces were selected
+> From 76 items, 15 important content pieces were selected
 
 ---
 
 **Technology News**
-1. [FCC Approves SpaceX&\#x27;s Deployment of 1 Million Starmind Satellites](#item-tech-news-1) ⭐️ 8.0/10
-2. [Microsoft reveals ARTEX AI framework used by state-backed hackers for cyberattacks](#item-tech-news-2) ⭐️ 8.0/10
-3. [Next-Gen Bionic Hands Enable Users to Feel Pressure](#item-tech-news-3) ⭐️ 8.0/10
-4. [New PyTorch Library stablekl Improves KL-Divergence Calculation](#item-tech-news-4) ⭐️ 8.0/10
-5. [Release of llama.cpp v1.1.0 Introduces New Models and API Changes](#item-tech-news-5) ⭐️ 7.0/10
-6. [Release of ggerganov/llama.cpp b12755 Introduces hy\_v4\_flash Feature](#item-tech-news-6) ⭐️ 7.0/10
-7. [AMD-Specific Fork of llama.cpp Optimizes AI Performance](#item-tech-news-7) ⭐️ 7.0/10
-8. [New Method for Background Independent Quantization of Gravity Proposed](#item-tech-news-8) ⭐️ 7.0/10
-9. [Impact of Rising Inlet Temperatures on Data Center Cooling Systems](#item-tech-news-9) ⭐️ 7.0/10
-10. [New Approach to Integer Factorization Achieves Subexponential Time](#item-tech-news-10) ⭐️ 7.0/10
-11. [AI&\#x27;s Ability to Generate Mathematical Proofs Raises Economic and Cryptographic Concerns](#item-tech-news-11) ⭐️ 7.0/10
-12. [Nvidia Halts Server Shipments to Southeast Asia Due to US Export Controls](#item-tech-news-12) ⭐️ 7.0/10
-13. [Enhancements in Nemotron 3.5: Open Data and Fine-Tuning](#item-tech-news-13) ⭐️ 7.0/10
-14. [New Vulnerability Scanner for AI-Generated Code Enhances Security](#item-tech-news-14) ⭐️ 7.0/10
+1. [FCC Approves SpaceX to Launch 1 Million Starmind Satellites by 2040](#item-tech-news-1) ⭐️ 8.0/10
+2. [InclusionAI Releases Ming-Image-0.2-Design with 6B Parameters](#item-tech-news-2) ⭐️ 8.0/10
+3. [Demis Hassabis on the Nature of True AGI](#item-tech-news-3) ⭐️ 8.0/10
+4. [AMD-Specific Fork of llama.cpp Released](#item-tech-news-4) ⭐️ 7.0/10
+5. [European Commission Prioritizes Browser Competition Under Digital Markets Act](#item-tech-news-5) ⭐️ 7.0/10
+6. [The Need for a Formally Verifiable Mainstream Programming Language](#item-tech-news-6) ⭐️ 7.0/10
+7. [Introduction to Uncertainty in Machine Learning](#item-tech-news-7) ⭐️ 7.0/10
+8. [AI Transforms Self-Hosting with Ease and New Security Challenges](#item-tech-news-8) ⭐️ 7.0/10
+9. [Show HN: Three Linux VMs in a browser tab, each running a different browser](#item-tech-news-9) ⭐️ 7.0/10
+10. [AI&\#x27;s Ability to Produce Mathematical Proofs Raises Economic and Existential Concerns](#item-tech-news-10) ⭐️ 7.0/10
+11. [New Video Generation Capabilities with Trainium3 and LTX-2.5](#item-tech-news-11) ⭐️ 7.0/10
+12. [DeepSeek V4.1 Flash 1017 Released with One Million Token Context](#item-tech-news-12) ⭐️ 7.0/10
+13. [Meshy AI Releases Version 7.5 with 50x 3D Model Optimization](#item-tech-news-13) ⭐️ 7.0/10
+14. [Chinese AI Labs Shift to Google and Meta Models Amid US Chip Restrictions](#item-tech-news-14) ⭐️ 7.0/10
+15. [AI Agent Proposes New Integer Factorization Theorem](#item-tech-news-15) ⭐️ 7.0/10
 
 ---
 
 ## Technology News
 
 <a id="item-tech-news-1"></a>
-### [FCC Approves SpaceX&\#x27;s Deployment of 1 Million Starmind Satellites](https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/) ⭐️ 8.0/10
+### [FCC Approves SpaceX to Launch 1 Million Starmind Satellites by 2040](https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/) ⭐️ 8.0/10
 
-The FCC has authorized SpaceX to deploy up to 1 million Starmind satellites for AI data processing, with the first launches planned for 2027 and full operation expected by 2040. This initiative represents a significant advancement in orbital technology, aiming to establish satellites as orbital data centers for AI applications.
+The FCC has authorized SpaceX to deploy up to 1 million Starmind satellites for AI data processing, with the first launches planned for 2027 and full operation expected by 2040. This initiative represents a significant advancement in orbital technology, aiming to establish orbital data centers for artificial intelligence applications.
 
 rss · The Decoder · Nov 26, 13:41
 
-**「Background on SpaceX&\#x27;s Satellite Deployment」** The FCC&\#x27;s recent approval allows SpaceX to deploy a constellation of up to 1 million Starmind satellites, marking the first authorization in U.S. history for such a large-scale deployment of orbital data centers. This initiative aims to enhance AI data processing capabilities in space, with the first launches planned for 2027 and full operational capacity expected by 2040.
+**「FCC Approval for Satellite Deployment」** The FCC&\#x27;s recent authorization allows SpaceX to deploy a constellation of up to 1 million Starmind satellites, marking the first approval of its kind for orbital data centers in the U.S. This decision reflects a growing interest in utilizing space for advanced data processing capabilities, particularly in the realm of artificial intelligence.
+
+**「Impact on AI Infrastructure」** This approval could lead to a new paradigm in AI data processing, potentially enhancing the capabilities of AI applications by leveraging orbital data centers, although costs are expected to remain higher than traditional ground-based data centers for the foreseeable future.
 
 <details><summary>References</summary>
 <ul>
@@ -51,95 +54,53 @@ rss · The Decoder · Nov 26, 13:41
 ---
 
 <a id="item-tech-news-2"></a>
-### [Microsoft reveals ARTEX AI framework used by state-backed hackers for cyberattacks](https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks/) ⭐️ 8.0/10
+### [InclusionAI Releases Ming-Image-0.2-Design with 6B Parameters](https://huggingface.co/inclusionAI/Ming-Image-0.2-Design) ⭐️ 8.0/10
 
-Microsoft has disclosed the technical architecture of the ARTEX AI framework, which has been operational since July 2026 and is utilized by state-backed hackers from China and North Korea, as well as criminal organizations, to automate cyberattacks with minimal human intervention. The framework employs specialized agents, raising significant concerns for cybersecurity defenses, which Microsoft suggests could be mitigated through deception techniques like honeypots, although their effectiveness against adaptive agents remains uncertain.
+InclusionAI has launched the second version of Ming-Image-0.2-Design, featuring a 6-billion parameter DiT transformer. This model has achieved the top ranking among open-weight models in the Artificial Analysis AA-Image-T2I v2.1 leaderboard with a score of 1095 Elo, and it is designed for complex visual compositions, typography, and UI/UX layouts. The model is available under the MIT license and has been integrated into ComfyUI with support for various formats.
 
-rss · The Decoder · Nov 26, 11:30
+telegram · gptupdates · Nov 27, 09:33
 
-**「Background on ARTEX AI Framework」** The ARTEX AI framework, launched in July 2026, is an open-source penetration testing tool designed to automate various offensive security tasks using AI models. It has been adopted by state-backed hackers and criminal organizations to enhance their cyberattack capabilities, significantly reducing the need for human intervention in executing complex attacks.
+**「Background on Ming-Image-0.2-Design」** The Ming-Image series from InclusionAI focuses on AI-driven image generation, with the first version, Ming-Image-0.1-Design, emphasizing text rendering and graphic design outputs. The newly released Ming-Image-0.2-Design builds on this foundation, enhancing capabilities for complex visual compositions and structured prompts, making it particularly suitable for design applications.
+
+**「Impact on AI Practitioners」** The release of Ming-Image-0.2-Design provides AI practitioners and software engineers with advanced tools for generating high-quality images tailored for design applications, enhancing their ability to create complex visual content efficiently.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/">AI-driven, large-scale nation-state campaign using ARTEX ...</a></li>
+<li><a href="https://huggingface.co/inclusionAI/Ming-Image-0.2-Design">inclusionAI / Ming - Image - 0 . 2 - Design · Hugging Face</a></li>
+<li><a href="https://github.com/inclusionAI/Ming-Image">GitHub - inclusionAI / Ming - Image · GitHub</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#cybersecurity`, `#AI`, `#automation`, `#cyberattacks`, `#Microsoft`
+**Tags**: `#AI`, `#machine learning`, `#open source`, `#image generation`, `#software engineering`
 
 ---
 
 <a id="item-tech-news-3"></a>
-### [Next-Gen Bionic Hands Enable Users to Feel Pressure](https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/) ⭐️ 8.0/10
+### [Demis Hassabis on the Nature of True AGI](https://telegram.me/gptupdates/42353) ⭐️ 8.0/10
 
-A new generation of bionic hands has been developed that allows users to feel pressure, marking a significant advancement in prosthetic technology. This innovation connects the prosthetic to the user&\#x27;s nerves, enabling a sense of touch that enhances the ability to handle delicate objects. This technology represents a major leap forward in the field of prosthetics and human-computer interaction.
+Demis Hassabis asserts that true artificial general intelligence \(AGI\) should be able to invent new concepts, such as new physics, rather than merely excelling at predefined tasks like games or exams. He emphasizes that current AI systems, including advanced models like AlphaGo, lack the capability to create entirely new frameworks or concepts, which he believes is essential for genuine AGI.
 
-rss · MIT Tech Review · Nov 26, 09:59
+telegram · gptupdates · Nov 27, 12:52
 
-**「Advancements in Prosthetic Technology」** Recent developments in prosthetic technology have focused on improving user experience by integrating sensory feedback mechanisms. This new bionic hand technology builds on previous efforts to create more functional and intuitive prosthetics.
+**「Understanding AGI」** Artificial general intelligence \(AGI\) refers to a type of AI that can understand, learn, and apply intelligence across a wide range of tasks, similar to human cognitive abilities. The distinction between AGI and narrow AI, which excels in specific tasks, is crucial in discussions about the future of AI development.
 
-**Tags**: `#bionic technology`, `#prosthetics`, `#human-computer interaction`, `#medical technology`
+**Tags**: `#AGI`, `#AI`, `#machine learning`, `#innovation`, `#technology`
 
 ---
 
 <a id="item-tech-news-4"></a>
-### [New PyTorch Library stablekl Improves KL-Divergence Calculation](https://arxiv.org/abs/2611.30835) ⭐️ 8.0/10
+### [AMD-Specific Fork of llama.cpp Released](https://devnull.land/amd-specific-llama-cpp) ⭐️ 7.0/10
 
-A new library called stablekl has been introduced for PyTorch, which enhances the calculation of KL-divergence by addressing significant numerical stability issues. The library rewrites the standard KL-divergence formulas to avoid subtracting large numbers, which can lead to rounding errors, and instead sums non-negative differences directly. This improvement reportedly eliminates 97% to 100% of major errors in the official PyTorch code across various analytical families of distributions.
-
-telegram · gptupdates · Nov 26, 22:05
-
-**「Understanding KL-Divergence in PyTorch」** KL-divergence is a measure of how one probability distribution diverges from a second, expected probability distribution. In PyTorch, previous implementations faced numerical stability issues, particularly when calculating small divergences, leading to inaccuracies in machine learning models. The introduction of the stablekl library aims to resolve these issues by providing rewritten formulas that enhance the stability and accuracy of KL-divergence calculations.
-
-**「Impact on Machine Learning Models」** The stablekl library&\#x27;s enhancements to KL-divergence calculations can lead to more accurate metrics in machine learning models, particularly when evaluating compressed models and ablations. However, users should be aware that the unoptimized Python code may slow down GPU performance and does not significantly change standard training processes when starting with mismatched weights.
-
-**Tags**: `#KL-divergence`, `#PyTorch`, `#numerical stability`, `#machine learning`, `#software engineering`
-
----
-
-<a id="item-tech-news-5"></a>
-### [Release of llama.cpp v1.1.0 Introduces New Models and API Changes](https://github.com/ggml-org/llama.cpp/releases/tag/v1.1.0) ⭐️ 7.0/10
-
-The release of llama.cpp v1.1.0 introduces several new models, including the Inkling 2 family and Domyn Edge 4B, along with significant API changes such as the deprecation of the old \`llama\_batch\` API in favor of \`llama\_batch\_ext\`. This version also enhances audio processing capabilities with a variety of new TTS and audio models, and updates the \`ggml\` library to version 1.1.1. These updates are particularly relevant for developers in AI and machine learning.
-
-github · github-actions\[bot\] · Nov 26, 09:16
-
-**「Background Information」** Previous versions of llama.cpp have focused on improving model performance and expanding capabilities in AI applications. The introduction of new models and API changes in version 1.1.0 builds on these earlier developments, aiming to provide more robust tools for developers.
-
-**「User Impact」** Developers using llama.cpp will need to adapt their code to accommodate the new \`llama\_batch\_ext\` API, as the old \`llama\_batch\` API is deprecated. This change may require updates to existing projects to ensure compatibility with the latest version.
-
-**Tags**: `#AI`, `#machine learning`, `#software engineering`, `#open source`, `#technology updates`
-
----
-
-<a id="item-tech-news-6"></a>
-### [Release of ggerganov/llama.cpp b12755 Introduces hy\_v4\_flash Feature](https://github.com/ggml-org/llama.cpp/releases/tag/b12755) ⭐️ 7.0/10
-
-The release of version b12755 for ggerganov/llama.cpp introduces a new model feature called hy\_v4\_flash, which enhances the DSA iSWA cache with advanced architectural elements. This update includes improvements such as sparse and sliding-window MLA layers, latent routed experts, and deepseek41 Engram tables, aimed at optimizing performance for machine learning applications.
-
-github · github-actions\[bot\] · Nov 26, 03:22
-
-**「Background Information」** The ggerganov/llama.cpp library is an open-source project focused on machine learning and AI, particularly in the context of language models. Previous versions have laid the groundwork for various model enhancements, making this latest release a continuation of ongoing improvements in model architecture and performance.
-
-**「User Impact」** Users of the llama.cpp library can expect improved performance and efficiency in their machine learning tasks due to the advanced features introduced in this release, particularly those utilizing the new hy\_v4\_flash model.
-
-**Tags**: `#machine learning`, `#software engineering`, `#open source`
-
----
-
-<a id="item-tech-news-7"></a>
-### [AMD-Specific Fork of llama.cpp Optimizes AI Performance](https://devnull.land/amd-specific-llama-cpp) ⭐️ 7.0/10
-
-An AMD-specific fork of llama.cpp has been developed to enhance AI model performance on AMD hardware. This optimization targets AMD&\#x27;s gfx906 datacenter series, which features high bandwidth memory, making it suitable for running AI models efficiently. The fork has generated significant community interest and technical discussions regarding its performance improvements.
+An AMD-specific fork of llama.cpp has been developed, featuring optimizations tailored for AI models running on AMD hardware. This fork aims to enhance performance, particularly for users with AMD&\#x27;s gfx906 datacenter series cards, which offer high memory bandwidth at a lower cost compared to contemporary alternatives. Community feedback highlights significant performance improvements, making this fork a valuable resource for software engineers and AI practitioners working with AMD systems.
 
 hackernews · julianlam · Nov 26, 17:11 · [Discussion](https://news.ycombinator.com/item?id=50657265)
 
-**「Background on llama.cpp and AMD Optimization」** The original llama.cpp project, developed by ggerganov, has seen various updates aimed at optimizing performance for different hardware architectures. Recent releases, such as version b11160 and b12398, introduced enhancements specifically for AMD&\#x27;s RDNA3 and RDNA4 GPUs, focusing on improving matrix multiplication and prompt processing performance, which are critical for AI applications.
+**「Background on llama.cpp and AMD Optimizations」** The original llama.cpp project, developed by ggerganov, has seen multiple updates aimed at enhancing performance on various hardware architectures. Recent releases, such as version b11160 and b12398, introduced significant optimizations for AMD&\#x27;s RDNA3 and RDNA4 GPUs, focusing on improving matrix multiplication and Flash Attention performance, which are critical for AI applications.
 
-**「Performance Improvements for AMD Users」** Users with AMD hardware can expect enhanced performance for AI models, particularly those utilizing the gfx906 series, as the fork optimizes the llama.cpp framework specifically for these systems. This could lead to more efficient AI model training and inference on less common hardware.
+**「Performance Enhancements for AMD Users」** Users with AMD hardware can expect improved performance for AI models, as the optimizations in this fork specifically address the unique capabilities of AMD GPUs. This could lead to more efficient model training and inference, particularly for those utilizing older AMD cards with high memory bandwidth.
 
-**「Community Insights on Optimization」** Community members have shared experiences with optimizing llama.cpp for AMD cards, highlighting significant performance gains. For instance, one user reported doubling or tripling the performance of AI models by optimizing the code for AMD&\#x27;s architecture, indicating a collaborative effort to improve AI capabilities on these platforms.
+**「Community Insights on Performance」** Community members have shared their experiences with the AMD-specific optimizations, noting significant performance gains. For instance, users have reported doubling or tripling the performance of AI models like Qwen 3.8 through aggressive code optimization and kernel porting, indicating a robust ecosystem developing around this fork.
 
 <details><summary>References</summary>
 <ul>
@@ -149,98 +110,113 @@ hackernews · julianlam · Nov 26, 17:11 · [Discussion](https://news.ycombinato
 </ul>
 </details>
 
-**Tags**: `#AMD`, `#llama.cpp`, `#AI optimization`, `#hardware`, `#community insights`
+**Tags**: `#AMD`, `#AI`, `#llama.cpp`, `#optimization`, `#hardware`
+
+---
+
+<a id="item-tech-news-5"></a>
+### [European Commission Prioritizes Browser Competition Under Digital Markets Act](https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/) ⭐️ 7.0/10
+
+The European Commission has declared browser competition a priority under the Digital Markets Act \(DMA\), aiming to enhance competition and innovation in the browser market. This move is expected to impact major players in the tech industry, particularly those reliant on browser engines, by fostering a more competitive environment.
+
+hackernews · anilgulecha · Nov 27, 08:11 · [Discussion](https://news.ycombinator.com/item?id=50664191)
+
+**「Digital Markets Act Overview」** The Digital Markets Act \(DMA\) was introduced by the European Commission to ensure fair competition in the digital sector, aiming to prevent monopolistic practices by major tech companies. This act, proposed in December 2020, seeks to create a more contestable market by regulating the behavior of &\#x27;gatekeeper&\#x27; platforms, which include major browsers and operating systems.
+
+**「Impact on Browser Ecosystem」** This prioritization may lead to increased opportunities for alternative browsers, potentially challenging the dominance of existing engines like WebKit and Chromium, which could improve user experience and software diversity.
+
+**「Community Reactions」** Community members express frustration with the current state of browser competition, particularly regarding Apple&\#x27;s WebKit restrictions on iOS. Some argue that without competition, there is little incentive for improvement in browser performance.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Digital_Single_Market">Digital Single Market - Wikipedia</a></li>
+<li><a href="https://digital-markets-act.ec.europa.eu/index_en">Digital Markets Act</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#browser competition`, `#Digital Markets Act`, `#regulation`, `#software engineering`, `#community discussion`
+
+---
+
+<a id="item-tech-news-6"></a>
+### [The Need for a Formally Verifiable Mainstream Programming Language](https://blainehansen.me/post/mainstream-verifiable-language/) ⭐️ 7.0/10
+
+The article discusses the necessity for a mainstream programming language that supports formal verification, emphasizing its importance for code reliability and correctness. This topic has generated significant community discussion regarding the practicality and implications of such languages in software engineering and AI.
+
+hackernews · todsacerdoti · Nov 27, 05:22 · [Discussion](https://news.ycombinator.com/item?id=50663089)
+
+**「Context of Formal Verification」** Formal verification is a method used in software engineering to prove the correctness of algorithms underlying a system with respect to a certain formal specification or property. The growing complexity of software systems and the increasing reliance on AI have heightened the demand for programming languages that can ensure higher reliability through formal methods.
+
+**「Consequences for Developers」** The push for a formally verifiable programming language could lead developers to reconsider their current tools and practices, potentially driving innovation in existing languages to incorporate formal verification features, which may affect code quality and reliability.
+
+**「Community Perspectives」** Community members expressed diverse opinions, with some arguing that creating a new language may be impractical given existing infrastructure, while others highlighted the potential benefits of formal verification in improving code quality. Notably, one user is developing a tool to integrate formal proofs into TypeScript, indicating a trend towards enhancing current languages rather than creating entirely new ones.
+
+**Tags**: `#programming languages`, `#formal verification`, `#software engineering`, `#community discussion`
+
+---
+
+<a id="item-tech-news-7"></a>
+### [Introduction to Uncertainty in Machine Learning](https://chrhenning.com/blog/2026/introduction-to-uncertainty/) ⭐️ 7.0/10
+
+The article provides an introduction to the concept of uncertainty in machine learning, highlighting its significance in the field. It has generated community interest and discussion, although it does not present groundbreaking insights or major advancements in the topic.
+
+hackernews · chrhenning · Nov 26, 19:04 · [Discussion](https://news.ycombinator.com/item?id=50658498)
+
+**「Understanding Uncertainty in ML」** Uncertainty in machine learning refers to the degree of confidence in predictions made by models, which is crucial for applications where decision-making relies on these predictions. This topic is increasingly relevant as machine learning systems are deployed in critical areas such as healthcare and autonomous driving.
+
+**「Community Insights」** Community members expressed varied perspectives, with one user likening uncertainty minimization to &\#x27;spike sharpening&\#x27; in predictions, while another highlighted the unsettling nature of needing accurate probabilities in data-scarce situations. Overall, the discussion reflects a deep engagement with the topic.
+
+**Tags**: `#machine learning`, `#uncertainty`, `#AI`, `#data science`, `#community discussion`
 
 ---
 
 <a id="item-tech-news-8"></a>
-### [New Method for Background Independent Quantization of Gravity Proposed](https://arxiv.org/abs/2611.34924) ⭐️ 7.0/10
+### [AI Transforms Self-Hosting with Ease and New Security Challenges](https://janlukas.blog/posts/ai-self-hosting) ⭐️ 7.0/10
 
-The paper presents a novel method for background independent quantization of vacuum general relativity, focusing on four-dimensional Lorentzian spacetimes. This approach aims to solve gravitational constraints on intersecting null cones and promote canonical Poisson brackets to commutation relations. The proposal has generated interest in the theoretical physics community, although skepticism remains regarding its relevance to quantum gravity until further review.
+The article discusses how AI is making self-hosting more accessible and enjoyable, while simultaneously introducing new security concerns. It highlights the ease of implementation that AI tools provide, allowing users to deploy and manage applications more efficiently. However, this convenience comes with the responsibility of addressing security vulnerabilities more proactively.
 
-hackernews · hecmmm · Nov 26, 05:37 · [Discussion](https://news.ycombinator.com/item?id=50651863)
+hackernews · jlelse · Nov 26, 21:47 · [Discussion](https://news.ycombinator.com/item?id=50660180)
 
-**「Background on Quantum Gravity Research」** The quest for a consistent theory of quantum gravity has been a central challenge in theoretical physics, aiming to reconcile general relativity with quantum mechanics. Previous discussions have explored concepts like the holographic principle, which suggests that our three-dimensional universe may be a projection of information from a two-dimensional surface, potentially influencing our understanding of gravity and spacetime \(Horizon’s September 26 digest reported on this\).
+**「Background on Self-Hosting and AI」** Self-hosting refers to the practice of hosting applications or services on one&\#x27;s own server rather than relying on third-party services. The integration of AI into this space is a recent development that enhances user experience but also complicates security management.
 
-**「Potential Impact on Quantum Gravity Research」** The proposed method could influence future research in quantum gravity, particularly in how gravity is quantized without a fixed background. However, the community&\#x27;s skepticism suggests that its practical impact may be limited until it undergoes rigorous peer review.
+**「Impact on Users and Security Management」** Users now face the dual challenge of leveraging AI for easier deployment while needing to stay vigilant about security updates, as the frequency of vulnerabilities has increased significantly. This shift requires a more proactive approach to security management compared to previous practices.
 
-**「Community Reactions」** Community members have expressed skepticism about the paper&\#x27;s relevance to quantum gravity, with discussions often veering towards unrelated topics like AI. Some commenters noted the need for careful construction of the proposed methods and questioned how it differs from existing theories like loop quantum gravity.
+**「Community Perspectives on AI in Self-Hosting」** Community members express mixed feelings about the ease of implementation brought by AI. Some appreciate the reduced maintenance burden, while others worry about the increased accountability for security, emphasizing the need for rapid responses to vulnerabilities.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/">2026-09-26 — Gravity seems holographic. What does that mean for reality?</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#quantum gravity`, `#theoretical physics`, `#background independence`, `#Lorentzian spacetimes`
+**Tags**: `#AI`, `#self-hosting`, `#software engineering`, `#community discussion`, `#security`
 
 ---
 
 <a id="item-tech-news-9"></a>
-### [Impact of Rising Inlet Temperatures on Data Center Cooling Systems](https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831) ⭐️ 7.0/10
+### [Show HN: Three Linux VMs in a browser tab, each running a different browser](https://michidk.github.io/sidebyside/) ⭐️ 7.0/10
 
-The article discusses the implications of rising inlet temperatures, now reaching 45°C, on data center cooling systems. This shift in operational standards could significantly affect hardware longevity and operational costs, prompting industry-wide discussions about the future of cooling technologies and practices.
+A new project allows users to run three Linux virtual machines \(VMs\) in a single browser tab, each equipped with a different web browser. This innovative approach has attracted attention on Hacker News, showcasing advancements in virtualization and web technology. The project is open source and aims to enhance development workflows by providing a versatile testing environment.
 
-hackernews · magoghm · Nov 26, 13:48 · [Discussion](https://news.ycombinator.com/item?id=50655278)
+hackernews · michidk · Nov 26, 15:00 · [Discussion](https://news.ycombinator.com/item?id=50656036)
 
-**「Rising Inlet Temperatures in Data Centers」** The trend of increasing inlet temperatures in data centers has been influenced by evolving industry standards, particularly those set by ASHRAE, which previously recommended maintaining inlet temperatures between 18°C and 27°C. Recent studies have explored the implications of raising these temperatures to 45°C, examining the potential impacts on cooling efficiency and hardware longevity, as well as the operational costs associated with data center management.
+**「Overview of the Project」** The project showcases the ability to run three separate Linux virtual machines \(VMs\) within a single browser tab, each configured with a different web browser. This approach leverages advancements in virtualization technology and web capabilities, allowing users to test and interact with multiple environments simultaneously without needing separate physical machines.
 
-**「Consequences for Data Center Operations」** As data centers adapt to higher inlet temperatures, locations with cooler climates may become more attractive for new facilities, potentially reducing the need for expensive cooling systems and impacting operational expenditures.
+**「User Benefits」** This project enables developers to easily test web applications across multiple browsers and Linux environments without needing separate installations, potentially streamlining their development and testing processes.
 
-**「Community Insights on Temperature Management」** Community members have raised concerns about the impact of increased temperatures on component lifespan and discussed the attractiveness of cooler locations for data centers, highlighting the potential cost savings associated with reduced cooling requirements.
+**「Community Reactions」** Users on Hacker News expressed enthusiasm for the project, with some noting its similarities to recent technologies like trynix and unkernel, while others shared their own related projects, indicating a vibrant discussion around browser-based virtualization.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.sciencedirect.com/science/article/pii/S0735193325008589">Optimizing server inlet areas for enhanced thermal management ...</a></li>
-<li><a href="https://arxiv.org/pdf/2509.26163">Temperature Optimisation in Data Centres - arXiv.org</a></li>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13522486/">Limitations to air free cooling in data centers under rising ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#data centers`, `#cooling systems`, `#hardware`, `#temperature management`, `#industry trends`
+**Tags**: `#Linux`, `#Virtualization`, `#Web Technology`, `#Open Source`
 
 ---
 
 <a id="item-tech-news-10"></a>
-### [New Approach to Integer Factorization Achieves Subexponential Time](https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization) ⭐️ 7.0/10
+### [AI&\#x27;s Ability to Produce Mathematical Proofs Raises Economic and Existential Concerns](https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/) ⭐️ 7.0/10
 
-A new method for unconditional integer factorization has been introduced, achieving subexponential time complexity. This advancement is particularly relevant to the cryptography community, although it does not currently threaten RSA encryption. The implications for cryptographic modeling are significant, prompting discussions among experts.
-
-hackernews · \_alternator\_ · Nov 26, 04:59 · [Discussion](https://news.ycombinator.com/item?id=50651627)
-
-**「Understanding Integer Factorization」** Integer factorization is a fundamental problem in computational number theory, crucial for cryptography, particularly in the security of RSA encryption. The best-known classical algorithm for this task, the general number field sieve, operates in subexponential time, specifically in the complexity class L\_N\[1/3, O\(1\)\]. Recent discussions indicate that while the new approach claims to formalize existing empirical knowledge about factorization, it does not threaten current cryptographic systems.
-
-**「Implications for Cryptographic Modeling」** The new factorization method reinforces existing cryptographic assumptions, as it confirms that factoring can be done in L\_N\[1/3, O\(1\)\] time, which aligns with current models that assume adversaries can factor in L\_N\[1/3, 1.923\] time.
-
-**「Skepticism and Debate in the Community」** Some community members express skepticism regarding the novelty of the claims, noting that L\[1/3\] factoring has been known for decades. Others discuss the implications of the findings on existing cryptographic practices.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Time_complexity">Time complexity - Wikipedia</a></li>
-<li><a href="https://news.ycombinator.com/item?id=50651627">Unconditional Integer Factorization in Subexponential Time</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#integer factorization`, `#cryptography`, `#subexponential time`, `#RSA`, `#community discussion`
-
----
-
-<a id="item-tech-news-11"></a>
-### [AI&\#x27;s Ability to Generate Mathematical Proofs Raises Economic and Cryptographic Concerns](https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/) ⭐️ 7.0/10
-
-Scott Aaronson, a former OpenAI researcher, argues that AI&\#x27;s capability to generate mathematical proofs, such as the Riemann hypothesis, has implications that extend beyond academia. He suggests that this ability could reshape the global economy and pose significant risks, particularly in the field of cryptography, where he believes AI labs may possess groundbreaking discoveries.
+Scott Aaronson, a former OpenAI researcher, argues that AI&\#x27;s capability to generate mathematical proofs, such as the Riemann hypothesis, has implications that extend beyond academia. He suggests that this ability could significantly reshape the global economy and pose existential risks, particularly in the field of cryptography, where he believes AI labs may have undisclosed breakthroughs.
 
 rss · The Decoder · Nov 26, 19:31
 
-**「AI&\#x27;s Role in Mathematical Proofs」** Scott Aaronson, a former OpenAI researcher, has been vocal about the implications of AI&\#x27;s ability to generate mathematical proofs, particularly in relation to significant problems like the Riemann Hypothesis. His insights suggest that these advancements could have far-reaching effects beyond academia, impacting areas such as the global economy and cryptography.
+**「Context on AI and Mathematical Proofs」** Scott Aaronson, a former OpenAI researcher, has been vocal about the implications of AI&\#x27;s ability to produce mathematical proofs, emphasizing that these advancements extend beyond academic interest. His work in computational complexity theory and quantum computing positions him to comment on how AI breakthroughs could impact various fields, including cryptography and the economy.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://podpulse.ai/podcast/theories-of-everything-with-curt-jaimungal/scott-aaronson-ai-mathematical-proofs-and-the-future-of-math">Scott Aaronson: AI, Mathematical Proofs, and the Future of ...</a></li>
-<li><a href="https://zicq.com/articles/n-101bf73daf00-Scott-Aaronson-Discusses-AI-s-Impact-on.html">Scott Aaronson Discusses AI&#x27;s Impact on Science and ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Scott_Aaronson">Scott Aaronson - Wikipedia</a></li>
 
 </ul>
 </details>
@@ -249,67 +225,105 @@ rss · The Decoder · Nov 26, 19:31
 
 ---
 
-<a id="item-tech-news-12"></a>
-### [Nvidia Halts Server Shipments to Southeast Asia Due to US Export Controls](https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/) ⭐️ 7.0/10
+<a id="item-tech-news-11"></a>
+### [New Video Generation Capabilities with Trainium3 and LTX-2.5](https://huggingface.co/blog/video-trainium3) ⭐️ 7.0/10
 
-Nvidia has suspended server shipments to Malaysia, Singapore, Thailand, and Indonesia following new US export controls aimed at restricting Chinese cloud access. This decision affects local data centers and cloud services, with partners like Dell and Supermicro instructed to halt shipments. The situation has led to significant disruptions, with reports of chaos among cloud executives and potential financial implications for major deals in the region.
+The Hugging Face Blog details advancements in video generation technology using Trainium3 and LTX-2.5. These developments enhance the capabilities of AI in creating videos, marking a significant step forward in the field of artificial intelligence and machine learning.
 
-rss · The Decoder · Nov 26, 11:21
+rss · Hugging Face Blog · Nov 27, 00:00
 
-**「Background on US Export Controls」** In 2026, the US implemented tighter export controls targeting technology exports to China, significantly affecting companies like Nvidia. These controls have led to substantial financial losses for Nvidia, including a reported $4.5 billion loss in one quarter due to restrictions on chip sales, particularly impacting their data center revenue.
-
-**「Impact on Local Data Centers」** The halt in shipments is likely to disrupt operations for data centers and cloud services in Southeast Asia, potentially delaying projects and affecting service availability as local providers scramble to find alternative solutions.
+**「Background on Trainium3 and LTX-2.5」** Trainium3 is a new AI model developed by Hugging Face that enhances video generation capabilities. LTX-2.5, created by Lightricks, is an open-source foundation model designed for generating and editing high-fidelity video content, allowing for multi-shot scenes and cinema-grade exports.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://neuralwired.com/2026/06/05/nvidia-chip-export-controls-china-2026/">Nvidia &amp; US Chip Export Controls: Complete 2026 Guide</a></li>
-<li><a href="https://gpusmith.com/articles/en/pdfs/nvidia-gpu-export-restrictions.pdf">NVIDIA GPU Export Restrictions: Current US Chip Controls 2026</a></li>
+<li><a href="https://huggingface.co/blog/video-trainium3">Taking Trainium 3 to the Track: Generating Videos with LTX - 2 . 5</a></li>
+<li><a href="https://ltx.io/model/ltx-2-5">LTX - 2 . 5 : LTX&#x27;s Latest AI Open-Source Foundation Model | LTX</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Nvidia`, `#export controls`, `#cloud computing`, `#Southeast Asia`, `#technology supply chain`
+**Tags**: `#video generation`, `#artificial intelligence`, `#machine learning`, `#Hugging Face`, `#technology advancements`
+
+---
+
+<a id="item-tech-news-12"></a>
+### [DeepSeek V4.1 Flash 1017 Released with One Million Token Context](https://telegram.me/gptupdates/42341) ⭐️ 7.0/10
+
+DeepSeek V4.1 Flash 1017 has been launched on the GPT Model Hub by MWS Cloud, featuring a context capacity of up to one million tokens. This model, with 552 billion parameters, utilizes a mixture of experts \(MoE\) architecture to enhance efficiency, particularly for software engineering tasks, by processing only a subset of parameters for each token. It is accessible via an OpenAI-compatible API, eliminating the need for users to manage their own infrastructure.
+
+telegram · gptupdates · Nov 27, 08:04
+
+**「DeepSeek V4.1 Flash Overview」** DeepSeek V4.1 Flash 1017 is an advanced AI model that supports a context window of up to one million tokens, enhancing its capabilities in reasoning, coding, and image understanding. This model is built on a Mixture-of-Experts \(MoE\) architecture with 552 billion parameters, allowing it to efficiently process long queries by activating only a subset of parameters during operation.
+
+**「Efficiency in Software Engineering」** The introduction of DeepSeek V4.1 Flash 1017 allows software engineers to handle complex tasks more efficiently, as the model can process extensive project files, documentation, and images, which can significantly reduce the computational resources required for long queries.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/maas/deepseek/deepseek-v41-flash-1017">DeepSeek-V4.1-Flash-1017 | Gemini Enterprise Agent Platform ...</a></li>
+<li><a href="https://ollama.com/library/deepseek-v4.1-flash:1017-cloud">deepseek-v4.1-flash:1017-cloud</a></li>
+<li><a href="https://ai.azure.com/catalog/models/DeepSeek-V4.1-Flash-1017">DeepSeek-V4.1-Flash-1017 | Model Catalog | Microsoft Foundry</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI`, `#Machine Learning`, `#Software Engineering`, `#Model Architecture`
 
 ---
 
 <a id="item-tech-news-13"></a>
-### [Enhancements in Nemotron 3.5: Open Data and Fine-Tuning](https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin) ⭐️ 7.0/10
+### [Meshy AI Releases Version 7.5 with 50x 3D Model Optimization](https://telegram.me/gptupdates/42343) ⭐️ 7.0/10
 
-The Nemotron 3.5 model has been enhanced with a focus on open data and fine-tuning techniques, leading to improved performance and faster inference speeds. These advancements are particularly relevant for professionals in the AI and machine learning sectors, as they aim to optimize model capabilities.
+Meshy AI has launched version 7.5, which optimizes 3D models by reducing polygon counts by approximately 50 times without losing visual detail. This update addresses the traditional trade-off between high geometric detail and real-time performance, making it significant for applications in graphics and software engineering. An interactive web scene, The Pawprint Frieze, showcases the capabilities of the optimized assets in real-time within a browser.
 
-rss · Hugging Face Blog · Nov 26, 05:05
+telegram · gptupdates · Nov 27, 09:04
 
-**「Background on Nemotron 3.5 Parse」** NVIDIA recently released the Nemotron 3.5 Parse model, which is designed to convert page images into structured data for applications like retrieval-augmented generation \(RAG\). This model is enhanced by the introduction of synthetic training datasets, fine-tuning techniques, and a DFlash2 speculator aimed at improving inference speed.
+**「Previous Developments」** Prior to this release, 3D modeling often required a compromise between detail and performance, limiting real-time applications. The introduction of AI-driven retopology techniques has been a growing trend in optimizing 3D assets for better performance.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin">Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#Machine Learning`, `#Fine-Tuning`, `#Open Data`
+**Tags**: `#3D Modeling`, `#AI`, `#Software Engineering`, `#Performance Optimization`
 
 ---
 
 <a id="item-tech-news-14"></a>
-### [New Vulnerability Scanner for AI-Generated Code Enhances Security](https://www.aitmpl.com/component/skills/security/vulnerability-scanner) ⭐️ 7.0/10
+### [Chinese AI Labs Shift to Google and Meta Models Amid US Chip Restrictions](https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/) ⭐️ 7.0/10
 
-A new vulnerability scanner designed for AI-generated code has been introduced, which works with coding agents like Claude Code and Codex. This tool scans projects for potential security weaknesses, including prompt injection and exposed secrets, and provides a detailed report on vulnerabilities found. It operates in a read-only mode, ensuring no changes are made to the code unless explicitly requested.
+Chinese AI labs, particularly Moonshot, are adapting to US chip restrictions by utilizing Google&\#x27;s and Meta&\#x27;s models for training instead of OpenAI and Anthropic&\#x27;s, which have become harder to access. This shift is driven by the need for competitive AI development at lower costs, but new US regulations may delay future releases, such as Z.AI&\#x27;s GLM-5.5, potentially pushing it into 2027.
 
-telegram · gptupdates · Nov 26, 23:04
+telegram · gptupdates · Nov 27, 09:49
 
-**「Vulnerability Scanner for AI Code」** The new vulnerability scanner is designed to work with various coding agents, including Claude Code and Codex, to identify security weaknesses in AI-generated code before deployment. It operates by mapping potential entry points and searching for vulnerabilities such as prompt injection and exposed secrets, providing a read-only analysis of the code without making any changes.
+**「Background on AI Development and US Chip Restrictions」** In recent years, US restrictions on advanced semiconductor exports to China have significantly impacted the country&\#x27;s AI development landscape. These restrictions have made it increasingly difficult for Chinese AI labs to access models from leading companies like OpenAI and Anthropic, prompting a shift towards using models from Google and Meta instead.
 
-**「Impact on Software Development」** This vulnerability scanner could significantly improve security practices for developers using AI-generated code by proactively identifying and addressing vulnerabilities before deployment, thereby reducing the risk of exploitation by attackers.
+**「Impact on AI Development」** The reliance on Google&\#x27;s and Meta&\#x27;s models may limit the diversity of AI training methodologies available to Chinese labs, potentially affecting the innovation and competitiveness of their AI products in the global market.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.aitmpl.com/">Claude Code Templates : 1000+ Agents, Commands, Skills &amp; MCP...</a></li>
+<li><a href="https://www.globaltimes.cn/page/202611/1374345.shtml">GT Voice: US chip curb debate cannot stymie China &#x27;s AI progress</a></li>
+<li><a href="https://informbytes.com/blog/global-sanctions-tech-policy-april-2026/">Global Sanctions Tech Policy April 2026: 5 Essential Shifts in AI Chips ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#security`, `#AI`, `#software engineering`, `#vulnerability scanning`
+**Tags**: `#AI development`, `#geopolitics`, `#machine learning`, `#technology access`
+
+---
+
+<a id="item-tech-news-15"></a>
+### [AI Agent Proposes New Integer Factorization Theorem](https://telegram.me/gptupdates/42347) ⭐️ 7.0/10
+
+Google&\#x27;s Cogentic agent, utilizing the Gemini 4 architecture, has proposed a new integer factorization theorem that features an asymptotically bounded expected time. This development has sparked significant discussions regarding the implications for RSA encryption security, although further technical details and peer review are necessary for comprehensive validation.
+
+telegram · gptupdates · Nov 27, 10:07
+
+**「Context of Integer Factorization Theorem」** The recent proposal by Google&\#x27;s Cogentic AI agent, which operates on the Gemini 4 platform, builds on earlier advancements in integer factorization. Previously, researchers established a rigorous bound for factoring integers, but the new theorem claims to improve this bound significantly, potentially affecting the security of RSA encryption, which relies on the difficulty of integer factorization.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.rdworldonline.com/google-cogentic-ai-integer-factoring-bounds-lean-proofs/">Google’s Gemini 4 agent claims six math proofs in a day ...</a></li>
+<li><a href="https://www.datastudios.org/post/google-cogentic-gemini-4-six-math-papers-proven-l-1-3-factoring">Google Cogentic on Gemini 4 claims proven L [1/3] factoring ...</a></li>
+<li><a href="https://explainx.ai/blog/google-cogentic-six-math-papers-factoring-l-1-3-gemini-4-claimed-vs-verified-2026">Google Cogentic Factoring Claim: L [1/3] Proof, Verified ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Artificial Intelligence`, `#Encryption`, `#Mathematics`
 
 ---
