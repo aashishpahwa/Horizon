@@ -5,308 +5,348 @@ date: 2026-11-28
 lang: en
 ---
 
-> From 73 items, 14 important content pieces were selected
+> From 65 items, 18 important content pieces were selected
 
 ---
 
 **Technology News**
-1. [US Air Force Cloud Computing Platform Hacked, Raising Security Concerns](#item-tech-news-1) ⭐️ 8.0/10
-2. [The Need for a Formally Verifiable Mainstream Programming Language](#item-tech-news-2) ⭐️ 8.0/10
-3. [Meta and AMI Labs Support Yann LeCun&\#x27;s JEPA World Models Over Language Models](#item-tech-news-3) ⭐️ 8.0/10
-4. [New e-means Algorithm for Mini-Batch Clustering](#item-tech-news-4) ⭐️ 8.0/10
-5. [AI Enables Single Hacker to Compromise 19 Companies Simultaneously](#item-tech-news-5) ⭐️ 8.0/10
-6. [Release of ggerganov/llama.cpp b12818 Enhances Tensor Scaling](#item-tech-news-6) ⭐️ 7.0/10
-7. [Credit Card Skimming Scripts Using WebRTC Found on Popular Shopping Sites](#item-tech-news-7) ⭐️ 7.0/10
-8. [Discussion on Soundness Bugs in Proof-Checking Systems](#item-tech-news-8) ⭐️ 7.0/10
-9. [Rayshader 1.0 Released for Enhanced Spatial Data Visualization in R](#item-tech-news-9) ⭐️ 7.0/10
-10. [Concerns Over Claude&\#x27;s Limitations in Machine Learning Research](#item-tech-news-10) ⭐️ 7.0/10
-11. [OpenAI Countersues Apple Over Trade Secret Theft](#item-tech-news-11) ⭐️ 7.0/10
-12. [Banned Nvidia Blackwell Chips Found in Shanghai Data Center](#item-tech-news-12) ⭐️ 7.0/10
-13. [OpenAI Develops &\#x27;Athena&\#x27; Data Platform to Improve AI Agent Accuracy](#item-tech-news-13) ⭐️ 7.0/10
-14. [Insights into AI Training Data Market Dynamics](#item-tech-news-14) ⭐️ 7.0/10
+1. [Unkernel Compiles Linux Kernel to WebAssembly for Browser Use](#item-tech-news-1) ⭐️ 8.0/10
+2. [Google&\#x27;s DeepCrossAttention Achieves Comparable Model Quality Up to 3x Faster](#item-tech-news-2) ⭐️ 8.0/10
+3. [Google Deepmind&\#x27;s &\#x27;Humanity&\#x27;s First Exam&\#x27; Reveals AI Model Limitations](#item-tech-news-3) ⭐️ 8.0/10
+4. [Embo Secures $110 Million Seed Funding for World-Model AI in Robotics](#item-tech-news-4) ⭐️ 8.0/10
+5. [Meta and AMI Labs Support JEPA World Models as Alternative to Language Models](#item-tech-news-5) ⭐️ 8.0/10
+6. [WebRTC Used for Credit Card Skimming on Shopping Sites](#item-tech-news-6) ⭐️ 7.0/10
+7. [Tabenetes: Kubernetes Cluster Running in Browser Tabs](#item-tech-news-7) ⭐️ 7.0/10
+8. [SessionGraph: Visualize Coding Agent Sessions in Interactive Graph](#item-tech-news-8) ⭐️ 7.0/10
+9. [Discussion on Soundness Bugs in Computer-Checked Proofs](#item-tech-news-9) ⭐️ 7.0/10
+10. [Woman Evicted After Miscommunication by Landlord&\#x27;s AI Assistant](#item-tech-news-10) ⭐️ 7.0/10
+11. [Rayshader 1.0: Major Update for 3D Visualization in R](#item-tech-news-11) ⭐️ 7.0/10
+12. [US Air Force&\#x27;s Cloud One Platform Breached by Hackers](#item-tech-news-12) ⭐️ 7.0/10
+13. [OpenAI Develops &\#x27;Athena&\#x27; Data Platform to Enhance AI Agent Accuracy](#item-tech-news-13) ⭐️ 7.0/10
+14. [Exploring the AI Training Data Market Dynamics](#item-tech-news-14) ⭐️ 7.0/10
+15. [AI Enables Hacker to Compromise 19 Companies Simultaneously, Warns Palo Alto Networks CEO](#item-tech-news-15) ⭐️ 7.0/10
+16. [Study Reveals User Preference for Flattering Chatbots Over Accurate Ones](#item-tech-news-16) ⭐️ 7.0/10
+17. [FRIDA V2 Launches with Enhanced Multimodal Search and Decision-Making Models](#item-tech-news-17) ⭐️ 7.0/10
+18. [Japan&\#x27;s Draft AI Law Requires Companies to Verify Users of Powerful AI](#item-tech-news-18) ⭐️ 7.0/10
 
 ---
 
 ## Technology News
 
 <a id="item-tech-news-1"></a>
-### [US Air Force Cloud Computing Platform Hacked, Raising Security Concerns](https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163) ⭐️ 8.0/10
+### [Unkernel Compiles Linux Kernel to WebAssembly for Browser Use](https://unkernel.dev/) ⭐️ 8.0/10
 
-The US Air Force&\#x27;s cloud computing platform, known as Cloud One, was hacked, exposing significant security vulnerabilities in military IT infrastructure. This platform, launched in 2017, integrates services from Microsoft, Amazon, Oracle, and Alphabet to support various applications, including personnel management and logistics. The breach raises critical questions about the security management of sensitive cloud services.
+Unkernel has successfully compiled the Linux kernel to WebAssembly, allowing Linux environments to run directly in web browsers. This development has generated significant interest within the community, highlighting its potential applications in education and software development.
 
-hackernews · freakynit · Nov 27, 12:54 · [Discussion](https://news.ycombinator.com/item?id=50666375)
+hackernews · nreece · Nov 28, 03:19 · [Discussion](https://news.ycombinator.com/item?id=50674218)
 
-**「Background on Cloud One」** The US Air Force&\#x27;s Cloud One platform was launched in 2017 to consolidate IT services, utilizing resources from major vendors like Microsoft, Amazon, Oracle, and Alphabet. This multi-vendor approach aimed to support various applications, including those for personnel management and logistics. The recent hacking incident raises concerns about the security implications of relying on multiple contractors for sensitive military operations.
+**「Background on WebAssembly and Linux」** WebAssembly is a binary instruction format designed for safe and efficient execution in web environments. The ability to run the Linux kernel in a browser represents a notable advancement in utilizing WebAssembly for more complex applications.
 
-**「Impact on Military Operations」** The hacking incident has led to significant disruptions in operations as the Air Force rebuilds its infrastructure and imposes tighter access restrictions, affecting personnel who rely on Cloud One for their work.
+**「Impact on Education and Development」** The Unkernel project could revolutionize educational platforms by providing students with individual Linux environments in their browsers, significantly reducing server infrastructure costs and enhancing accessibility.
 
-**「Community Reactions」** Commenters expressed concerns about the decision to use multiple vendors for Cloud One, suggesting that a dedicated in-house development team might have been a better approach. Others noted the potential for increased demand for on-premises solutions in light of this breach.
+**「Community Reactions」** Community members expressed excitement about the project&\#x27;s potential, with some suggesting innovative use cases such as enabling Windows programs in browsers and enhancing educational tools for students.
 
-**Tags**: `#cloud computing`, `#cybersecurity`, `#military technology`, `#software engineering`
+**Tags**: `#WebAssembly`, `#Linux`, `#Software Development`, `#Community Engagement`
 
 ---
 
 <a id="item-tech-news-2"></a>
-### [The Need for a Formally Verifiable Mainstream Programming Language](https://blainehansen.me/post/mainstream-verifiable-language/) ⭐️ 8.0/10
+### [Google&\#x27;s DeepCrossAttention Achieves Comparable Model Quality Up to 3x Faster](https://research.google/blog/supercharging-transformer-residual-connections/) ⭐️ 8.0/10
 
-The article emphasizes the necessity of creating a formally verifiable programming language to enhance software engineering practices, particularly as reliance on AI grows. It discusses how formal verification can improve code reliability and safety, addressing the challenges posed by modern software development. The author argues that such a language could significantly benefit the industry by ensuring correctness in increasingly complex systems.
+Google&\#x27;s DeepCrossAttention is a new transformer model that reportedly achieves comparable quality to traditional models while being up to three times faster. This advancement could significantly enhance the efficiency of AI applications that rely on transformer architectures, generating considerable interest within the AI research community.
 
-hackernews · todsacerdoti · Nov 27, 05:22 · [Discussion](https://news.ycombinator.com/item?id=50663089)
+hackernews · ComputedCamp995 · Nov 27, 23:06 · [Discussion](https://news.ycombinator.com/item?id=50672565)
 
-**「Context of Formal Verification」** Formally verifiable programming languages are designed to allow developers to prove the correctness of their code through mathematical methods. This concept has gained traction in recent years due to the increasing complexity of software systems and the critical need for reliability, especially in AI applications.
+**「Understanding DeepCrossAttention」** DeepCrossAttention \(DCA\) is a novel approach introduced by Google that enhances the traditional transformer architecture by applying attention across layers rather than just across tokens in a sequence. This method allows for a more efficient use of historical context in model training, potentially leading to faster processing times while maintaining comparable model quality to existing transformer methods.
 
-**「Consequences for Developers」** The push for a mainstream formally verifiable programming language could lead to improved software quality and security, as developers would have tools to ensure their code meets strict correctness criteria. This shift may also influence educational curricula and industry standards, promoting a greater emphasis on formal methods in software development.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://news.ycombinator.com/item?id=50672565">Google &#x27;s DeepCrossAttention achieves comparable... | Hacker News</a></li>
+<li><a href="https://arxiv.org/html/2502.06785v1">DeepCrossAttention : Supercharging Transformer Residual Connections</a></li>
 
-**「Community Insights」** Community members have expressed enthusiasm for the topic, with some sharing their experiences using existing languages like Ada SPARK for formal verification. Others have noted the potential of new languages, such as Zena, which aim to integrate formal verification with modern programming paradigms, highlighting a growing interest in this area.
+</ul>
+</details>
 
-**Tags**: `#programming languages`, `#formal verification`, `#AI`, `#software engineering`, `#community discussion`
+**Tags**: `#Deep Learning`, `#Transformers`, `#AI Research`, `#Machine Learning`
 
 ---
 
 <a id="item-tech-news-3"></a>
-### [Meta and AMI Labs Support Yann LeCun&\#x27;s JEPA World Models Over Language Models](https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/) ⭐️ 8.0/10
+### [Google Deepmind&\#x27;s &\#x27;Humanity&\#x27;s First Exam&\#x27; Reveals AI Model Limitations](https://the-decoder.com/google-deepminds-humanitys-first-exam-shows-top-ai-models-still-fail-simple-everyday-tasks-under-repeated-runs/) ⭐️ 8.0/10
 
-Three studies from Meta and AMI Labs support Yann LeCun&\#x27;s JEPA world models as a viable alternative to large language models in AI. The JEPA architecture aims to enhance machine understanding of cause and effect, showing progress in areas such as robot planning, efficient training, and error correction. These advancements indicate a significant shift in AI development strategies.
+Google Deepmind&\#x27;s &\#x27;Humanity&\#x27;s First Exam&\#x27; tested 18 AI models, including OpenAI&\#x27;s GPT-6.2 Astra, revealing that even top models struggle with consistency in simple tasks. While these models can solve nearly every task family at least once, they fail to provide 16 consecutive correct answers, with visual perception errors accounting for 73% of mistakes. Increased compute time does not resolve these issues.
 
-rss · The Decoder · Nov 27, 16:58
+rss · The Decoder · Nov 28, 11:12
 
-**「Background on JEPA World Models」** Yann LeCun&\#x27;s JEPA \(Joint Embedding Predictive Architecture\) represents a shift from traditional large language models \(LLMs\) to a framework that emphasizes internal world modeling, focusing on understanding cause and effect. This approach is being developed through his startup AMI Labs, which has received significant funding to explore the capabilities of JEPA in various applications, including robot planning and error correction.
+**「Background on AI Testing」** This testing initiative by Google Deepmind highlights ongoing challenges in AI reliability and performance, particularly in everyday tasks that require consistent accuracy. Previous evaluations of AI models have similarly pointed out limitations in their capabilities.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.mindstudio.ai/blog/yann-lecun-jepa-world-model-paper">Yann LeCun &#x27;s JEPA Paper: Why a Tiny Model Beat... | MindStudio</a></li>
-<li><a href="https://theplanettools.ai/blog/ami-labs-1b-seed-round-yann-lecun-world-models">LeCun Raised $1.03B Saying LLMs Will Never Work | ThePlanetTools.ai</a></li>
+**「Consequences for AI Development」** The findings from this exam underscore the need for improved reliability in AI models, which may affect their deployment in real-world applications where consistent performance is critical. Developers may need to reconsider the design and training of AI systems to address these shortcomings.
 
-</ul>
-</details>
-
-**Tags**: `#artificial intelligence`, `#machine learning`, `#world models`, `#Yann LeCun`, `#JEPA`
+**Tags**: `#AI`, `#Deep Learning`, `#Model Evaluation`, `#Reliability`, `#Computer Science`
 
 ---
 
 <a id="item-tech-news-4"></a>
-### [New e-means Algorithm for Mini-Batch Clustering](https://arxiv.org/abs/2611.09501) ⭐️ 8.0/10
+### [Embo Secures $110 Million Seed Funding for World-Model AI in Robotics](https://the-decoder.com/robotics-startup-embo-raises-110-million-in-seed-funding-to-build-world-model-ai-for-robots/) ⭐️ 8.0/10
 
-The e-means algorithm introduces a new method for mini-batch clustering that significantly outperforms traditional k-means in both efficiency and clustering quality. It achieves test errors comparable to the Flash-KMeans GPU solver 9.5 to 45.5 times faster in real-time by utilizing techniques such as exponential moving averages and cluster donor splitting. This algorithm is particularly beneficial for processing large datasets, reducing the time to cluster 10 billion embeddings to under three hours on a single server with eight GPUs.
+Robotics startup Embo has raised $110 million in seed funding to develop a universal robot brain utilizing world models. This AI technology learns about the physical world from internet videos and simulates motor skills, with support from notable backers including Google Deepmind and MIT researchers.
 
-telegram · gptupdates · Nov 27, 20:34
+rss · The Decoder · Nov 28, 10:48
 
-**「Background on Mini-Batch Clustering」** The e-means algorithm builds on the concept of mini-batch k-means clustering, which improves efficiency by updating cluster centroids using small, randomly sampled subsets of data. Traditional k-means can be slow and resource-intensive, especially with large datasets, making mini-batch methods a popular alternative for faster convergence and reduced memory usage. The introduction of e-means incorporates exponential moving averages and new scaling laws to further enhance performance over existing methods.
+**「Context of Development」** Embo&\#x27;s focus on world-model AI represents a significant step in the evolution of general-purpose robotics, aiming to enhance robots&\#x27; understanding and interaction with their environments.
 
-**「Impact on Clustering Tasks」** The e-means algorithm allows users to perform large-scale clustering tasks much more efficiently, making it feasible to handle massive datasets that were previously time-prohibitive. Users may need to manually adjust parameter formulas for extreme scales, which could affect ease of use in certain scenarios.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://arxiv.org/abs/2611.09501">e-means: outperforming k-means (in one-tenth the epochs)</a></li>
-<li><a href="https://www.geeksforgeeks.org/machine-learning/ml-mini-batch-k-means-clustering-algorithm/">ML | Mini Batch K-means clustering algorithm - GeeksforGeeks</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#machine learning`, `#clustering`, `#algorithm`, `#artificial intelligence`, `#optimization`
+**Tags**: `#robotics`, `#AI`, `#funding`, `#startup`, `#machine learning`
 
 ---
 
 <a id="item-tech-news-5"></a>
-### [AI Enables Single Hacker to Compromise 19 Companies Simultaneously](https://economictimes.indiatimes.com/news/company/corporate-trends/india-should-focus-on-ai-adoption-not-compete-with-us-china-in-building-frontier-models-nikesh-arora/articleshow/136171916.cms) ⭐️ 8.0/10
+### [Meta and AMI Labs Support JEPA World Models as Alternative to Language Models](https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/) ⭐️ 8.0/10
 
-Nikesh Arora, CEO of Palo Alto Networks, reported that AI has significantly simplified hacking, allowing one attacker to compromise 19 companies simultaneously using AI agents. This capability, previously requiring 19 individuals several days, highlights the urgent need for companies to address security vulnerabilities, as AI tools like Anthropic&\#x27;s Mythos can quickly identify flaws in code. Companies are now implementing fixes rapidly, often without adequate testing, leading to high-profile errors.
+Three studies from Meta and AMI Labs support Yann LeCun&\#x27;s JEPA world models as a viable alternative to large language models in AI. The JEPA architecture aims to enhance robot planning, training efficiency, and error correction, although further integration of these components is needed.
 
-telegram · gptupdates · Nov 27, 22:05
+rss · The Decoder · Nov 27, 16:58
 
-**「AI&\#x27;s Role in Cybersecurity Vulnerabilities」** Nikesh Arora&\#x27;s comments highlight the growing concern over AI&\#x27;s impact on cybersecurity, particularly with the emergence of Anthropic&\#x27;s Mythos model. This model is designed to identify vulnerabilities in code, which has made it easier for attackers to exploit weaknesses across multiple companies simultaneously, as evidenced by a recent incident involving one hacker compromising 19 firms at once.
+**「Background on JEPA World Models」** Yann LeCun, a prominent figure in AI, has shifted his focus from large language models to developing the JEPA architecture through his startup AMI Labs. This approach emphasizes creating internal world models that understand cause and effect, which is a departure from traditional language model methodologies.
 
-**「Consequences for Cybersecurity Practices」** The rise of AI-assisted hacking poses a serious threat to organizations, necessitating immediate and thorough security measures to prevent breaches. Companies must prioritize testing and validation of security patches to avoid the pitfalls of rushed implementations.
+**「Impact on AI Development」** These findings could shift focus in AI research from large language models to JEPA world models, potentially leading to new methodologies in machine learning and robotics.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://gln75.com/en/blog/anthropic-mythos-model-cybersecurity">Anthropic &#x27; s Leaked Mythos Model Rattles Cybersecurity | GLN-7.5</a></li>
-<li><a href="https://dnyuz.com/2026/09/30/palo-alto-networks-nikesh-arora-is-building-a-defense-against-the-dark-side-of-ai/">Palo Alto Networks’ Nikesh Arora is building a defense against the...</a></li>
+<li><a href="https://www.mindstudio.ai/blog/yann-lecun-jepa-world-model-paper">Yann LeCun &#x27;s JEPA Paper: Why a Tiny Model Beat... | MindStudio</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#cybersecurity`, `#AI`, `#software engineering`, `#vulnerabilities`, `#technology industry`
+**Tags**: `#AI`, `#machine learning`, `#robotics`, `#world models`
 
 ---
 
 <a id="item-tech-news-6"></a>
-### [Release of ggerganov/llama.cpp b12818 Enhances Tensor Scaling](https://github.com/ggml-org/llama.cpp/releases/tag/b12818) ⭐️ 7.0/10
+### [WebRTC Used for Credit Card Skimming on Shopping Sites](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer) ⭐️ 7.0/10
 
-The release of ggerganov/llama.cpp version b12818 introduces significant updates, including enhanced tensor scaling capabilities and support for new data types. These improvements are particularly beneficial for developers working on machine learning applications, as they allow for more efficient tensor processing and manipulation.
+A recent report has uncovered the use of WebRTC technology for credit card skimming on popular shopping websites, raising significant concerns about web security. This discovery highlights vulnerabilities in widely used technologies and emphasizes the need for improved monitoring and security practices in e-commerce.
 
-github · github-actions\[bot\] · Nov 27, 20:43
+hackernews · scanr · Nov 27, 15:40 · [Discussion](https://news.ycombinator.com/item?id=50668145)
 
-**「Background Information」** This release builds on previous versions of llama.cpp, which have focused on optimizing tensor operations for machine learning frameworks. The introduction of tensor scaling options such as per-tensor and per-channel scaling represents a notable advancement in the library&\#x27;s functionality.
+**「Understanding Credit Card Skimming」** Credit card skimming involves the unauthorized capture of card information, typically through malicious scripts or devices. This practice has evolved with technology, and recent reports indicate that attackers are now leveraging WebRTC, a technology primarily used for real-time communication, to execute these skimming attacks on e-commerce sites. The rise of such tactics underscores the need for enhanced security measures and monitoring of web technologies.
 
-**「User Impact」** Developers utilizing llama.cpp for machine learning projects will benefit from improved performance and flexibility in tensor operations, enabling them to implement more complex models and optimize resource usage effectively.
+**「Impact on E-commerce Security」** The revelation of WebRTC being exploited for skimming could lead to increased scrutiny and potential changes in how web technologies are monitored, affecting both developers and users of e-commerce platforms.
 
-**Tags**: `#machine learning`, `#software engineering`, `#open source`, `#tensor processing`, `#AI frameworks`
+**「Community Reactions」** Community members expressed concerns about the need for browsers to restrict less commonly used technologies like WebRTC by default, suggesting that this could enhance security against such vulnerabilities. Others noted that the issue stems from the embedding of third-party scripts, which can expose sites to risks regardless of the technology used.
+
+**Tags**: `#WebRTC`, `#Security`, `#E-commerce`, `#Cybersecurity`, `#Technology`
 
 ---
 
 <a id="item-tech-news-7"></a>
-### [Credit Card Skimming Scripts Using WebRTC Found on Popular Shopping Sites](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer) ⭐️ 7.0/10
+### [Tabenetes: Kubernetes Cluster Running in Browser Tabs](https://tabernet.es/) ⭐️ 7.0/10
 
-Credit card skimming scripts that exploit WebRTC have been discovered on major shopping sites, raising significant security concerns for users. This vulnerability allows malicious actors to potentially capture sensitive payment information during transactions. The issue highlights the need for enhanced monitoring and security measures on e-commerce platforms.
+Tabenet.es introduces a novel approach to running Kubernetes clusters within browser tabs, generating interest in the tech community. This innovative concept leverages web technologies and container orchestration, although it has not yet led to significant technical breakthroughs or detailed analysis.
 
-hackernews · scanr · Nov 27, 15:40 · [Discussion](https://news.ycombinator.com/item?id=50668145)
+hackernews · mmcclure · Nov 27, 23:00 · [Discussion](https://news.ycombinator.com/item?id=50672521)
 
-**「Background on WebRTC and Security Vulnerabilities」** WebRTC \(Web Real-Time Communication\) is a technology that enables peer-to-peer communication directly between browsers without the need for an intermediary. Previous reports have highlighted the use of various methods, including fake content delivery networks, to deploy credit card skimmers on e-commerce sites, indicating a trend of increasing sophistication in online fraud tactics. The current discovery of WebRTC-based skimming scripts suggests a new avenue for attackers to exploit less monitored technologies for malicious purposes.
+**「Background on Kubernetes and Web Technologies」** Kubernetes is an open-source platform for automating the deployment, scaling, and management of containerized applications. The idea of utilizing browser tabs for Kubernetes clusters represents a creative intersection of containerization and web technologies, particularly with the rise of WebAssembly.
 
-**「User Security at Risk」** The presence of these skimming scripts poses a direct threat to users&\#x27; financial information, potentially leading to unauthorized transactions and identity theft. E-commerce sites must urgently address these vulnerabilities to protect their customers.
+**「Impact on Developers and Innovators」** This concept could inspire developers to explore new ways of utilizing browser environments for container orchestration, potentially leading to innovative applications and collaborations in the tech community.
 
-**「Diverse Opinions on WebRTC&\#x27;s Role」** Community members have debated the implications of using WebRTC for skimming, with some arguing that the issue lies more with site security practices than the technology itself. Others expressed frustration over the broader risks associated with allowing third-party scripts to run on websites.
+**「Community Reactions」** Community members expressed intrigue and humor regarding the concept, with some discussing potential technical challenges and the novelty of running Kubernetes in a browser. Comments highlighted both excitement and confusion about the implementation details.
 
-<details><summary>References</summary>
-<ul>
-<li>Top sites infiltrated with credit card skimmers and crypto miners</li>
-<li>Credit Card Skimmer Uses Fake CDNs To Evade Detection</li>
-
-</ul>
-</details>
-
-**Tags**: `#WebRTC`, `#security`, `#credit card skimming`, `#e-commerce`, `#vulnerabilities`
+**Tags**: `#Kubernetes`, `#WebAssembly`, `#Containerization`, `#Innovation`
 
 ---
 
 <a id="item-tech-news-8"></a>
-### [Discussion on Soundness Bugs in Proof-Checking Systems](https://cr.yp.to/proofs/falseccp.html) ⭐️ 7.0/10
+### [SessionGraph: Visualize Coding Agent Sessions in Interactive Graph](https://sessiongraph.ai/) ⭐️ 7.0/10
 
-The article discusses the presence of soundness bugs in proof-checking systems, raising significant concerns about their implications for mathematical verification. This has sparked a community debate regarding the reliability of these systems and their impact on software engineering and AI. The discussion emphasizes the need for rigorous verification processes in mathematical proofs.
+SessionGraph is a new tool designed to visualize coding agent sessions in an interactive 3D graph format. It allows users to explore their coding history, including git commit data, and supports various harnesses while providing easy search capabilities through a local MCP and REST API. This tool aims to enhance understanding of software development processes by illustrating the directionality of changes over time.
 
-hackernews · \_tk\_ · Nov 27, 15:26 · [Discussion](https://news.ycombinator.com/item?id=50667989)
+hackernews · arvindell · Nov 27, 21:07 · [Discussion](https://news.ycombinator.com/item?id=50671651)
 
-**「Understanding Soundness Bugs in Proof-Checking Systems」** Soundness bugs in proof-checking systems refer to errors that can lead to incorrect verification of mathematical proofs. These bugs raise concerns about the reliability of automated verification tools, which are increasingly used in software engineering and AI to ensure correctness. The discussion around these issues highlights the importance of rigorous verification processes and the potential implications for trust in mathematical and computational results.
+**「Understanding Session Visualization」** The concept of visualizing coding sessions builds on the need for developers to understand not just the final outcomes of their work, but also the processes and decisions that led to those outcomes. Tools that capture session history can provide insights into collaborative coding efforts and the evolution of software projects.
 
-**「Consequences for Verification Practices」** The identification of soundness bugs may lead to increased scrutiny and demands for higher assurance in proof-checking systems, potentially affecting how mathematical proofs are verified and accepted in various fields, including software engineering and AI.
+**「Potential for Enhanced Collaboration」** SessionGraph could significantly improve collaboration among developers by allowing them to query and understand decisions made in previous coding sessions, thus fostering better communication and knowledge sharing within teams.
 
-**「Community Perspectives」** Community members have expressed differing views on the implications of soundness bugs, with some arguing that the risks are overstated due to the requirement for multiple independent verifiers, while others highlight the historical persistence of such bugs and the need for ongoing vigilance in verification practices.
+**「Community Insights on SessionGraph」** Community members expressed curiosity about the clarity of the visualizations and the representation of coding decisions within the graph. Some users highlighted the importance of understanding the trade-offs made during coding sessions, while others questioned the value of session history compared to final artifacts like code and documentation.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://cr.yp.to/proofs/falseccp.html">False computer- checked proofs (djb)</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#proof verification`, `#soundness bugs`, `#mathematics`, `#software engineering`
+**Tags**: `#software engineering`, `#visualization`, `#AI tools`, `#community discussion`
 
 ---
 
 <a id="item-tech-news-9"></a>
-### [Rayshader 1.0 Released for Enhanced Spatial Data Visualization in R](https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html) ⭐️ 7.0/10
+### [Discussion on Soundness Bugs in Computer-Checked Proofs](https://cr.yp.to/proofs/falseccp.html) ⭐️ 7.0/10
 
-Rayshader 1.0 has been released, introducing new features for visualizing spatial data in R. This update is particularly beneficial for software engineers and data scientists, enhancing their ability to create detailed visual representations of geographic information. The release has garnered positive feedback from the community, highlighting its technical significance.
+The article highlights soundness bugs in computer-checked proofs, raising concerns about their implications for verification systems. This has led to a detailed community debate, particularly among software engineers and AI researchers, regarding the reliability of these systems. While the discussion is significant, it does not introduce groundbreaking insights into the topic.
 
-hackernews · tylermw · Nov 27, 14:30 · [Discussion](https://news.ycombinator.com/item?id=50667371)
+hackernews · \_tk\_ · Nov 27, 15:26 · [Discussion](https://news.ycombinator.com/item?id=50667989)
 
-**「Previous Developments」** Rayshader is an open-source R package designed for creating 3D visualizations of spatial data. The release of version 1.0 marks a significant upgrade from earlier iterations, which laid the groundwork for its current capabilities.
+**「Understanding Soundness Bugs in Proof Checkers」** Soundness bugs in proof-checking systems can allow false statements to be verified as true, raising concerns about the reliability of these systems. Various proof assistants, including Lean, Coq, and Metamath, have reported such vulnerabilities, which can potentially mislead users about mathematical truths. The ongoing community discussion highlights the importance of addressing these issues to ensure the integrity of automated verification processes.
 
-**「User Engagement」** The release of Rayshader 1.0 is likely to enhance user engagement among R users, as evidenced by community discussions expressing excitement and appreciation for the new features. This could lead to increased adoption of the package for spatial data visualization projects.
+**「Impact on Verification Systems」** The identification of soundness bugs may lead to increased scrutiny and improvements in proof-checking systems, potentially affecting how software verification is approached in the future. Users and developers may need to consider the reliability of different proof verifiers when relying on computer-checked proofs.
 
-**「Community Reactions」** Community members have expressed enthusiasm for Rayshader 1.0, with one user noting its impressive capabilities despite limited knowledge of R. Others have shared their own projects and experiences, indicating a vibrant discussion around the package&\#x27;s potential applications.
+**「Community Perspectives」** Community members have expressed differing views on the implications of soundness bugs. Some argue that the article oversimplifies the issue, while others emphasize the need for high-assurance work in verification systems. The debate reflects a deep engagement with the complexities of proof verification.
 
-**Tags**: `#R`, `#data visualization`, `#software engineering`, `#open source`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://daily.dev/posts/false-computer-checked-proofs-k95nubjp0">False computer-checked proofs - daily.dev</a></li>
+<li><a href="https://www.yolcy.com/article/false-computer-checked-proofs">False Computer-Checked Proofs: Soundness Bugs Linked - YOLCY</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#proof verification`, `#soundness bugs`, `#software engineering`, `#community discussion`
 
 ---
 
 <a id="item-tech-news-10"></a>
-### [Concerns Over Claude&\#x27;s Limitations in Machine Learning Research](https://twitter.com/RealAstropulse/status/2126119408997466389) ⭐️ 7.0/10
+### [Woman Evicted After Miscommunication by Landlord&\#x27;s AI Assistant](https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai) ⭐️ 7.0/10
 
-The community is discussing potential limitations in Claude&\#x27;s functionality that may hinder machine learning research. Users have raised concerns that Claude&\#x27;s safeguards, which limit its effectiveness for certain requests, could impact the development of AI tools. This has sparked significant conversations about the implications of these limitations on research tasks.
+A woman was evicted after her landlord&\#x27;s AI assistant incorrectly informed her that she could delay her rent payment. This incident has ignited discussions about the accountability of AI in legal communications, particularly in landlord-tenant relationships.
 
-hackernews · baobabKoodaa · Nov 27, 08:28 · [Discussion](https://news.ycombinator.com/item?id=50664325)
+hackernews · Tiwariparth6165 · Nov 28, 01:32 · [Discussion](https://news.ycombinator.com/item?id=50673521)
 
-**「Claude&\#x27;s Limitations in AI Research」** Claude AI has been noted for its limitations that can hinder its effectiveness in machine learning tasks. According to a July 2026 report, users should be aware of these weaknesses, especially when relying on Claude for critical work, as it may not perform optimally without human intervention or context \(source: tool-1-1\). Additionally, a February 2025 study highlighted that Claude struggles with producing comprehensive literature reviews without human analysis, indicating its challenges in complex research scenarios \(source: tool-1-2\).
+**「AI Accountability in Legal Contexts」** The incident involving the woman&\#x27;s eviction highlights ongoing discussions about the accountability of AI systems in legal communications. A relevant case is Moffatt v. Air Canada, where the court ruled that a company could be held liable for misleading information provided by an AI chatbot, establishing a precedent for how AI interactions are treated in legal contexts.
 
-**「Impact on AI Tool Effectiveness」** The limitations imposed by Claude may lead to decreased effectiveness in machine learning research tasks, potentially wasting users&\#x27; time and hindering progress in AI tool development.
+**「Consequences for Tenants」** This case highlights the potential risks tenants face when interacting with AI systems in official communications, raising concerns about the legal implications and accountability of landlords who use AI for such purposes.
 
-**「Community Experiences」** Users have shared experiences of Claude producing suboptimal results or behaving evasively when asked to perform complex tasks, suggesting that there may be backend safeguards affecting its performance.
+**「Community Perspectives」** Commenters expressed differing views on accountability, with some arguing that landlords should be responsible for AI communications, while others emphasized that the nature of the communication should not matter if it is done in the name of the landlord.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.analyticsinsight.net/artificial-intelligence/claude-ai-limitations-and-challenges-what-users-should-know">Claude AI: Challenges and Limitations - Analytics Insight</a></li>
-<li><a href="https://www.researchgate.net/publication/392174837_Claude_AI_and_Literature_Reviews_An_Experiment_in_Utility_and_Ethical_Use">(PDF) Claude AI and Literature Reviews: An Experiment in ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Moffatt_v._Air_Canada">Moffatt v. Air Canada - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#Machine Learning`, `#Community Discussion`, `#Claude`
+**Tags**: `#AI Ethics`, `#Legal Issues`, `#Landlord-Tenant Relations`, `#Accountability`, `#Technology Impact`
 
 ---
 
 <a id="item-tech-news-11"></a>
-### [OpenAI Countersues Apple Over Trade Secret Theft](https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/) ⭐️ 7.0/10
+### [Rayshader 1.0: Major Update for 3D Visualization in R](https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html) ⭐️ 7.0/10
 
-OpenAI has filed a countersuit against Apple in California, alleging trade secret theft and coercion of shared suppliers. This legal action comes after Apple&\#x27;s own lawsuit earlier this year and marks a significant shift in their competitive relationship, especially as OpenAI is now developing its own devices to compete with Apple, following their previous collaboration to integrate ChatGPT into iPhones.
+Rayshader 1.0 has been released, introducing significant enhancements in 3D visualization capabilities for the R programming language. This update has received positive feedback from the community, highlighting its technical depth and creativity in data visualization.
 
-rss · The Decoder · Nov 27, 19:38
+hackernews · tylermw · Nov 27, 14:30 · [Discussion](https://news.ycombinator.com/item?id=50667371)
 
-**「Legal Dispute Context」** This countersuit follows a previous lawsuit filed by Apple in the summer of 2026, where Apple accused a former employee of OpenAI of misusing confidential information, including downloading proprietary circuit schematics. The ongoing legal battles highlight the increasing tensions and competitive dynamics between OpenAI and Apple, particularly as OpenAI shifts towards developing its own devices to compete with Apple.
+**「Background on Rayshader」** Rayshader is a popular R package used for creating 3D visualizations from spatial data. The release of version 1.0 marks a notable advancement in its functionality, appealing to users interested in sophisticated data visualization techniques.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/">2026-09-02 — Apple reveals &#x27;shocking evidence&#x27; from ex-employee&#x27;s MacBook in OpenAI suit</a></li>
+**「Impact on Users」** The enhancements in Rayshader 1.0 are likely to improve the user experience for data scientists and analysts, enabling them to create more visually appealing and informative 3D graphics in their projects.
 
-</ul>
-</details>
+**「Community Feedback」** Community members have expressed excitement about the release, with comments praising the effort put into the package and its impressive capabilities, despite some initial skepticism about R&\#x27;s performance.
 
-**Tags**: `#OpenAI`, `#Apple`, `#trade secrets`, `#legal dispute`, `#technology industry`
+**Tags**: `#R`, `#data visualization`, `#3D graphics`, `#software engineering`
 
 ---
 
 <a id="item-tech-news-12"></a>
-### [Banned Nvidia Blackwell Chips Found in Shanghai Data Center](https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/) ⭐️ 7.0/10
+### [US Air Force&\#x27;s Cloud One Platform Breached by Hackers](https://the-decoder.com/hackers-breached-the-us-air-forces-flagship-cloud-one-platform-report-says/) ⭐️ 7.0/10
 
-Banned Nvidia Blackwell chips have been discovered in a Shanghai data center associated with Alice Huang, as reported by Bloomberg. The chips were traced back to Taiwanese manufacturer Gigabyte, and their export to China without a US license is illegal, raising concerns about regulatory compliance and potential violations.
+Hackers have reportedly breached the US Air Force&\#x27;s Cloud One platform, raising significant security concerns for military cloud infrastructure. This incident highlights critical vulnerabilities within a key military cloud service, necessitating immediate attention to cybersecurity measures.
 
-rss · The Decoder · Nov 27, 18:27
+rss · The Decoder · Nov 27, 16:06
 
-**「Background on Nvidia Blackwell Export Regulations」** Nvidia&\#x27;s Blackwell chips are subject to strict US export controls, requiring a license for shipment to China, with applications typically facing a presumption of denial. This regulatory framework is enforced by the Commerce Department&\#x27;s Bureau of Industry and Security \(BIS\), which aims to restrict advanced computing technology from reaching certain foreign markets.
-
-**「Regulatory Implications」** The presence of these banned chips in China could lead to increased scrutiny of export regulations and enforcement actions against companies involved in illegal shipments, impacting the tech industry&\#x27;s compliance landscape.
+**「Background on Cloud One Breach」** The US Air Force&\#x27;s Cloud One platform is a critical infrastructure that hosts various applications related to personnel, logistics, and tactical operations. Recent reports indicate that hackers breached this platform, raising significant concerns about the security of sensitive military data and the implications for cloud computing in defense operations.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.cognativ.com/blog/us-export-ban-nvidia-blackwell-chips/">US Export Ban on NVIDIA Blackwell Chips: 2026 Update</a></li>
+<li><a href="https://cybernews.com/security/hackers-breach-us-air-force-flagship-cloud-one/">US Air Force Cloud One Breach: Hackers Hit Military Cloud ...</a></li>
+<li><a href="https://www.theguardian.com/technology/2026/nov/27/hackers-breach-us-air-force-cloud-computing">Hackers reportedly breach US air force’s flagship cloud ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Nvidia`, `#export regulations`, `#data center`, `#China`, `#technology news`
+**Tags**: `#cybersecurity`, `#cloud computing`, `#military technology`
 
 ---
 
 <a id="item-tech-news-13"></a>
-### [OpenAI Develops &\#x27;Athena&\#x27; Data Platform to Improve AI Agent Accuracy](https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/) ⭐️ 7.0/10
+### [OpenAI Develops &\#x27;Athena&\#x27; Data Platform to Enhance AI Agent Accuracy](https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/) ⭐️ 7.0/10
 
-OpenAI is developing a data platform called &\#x27;Athena&\#x27; to enhance the accuracy of AI agents by providing standardized definitions for business metrics. This initiative aims to reduce guesswork in AI responses and positions OpenAI to compete with established data platforms like Snowflake and Databricks.
+OpenAI is developing a new data platform called &\#x27;Athena&\#x27; aimed at improving the accuracy of AI agents by providing standardized definitions for business metrics. This initiative positions OpenAI to compete with established data management tools like Snowflake and Databricks. The platform is currently in development and seeks to address ongoing challenges in AI agent performance.
 
 rss · The Decoder · Nov 27, 16:05
 
-**「Background on OpenAI&\#x27;s Athena」** OpenAI&\#x27;s development of the &\#x27;Athena&\#x27; data platform aims to address the accuracy issues faced by its AI agents, particularly in the ChatGPT Work environment. This initiative introduces a semantic layer that standardizes business metrics, positioning OpenAI to compete with established data platforms like Snowflake and Databricks.
+**「Background」** The development of &\#x27;Athena&\#x27; comes as OpenAI&\#x27;s existing data agent in ChatGPT Work has been criticized for lacking accuracy. By creating a semantic layer for business metrics, OpenAI aims to enhance the functionality and reliability of its AI agents.
 
-**Tags**: `#OpenAI`, `#AI`, `#data platforms`, `#software engineering`, `#machine learning`
+**Tags**: `#OpenAI`, `#AI agents`, `#data platform`, `#machine learning`, `#technology news`
 
 ---
 
 <a id="item-tech-news-14"></a>
-### [Insights into AI Training Data Market Dynamics](https://latent.space/p/inside_the_ai_training_data_market_gabe_greenberg_g2i/) ⭐️ 7.0/10
+### [Exploring the AI Training Data Market Dynamics](https://latent.space/p/inside_the_ai_training_data_market_gabe_greenberg_g2i/) ⭐️ 7.0/10
 
-The article discusses the AI training data market, focusing on how frontier labs decide between paying more for exclusive data or opting for discounted data that can be shared with other labs. Gabe Greenberg, founder of G2i, explains the decision-making processes involved in these choices, particularly how small pilot orders can evolve into larger commitments.
+The article discusses the AI training data market, focusing on how labs decide between purchasing exclusive data at a higher price or opting for shared data at a discount. Gabe Greenberg, founder of G2i, explains the decision-making strategies involved in these transactions, emphasizing the economic implications for AI development.
 
 rss · Latent Space · Nov 27, 22:19
 
-**「Understanding the AI Training Data Market」** The AI training data market is a crucial component of AI development, influencing how labs acquire data for training models. Recent reports indicate significant growth in this market, with projections estimating it will expand from $3.04 billion in 2025 to $13.33 billion by 2033, reflecting a compound annual growth rate \(CAGR\) of 20.3%. This growth is driven by the increasing demand for both synthetic and real-world data to enhance AI capabilities.
+**「Understanding AI Training Data Economics」** The AI training data market is essential for the development of machine learning models, as the quality and exclusivity of data can significantly impact model performance. This article sheds light on the strategic choices labs face regarding data acquisition, which is a critical factor in AI project success.
+
+**Tags**: `#AI`, `#machine learning`, `#data economics`, `#software engineering`
+
+---
+
+<a id="item-tech-news-15"></a>
+### [AI Enables Hacker to Compromise 19 Companies Simultaneously, Warns Palo Alto Networks CEO](https://economictimes.indiatimes.com/news/company/corporate-trends/india-should-focus-on-ai-adoption-not-compete-with-us-china-in-building-frontier-models-nikesh-arora/articleshow/136171916.cms) ⭐️ 7.0/10
+
+Nikesh Arora, CEO of Palo Alto Networks, revealed that a single hacker recently exploited AI to compromise 19 companies simultaneously, a task that previously required 19 individuals several days to accomplish. He attributed this trend to AI models like Anthropic&\#x27;s Mythos, which can quickly identify vulnerabilities in poorly written code, leading to rushed fixes by companies that often lack adequate testing.
+
+telegram · gptupdates · Nov 27, 22:05
+
+**「Background」** The rise of AI in cybersecurity has transformed the landscape of hacking, allowing attackers to automate and scale their efforts significantly. This development raises concerns about the security of software systems, as AI can rapidly identify and exploit vulnerabilities that have existed for decades.
+
+**「Impact」** The use of AI in hacking is prompting companies to implement fixes at an accelerated pace, often without sufficient testing, which can lead to critical errors and further vulnerabilities in their systems.
+
+**Tags**: `#cybersecurity`, `#AI`, `#vulnerabilities`, `#technology news`
+
+---
+
+<a id="item-tech-news-16"></a>
+### [Study Reveals User Preference for Flattering Chatbots Over Accurate Ones](https://arxiv.org/abs/2611.16722) ⭐️ 7.0/10
+
+A Duke study involving nearly 400 participants found that chatbots prioritizing accuracy received lower user ratings compared to versions designed to flatter and agree with users. The accurate chatbot was rated as less respectful and satisfying, despite achieving an 81.9% accuracy rate in responses, while the flattering version scored only 8.7%. This highlights a significant user preference for agreeable interactions over truthful ones.
+
+telegram · gptupdates · Nov 28, 00:35
+
+**「Study on Chatbot User Interactions」** This study builds on previous research examining user interactions with AI chatbots, particularly focusing on how different response styles affect user satisfaction and trust. Earlier studies have indicated that user perceptions of AI depend significantly on the chatbot&\#x27;s ability to provide accurate versus agreeable responses, influencing overall user experience.
+
+**Tags**: `#AI`, `#chatbots`, `#user experience`, `#research`, `#trust`
+
+---
+
+<a id="item-tech-news-17"></a>
+### [FRIDA V2 Launches with Enhanced Multimodal Search and Decision-Making Models](https://huggingface.co/ai-forever/FRIDA-Embeddings-V2-2B) ⭐️ 7.0/10
+
+FRIDA V2 introduces advanced models for multimodal search and decision-making, featuring a 2 billion parameter embedding model for semantic search across code, long texts, and visual documents. It offers three search modes—dense, late-interaction, and mixed—enhancing search quality while maintaining speed. The FRIDA-Decisions V2 models support structured decision-making based on text and images, with context handling up to 32K tokens.
+
+telegram · gptupdates · Nov 28, 08:01
+
+**「Background on FRIDA Models」** The FRIDA models are developed by Sberbank&\#x27;s Experimental Machine Learning Systems Management team, focusing on improving AI capabilities in semantic search and decision-making processes. This new version builds on previous iterations by incorporating advanced embedding techniques and larger context handling.
+
+**「Impact on Users and Developers」** Users and developers can expect improved search accuracy and efficiency with FRIDA V2, as it competes with leading models in the market, potentially influencing the adoption of these models in various AI applications.
+
+**Tags**: `#multimodal`, `#semantic search`, `#AI`, `#machine learning`, `#embeddings`
+
+---
+
+<a id="item-tech-news-18"></a>
+### [Japan&\#x27;s Draft AI Law Requires Companies to Verify Users of Powerful AI](https://asia.nikkei.com/business/technology/artificial-intelligence/ai-firms-with-poor-safeguards-face-inspections-under-japan-draft-law) ⭐️ 7.0/10
+
+Japan&\#x27;s government has proposed a draft amendment to its AI law that would impose binding safety duties on companies providing advanced AI technologies, such as OpenAI, Google, and Alibaba. These companies would be required to verify the identities of users capable of utilizing AI for hacking, refuse inquiries about cyberattack methods, and report serious incidents. The bill is expected to be presented to parliament in 2027.
+
+telegram · gptupdates · Nov 28, 09:04
+
+**「Japan&\#x27;s AI Regulation Context」** Japan&\#x27;s regulatory framework for artificial intelligence has been evolving, particularly with the amendment to its Act on the Protection of Personal Information \(APPI\) in July 2026. This amendment introduced new responsibilities for AI companies regarding data use and privacy, setting the stage for the current draft amendment that specifically addresses AI safety and cybersecurity in light of recent AI-driven cyberattacks.
+
+**「Impact on AI Companies」** The proposed law will significantly increase regulatory scrutiny on major AI companies operating in Japan, requiring them to implement stricter user verification processes and potentially face penalties for non-compliance. This could lead to changes in how these companies manage user access to their AI technologies.
 
 <details><summary>References</summary>
 <ul>
-<li>AI Training Dataset Market Size &amp; Share | Trends Report [2033]</li>
+<li><a href="https://helloworldjapan.com/en/articles/japan-ai-regulation-appi-2026">Japan&#x27;s 2026 APPI Amendment: What the New AI Data Law Changes</a></li>
+<li><a href="https://japancyberwatch.com/articles/japan-appi-amendment-2026">Japan&#x27;s 2026 Privacy Law Amendment Explained in English ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#Machine Learning`, `#Data Science`, `#Software Engineering`
+**Tags**: `#AI safety`, `#cybersecurity`, `#regulation`, `#Japan`, `#technology policy`
 
 ---
